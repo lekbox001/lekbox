@@ -8,51 +8,31 @@ TV9,http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 华丽,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
 翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
 明珠台,https://cdn.hkdtmb.com/hls/84/index.m3u8
-全佳,http://198.16.106.62:8278/streams/d/Quanjia/playlist.m3u8
-天映电影,http://50.7.161.82:8277/streams/d/celestial_pye/playlist.m3u8
 Awani,http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
-Awani,https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
-Awani,https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream04/streamPlaylist.m3u8
 Ceria,http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
-Citra,http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 Oasis,http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 Prima,http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
 Shuang Xing,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-Vaanavil (576p),https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
-Vaanavil,https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
 Wah Lai Toi,http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
 Hua Hee Dai,http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
 Bernama TV,http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 Boo,http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-CinemaWorld (576p),http://210.210.155.35/uq2663/h/h04/index.m3u8
 HBO,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-Hello,https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 Maah TV,http://51.210.199.33/hls/stream.m3u8
 Naura (576p),http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
-NTV 7,http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
 TV Alhijrah,http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
-TV Ikim (360p),http://edge.vediostream.com/abr/tvikim/live/tvikim_360p/playlist.m3u8
-TV Ikim (480p),http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
 TV Ikim (1080p),http://edge.vediostream.com/abr/tvikim/live/tvikim_source/playlist.m3u8
-TVS (576p),https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
-CNA (576p),http://210.210.155.35/uq2663/h/h29/index.m3u8
-CNA (1080p),https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_2.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-CNA (1080p) [Geo-blocked],https://i.mjh.nz/au/Sydney/tv.cna.m3u8
-天映频道,p8p://0198.02686.cc:16871/5ecfb28400055004967ec4954fccfd7f.ts
 欢喜台,p8p://0198.02686.cc:16871/5ecfb90800040601969837e0aa1efa5c.ts
 爱奇艺,p8p://0198.02686.cc:16871/5f38d81300083da4468539a0eb8d0c0a.ts
 双星,p8p://0198.02686.cc:16871/5f38d8fd000caa6e4688ccd211ea705f.ts
 AEC,p8p://0198.02686.cc:16871/5ebce360000578b04d059fff4c2e3e3b.ts
 AOD,p8p://0198.02686.cc:16871/5f2c09ae00029cc4147efda7dcc27dfc.ts
-妙米,https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
 Ria HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6730
 Warna HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6740
 Citra HD (subtitle),http://iptv.tvmalaysia.cc:80/penang172/penang172/7267
 Ceria HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6715
 Al-Jazzera HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6694
-Animax,http://iptv.tvmalaysia.cc:80/penang172/penang172/6696
 Vaanavil HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6738
 TV 1,http://iptv.tvmalaysia.cc:80/penang172/penang172/7177
 TV 3 HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/8750
@@ -72,10 +52,7 @@ Arena HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6707
 FOX Sports HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6793
 FOX Sports 2 HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6791
 FOX Sports 3 HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6792
-DSTV: SuperSport Premier League,http://iptv.tvmalaysia.cc:80/penang172/penang172/6574
 AOD,p8p://0198.02686.cc:16871/5f2c09ae00029cc4147efda7dcc27dfc.ts
-AOD(b),mitv://198.255.74.56:12296/5f62524f00095e66175f611acb7ea2b4.ts
-翡翠台,p8p://0198.02686.cc:16871/5ecfb36000001d6396821ea0563496d9.ts
 双星1,p8p://0198.02686.cc:16871/5f34c7a80001412a36a515dec131429c.ts
 双星2,p8p://0198.02686.cc:16871/5f38d8fd000caa6e4688ccd211ea705f.ts
 欢喜台,p8p://0198.02686.cc:16871/5ecfb90800040601969837e0aa1efa5c.ts
@@ -822,6 +799,30 @@ Vati Lao TV,https://livefta.malimarcdn.com/ftaedge00/vatilaotv.stream/playlist.m
 VITV,http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 Việt Mỹ TV (480p),http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
 $c_startMOVIE$c_end
+4K超清,http://39.134.135.81:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
+淘娱乐,http://39.135.238.69:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
+淘电影,http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
+淘BABY,http://39.134.134.88:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8
+萌宠TV,http://39.135.238.61:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
+大健康,http://39.135.238.67:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226556/1.m3u8
+3+频道,http://39.134.39.37/PLTV/88888888/224/3221226265/index.m3u8
+6+频道,http://39.134.39.37/PLTV/88888888/224/3221226269/index.m3u8
+8+频道,http://39.134.39.37/PLTV/88888888/224/3221226271/index.m3u8
+法治频道,http://39.134.39.37/PLTV/88888888/224/3221226258/index.m3u8
+谍战剧场,http://39.134.39.37/PLTV/88888888/224/3221226256/index.m3u8
+相声小品,http://39.134.39.37/PLTV/88888888/224/3221226260/index.m3u8
+动漫秀场,http://39.134.39.39/PLTV/88888888/224/3221226197/index.m3u8
+极速汽车,http://39.134.39.39/PLTV/88888888/224/3221226195/index.m3u8
+极速赛车,http://39.134.39.39/PLTV/88888888/224/3221226310/index.m3u8
+欢笑剧场,http://39.134.39.39/PLTV/88888888/224/3221226203/index.m3u8
+都市剧场,http://39.134.39.39/PLTV/88888888/224/3221226176/index.m3u8
+高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+星光影视,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+绍兴影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+凤凰电影,rtmp://58.200.131.2:1935/livetv/fhdy
 The Thousand Faces of Dunjia (2017),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/325.mp4
 Project Power (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/327.mp4
 The New Mutants (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/328.mp4

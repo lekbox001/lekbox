@@ -602,14 +602,33 @@ Vanphenh TV,https://livefta.malimarcdn.com/ftaedge00/vanphenhtv.sdp/playlist.m3u
 Vati Lao TV,https://livefta.malimarcdn.com/ftaedge00/vatilaotv.stream/playlist.m3u8
 VITV,http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 Việt Mỹ TV (480p),http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
-MOVIE,#genre#
-4K超清,http://39.134.135.81:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
-淘娱乐,http://39.135.238.69:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
+FILM,#genre#
+至尊先生之金蝉蛊,https://vod.bunediy.com/20210627/TUcESoa5/index.m3u8
+黑白魔女库伊拉,https://vod.bunediy.com/20210529/oVwbZwt2/index.m3u8
+老潘的归途,https://vod.bunediy.com/20210328/getiY7Gi/index.m3u8
+茅山大师,https://vod.bunediy.com/20210408/hHDguejN/index.m3u8
+马影院-科幻动作 恐怖搞笑,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+超级电影,http://39.134.65.208/PLTV/88888888/224/3221225644/index.m3u8
+恐怖片,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/999879/live_6799268_5326808.m3u8
+猫和老鼠,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/688999/live_8244646_5219019.m3u8
+猫和老鼠2,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/377372/live_2370062_9705826.m3u8
+金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+元芳你怎么看,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351755386
+神雕侠侣倚天屠龙,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351762426
+古惑仔片,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1352469735
+盗墓玄幻-24h,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1352875014
+林正英鬼片500部,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353059120
+海量电影全天候,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353074059
+甄子丹系列超清,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353314294
+虐心情感剧,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353455515
+电影-鬼片 女鬼来了,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=22006255
+微笑百事达+恶作剧之吻	,http://blanki.cf/api/bili.php?id=15083950
+恶作剧之吻1-2部	,http://blanki.cf/api/bili.php?id=21298611
+主粤语,http://blanki.cf/api/bili.php?id=21515763
 淘电影,http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 淘BABY,http://39.134.134.88:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8
 萌宠TV,http://39.135.238.61:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
 大健康,http://39.135.238.67:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226556/1.m3u8
-3+频道,http://39.134.39.37/PLTV/88888888/224/3221226265/index.m3u8
 6+频道,http://39.134.39.37/PLTV/88888888/224/3221226269/index.m3u8
 8+频道,http://39.134.39.37/PLTV/88888888/224/3221226271/index.m3u8
 法治频道,http://39.134.39.37/PLTV/88888888/224/3221226258/index.m3u8
@@ -625,8 +644,8 @@ MOVIE,#genre#
 动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 星光影视,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-绍兴影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 凤凰电影,rtmp://58.200.131.2:1935/livetv/fhdy
+MOVIE,#genre#
 The Thousand Faces of Dunjia (2017),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/325.mp4
 Project Power (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/327.mp4
 The New Mutants (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/328.mp4
@@ -782,14 +801,12 @@ The Ten Commandments (2007),http://iptv.tvmalaysia.cc:80/movie/penang172/penang1
 Veer-Zaara (2004),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7317.mp4
 Weathering with You (2019),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7323.mp4
 Wreck-It Ralph (2012),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7327.mp4
-变形金刚5,https://b2.szjal.cn/ppvod/290DB421BC656FDBB265B09EADA29478.m3u8
 无限2021,https://vod.bunediy.com/20210611/M3vrMbYw/index.m3u8
 偷天侠盗团,https://vod.bunediy.com/20210610/AC0zFCUv/index.m3u8
 射雕英雄传之降龙十八掌,https://vod.bunediy.com/20210613/1B56ypNR/index.m3u8
 狄仁杰之伏妖篇,https://vod.bunediy.com/20210615/2dMO1QWm/index.m3u8
 招魂3,https://vod.bunediy.com/20210604/QMhOSfp2/index.m3u8
 极地反击,https://vod.bunediy.com/20210604/yCxhkxv0/index.m3u8
-特工追缉令,https://vod4.buycar5.cn/20210425/Orhj9BSU/1000kb/hls/index.m3u8
 滑板女孩,https://vod.bunediy.com/20210611/Zp9U6M3c/index.m3u8
 锦鼠御猫之九幽血狼,https://cdn.605-zy.com/ppvod/014B36322FB1BFCEF4A2558A247B6096.m3u8
 猛鬼实验室,https://vod.bunediy.com/20210527/SedKmtZ5/index.m3u8
@@ -807,41 +824,3 @@ Wreck-It Ralph (2012),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/732
 天际浩劫3,https://v5.szjal.cn/20201219/jqJnXDvU/index.m3u8
 人之怒,https://vod.bunediy.com/20210525/OF39UXjP/index.m3u8
 冰路营救2021,https://vod.bunediy.com/20210626/fJNZISq9/index.m3u8
-至尊先生之金蝉蛊,https://vod.bunediy.com/20210627/TUcESoa5/index.m3u8
-黑白魔女库伊拉,https://vod.bunediy.com/20210529/oVwbZwt2/index.m3u8
-老潘的归途,https://vod.bunediy.com/20210328/getiY7Gi/index.m3u8
-茅山大师,https://vod.bunediy.com/20210408/hHDguejN/index.m3u8
-马影院-科幻动作 恐怖搞笑,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-话修仙 科幻怪兽,http://hpull.kktv8.com/livekktv/143960119/playlist.m3u8
-女神影院,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
-超级电影,http://39.134.65.208/PLTV/88888888/224/3221225644/index.m3u8
-恐怖片,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/999879/live_6799268_5326808.m3u8
-猫和老鼠,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/688999/live_8244646_5219019.m3u8
-猫和老鼠2,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/377372/live_2370062_9705826.m3u8
-金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-欧美电影狙击动作,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1331053117
-(新版)神雕侠侣,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1332436132
-24H怀旧剧场,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1350562684
-林正英搞笑僵尸,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351505899
-元芳你怎么看,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351755386
-神雕侠侣倚天屠龙,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351762426
-天龙倚天笑傲,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351814644
-燕双鹰专场,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1352227153
-香港经典搞笑鬼片,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1352227227
-无法超越的经典,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1352356194
-古惑仔片,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1352469735
-赌片赌片赌片赌赌赌,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1352487950
-盗墓玄幻-24h,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1352875014
-新主播,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1352904942
-林正英鬼片500部,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353059120
-海量电影全天候,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353074059
-甄子丹系列超清,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353314294
-虐心情感剧,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353455515
-妞妞陪你看鬼片,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353507954
-武侠片,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353587611
-电影-鬼片 女鬼来了,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=22006255
-微笑百事达+恶作剧之吻	,http://blanki.cf/api/bili.php?id=15083950
-恶作剧之吻1-2部	,http://blanki.cf/api/bili.php?id=21298611
-主粤语,http://blanki.cf/api/bili.php?id=21515763
-我和僵尸有个约会三部曲(粤语)	,http://blanki.cf/api/bili.php?id=428247
-动作悬疑鬼片,http://blanki.cf/api/bili.php?id=6837959

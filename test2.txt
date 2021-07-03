@@ -279,6 +279,9 @@ TVBS精采台,tvbus://7iAPforjP4iJd3SRXV4mxgici7b9CFEN3W97KwJuapBdDe8oy7
 三立台湾台 b,tvbus://7B1vDyun1XjzL82YVyc6zDLRV37qLHArM4uEWj8zRK4nApu7V7 
 三立都會台,tvbus://5eQroiSHYbP571m8HFv6R5vjDGFaQn75vPvEfeW3XHZg8JhcZLV4qsWTjmqpY
 三立都會台 b,tvbus://7e1FvQgF2JgVdRCdBPXzmLJUFK52FNtp78TyiVFyT7TpN2yvXp 
+三立综合台2,http://198.16.106.62:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
+三立台湾台2,http://198.16.106.62:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
+三立都会台2,p2p://fccseuro.pvbox.live:18912/5c2dd74e0008135f19666442e08f8a73.ts#p2p://fccsovh.pvbox.live:18912/5b14098f000d8c65aa7714d393792210.ts#p2p://fccseuro.pvbox.live:18912/5c72486f0000d4e31d5277b7483f11e3.ts#p2p://fccsovh.pvbox.live:18912/5c2dd74e0008135f19666442e08f8a73.ts
 三立iNEWS,tvbus://5ZbnUfiKH4jFZ7uQoMMgk9o7GWhD8MZJa6ZM1cypdSZQFeYhLmRkU1NhreVFL
 三立iNEWS b,tvbus://7vrngitcWdRhRaWE5NSqqbC85RP52aPx4e2D9iLv1yE2Y8zSZo
 東森新聞,tvbus://5SiRxAgocLNdjGDhS3QsJVs8oKjwsDjHZBzVggh3Swv1AAoPzq6oDfa2ZMcDk
@@ -995,162 +998,145 @@ J SPORTS 4,tvbus://5xJS5QV17qfubUQRDmcme8wzU8EAigZtZeFsDgxcMKwxDVSztergMkL7PwGxz
 テレビ朝日,tvbus://6fBCXJuiiC8eX12Tx81AYnpHekbnKU9RPwGb1ScqDD45jHjxqyoVT3Gkuukvr
 スカイA,tvbus://5mVSNMW8UQo2fQnofGoyfiroTmxJRYGtrgzzuZgJTgXg71EYtVWktKJzSUZY9
 ABC朝日放送,tvbus://5Ln6bQ7GAj9GXZMdcZCTy2tHZL1rJpuARqbDK2NEcwA31oxwYME2btdbEGWCs
+Filma,#genre#
+淘电影[高清],http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
+周星驰,http://auney.gearhostpreview.com/huya.php?id=11342412
+林正英,http://auney.gearhostpreview.com/huya.php?id=11342421
+成龙,http://auney.gearhostpreview.com/huya.php?id=11342386
+李连杰,http://auney.gearhostpreview.com/huya.php?id=11342390
+赌片,http://auney.gearhostpreview.com/huya.php?id=11342399
+黑帮,http://auney.gearhostpreview.com/huya.php?id=11336719
+吴京,http://auney.gearhostpreview.com/huya.php?id=11602045
+科幻动作,http://auney.gearhostpreview.com/huya.php?id=11352964
+国产喜剧,http://auney.gearhostpreview.com/huya.php?id=11602044
+丧尸,http://auney.gearhostpreview.com/huya.php?id=11352962
+五福星,http://auney.gearhostpreview.com/huya.php?id=11282233
+甄子丹,http://auney.gearhostpreview.com/huya.php?id=11352935
+卧底警匪,http://auney.gearhostpreview.com/huya.php?id=11352886
+周润发,http://auney.gearhostpreview.com/huya.php?id=11342387
+变形金刚,http://auney.gearhostpreview.com/huya.php?id=11342433
+沈腾,http://auney.gearhostpreview.com/huya.php?id=11601968
+盗墓系列,http://auney.gearhostpreview.com/huya.php?id=11352913
+洪金宝,http://auney.gearhostpreview.com/huya.php?id=11342427
+灾难电影,http://auney.gearhostpreview.com/huya.php?id=11352871
+终结者电影,http://auney.gearhostpreview.com/huya.php?id=11352979
+徐峥,http://auney.gearhostpreview.com/huya.php?id=11602043
+漫威,http://auney.gearhostpreview.com/huya.php?id=11602075
+刘德华,http://auney.gearhostpreview.com/huya.php?id=11342424
+韩国犯罪动作,http://auney.gearhostpreview.com/huya.php?id=11601956
+速度与激情,http://auney.gearhostpreview.com/huya.php?id=11352949
+香港恐怖,http://auney.gearhostpreview.com/huya.php?id=11601960
+异性怪物,http://auney.gearhostpreview.com/huya.php?id=11352938
+历年贺岁档,http://auney.gearhostpreview.com/huya.php?id=11601986
+杰森斯坦森,http://auney.gearhostpreview.com/huya.php?id=11336572
+港产搞笑,http://auney.gearhostpreview.com/huya.php?id=11342423
+复仇者联盟,http://auney.gearhostpreview.com/huya.php?id=11602041
+惊悚,http://auney.gearhostpreview.com/huya.php?id=11342432
+黑帮电影,http://auney.gearhostpreview.com/huya.php?id=11342419
+史诗战争,http://auney.gearhostpreview.com/huya.php?id=11342435
+丧尸2,http://auney.gearhostpreview.com/huya.php?id=11342422
+粤语港片,http://auney.gearhostpreview.com/huya.php?id=11352894
+钢铁侠,http://auney.gearhostpreview.com/huya.php?id=11602034
+机甲电影,http://auney.gearhostpreview.com/huya.php?id=11352876
+猎奇电影,http://auney.gearhostpreview.com/huya.php?id=11601970
+韩国电影,http://auney.gearhostpreview.com/huya.php?id=11352880
+欧美特工,http://auney.gearhostpreview.com/huya.php?id=11602069
+加勒比海盗,http://auney.gearhostpreview.com/huya.php?id=11602046
+指环王,http://auney.gearhostpreview.com/huya.php?id=11352916
+哈利波特,http://auney.gearhostpreview.com/huya.php?id=11352906
+电锯惊魂,http://auney.gearhostpreview.com/huya.php?id=11342437
+最佳拍档,http://auney.gearhostpreview.com/huya.php?id=11342397
+金庸电影,http://auney.gearhostpreview.com/huya.php?id=11352897
+热血高校,http://auney.gearhostpreview.com/huya.php?id=11342402
+许氏电影,http://auney.gearhostpreview.com/huya.php?id=11602033
+第一滴血,http://auney.gearhostpreview.com/huya.php?id=11352934
+小丑电影,http://auney.gearhostpreview.com/huya.php?id=11352941
+外国电影,http://auney.gearhostpreview.com/huya.php?id=11342428
+游戏改编电影,http://auney.gearhostpreview.com/huya.php?id=10871113
+奥斯卡提名,http://auney.gearhostpreview.com/huya.php?id=11352969
+黑夜传说,http://auney.gearhostpreview.com/huya.php?id=11352881
+开心鬼,http://auney.gearhostpreview.com/huya.php?id=11342388
+香港霸王花,http://auney.gearhostpreview.com/huya.php?id=11352909
+爱情公寓,http://auney.gearhostpreview.com/huya.php?id=11336726
+武林外传,http://auney.gearhostpreview.com/huya.php?id=11352915
+插翅难逃,http://auney.gearhostpreview.com/huya.php?id=11352940
+神探狄仁杰,http://auney.gearhostpreview.com/huya.php?id=11352958
+家有儿女,http://auney.gearhostpreview.com/huya.php?id=11352872
+少年包青天,http://auney.gearhostpreview.com/huya.php?id=11342393
+好先生,http://auney.gearhostpreview.com/huya.php?id=11352973
+火蓝刀锋,http://auney.gearhostpreview.com/huya.php?id=11336592
+知否知否,http://auney.gearhostpreview.com/huya.php?id=11602068
+士兵突击,http://auney.gearhostpreview.com/huya.php?id=11342430
+搞笑一家人,http://auney.gearhostpreview.com/huya.php?id=11601978
+少帅,http://auney.gearhostpreview.com/huya.php?id=11342414
+生活大爆炸,http://auney.gearhostpreview.com/huya.php?id=11352959
+卫国无敌,http://auney.gearhostpreview.com/huya.php?id=11336578
+大宅门,http://auney.gearhostpreview.com/huya.php?id=11601982
+鹿鼎记陈小春,http://auney.gearhostpreview.com/huya.php?id=11352910
+炊事班的故事,http://auney.gearhostpreview.com/huya.php?id=11352895
+齐天大圣孙悟空,http://auney.gearhostpreview.com/huya.php?id=11342395
+正阳门下,http://auney.gearhostpreview.com/huya.php?id=11352965
+命案十三宗,http://auney.gearhostpreview.com/huya.php?id=11601981
+永不磨灭的番号,http://auney.gearhostpreview.com/huya.php?id=11352875
+倚天屠龙记,http://auney.gearhostpreview.com/huya.php?id=11342403
+我和僵尸有个约会,http://auney.gearhostpreview.com/huya.php?id=11352948
+三生三世,http://auney.gearhostpreview.com/huya.php?id=11602085
+龙门镖局,http://auney.gearhostpreview.com/huya.php?id=11352874
+老九门,http://auney.gearhostpreview.com/huya.php?id=11352887
+潜伏,http://auney.gearhostpreview.com/huya.php?id=11601958
+屌丝男士,http://auney.gearhostpreview.com/huya.php?id=11342420
+西游记,http://auney.gearhostpreview.com/huya.php?id=11602031
+民兵葛二蛋,http://auney.gearhostpreview.com/huya.php?id=11602072
+大染坊,http://auney.gearhostpreview.com/huya.php?id=11352905
+芈月传,http://auney.gearhostpreview.com/huya.php?id=11352918
+伪装者,http://auney.gearhostpreview.com/huya.php?id=11602086
+我的兄弟叫顺溜,http://auney.gearhostpreview.com/huya.php?id=11601957
+还珠格格,http://auney.gearhostpreview.com/huya.php?id=11342415
+天龙八部胡军,http://auney.gearhostpreview.com/huya.php?id=11602036
+新倚天屠龙记,http://auney.gearhostpreview.com/huya.php?id=11602067
+韩剧剧场,http://auney.gearhostpreview.com/huya.php?id=11352904
+欢乐颂,http://auney.gearhostpreview.com/huya.php?id=11601979
+法证先锋,http://auney.gearhostpreview.com/huya.php?id=11342398
+神话,http://auney.gearhostpreview.com/huya.php?id=11602074
+医馆笑传,http://auney.gearhostpreview.com/huya.php?id=11352891
+情满四合院,http://auney.gearhostpreview.com/huya.php?id=11342426
+父母爱情,http://auney.gearhostpreview.com/huya.php?id=11352920
+毛骗,http://auney.gearhostpreview.com/huya.php?id=11352912
+都挺好,http://auney.gearhostpreview.com/huya.php?id=11602084
+老友记,http://auney.gearhostpreview.com/huya.php?id=11352945
+香蜜沉沉,http://auney.gearhostpreview.com/huya.php?id=11352892
+我的团长我的团,http://auney.gearhostpreview.com/huya.php?id=11342416
+大宋提刑官,http://auney.gearhostpreview.com/huya.php?id=11279251
+爱死亡机器人,http://auney.gearhostpreview.com/huya.php?id=11601964
+魔幻手机,http://auney.gearhostpreview.com/huya.php?id=11602065
+行尸走肉,http://auney.gearhostpreview.com/huya.php?id=11352963
+旋风十一人,http://auney.gearhostpreview.com/huya.php?id=11342400
+猪八戒系列,http://auney.gearhostpreview.com/huya.php?id=11352877
+犬夜叉,http://auney.gearhostpreview.com/huya.php?id=11352893
+王子变青蛙,http://auney.gearhostpreview.com/huya.php?id=11352960
+我的前半生,http://auney.gearhostpreview.com/huya.php?id=11601971
+新神雕侠侣古天乐,http://auney.gearhostpreview.com/huya.php?id=11352878
+我们结婚吧,http://auney.gearhostpreview.com/huya.php?id=11342394
+极品家丁,http://auney.gearhostpreview.com/huya.php?id=11352884
+血色浪漫,http://auney.gearhostpreview.com/huya.php?id=11602055
+花千骨,http://auney.gearhostpreview.com/huya.php?id=11602058
+聊斋志异,http://auney.gearhostpreview.com/huya.php?id=11602054
+高分韩剧,http://auney.gearhostpreview.com/huya.php?id=11352903
+射雕英雄传朱茵,http://auney.gearhostpreview.com/huya.php?id=11342438
+欢喜密探,http://auney.gearhostpreview.com/huya.php?id=11336590
+黑洞,http://auney.gearhostpreview.com/huya.php?id=11602088
+韩剧探案,http://auney.gearhostpreview.com/huya.php?id=11336725
+我非英雄,http://auney.gearhostpreview.com/huya.php?id=19524135
+勇敢的心,http://auney.gearhostpreview.com/huya.php?id=11602037
+极限男人帮,http://auney.gearhostpreview.com/huya.php?id=11352914
+奔跑吧兄弟,http://auney.gearhostpreview.com/huya.php?id=11601972
+向往的生活,http://auney.gearhostpreview.com/huya.php?id=11342436
+Running Man,http://auney.gearhostpreview.com/huya.php?id=11352883
+明星大侦探,http://auney.gearhostpreview.com/huya.php?id=11336579
+相声小品,http://auney.gearhostpreview.com/huya.php?id=11336593
+王牌对王牌,http://auney.gearhostpreview.com/huya.php?id=11601961
+黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225667/index.m3u8
 MOVIE,#genre#
-The Thousand Faces of Dunjia (2017),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/325.mp4
-Project Power (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/327.mp4
-The New Mutants (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/328.mp4
-Chalte Chalte (2018),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/329.mp4
-Neighbors 2: Sorority Rising (2016),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/330.mp4
-Manap Karaoke (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/331.mp4
-Man santan ( 2020 ),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/337.mp4
--Malay Audio- The SpongeBob Movie: Sponge on the Run (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/338.mp4
-Bigfoot Family (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/339.mp4
-Death of Me (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/340.mp4
-Drag Me to Hell (2009),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/341.mp4
-Flypaper (2011),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/342.mp4
-Meet Joe Black (1998),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/343.mp4
-Pet (2016),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/344.mp4
-Seized (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/345.mp4
-Unhinged (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/346.mp4
-Aku Kaya The Movie (2003),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/423.mp4
-Code of Thieves (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/425.mp4
-Cun! (2011),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/426.mp4
-Raatchasi (2019),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6564.mp4
-Bhoothnath (2008),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6567.mp4
-Bhoothnath Returns (2014),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6568.mp4
-Triggered (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6643.mp4
-Antidote (2018),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6644.mp4
-Clouds (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6645.mp4
-Cuties (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6646.mp4
-Holidate (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6647.mp4
-Phineas and Ferb The Movie: Candace Against the Universe (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6648.mp4
-Possessor Uncut (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6649.mp4
-Ravers (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6650.mp4
-Rebecca (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6651.mp4
-Relic (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6652.mp4
-Rogue City (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6653.mp4
-Sputnik (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6654.mp4
-The Call (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6655.mp4
-Words on Bathroom Walls (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6656.mp4
-A Babysitter's Guide to Monster Hunting (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6664.mp4
-A Night of Horror: Nightmare Radio (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6665.mp4
-Ben 10 Versus the Universe: The Movie (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6666.mkv
-BLACKPINK: Light Up the Sky (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6667.mp4
-Broil (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6668.mp4
-Clownery (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6669.mp4
-Come Away (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6670.mp4
-Cut Throat City (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6671.mp4
-Fishbowl (2018),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6672.mp4
-Ginny Weds Sunny (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6673.mp4
-Kick (2014),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6675.mp4
-Love and Monsters (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6676.mp4
-Nobody Sleeps in the Woods Tonight (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6677.mp4
-Nocturne (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6678.mp4
-Over the Moon (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6679.mp4
-Pasal Kau!,http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6681.mkv
-Psy 3: W imię zasad (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6682.mp4
-Robert the Bruce (2019),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6683.mp4
-Save Yourselves! (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6684.mp4
-The Mortuary Collection (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6685.mp4
-The Other Side of Hope (2017),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6686.mp4
-The Secrets We Keep (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6687.mp4
-The Trial of the Chicago 7 (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6688.mp4
-The Wolf of Snow Hollow (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6689.mp4
-Villain (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6690.mp4
-Gemerlapan (1997),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6980.mp4
-Hilang Akal (2018),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6981.mp4
-Hingga Hujung Nyawa (2004),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6982.mp4
-Mon dan Jin Pakai Toncit (2013),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6983.mp4
-Isteriku CEO ( 2018 ),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6984.mp4
-Jebat (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6985.mkv
-Jejaka Terhangat (2015),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6986.mp4
-Kalut Nak Raya (2017),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6987.mp4
-7 Perhentian (2004),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6988.mp4
-15 Puasa (2004),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6989.mp4
-16 Puasa (2017),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6990.mp4
-17 Puasa (2019),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6991.mp4
-Anak Perjanjian Syaitan (2019),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6993.mkv
-Baik Punya Cilok (2005),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6994.mp4
-Banglasia 2.0 (2019),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6995.mp4
-Biar Betul (2004),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6996.mp4
-Budok Kuba (2019),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6999.mp4
-Cinta Paling Agung (2015),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7000.mkv
-Cuci (2009),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7001.mp4
-Gadoh (2009),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7003.mp4
-Kimchi Untuk Awak (2017),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7004.mp4
-Magika (2010),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7005.mp4
-Paku Pontianak (2013),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7007.mp4
-Pisau Cukur (2009),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7008.mp4
-Putera (1994),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7009.mp4
-Saka Zain Jusoh (2019),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7010.mp4
-Sayang Suria (2015),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7011.mp4
-Sekali Lagi (2011),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7012.mp4
-Simfoni Duniaku (1994),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7013.mp4
-Sinaran (2015),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7014.mp4
-Surga Yang Tak Dirindukan 2 (2017),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7015.mp4
-Tempatkan Dia Di Syurga ( 2010 ),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7016.mp4
-V3: Samseng Jalanan (2010),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7017.mp4
-Fatman (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7018.mp4
-Kelaster (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7020.mkv
-Run (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7021.mp4
-The Last Warrior (2017),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7023.mp4
-Doraemon: Nobita and the Winged Braves (2001),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7025.mp4
-Doraemon The Movie - Nobita Dan Kerajaan Robot,http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7026.mp4
-Doraemon: Nobita and the Windmasters (2003),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7027.mp4
-Doraemon: Nobita in the Wan-Nyan Spacetime Odyssey (2004),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7085.mp4
-Doraemon: Nobita's Dinosaur (2006),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7086.mp4
-Doraemon: Nobita The Great New Adventure Into The Underworld,http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7087.mp4
-Doraemon: Nobita and the Steel Troops (1986),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7088.mp4
-Doraemon: Nobita and the Island of Miracles ~Animal Adventure~ (2012),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7089.mp4
-Mama Tak Akan Sama,http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7090.mp4
-Bini Aku Dari Neraka Raya (2018),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7093.mp4
-Bukan Cerita Cinta Kita (2018),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7094.mp4
-Cinta Sticky Note (2018),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7095.mp4
-Cruise Cinta (2018),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7096.mp4
-Hantu Rumah Sakit Jiwa (2018),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7097.mp4
-Iman Ke Syurga (2018),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7099.mp4
-Istanbul Aku Datang! (2012),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7100.mp4
-Kerantung (2018),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7101.mp4
-Khalifahkan Aku,http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7102.mp4
-KL Special Force (2018),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7103.mp4
-Lamaran Perfect (2018),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7104.mp4
-PONTIANAK DAN DOT DOT (2016),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7110.mp4
-Alien Invasion (2018),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7119.mp4
-Cagefighter: Worlds Collide (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7122.mp4
-Don't Listen (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7125.mp4
-Freaky (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7127.mp4
-Hachi: A Dog's Tale (2009),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7128.mp4
-Jingle Jangle: A Christmas Journey (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7131.mp4
-Inc. (2001),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7134.mp4
-Munich (2005),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7135.mp4
-Upin & Ipin: Keris Siamang Tunggal (2019),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7141.mkv
-Active Shooter (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7268.mp4
-Black Beauty (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7270.mp4
-Chick Fight (2021),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7271.mp4
-Come Play (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7272.mp4
-It Cuts Deep (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7273.mp4
-A Deadly Place (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7274.mp4
-Echo Boomers (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7275.mp4
-Jiu Jitsu (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7276.mp4
-Last Three Days (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7277.mp4
-Loco (2020),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7278.mp4
-Pahuna: The Little Visitors (2017),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7279.mp4
-Playhouse (2021),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7280.mp4
-The Box (2009),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7281.mp4
-The Boy in the Striped Pyjamas (2008),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7282.mp4
-Transcendence (2014),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7298.mp4
-Turbo (2013),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7299.mp4
-What Happened to Mr Cha? (2021),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7301.mp4
-Dalil Cinta ( 2010 ),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7002.mp4
-Laskar Pelangi 2: Edensor (2013),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7105.mp4
-10 Tips Tipu Bini (2021),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7308.mkv
-Zack Snyder's Justice League (2021),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7309.mp4
-PK (2014),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7310.mp4
-The BFG (2016),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7311.mp4
-The Ten Commandments (2007),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7312.mp4
-Veer-Zaara (2004),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7317.mp4
-Weathering with You (2019),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7323.mp4
-Wreck-It Ralph (2012),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7327.mp4
 无限2021,https://vod.bunediy.com/20210611/M3vrMbYw/index.m3u8
 偷天侠盗团,https://vod.bunediy.com/20210610/AC0zFCUv/index.m3u8
 射雕英雄传之降龙十八掌,https://vod.bunediy.com/20210613/1B56ypNR/index.m3u8
@@ -1174,9 +1160,9 @@ Wreck-It Ralph (2012),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/732
 天际浩劫3,https://v5.szjal.cn/20201219/jqJnXDvU/index.m3u8
 人之怒,https://vod.bunediy.com/20210525/OF39UXjP/index.m3u8
 冰路营救2021,https://vod.bunediy.com/20210626/fJNZISq9/index.m3u8
-Action,#genre#
 鲨鱼:起点2021,https://vod.bunediy.com/20210629/0dNbrFMG/index.m3u8
 Those Who Wish Me Dead2021,https://vod.bunediy.com/20210516/AbSAaINO/index.m3u8
+Action,#genre#
 1.Vanquish (2021),https://cdn3ii.diebutx.com/own2hls/2020/7f50438d6f69f10b7a8dae9fa285befb/540p/index.m3u8
 4.The Marksman (2021),https://cdn2ii.diebutx.com/own2hls/2020/2bcc3d4ba624b78ee5efbdf192445b35/540p/index.m3u8
 5.Lazarus (2021),https://cdn2ii.diebutx.com/own2hls/2020/09c083af59d53871ecc6daa8c015a641/540p/index.m3u8

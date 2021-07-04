@@ -1180,7 +1180,6 @@ Running Man,http://auney.gearhostpreview.com/huya.php?id=11352883
 恐怖片,#genre#
 粽邪,https://v4.szjal.cn/20200801/chJ2qOYQ/1000kb/hls/index.m3u8
 粽邪2,https://v3.dious.cc/20201231/ATOfMqkY/1000kb/hls/index.m3u8
-尸忆,https://v4.dious.cc/20210225/ll6Yp9Ns/1000kb/hls/index.m3u8?_t=1624692295987
 红衣小女孩外传,https://vod2.buycar5.cn/20200911/d8OCUkLG/1000kb/hls/index.m3u8
 电锯惊魂9,https://vod.bunediy.com/20210601/NjifTcC3/index.m3u8
 猛鬼实验室,https://vod.bunediy.com/20210527/SedKmtZ5/index.m3u8

@@ -1024,13 +1024,9 @@ $c_start战争片$c_end
 夺宝奇局,https://vod.bunediy.com/20201208/KZ3FtIYL/index.m3u8
 $c_start粤语片$c_end
 破坏之王,https://yuncache.pasthp.cn/jianghu/iqiyi/d20a8430b17d5b15108a6de39a219bea.m3u8
-赌侠,https://video.buycar5.cn/20200820/bpmrlAVV/1000kb/hls/index.m3u8
 麦路人,https://vod.bunediy.com/20201016/eZvsUK6M/index.m3u8
 失恋反攻队,https://vod.bunediy.com/20210203/l3KUGh8t/index.m3u8
-怪物先生,https://video.buycar5.cn/20200818/f9nGqat4/1000kb/hls/index.m3u8
 无间风暴,https://vod.bunediy.com/20210523/uT4ghhN8/index.m3u8
-叶问4,https://video.buycar5.cn/20200812/QoZ3NODB/1000kb/hls/index.m3u8
-栋笃特工,https://v4.szjal.cn/20200814/zRqiV0n9/index.m3u8
 如珠如宝的人生,https://vod4.buycar5.cn/20210326/bqaY0jX9/1000kb/hls/index.m3u8
 乜代宗师,https://v4.szjal.cn/20200618/q2hohzSg/1000kb/hls/index.m3u8
 肥龙过江,https://vod2.buycar5.cn/20201005/2IPdnZvH/index.m3u8

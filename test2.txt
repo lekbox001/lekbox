@@ -792,19 +792,14 @@ ABC朝日放送,tvbus://5Ln6bQ7GAj9GXZMdcZCTy2tHZL1rJpuARqbDK2NEcwA31oxwYME2btdb
 电影系列,#genre#
 淘电影[高清],http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 吴京,http://auney.gearhostpreview.com/huya.php?id=11602045
-科幻动作,http://auney.gearhostpreview.com/huya.php?id=11352964
-国产喜剧,http://auney.gearhostpreview.com/huya.php?id=11602044
-卧底警匪,http://auney.gearhostpreview.com/huya.php?id=11352886
+科幻动作,http://auney.gearhostpreview.com/huya.php?id=11602044
 沈腾,http://auney.gearhostpreview.com/huya.php?id=11601968
 盗墓系列,http://auney.gearhostpreview.com/huya.php?id=11352913
 灾难电影,http://auney.gearhostpreview.com/huya.php?id=11352871
-异性怪物,http://auney.gearhostpreview.com/huya.php?id=11352938
+国产喜剧,http://auney.gearhostpreview.com/huya.php?id=11352938
 历年贺岁档,http://auney.gearhostpreview.com/huya.php?id=11601986
-惊悚,http://auney.gearhostpreview.com/huya.php?id=11342432
 黑帮电影,http://auney.gearhostpreview.com/huya.php?id=11342419
-史诗战争,http://auney.gearhostpreview.com/huya.php?id=11342435
 钢铁侠,http://auney.gearhostpreview.com/huya.php?id=11602034
-外国电影,http://auney.gearhostpreview.com/huya.php?id=11342428
 变形金刚,http://auney.gearhostpreview.com/huya.php?id=11352895
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225667/index.m3u8
 动作片,#genre#
@@ -904,13 +899,6 @@ ABC朝日放送,tvbus://5Ln6bQ7GAj9GXZMdcZCTy2tHZL1rJpuARqbDK2NEcwA31oxwYME2btdb
 夺宝奇局,https://vod.bunediy.com/20201208/KZ3FtIYL/index.m3u8
 粤语片,#genre#
 粤语港片,http://auney.gearhostpreview.com/huya.php?id=11352894
-电影动画综艺粤语,http://blanki.cf/api/bili.php?id=136843
-主粤语,http://blanki.cf/api/bili.php?id=21515763
-粤语经典,http://blanki.cf/api/douyu.php?id=1226741
-粤语频道,http://blanki.cf/api/douyu.php?id=2466104 
-粤语.周星驰.林正英,http://blanki.cf/api/douyu.php?id=5033502
-粤语电影⭐周星驰林正英	,http://blanki.cf/api/douyu.php?id=6566671
-破坏之王,https://yuncache.pasthp.cn/jianghu/iqiyi/d20a8430b17d5b15108a6de39a219bea.m3u8
 麦路人,https://vod.bunediy.com/20201016/eZvsUK6M/index.m3u8
 失恋反攻队,https://vod.bunediy.com/20210203/l3KUGh8t/index.m3u8
 无间风暴,https://vod.bunediy.com/20210523/uT4ghhN8/index.m3u8

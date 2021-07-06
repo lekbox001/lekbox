@@ -275,13 +275,13 @@ TVBS精采台,tvbus://7iAPforjP4iJd3SRXV4mxgici7b9CFEN3W97KwJuapBdDe8oy7
 三立新聞,tvbus://6WxVzF559pzcD3LF3jGWZLz5cVHqsBkzm42eB7Uc7xhYtxHyS1bZTRUWkEguQ
 三立新聞 b,tvbus://7GdvmGzuRdupgWZWAuE6YVqQrRT4xj4cKRttsyEY4aRtVRMSzC
 三立新聞 b2,tvbus://7YZWC167sdVy4xDaeGwu56oLobQxvyG4KfCdU6zY8jr8c6Smsb 
-三立台湾台,tvbus://5bs16MgndrbAVgewPk3FnyB65GFG34CUgswUfMxVirdmUUJxnuv7Rx2Ly7CqF
-三立台湾台 b,tvbus://7B1vDyun1XjzL82YVyc6zDLRV37qLHArM4uEWj8zRK4nApu7V7 
-三立都會台,tvbus://5eQroiSHYbP571m8HFv6R5vjDGFaQn75vPvEfeW3XHZg8JhcZLV4qsWTjmqpY
-三立都會台 b,tvbus://7e1FvQgF2JgVdRCdBPXzmLJUFK52FNtp78TyiVFyT7TpN2yvXp 
-三立综合台2,http://198.16.106.62:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
-三立台湾台2,http://198.16.106.62:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
-三立都会台2,p2p://fccseuro.pvbox.live:18912/5c2dd74e0008135f19666442e08f8a73.ts#p2p://fccsovh.pvbox.live:18912/5b14098f000d8c65aa7714d393792210.ts#p2p://fccseuro.pvbox.live:18912/5c72486f0000d4e31d5277b7483f11e3.ts#p2p://fccsovh.pvbox.live:18912/5c2dd74e0008135f19666442e08f8a73.ts
+三立台湾台1,tvbus://5bs16MgndrbAVgewPk3FnyB65GFG34CUgswUfMxVirdmUUJxnuv7Rx2Ly7CqF
+三立台湾台2,tvbus://7B1vDyun1XjzL82YVyc6zDLRV37qLHArM4uEWj8zRK4nApu7V7 
+三立都會台1,tvbus://5eQroiSHYbP571m8HFv6R5vjDGFaQn75vPvEfeW3XHZg8JhcZLV4qsWTjmqpY
+三立都會台2,tvbus://7e1FvQgF2JgVdRCdBPXzmLJUFK52FNtp78TyiVFyT7TpN2yvXp 
+三立戏剧台1,mitv://fccsovh.pvbox.live:18912/5b140916000e8094fa2b8bc1d6bc755b三立台湾台2,http://198.16.106.62:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
+三立戏剧台2,mitv://fccseuro.pvbox.live:18912/5b140916000e8094fa2b8bc1d6bc755b三立都会台2,p2p://fccseuro.pvbox.live:18912/5c2dd74e0008135f19666442e08f8a73.ts#p2p://fccsovh.pvbox.live:18912/5b14098f000d8c65aa7714d393792210.ts#p2p://fccseuro.pvbox.live:18912/5c72486f0000d4e31d5277b7483f11e3.ts#p2p://fccsovh.pvbox.live:18912/5c2dd74e0008135f19666442e08f8a73.ts
+三立综合台,http://198.16.106.62:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
 三立iNEWS,tvbus://5ZbnUfiKH4jFZ7uQoMMgk9o7GWhD8MZJa6ZM1cypdSZQFeYhLmRkU1NhreVFL
 三立iNEWS b,tvbus://7vrngitcWdRhRaWE5NSqqbC85RP52aPx4e2D9iLv1yE2Y8zSZo
 東森新聞,tvbus://5SiRxAgocLNdjGDhS3QsJVs8oKjwsDjHZBzVggh3Swv1AAoPzq6oDfa2ZMcDk
@@ -790,6 +790,45 @@ J SPORTS 4,tvbus://5xJS5QV17qfubUQRDmcme8wzU8EAigZtZeFsDgxcMKwxDVSztergMkL7PwGxz
 スカイA,tvbus://5mVSNMW8UQo2fQnofGoyfiroTmxJRYGtrgzzuZgJTgXg71EYtVWktKJzSUZY9
 ABC朝日放送,tvbus://5Ln6bQ7GAj9GXZMdcZCTy2tHZL1rJpuARqbDK2NEcwA31oxwYME2btdbEGWCs
 $c_start电影系列$c_end
+動作電影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+愛情喜劇,http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
+搏擊運動,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
+超级体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225753/index.m3u8 
+超级综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
+超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+超级电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+精品纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
+精品大剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
+古装剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
+家庭剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
+惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+明星大片,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
+欢乐剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+海外剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
+潮妈辣婆,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
+炫舞未来,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
+爱情喜剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
+东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
+动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
+怡伴健康,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
+军事评论,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
+军旅剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
+农业致富,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
+博击,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
+黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225744/index.m3u8
+黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225667/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+黑莓电竞,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225712/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225713/index.m3u8
+欧美电影,http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221227037/index.m3u8
+卡通,http://39.135.53.196/ott.fj.chinamobile.com/PLTV/88888888/224/3221227036/index.m3u8
+电视剧,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227134/index.m3u8
+谍战,http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221227045/index.m3u8
+戏曲,http://39.135.53.196/ott.fj.chinamobile.com/PLTV/88888888/224/3221227049/index.m3u8
+综艺,http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221227040/index.m3u8
+养生,http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221227044/index.m3u8
+超级体育,http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221227052/index.m3u8u
+功夫,http://ftp9524803.host166.gotoip4.cn/bilibili.php?id=21715386
 淘电影[高清],http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 吴京,http://auney.gearhostpreview.com/huya.php?id=11602045
 科幻动作,http://auney.gearhostpreview.com/huya.php?id=11602044

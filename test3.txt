@@ -840,6 +840,14 @@ $c_start电影系列$c_end
 变形金刚,http://auney.gearhostpreview.com/huya.php?id=11352895
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225667/index.m3u8
 $c_start动作片$c_end
+智齿2021,https://vod.bunediy.com/20210706/LlrzbwMt/index.m3u8
+归零地2021,https://vod.bunediy.com/20210706/XSEsvr0h/index.m3u8
+武松血战狮子楼,https://vod3.buycar5.cn/20210307/PpBma2An/1000kb/hls/index.m3u8
+黑道与家族,https://vod4.buycar5.cn/20210508/nPGfx3gO/index.m3u8
+新神榜哪吒重生,https://vod3.buycar5.cn/20210402/Z4mMbiNW/1000kb/hls/index.m3u8
+铜皮铁骨方世玉,https://vod6.wenshibaowenbei.com/20210303/mz63coSX/1000kb/hls/index.m3u8
+九门,https://cdn.605-zy.com/ppvod/9B968738BF1A5964824EE5143A51906A.m3u8
+糟糕的拳头,https://vod4.buycar5.cn/20210207/VFBaBTaY/1000kb/hls/index.m3u8
 杀手妻子的保镖,https://vod.bunediy.com/20210704/hG0M3qZC/index.m3u8
 午夜2021,https://vod.bunediy.com/20210703/GZ6IqYxN/index.m3u8
 21座桥,https://vod.bunediy.com/20210627/AEdWV4N6/index.m3u8
@@ -868,7 +876,9 @@ $c_start科幻片$c_end
 阿丽塔,https://vod2.buycar5.cn/20201029/45OCwScC/1000kb/hls/index.m3u8
 皇家次子女秘密组织,https://vod4.buycar5.cn/20201116/cLjrmY2D/1000kb/hls/index.m3u8
 超能计划,https://video.buycar5.cn/20200818/SEImmz43/1000kb/hls/index.m3u8
+正义联盟扎克,https://vod3.buycar5.cn/20210317/8WEC0bK5/1000kb/hls/index.m3u8
 $c_start喜剧片$c_end
+宝贝老板2,https://vod.bunediy.com/20210706/NiYYm3Ki/index.m3u8
 黑白魔女库伊拉,https://vod.bunediy.com/20210529/oVwbZwt2/index.m3u8
 人潮汹涌,https://vod3.buycar5.cn/20210414/0yYmQIOH/1000kb/hls/index.m3u8
 鸡排英雄,https://video.buycar5.cn/20200921/ZtZe1IbR/1000kb/hls/index.m3u8
@@ -897,6 +907,9 @@ $c_start战争片$c_end
 赵子龙,https://vod.bunediy.com/20201130/0XvMrvD4/index.m3u8
 $c_start粤语片$c_end
 粤语港片,http://auney.gearhostpreview.com/huya.php?id=11352894
+真三国无双,https://vod3.buycar5.cn/20210517/TDo3pBQD/1000kb/hls/index.m3u8
+总是有爱在隔离,https://cdn.605-zy.com/ppvod/1CF817414FC39C5E91192E1EA1BFD229.m3u8
+怪物先生,https://video.buycar5.cn/20200818/f9nGqat4/index.m3u8
 破坏之王,https://yuncache.pasthp.cn/jianghu/iqiyi/d20a8430b17d5b15108a6de39a219bea.m3u8
 麦路人,https://vod.bunediy.com/20201016/eZvsUK6M/index.m3u8
 失恋反攻队,https://vod.bunediy.com/20210203/l3KUGh8t/index.m3u8

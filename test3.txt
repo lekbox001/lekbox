@@ -281,7 +281,6 @@ TVBS精采台,tvbus://7iAPforjP4iJd3SRXV4mxgici7b9CFEN3W97KwJuapBdDe8oy7
 三立都會台2,tvbus://7e1FvQgF2JgVdRCdBPXzmLJUFK52FNtp78TyiVFyT7TpN2yvXp 
 三立戏剧台1,mitv://fccsovh.pvbox.live:18912/5b140916000e8094fa2b8bc1d6bc755b三立台湾台2,http://198.16.106.62:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
 三立戏剧台2,mitv://fccseuro.pvbox.live:18912/5b140916000e8094fa2b8bc1d6bc755b三立都会台2,p2p://fccseuro.pvbox.live:18912/5c2dd74e0008135f19666442e08f8a73.ts#p2p://fccsovh.pvbox.live:18912/5b14098f000d8c65aa7714d393792210.ts#p2p://fccseuro.pvbox.live:18912/5c72486f0000d4e31d5277b7483f11e3.ts#p2p://fccsovh.pvbox.live:18912/5c2dd74e0008135f19666442e08f8a73.ts
-三立综合台,http://198.16.106.62:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
 三立iNEWS,tvbus://5ZbnUfiKH4jFZ7uQoMMgk9o7GWhD8MZJa6ZM1cypdSZQFeYhLmRkU1NhreVFL
 三立iNEWS b,tvbus://7vrngitcWdRhRaWE5NSqqbC85RP52aPx4e2D9iLv1yE2Y8zSZo
 東森新聞,tvbus://5SiRxAgocLNdjGDhS3QsJVs8oKjwsDjHZBzVggh3Swv1AAoPzq6oDfa2ZMcDk
@@ -840,6 +839,10 @@ $c_start电影系列$c_end
 变形金刚,http://auney.gearhostpreview.com/huya.php?id=11352895
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225667/index.m3u8
 $c_start动作片$c_end
+末日逃生,https://vod3.buycar5.cn/20210105/eoFR2A2b/1000kb/hls/index.m3u8
+多哥,https://video.buycar5.cn/20200901/mph6PuMM/1000kb/hls/index.m3u8
+灰猎犬号,https://vod4.buycar5.cn/20201203/wW7zHPe7/1000kb/hls/index.m3u8
+刺杀小说家,https://vod.bunediy.com/20210409/nGotUHrq/index.m3u8
 智齿2021,https://vod.bunediy.com/20210706/LlrzbwMt/index.m3u8
 归零地2021,https://vod.bunediy.com/20210706/XSEsvr0h/index.m3u8
 武松血战狮子楼,https://vod3.buycar5.cn/20210307/PpBma2An/1000kb/hls/index.m3u8
@@ -861,6 +864,12 @@ $c_start动作片$c_end
 人之怒,https://vod.bunediy.com/20210525/OF39UXjP/index.m3u8
 漠北追击,https://vod.bunediy.com/20210624/tOnad2Sz/index.m3u8
 $c_start科幻片$c_end
+变形金刚1,https://vod.bunediy.com/20200430/NfSpDY3H/index.m3u8
+变形金刚2,https://vod.bunediy.com/20200413/sS5mUOIR/index.m3u8
+变形金刚3,https://vod.bunediy.com/20200503/S8C2H0KH/index.m3u8
+变形金刚4,https://video.buycar5.cn/20200921/hRI7pAD7/1000kb/hls/index.m3u8
+变形金刚5,https://video.buycar5.cn/20200905/7RKDUROk/index.m3u8
+头号玩家,https://video.buycar5.cn/20200920/QDttEFql/1000kb/hls/index.m3u8
 明日之战,https://cdn.605-zy.com/ppvod/E4CA46D47C8A6A2577714ED818B9EBE0.m3u8
 胜利号,https://vod5.wenshibaowenbei.com/20210207/udIvIhro/1000kb/hls/index.m3u8
 哥斯拉大战金刚,https://video.hcyunshang.cn/20210401/pNG8hbMS/2000kb/hls/index.m3u8
@@ -878,6 +887,7 @@ $c_start科幻片$c_end
 超能计划,https://video.buycar5.cn/20200818/SEImmz43/1000kb/hls/index.m3u8
 正义联盟扎克,https://vod3.buycar5.cn/20210317/8WEC0bK5/1000kb/hls/index.m3u8
 $c_start喜剧片$c_end
+九叔归来2,https://vod.bunediy.com/20210520/wTozNEgQ/index.m3u8
 宝贝老板2,https://vod.bunediy.com/20210706/NiYYm3Ki/index.m3u8
 黑白魔女库伊拉,https://vod.bunediy.com/20210529/oVwbZwt2/index.m3u8
 人潮汹涌,https://vod3.buycar5.cn/20210414/0yYmQIOH/1000kb/hls/index.m3u8
@@ -885,6 +895,22 @@ $c_start喜剧片$c_end
 大尾鲈鳗,https://vod4.buycar5.cn/20210126/cub17vM2/1000kb/hls/index.m3u8
 天使替我来爱你,https://vod.bunediy.com/20210529/G2jY90Mb/index.m3u8
 $c_start恐怖片$c_end
+招魂,https://vod.bunediy.com/20200509/ati4Yfl4/index.m3u8
+招魂2,https://vod.bunediy.com/20210423/AuBBjAZg/index.m3u8
+招魂3,https://vod.bunediy.com/20210604/QMhOSfp2/index.m3u8
+潜伏,https://vod.bunediy.com/20210329/3jKg74A3/index.m3u8
+潜伏2,https://vod.bunediy.com/20210329/8yRZPLu5/index.m3u8
+潜伏3,https://vod.bunediy.com/20210329/2GbVfnGl/index.m3u8
+潜伏4,https://vod4.buycar5.cn/20210117/FSn9DWFV/1000kb/hls/index.m3u8
+电锯惊魂1,https://vod.bunediy.com/20200703/J8GbAlOy/index.m3u8
+电锯惊魂2,https://vod.bunediy.com/20210520/YsDKSL8R/index.m3u8
+电锯惊魂3,https://vod.bunediy.com/20210520/QURVL75v/index.m3u8
+电锯惊魂4,https://vod.bunediy.com/20210621/CEwLCvTT/index.m3u8
+电锯惊魂5,https://vod.bunediy.com/20210520/qhQLDMF0/index.m3u8
+电锯惊魂6,https://vod.bunediy.com/20210520/1pyxhCzu/index.m3u8
+电锯惊魂7,https://vod.bunediy.com/20210520/Dfx0uKCs/index.m3u8
+电锯惊魂8,https://vod.bunediy.com/20201218/b5xSmd3g/index.m3u8
+电锯惊魂9,https://vod.bunediy.com/20210601/NjifTcC3/index.m3u8
 粽邪2,https://v3.dious.cc/20201231/ATOfMqkY/1000kb/hls/index.m3u8
 尸忆,https://v4.dious.cc/20210225/ll6Yp9Ns/1000kb/hls/index.m3u8?_t=1624692295987
 红衣小女孩外传,https://vod2.buycar5.cn/20200911/d8OCUkLG/1000kb/hls/index.m3u8
@@ -907,6 +933,7 @@ $c_start战争片$c_end
 赵子龙,https://vod.bunediy.com/20201130/0XvMrvD4/index.m3u8
 $c_start粤语片$c_end
 粤语港片,http://auney.gearhostpreview.com/huya.php?id=11352894
+急先锋,https://vod.bunediy.com/20201019/laE6f29v/index.m3u8
 真三国无双,https://vod3.buycar5.cn/20210517/TDo3pBQD/1000kb/hls/index.m3u8
 总是有爱在隔离,https://cdn.605-zy.com/ppvod/1CF817414FC39C5E91192E1EA1BFD229.m3u8
 怪物先生,https://video.buycar5.cn/20200818/f9nGqat4/index.m3u8

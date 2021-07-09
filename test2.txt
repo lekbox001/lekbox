@@ -771,7 +771,7 @@ Oh Muang Lao TV,https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playl
 Oy Lao TV,https://livefta.malimarcdn.com/ftaedge00/oylaotv.sdp/playlist.m3u8
 PNTV,https://livefta.malimarcdn.com/ftaedge00/pntv.sdp/playlist.m3u8
 PTP - Phú Yên [Not 24/7],http://113.161.4.48:8080/phuyen/tv.m3u8
-QRT,http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+QRT,http:/6/113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 Quốc Hội (720p),http://113.164.225.140:1935/live/quochoitvlive.stream_720p/playlist.m3u8
 Supreme Master TV,https://lbs-us1.suprememastertv.com/720p.m3u8
 Tea TV,https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
@@ -859,8 +859,6 @@ TSN 5,tvbus://62H3vuRrAqZiqT4zzZBHFR9w89mzR5YkmQoASr32owv4PzjsUbrwMHahixDH8
 xsd,tvbus://7Hp3ztaQuwqZPm2fJJDZg7aJMemgze63Kk2WykYyPenRNM6keC
 xsd2,tvbus://5rT41JtvsAB93wohNk4fzSKCQVmkUES6Af4XSW9ro5NVJbAN6GZmYnyZxD33c
 SPORT,#genre#
-X直播电视台 油管频道
-體育©頻道,#genre#
 CCTV5,http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
 CCTV5+,http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
 CCTV5,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5hd

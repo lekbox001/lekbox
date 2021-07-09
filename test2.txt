@@ -2,9 +2,6 @@ MY,#genre#
 TV1,tvbus://6e4hEeMVvASd7JKXXCLo9JU65A2ns8Dj3CZ4tQo95FCtRnks8euKBifTk513z
 TV2,tvbus://6RYDsoHodF94frXYaSTyfydVzfyYx4N8PjEipXRxsorENxbFZY9FowtGPZurF
 TV3,tvbus://5MBHfstHRxv4veqrkdkishHpfvuW2hMdL954y4yaMz77pTH7HsqkGFFu1ZAbv
-NTV7b,http://185.180.221.194:8278/streams/d/NTV7/playlist.m3u8
-8TVb,http://185.180.221.194:8278/streams/d/TV8/playlist.m3u8
-TV9b,http://185.180.221.194:8278/streams/d/TV9/playlist.m3u8
 ntv7,tvbus://5kn41Lpr589iZMwYw2rT1qvUXoNSLqvgYBv135SU5ALatmAmvMNyE3QwPnbkW
 8tv,tvbus://68tToF9dmdwyVaq37iG6MLZZAJEFaxww3j51VwHXZxHYZekVfa84VkMcdVj7k
 TV9,tvbus://6B4apWva1Y8xJMNogtf6KGz2ud9k9MMyL5SaTL7nQe2GNsbpm8AoCPQY2FLzL
@@ -631,48 +628,6 @@ HBO 2,tvbus://6YugJJ4yB1axwMGjjQSsvbp4cfYmxRYovVKPhMEfp2yLqpFvWcvxJUDq6jjvi
 HBO CA,tvbus://5ufA9DQRFjPRY1xB3d8ZjeXge4gKy6fZUg8MwoaWp3xiFEymegc18zjqttA3q
 MTV Live,tvbus://6KkQcWWPHAd5MuTaseQeai1b1o8Zx3zwS7LtXzERkChRirKYMUkjgRdeYS4Xs
 MTV Live b,tvbus://7whA5UQwVQ9b5b2G55g3Qdgo4yV9eQzNr49AT1PpGVcrAzFt4B 
-NBA直播,tvbus://6jVrf9r92hKsQCPqqCiEgETKVK8wcjcwJNQH9j46aWB5r8NqA6HufS5n6a6jX
-NBA直播 b,tvbus://7y921EbSPfZmvERbf7UWd88LtSjJVJVgNjEGFPY2GtWEedtceX
-nick jr(English),tvbus://5zHPzU324J3guXpHAuUB3YnfR7KTBQxj5bcp4Da8iyYJDHJDhnrGAeCCeX9Tx
-Outdoor,tvbus://5UYzSz2kzSGzc9vkM1LT7PtymykeXz3Kh5sHDkBEVWKjzUw4ToJQ3GNU9RKU8
-Outdoor b,tvbus://8TckRea1v9UuVDNPQeZGhUjAZTwZGwNQAK6DCvVECadaDLLAqg 
-TLC,tvbus://7CuZW13fjhhGbZdVhNiE2EgVyFpTCXNdmHsWvswNYi8iDbAUib
-TLC b,tvbus://5tPdUqjvz49gip2aJVZSKhkmUq4R6DnQdV3oAsdXVHyoA4egfj1MZba4pqMEe
-TLC旅遊生活,tvbus://6ZoepDKPgs2BA5dBFEdB4iTUWd4JJJvhff1VX4t3V2B8Vde4MpAwrkkMviKir
-TLC旅遊生活 b,tvbus://71Qp5s3WaGAmu6DW3EpXsMG7WHbFiMfg13VAQUHAv5fPfCwmYc 
-TNT,tvbus://5i5hnuCg8xZUCgZpU7LR47vNAB7eXmsLsxc3QcKXkUdTyfEkYzpd3vWuFqgHD
-Z频道,tvbus://6R1Mb1nKR5CvDNMeoPgdwFbgR4hAT8GoYmjAmg71KpcS1CnCZNqcsb5gvj6vq
-Z频道 b,tvbus://76QSuKAXb42jbKAecjA8qdaSN3SqC59akMfpCNRutsMM2yJmSb
-TV5MONDE ASIE,tvbus://6i1xPwMpsKmbkkvoVXzfvXsuLEPU2f8M8xksjnp6KWk1ezWyHEMwhvptpw3Qk
-Waku Waku Japan,tvbus://6FvygsEHnZgMxxhQRLQVxWYwM53dCPMMbwk8xzdci1L2MEUeM3FsZ3aW1kAoU
-Waku Waku Japan b,tvbus://786qCNs7FLm9ouCtbUEPA57ZkRQZfZBkcQM7Yg8CV6Xti36r7D
-原住民台,tvbus://6VRaErUmzKHUxGxS1c3J4zgyMaM61ZnBEtMRP81eo5A5iMCqaSvmynndsgWrs
-原住民台 b,tvbus://7vWh1u5brLVpYaeBZStpaFMVif3SLnd9vfSou5Apc1V7WP5b2B 
-客家電视台,tvbus://6ET11DM8BSXWgDFLR6rvGy5FiW73cnZHMwm26f8pz9ieA5mW8ouybGgf1SpY5
-客家衛視 b,tvbus://7M7rPXeKUqP2xNkz1EwmHoGkySiJMs9UzXhfoChd3kyUMvBD6B 
-高點綜合,tvbus://8BnmsVjVRUSXVAccaMNkx6psUkpsoWRdtUaVzfydvA5D6g82jg
-大爱,tvbus://6LBhU5bVWq8GLvbG5AyUxSauccyLttKDomgGTpxjSF9AD31pcH14yXGmtY3N7
-大爱 b,tvbus://7DCyc4FLPENQTLThfYHS1yDF7cyBAVr3FVHD9YTvVk2AiWtQT3 
-大爱二台,tvbus://5gpZ12gBUN956QP3NRzrmDxarUBuCFwnrLoahRr6f7w9h3cJxLVxjVXKXXeHy
-大愛二台 b,tvbus://78Butmx62nXwBdFxgCfCAXYEHSLLxUUGa6Z4KCbyEHLMikeKLU 
-天映頻道,tvbus://7tCv2tmBsAT1E8aA3cDpr2RkXCeNh4QjGDh1NaWEGaykUToTHc
-天映經典台,tvbus://6HbVAkQXXj4SAXKpyDt18vqEHoHVkjNQ4gSQNVtgWeBJ72VT7Yc2npgAr2WUY
-天映經典 b,tvbus://8ejPr4HYposmMUYrDyRG1V4UYjufQczokjwi72KjtC2d3ToHob 
-好消息2,tvbus://6PDiL5v2TyzqJeK9W3V9eLRqsJaBAQhSWddfWofmEBe7USe38CBbqp3khAJWH
-好消息2 b,tvbus://8QeKLvxzdBbM3utpo46DciJCDv6aDMc3xMKDrfTSANtRdNFH8q 
-國興衛視,tvbus://5SX9vAMYLsHuC9UPJvZSGQcjCp3Zq2yCZYJP5YSdCyi7CrYu7CJmSkmWe11aP
-國興衛視 b,tvbus://6x2Yzz6FVhE8wKiZLeieNzdCiAoQDR6brsJ7zu4cjL7N7mWjq6 
-國會頻道1,tvbus://6JG8STKz4KFLM5D7nithFifWcDia8YRiBLrvCVgEse9DG81F6r5NKUQMijnNY
-國會頻道1 b,tvbus://7qrD7B3dQZPm8ejbS6M3pp8YBQ6tAepy16sTV3aw9GPC6Fejy6 
-國會頻道2,tvbus://6ABgi8XPMfaivT1965Ad6R7hxuk3C3WjEFRnqPiMg5woXGTt1QJPc2tBu5FKo
-國會頻道2 b,tvbus://8Qvfm6C8zcmNhp7m1hmYikUcp5BjCx1743W83RtQx7h97jVb4u 
-霹靂台灣台,tvbus://5tbhpmB9A19vYgEerCRAK923PMVMbtPByt4Ku3T1XrAJeBzfiMS7kCXtfJ5mX
-霹靂台灣台 b,tvbus://86uqCxfVE4WNpGFVypyaMVH1PdiU5n2wfqc2avakGn3fz3ekcx 
-人間衛視,tvbus://5uA9xkrnZnnrQq4kwjDfkEvX9m1h929DSFnFiJACuAXDiyKWDh8Mv2QEMwzvn
-希望電視台,tvbus://6XAXMTpAZewLnNstKjwysvqqJ4QZbKgW3za2rBdnbYMu1Khc81pg27JVtSSXu
-希望电视台 b,tvbus://7H5muXu371CAb77fGP6p2s53KUTyjsbrWP5HkRBicTDBaSGCii
-華藏衛視,tvbus://5KJu4mHQebPojUWthRKPcWt2VcqW5jhRNQ5hTB15bqHMdL8SXBBsH6kYovvY2
-華藏衛視 b,tvbus://7qrh4d8rLQhqUbruatCu6fGSh1ozq3HNV8cEjKUnUg1UAtKJST 
 TW2,#genre#
 三立台湾台,http://198.16.106.62:8278/streams/d/sanlitaiwan/playlist.m3u8
 三立综合台,http://198.16.106.62:8278/streams/d/sanlizhonghe/playlist.m3u8
@@ -904,6 +859,59 @@ TSN 5,tvbus://62H3vuRrAqZiqT4zzZBHFR9w89mzR5YkmQoASr32owv4PzjsUbrwMHahixDH8
 xsd,tvbus://7Hp3ztaQuwqZPm2fJJDZg7aJMemgze63Kk2WykYyPenRNM6keC
 xsd2,tvbus://5rT41JtvsAB93wohNk4fzSKCQVmkUES6Af4XSW9ro5NVJbAN6GZmYnyZxD33c
 SPORT,#genre#
+X直播电视台 油管频道
+體育©頻道,#genre#
+CCTV5,http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
+CCTV5+,http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
+CCTV5,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5hd
+CCTV5,http://39.135.32.24:6610/000000001000/1000000001000004794/index.m3u8?i
+CCTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
+CCTV5+,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5phd
+CCTV5,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
+CCTV5,http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
+CCTV5,http://183.207.255.190/live/program/live/cctv5hd/4000000/mnf.m3u8
+CCTV5,rtmp://58.200.131.2:1935/livetv/cctv5hd
+CCTV5+,rtmp://58.200.131.2:1935/livetv/cctv5phd
+CCTV5+,http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
+CCTV5+,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
+CCTV5+,http://183.207.255.190/live/program/live/cctv5phd/4000000/mnf.m3u8
+CCTV5+,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
+Star Sports,rtmp://58.200.131.2:1935/livetv/starsports
+FoxSports2 77,http://77.83.117.60:8888/02_FoxSport2_TH_720p/chunklist.m3u8
+FoxSports3 77,http://77.83.117.60:8888/02_FoxSport3_TH_720p/chunklist.m3u8
+FoxSports1 77,http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8
+FOXSports1,https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+FOXSports1 185,http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
+FOXSports2,https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+FOXSports2 185,http://185.180.221.194:8278/streams/d/Foxsports2/playlist.m3u8
+FOXSports3 185,http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
+FOXSports3 cdn,https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
+FOXSports3 cdn,https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
+FOXSports3,https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+纬来体育台,http://198.16.106.62:8278/streams/d/videolandsport_zero/playlist.m3u8#p2p://fccsovh.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts#p2p://fccseuro.pvbox.live:18912/5c2dd76e00049e335bba26bf05a87895.ts#p2p://fccseuro.pvbox.live:18912/5c7249e60007ce3b1d5832543a7916ad.ts#p2p://fccseuro.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts
+爱尔达体育2,http://198.16.106.62:8278/streams/d/luxetv_zero/playlist.m3u8
+爱尔达体育3,http://198.16.106.62:8278/streams/d/eltasport3_zero/playlist.m3u8
+BT Sports 1,http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+BT Sports 2,http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
+BeinSports 1Max,http://7.anbdaouras.xyz/live/9889900/index.m3u8
+BeinSports 2Max,http://4.amroutras.xyz/live/00002500/index.m3u8
+Bein max 11 ,http://8.anbdaouras.xyz/live/6262622200/index.m3u8
+SPORT 2,http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
+SPORT 2,http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
+SPORT 4,http://159.192.73.198:1072/astro4
+SPORT 4,http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
+SPORT 4,http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
+WWE摔角,http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
+NBA HD,https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+劲爆体育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
+魅力足球,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
+五星体育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+新视觉,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
+超级体育ᴴᴰ,http://39.134.155.137/PLTV/88888888/224/3221225653/index.m3u8
+超级体育ᴴᴰ,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225925/index.m3u8
+超级体育,http://39.134.155.153/PLTV/88888888/224/3221225576/index.m3u8
+体育赛事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226803/index.m3u8
+精彩体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226010/index.m3u8
 ELTA體育1台,tvbus://6KhXj8xz99EuGM9rd2eDLTdMpPh4TH6ZumiQ1x4ehChL1KmSQmqDezSjQMq5C
 ELTA體育1台 b,tvbus://5NTfiiK2rBLvUCEpGRuWd4zKchfZoMGpK6Be9BsWUzyytKqNtpw8bWK7tZyjb
 ELTA體育2台,tvbus://5iaCMsScXr5BP82USvKuvUMnVT3ZCxqHrpxA5Ar8RnqW2t5iEsRPKjX4UjmM7
@@ -1007,18 +1015,10 @@ ABC朝日放送,tvbus://5Ln6bQ7GAj9GXZMdcZCTy2tHZL1rJpuARqbDK2NEcwA31oxwYME2btdb
 变形金刚,http://auney.gearhostpreview.com/huya.php?id=11352895
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225667/index.m3u8
 动作片,#genre#
-末日逃生,https://vod3.buycar5.cn/20210105/eoFR2A2b/1000kb/hls/index.m3u8
-多哥,https://video.buycar5.cn/20200901/mph6PuMM/1000kb/hls/index.m3u8
-灰猎犬号,https://vod4.buycar5.cn/20201203/wW7zHPe7/1000kb/hls/index.m3u8
+黑寡妇2021,https://vod.bunediy.com/20210709/J4Ja9qwI/index.m3u8
 刺杀小说家,https://vod.bunediy.com/20210409/nGotUHrq/index.m3u8
 智齿2021,https://vod.bunediy.com/20210706/LlrzbwMt/index.m3u8
 归零地2021,https://vod.bunediy.com/20210706/XSEsvr0h/index.m3u8
-武松血战狮子楼,https://vod3.buycar5.cn/20210307/PpBma2An/1000kb/hls/index.m3u8
-黑道与家族,https://vod4.buycar5.cn/20210508/nPGfx3gO/index.m3u8
-新神榜哪吒重生,https://vod3.buycar5.cn/20210402/Z4mMbiNW/1000kb/hls/index.m3u8
-铜皮铁骨方世玉,https://vod6.wenshibaowenbei.com/20210303/mz63coSX/1000kb/hls/index.m3u8
-九门,https://cdn.605-zy.com/ppvod/9B968738BF1A5964824EE5143A51906A.m3u8
-糟糕的拳头,https://vod4.buycar5.cn/20210207/VFBaBTaY/1000kb/hls/index.m3u8
 杀手妻子的保镖,https://vod.bunediy.com/20210704/hG0M3qZC/index.m3u8
 午夜2021,https://vod.bunediy.com/20210703/GZ6IqYxN/index.m3u8
 21座桥,https://vod.bunediy.com/20210627/AEdWV4N6/index.m3u8
@@ -1026,24 +1026,30 @@ ABC朝日放送,tvbus://5Ln6bQ7GAj9GXZMdcZCTy2tHZL1rJpuARqbDK2NEcwA31oxwYME2btdb
 大师2021,https://vod4.buycar5.cn/20210425/VnSyV10a/1000kb/hls/index.m3u8?skipl=1
 角头外传,https://vod3.buycar5.cn/20210525/TAG22gSv/1000kb/hls/index.m3u8
 武状元苏乞儿之天降神谕,https://vod.bunediy.com/20210531/AmxIzH9e/index.m3u8
-混世四猴,https://vod.bunediy.com/20210206/KIVlq6Dq/index.m3u8
 偷天侠盗团,https://vod.bunediy.com/20210610/AC0zFCUv/index.m3u8
 极地反击,https://vod.bunediy.com/20210604/yCxhkxv0/index.m3u8
 人之怒,https://vod.bunediy.com/20210525/OF39UXjP/index.m3u8
 漠北追击,https://vod.bunediy.com/20210624/tOnad2Sz/index.m3u8
 科幻片,#genre#
+缉魂2021,https://vod.bunediy.com/20210226/7cpHlqFm/index.m3u8
+明日之战2021,https://vod.bunediy.com/20210702/zTBLVa5m/index.m3u8
+寂静之地2021,https://vod.bunediy.com/20210628/PSuVWdEh/index.m3u8
+胜利号2021,https://vod.bunediy.com/20210205/KxIiSJ5H/index.m3u8
+哥斯拉大战金刚2021,https://vod.bunediy.com/20210331/LBhwkrkZ/index.m3u8
+无限2021,https://vod.bunediy.com/20210611/M3vrMbYw/index.m3u8
+末日激战2021,https://vod.bunediy.com/20210210/ZRRJVnFq/index.m3u8
+外星罪孽2021,https://vod.bunediy.com/20210602/zNfpRTE2/index.m3u8
+信条2020,https://vod.bunediy.com/20201128/vPsvLMCa/index.m3u8
+我们需要谈谈AI2020,https://vod.bunediy.com/20210403/HiGsIIrq/index.m3u8
+绝密档案2020,https://vod.bunediy.com/20201114/wkJl97Qv/index.m3u8
+喋血战士2020,https://vod.bunediy.com/20210103/6yJbUvOu/index.m3u8
+深海狂鲨2020,https://vod.bunediy.com/20200728/jmzbVL3q/index.m3u8
 变形金刚1,https://vod.bunediy.com/20200430/NfSpDY3H/index.m3u8
 变形金刚2,https://vod.bunediy.com/20200413/sS5mUOIR/index.m3u8
 变形金刚3,https://vod.bunediy.com/20200503/S8C2H0KH/index.m3u8
 变形金刚4,https://video.buycar5.cn/20200921/hRI7pAD7/1000kb/hls/index.m3u8
 变形金刚5,https://video.buycar5.cn/20200905/7RKDUROk/index.m3u8
-头号玩家,https://video.buycar5.cn/20200920/QDttEFql/1000kb/hls/index.m3u8
-明日之战,https://cdn.605-zy.com/ppvod/E4CA46D47C8A6A2577714ED818B9EBE0.m3u8
 胜利号,https://vod5.wenshibaowenbei.com/20210207/udIvIhro/1000kb/hls/index.m3u8
-哥斯拉大战金刚,https://video.hcyunshang.cn/20210401/pNG8hbMS/2000kb/hls/index.m3u8
-末日激战,https://vod3.buycar5.cn/20210116/rX32ODSk/1000kb/hls/index.m3u8
-胜利号,https://vod4.buycar5.cn/20210207/zKPEgnuW/1000kb/hls/index.m3u8
-真人快打,https://vod3.buycar5.cn/20210424/oNDJDIeh/1000kb/hls/index.m3u8
 变异巨蟒,https://vod.bunediy.com/20210502/8Xmd0onj/index.m3u8
 活死人军团,https://vod.bunediy.com/20210521/VwWoDVSP/index.m3u8
 大圣无双,https://vod.bunediy.com/20210617/0C4mR3nv/index.m3u8
@@ -1053,16 +1059,34 @@ ABC朝日放送,tvbus://5Ln6bQ7GAj9GXZMdcZCTy2tHZL1rJpuARqbDK2NEcwA31oxwYME2btdb
 阿丽塔,https://vod2.buycar5.cn/20201029/45OCwScC/1000kb/hls/index.m3u8
 皇家次子女秘密组织,https://vod4.buycar5.cn/20201116/cLjrmY2D/1000kb/hls/index.m3u8
 超能计划,https://video.buycar5.cn/20200818/SEImmz43/1000kb/hls/index.m3u8
-正义联盟扎克,https://vod3.buycar5.cn/20210317/8WEC0bK5/1000kb/hls/index.m3u8
 喜剧片,#genre#
+你好李焕英2021,https://vod.bunediy.com/20210501/mL02M2tO/index.m3u8
+比得兔2021,https://vod.bunediy.com/20210706/92Da0kz4/index.m3u8
+人潮汹涌2021,https://vod.bunediy.com/20210414/RY8Zet12/index.m3u8
+非常保镖2021,https://vod.bunediy.com/20210523/c5qB9U3N/index.m3u8
+巴布与斯塔尔的维斯塔德尔玛之旅2021,https://vod.bunediy.com/20210308/o6hjkoYM/index.m3u8
+疯狂原始人2020,https://vod.bunediy.com/20210216/rwr9EzzI/index.m3u8
+同学麦娜丝2020,https://vod.bunediy.com/20210220/cyVIj5y0/index.m3u8
+骗骗爱上你2020,https://vod.bunediy.com/20210312/2jXLYT3u/index.m3u8
+练爱ing2020,https://vod.bunediy.com/20210708/unRdFznE/index.m3u8
+腿2020,https://vod.bunediy.com/20210401/AduS3RVk/index.m3u8
+公子变形计2020,https://vod.bunediy.com/20210529/ckFQWzVN/index.m3u8
+乘风破浪泰国版2019,https://vod.bunediy.com/20210126/XVngNt7P/index.m3u8
+电击女孩2015,https://vod.bunediy.com/20200429/OUqG2Zq2/index.m3u8
+我很好谢谢我爱你2014,https://vod.bunediy.com/20200423/oCe42Mqu/index.m3u8
 九叔归来2,https://vod.bunediy.com/20210520/wTozNEgQ/index.m3u8
 宝贝老板2,https://vod.bunediy.com/20210706/NiYYm3Ki/index.m3u8
 黑白魔女库伊拉,https://vod.bunediy.com/20210529/oVwbZwt2/index.m3u8
-人潮汹涌,https://vod3.buycar5.cn/20210414/0yYmQIOH/1000kb/hls/index.m3u8
-鸡排英雄,https://video.buycar5.cn/20200921/ZtZe1IbR/1000kb/hls/index.m3u8
-大尾鲈鳗,https://vod4.buycar5.cn/20210126/cub17vM2/1000kb/hls/index.m3u8
 天使替我来爱你,https://vod.bunediy.com/20210529/G2jY90Mb/index.m3u8
 恐怖片,#genre#
+恐惧街2021,https://vod.bunediy.com/20210702/pEsIzOE2/index.m3u8
+恐惧街b2021,https://vod.bunediy.com/20210709/3hSO7wXK/index.m3u8
+猛鬼实验室2021,https://vod.bunediy.com/20210527/SedKmtZ5/index.m3u8
+我想结束这一切2020,https://vod.bunediy.com/20200905/eYY7CwMR/index.m3u8
+隐形人2020,https://vod.bunediy.com/20200612/pqpBfOmD/index.m3u8
+逃跑2020,https://vod.bunediy.com/20201122/Sk9f5hEr/index.m3u8
+单身请开眼2020,https://vod.bunediy.com/20210619/faOUcwYG/index.m3u8
+红衣小女孩2015,https://vod.bunediy.com/20200715/t1V6hqPv/index.m3u8
 招魂,https://vod.bunediy.com/20200509/ati4Yfl4/index.m3u8
 招魂2,https://vod.bunediy.com/20210423/AuBBjAZg/index.m3u8
 招魂3,https://vod.bunediy.com/20210604/QMhOSfp2/index.m3u8
@@ -1083,33 +1107,42 @@ ABC朝日放送,tvbus://5Ln6bQ7GAj9GXZMdcZCTy2tHZL1rJpuARqbDK2NEcwA31oxwYME2btdb
 尸忆,https://v4.dious.cc/20210225/ll6Yp9Ns/1000kb/hls/index.m3u8?_t=1624692295987
 红衣小女孩外传,https://vod2.buycar5.cn/20200911/d8OCUkLG/1000kb/hls/index.m3u8
 流言,https://vod.bunediy.com/20210617/YcAQfTTo/index.m3u8
-变异巨蟒,https://vod4.buycar5.cn/20210503/thslLmYq/1000kb/hls/index.m3u8
 明天的记忆,https://vod.bunediy.com/20210516/2NIkoFSR/index.m3u8
-旅馆闹鬼2021,https://vod4.buycar5.cn/20210404/KC489PZQ/1000kb/hls/index.m3u8
-电锯惊魂9,https://vod.bunediy.com/20210601/NjifTcC3/index.m3u8
 笔仙怪谈,https://vod.bunediy.com/20210519/75UEjIKE/index.m3u8
-鬼女佣,https://vod4.buycar5.cn/20201130/vVkpQfR9/1000kb/hls/index.m3u8
 深海狂鲨3,https://vod.bunediy.com/20200728/jmzbVL3q/index.m3u8
 战争片,#genre#
+浴血无名川2021,https://vod.bunediy.com/20210402/0XLg8Moc/index.m3u8
+灰猎犬号2020,https://vod.bunediy.com/20210315/5KzwUySP/index.m3u8
+战争幽灵2020,https://vod.bunediy.com/20201101/oEeIZs7s/index.m3u8
+八佰2020,https://vod.bunediy.com/20201107/aeFcG8Dl/index.m3u8
+特别有种2020,https://vod.bunediy.com/20200802/FIorqGhz/index.m3u8
 绝地狙杀,https://vod.bunediy.com/20210701/aP44AiJA/index.m3u8
 美国叛徒轴心莎莉的审判,https://vod.bunediy.com/20210608/xIyvVk7Q/index.m3u8
-浴血无名川,https://vod3.buycar5.cn/20210402/cB2smV4B/1000kb/hls/index.m3u8
-深入敌后,https://vod4.buycar5.cn/20201214/mS4s9BRz/1000kb/hls/index.m3u8?skipl=1
-卡拉什尼科夫,https://vod4.buycar5.cn/20201122/gx2O9PWX/1000kb/hls/index.m3u8
 赵云传之龙鸣长坂坡,https://vod.bunediy.com/20201107/UNtYVV05/index.m3u8
-战争幽灵,https://video.buycar5.cn/20200801/686XzGCv/2000kb/hls/index.m3u8
 赵子龙,https://vod.bunediy.com/20201130/0XvMrvD4/index.m3u8
 粤语片,#genre#
 急先锋,https://vod.bunediy.com/20201019/laE6f29v/index.m3u8
-真三国无双,https://vod3.buycar5.cn/20210517/TDo3pBQD/1000kb/hls/index.m3u8
-总是有爱在隔离,https://cdn.605-zy.com/ppvod/1CF817414FC39C5E91192E1EA1BFD229.m3u8
-怪物先生,https://video.buycar5.cn/20200818/f9nGqat4/index.m3u8
-破坏之王,https://yuncache.pasthp.cn/jianghu/iqiyi/d20a8430b17d5b15108a6de39a219bea.m3u8
+真·三国无双2021,https://vod.bunediy.com/20210506/sYQDB8Nk/index.m3u8
+满城尽带黄金甲2006,https://vod.bunediy.com/20210511/w9yrStD9/index.m3u8
+警察故事2013,https://vod.bunediy.com/20210504/czMwCrdk/index.m3u8
+侠盗联盟2017,https://vod.bunediy.com/20201219/mcDTCV1J/index.m3u8
+逃学威龙1,https://vod.bunediy.com/20201123/QwB6CNCz/index.m3u8
+逃学威龙2,https://vod.bunediy.com/20200508/nh4LL8IH/index.m3u8
+窃听风云2,https://vod.bunediy.com/20201117/IM8vkwtD/index.m3u8
+神探蒲松龄2019,https://vod.bunediy.com/20201121/grvQI6UI/index.m3u8
+怪物先生2019,https://vod.bunediy.com/20200818/AdZsrIxI/index.m3u8
+恶战2014,https://vod.bunediy.com/20200507/0GOIXykq/index.m3u8
+追凶2012,https://vod.bunediy.com/20200509/pfNHYZNX/index.m3u8
+惊天破2016,https://vod.bunediy.com/20200505/VVePtZWk/index.m3u8\
+百变星君,https://vod.bunediy.com/20200506/WrT2zpOt/index.m3u8
+夺命金2012,https://vod.bunediy.com/20200507/ZHkTAzTn/index.m3u8
+功夫,https://vod.bunediy.com/20200506/rznhZHhg/index.m3u8
+回魂夜,https://vod.bunediy.com/20200424/mjB2MA3P/index.m3u8
+超级学校霸王,https://vod.bunediy.com/20200502/hEqDdWKL/index.m3u8
+冲锋车,https://vod.bunediy.com/20200507/YJyPz52V/index.m3u8
 麦路人,https://vod.bunediy.com/20201016/eZvsUK6M/index.m3u8
 失恋反攻队,https://vod.bunediy.com/20210203/l3KUGh8t/index.m3u8
 无间风暴,https://vod.bunediy.com/20210523/uT4ghhN8/index.m3u8
-如珠如宝的人生,https://vod4.buycar5.cn/20210326/bqaY0jX9/1000kb/hls/index.m3u8
-肥龙过江,https://vod2.buycar5.cn/20201005/2IPdnZvH/index.m3u8
 粤语港片,http://auney.gearhostpreview.com/huya.php?id=11352894
 天映頻道1,tvbus://7tCv2tmBsAT1E8aA3cDpr2RkXCeNh4QjGDh1NaWEGaykUToTHc
 天映頻道2,tvbus://5gWRwQczZURAdQBNVt6KhaJZWfWYrQ4PzKM3VymWpSEBm9wVsnVHUsHT2d88o

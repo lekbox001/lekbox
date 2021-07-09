@@ -1079,6 +1079,8 @@ $c_start恐怖片$c_end
 电锯惊魂7,https://vod.bunediy.com/20210520/Dfx0uKCs/index.m3u8
 电锯惊魂8,https://vod.bunediy.com/20201218/b5xSmd3g/index.m3u8
 电锯惊魂9,https://vod.bunediy.com/20210601/NjifTcC3/index.m3u8
+粽邪,https://v4.szjal.cn/20200801/chJ2qOYQ/1000kb/hls/index.m3u8
+粽邪b,https://v4.szjal.cn/20200801/chJ2qOYQ/index.m3u8
 粽邪2,https://v3.dious.cc/20201231/ATOfMqkY/1000kb/hls/index.m3u8
 尸忆,https://v4.dious.cc/20210225/ll6Yp9Ns/1000kb/hls/index.m3u8?_t=1624692295987
 红衣小女孩外传,https://vod2.buycar5.cn/20200911/d8OCUkLG/1000kb/hls/index.m3u8

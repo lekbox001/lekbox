@@ -1141,6 +1141,8 @@ ABC朝日放送,tvbus://5Ln6bQ7GAj9GXZMdcZCTy2tHZL1rJpuARqbDK2NEcwA31oxwYME2btdb
 麦路人,https://vod.bunediy.com/20201016/eZvsUK6M/index.m3u8
 失恋反攻队,https://vod.bunediy.com/20210203/l3KUGh8t/index.m3u8
 无间风暴,https://vod.bunediy.com/20210523/uT4ghhN8/index.m3u8
+天映电影,http://210.210.155.35/qwr9ew/s/s33/01.m3u8
+天映电影2,http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
 粤语港片,http://auney.gearhostpreview.com/huya.php?id=11352894
 天映頻道1,tvbus://7tCv2tmBsAT1E8aA3cDpr2RkXCeNh4QjGDh1NaWEGaykUToTHc
 天映頻道2,tvbus://5gWRwQczZURAdQBNVt6KhaJZWfWYrQ4PzKM3VymWpSEBm9wVsnVHUsHT2d88o

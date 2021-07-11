@@ -629,6 +629,13 @@ HBO CA,tvbus://5ufA9DQRFjPRY1xB3d8ZjeXge4gKy6fZUg8MwoaWp3xiFEymegc18zjqttA3q
 MTV Live,tvbus://6KkQcWWPHAd5MuTaseQeai1b1o8Zx3zwS7LtXzERkChRirKYMUkjgRdeYS4Xs
 MTV Live b,tvbus://7whA5UQwVQ9b5b2G55g3Qdgo4yV9eQzNr49AT1PpGVcrAzFt4B 
 $c_startTW2$c_end
+民視,tvbus://6Lj9rFEdKejTmFCH2Kv7jX2G56jH6y1zu7sNmRWp1qGYpyWzZk4tgPKnwWSi2
+豬哥亮歌廳秀,tvbus://66az2LHXLAdGzxupW7Wr6w4ZYRDG6AYHu5snfsnqCc4QQdXbfJuSeDrz6zt8G
+台視,tvbus://6Q1Sse26Zx4Bb33LwYrUXekJwjGu5ogGDiBiqTbonztTEr7bESCCm5BY4s1xb
+三立台灣,tvbus://6KDZEwsaiTyKpYASWzYE3aJSWB8vkhQyrgtNDb8XAqgriAwdo2EiMcMhVm8oa
+三立都會,tvbus://6ZLRzjLE58srUuzBPq3QNRSPE9L5EYDhp1p2uvYHEBZ8nJBY9kQii1X5hTy2w
+三立國際,tvbus://67jD3VftcMR8qp8HCnFNcHPUeHDHXF7WLMsT6Zwu5HXtuMbDjLrWUYRTVFR9P
+三立戲劇,tvbus://8TNVsoqe7ULzyCimBACzQMNeMopXB4dFx1xsqDk3TGVR6Vm3CN
 三立台湾台,http://198.16.106.62:8278/streams/d/sanlitaiwan/playlist.m3u8
 三立综合台,http://198.16.106.62:8278/streams/d/sanlizhonghe/playlist.m3u8
 三立戏剧台,http://198.16.106.62:8278/streams/d/sanlixiju_zero/playlist.m3u8

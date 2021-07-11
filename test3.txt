@@ -1076,6 +1076,10 @@ $c_start喜剧片$c_end
 宝贝老板2,https://vod.bunediy.com/20210706/NiYYm3Ki/index.m3u8
 黑白魔女库伊拉,https://vod.bunediy.com/20210529/oVwbZwt2/index.m3u8
 天使替我来爱你,https://vod.bunediy.com/20210529/G2jY90Mb/index.m3u8
+猪哥亮大稻埕,https://video.buycar5.cn/20200821/1Zca6tOw/1000kb/hls/index.m3u8
+猪哥亮大喜临门,https://video.buycar5.cn/20200919/DAr4XVAS/1000kb/hls/index.m3u8
+猪哥亮我不做大哥好多年,https://vod.bunediy.com/20210102/oLOM4l8H/index.m3u8
+猪哥亮大显神威,https://vod.bunediy.com/20200715/ViO2mH5S/index.m3u8
 $c_start恐怖片$c_end
 恐惧街2021,https://vod.bunediy.com/20210702/pEsIzOE2/index.m3u8
 恐惧街b2021,https://vod.bunediy.com/20210709/3hSO7wXK/index.m3u8

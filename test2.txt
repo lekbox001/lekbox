@@ -386,13 +386,18 @@ ViuTV b2,tvbus://86dmKKY1fitYB4WhoPCrMeZU4MBSsmssAbypzfgXFWzqenHaCo
 新動力600新聞,tvbus://5jYymnbuNFPoHM9MVy6rRqgGakMhZnNKQUQS7ubW57HxmwRkKngHpXSS4UTLz
 澳視體育,tvbus://7z7GSXCAZX7uRAZJQqtrpybE6e3n2U8ax5RbJrNpcMyfV9ZDgh
 TW,#genre#
+TVBS HD,tvbus://5khZxPGzFF6DCCCjBW4pivattKmEfaJqf25epZCHUA823V8jt5F6QHJMu4N6z
 TVBS HD b,tvbus://6XbZPjUSREcXYoh1NWQ6LmTHS54rREPg8e4kEnWaHzcRZaspKcN5h9HxPGgM4
+TVBS HD b2,tvbus://65qXnWpqWqgbrh5nhu8jE5eYgx5TcwFWCLSgHjkYip1quwX47T9se7J8peFbK
+TVBS HD b3,tvbus://7DEtCmyxRnfvA1VSsvwavm42Jo9LAYjp8jNVgFDyuBjWE4mTAz
 TVBS HD b4,tvbus://7iAPforjP4iJd3SRXV4mxgici7b9CFEN3W97KwJuapBdDe8oy7 
 TVBS新聞台,tvbus://5LFtjMDFSxRdXcHM8iCW5WzgMDKBSJcWtkrKq4dbcpkbL7YrrQTBfypj1MAJB
 TVBS新聞台 b,tvbus://7CyU6ZP3BBpcF91MruJCdXjLyFZeSniyanTBASwG47S3fLTQx9 
 TVBS精采台,tvbus://7iAPforjP4iJd3SRXV4mxgici7b9CFEN3W97KwJuapBdDe8oy7
-三立戏剧台1,mitv://fccsovh.pvbox.live:18912/5b140916000e8094fa2b8bc1d6bc755b三立台湾台2,http://198.16.106.62:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
-三立戏剧台2,mitv://fccseuro.pvbox.live:18912/5b140916000e8094fa2b8bc1d6bc755b三立都会台2,p2p://fccseuro.pvbox.live:18912/5c2dd74e0008135f19666442e08f8a73.ts#p2p://fccsovh.pvbox.live:18912/5b14098f000d8c65aa7714d393792210.ts#p2p://fccseuro.pvbox.live:18912/5c72486f0000d4e31d5277b7483f11e3.ts#p2p://fccsovh.pvbox.live:18912/5c2dd74e0008135f19666442e08f8a73.ts
+三立台湾台,tvbus://5bs16MgndrbAVgewPk3FnyB65GFG34CUgswUfMxVirdmUUJxnuv7Rx2Ly7CqF
+三立台湾台 b,tvbus://7B1vDyun1XjzL82YVyc6zDLRV37qLHArM4uEWj8zRK4nApu7V7 
+三立都會台,tvbus://5eQroiSHYbP571m8HFv6R5vjDGFaQn75vPvEfeW3XHZg8JhcZLV4qsWTjmqpY
+三立都會台 b,tvbus://7e1FvQgF2JgVdRCdBPXzmLJUFK52FNtp78TyiVFyT7TpN2yvXp 
 東森新聞,tvbus://5SiRxAgocLNdjGDhS3QsJVs8oKjwsDjHZBzVggh3Swv1AAoPzq6oDfa2ZMcDk
 東森新聞 b,tvbus://78Xc88RpwMy8oVCbeHLe8FMoVYJMNytJs9i1hGsP25Mz3KqZKh 
 東森財經新聞,tvbus://5bY69cepoVBMLLDSy3mDoo8QBJQRmRvgEHqHiJayEqejKoS6Z47qRqjewb9TB

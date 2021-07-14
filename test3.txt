@@ -871,33 +871,6 @@ TSN 5,tvbus://62H3vuRrAqZiqT4zzZBHFR9w89mzR5YkmQoASr32owv4PzjsUbrwMHahixDH8
 xsd,tvbus://7Hp3ztaQuwqZPm2fJJDZg7aJMemgze63Kk2WykYyPenRNM6keC
 xsd2,tvbus://5rT41JtvsAB93wohNk4fzSKCQVmkUES6Af4XSW9ro5NVJbAN6GZmYnyZxD33c
 $c_startSPORT$c_end
-CCTV5,http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
-CCTV5+,http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
-CCTV5,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5hd
-CCTV5,http://39.135.32.24:6610/000000001000/1000000001000004794/index.m3u8?i
-CCTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
-CCTV5+,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5phd
-CCTV5,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
-CCTV5,http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
-CCTV5,http://183.207.255.190/live/program/live/cctv5hd/4000000/mnf.m3u8
-CCTV5,rtmp://58.200.131.2:1935/livetv/cctv5hd
-CCTV5+,rtmp://58.200.131.2:1935/livetv/cctv5phd
-CCTV5+,http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
-CCTV5+,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
-CCTV5+,http://183.207.255.190/live/program/live/cctv5phd/4000000/mnf.m3u8
-CCTV5+,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
-Star Sports,rtmp://58.200.131.2:1935/livetv/starsports
-FoxSports2 77,http://77.83.117.60:8888/02_FoxSport2_TH_720p/chunklist.m3u8
-FoxSports3 77,http://77.83.117.60:8888/02_FoxSport3_TH_720p/chunklist.m3u8
-FoxSports1 77,http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8
-FOXSports1,https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-FOXSports1 185,http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
-FOXSports2,https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-FOXSports2 185,http://185.180.221.194:8278/streams/d/Foxsports2/playlist.m3u8
-FOXSports3 185,http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
-FOXSports3 cdn,https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
-FOXSports3 cdn,https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
-FOXSports3,https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
 纬来体育台,http://198.16.106.62:8278/streams/d/videolandsport_zero/playlist.m3u8#p2p://fccsovh.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts#p2p://fccseuro.pvbox.live:18912/5c2dd76e00049e335bba26bf05a87895.ts#p2p://fccseuro.pvbox.live:18912/5c7249e60007ce3b1d5832543a7916ad.ts#p2p://fccseuro.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts
 爱尔达体育2,http://198.16.106.62:8278/streams/d/luxetv_zero/playlist.m3u8
 爱尔达体育3,http://198.16.106.62:8278/streams/d/eltasport3_zero/playlist.m3u8

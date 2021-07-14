@@ -871,6 +871,8 @@ TSN 5,tvbus://62H3vuRrAqZiqT4zzZBHFR9w89mzR5YkmQoASr32owv4PzjsUbrwMHahixDH8
 xsd,tvbus://7Hp3ztaQuwqZPm2fJJDZg7aJMemgze63Kk2WykYyPenRNM6keC
 xsd2,tvbus://5rT41JtvsAB93wohNk4fzSKCQVmkUES6Af4XSW9ro5NVJbAN6GZmYnyZxD33c
 $c_startSPORT$c_end
+X直播电视台 油管频道
+體育©頻道,#genre#
 CCTV5,http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
 CCTV5+,http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
 CCTV5,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5hd
@@ -1002,8 +1004,6 @@ $c_start电影系列$c_end
 农业致富,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
 博击,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
 黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225744/index.m3u8
-黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225667/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-黑莓电竞,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225712/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225713/index.m3u8
 欧美电影,http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221227037/index.m3u8
 卡通,http://39.135.53.196/ott.fj.chinamobile.com/PLTV/88888888/224/3221227036/index.m3u8
 电视剧,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227134/index.m3u8
@@ -1014,7 +1014,6 @@ $c_start电影系列$c_end
 超级体育,http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221227052/index.m3u8u
 功夫,http://ftp9524803.host166.gotoip4.cn/bilibili.php?id=21715386
 淘电影[高清],http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
-吴京,http://auney.gearhostpreview.com/huya.php?id=11602045
 科幻动作,http://auney.gearhostpreview.com/huya.php?id=11602044
 沈腾,http://auney.gearhostpreview.com/huya.php?id=11601968
 盗墓系列,http://auney.gearhostpreview.com/huya.php?id=11352913
@@ -1023,7 +1022,6 @@ $c_start电影系列$c_end
 历年贺岁档,http://auney.gearhostpreview.com/huya.php?id=11601986
 钢铁侠,http://auney.gearhostpreview.com/huya.php?id=11602034
 变形金刚,http://auney.gearhostpreview.com/huya.php?id=11352895
-黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225667/index.m3u8
 $c_start动作片$c_end
 黑寡妇2021,https://vod.bunediy.com/20210709/J4Ja9qwI/index.m3u8
 刺杀小说家,https://vod.bunediy.com/20210409/nGotUHrq/index.m3u8
@@ -1053,13 +1051,11 @@ $c_start科幻片$c_end
 我们需要谈谈AI2020,https://vod.bunediy.com/20210403/HiGsIIrq/index.m3u8
 绝密档案2020,https://vod.bunediy.com/20201114/wkJl97Qv/index.m3u8
 喋血战士2020,https://vod.bunediy.com/20210103/6yJbUvOu/index.m3u8
-深海狂鲨2020,https://vod.bunediy.com/20200728/jmzbVL3q/index.m3u8
 变形金刚1,https://vod.bunediy.com/20200430/NfSpDY3H/index.m3u8
 变形金刚2,https://vod.bunediy.com/20200413/sS5mUOIR/index.m3u8
 变形金刚3,https://vod.bunediy.com/20200503/S8C2H0KH/index.m3u8
 变形金刚4,https://video.buycar5.cn/20200921/hRI7pAD7/1000kb/hls/index.m3u8
 变形金刚5,https://video.buycar5.cn/20200905/7RKDUROk/index.m3u8
-胜利号,https://vod5.wenshibaowenbei.com/20210207/udIvIhro/1000kb/hls/index.m3u8
 变异巨蟒,https://vod.bunediy.com/20210502/8Xmd0onj/index.m3u8
 活死人军团,https://vod.bunediy.com/20210521/VwWoDVSP/index.m3u8
 大圣无双,https://vod.bunediy.com/20210617/0C4mR3nv/index.m3u8
@@ -1088,10 +1084,6 @@ $c_start喜剧片$c_end
 宝贝老板2,https://vod.bunediy.com/20210706/NiYYm3Ki/index.m3u8
 黑白魔女库伊拉,https://vod.bunediy.com/20210529/oVwbZwt2/index.m3u8
 天使替我来爱你,https://vod.bunediy.com/20210529/G2jY90Mb/index.m3u8
-猪哥亮大稻埕,https://video.buycar5.cn/20200821/1Zca6tOw/1000kb/hls/index.m3u8
-猪哥亮大喜临门,https://video.buycar5.cn/20200919/DAr4XVAS/1000kb/hls/index.m3u8
-猪哥亮我不做大哥好多年,https://vod.bunediy.com/20210102/oLOM4l8H/index.m3u8
-猪哥亮大显神威,https://vod.bunediy.com/20200715/ViO2mH5S/index.m3u8
 $c_start恐怖片$c_end
 恐惧街2021,https://vod.bunediy.com/20210702/pEsIzOE2/index.m3u8
 恐惧街b2021,https://vod.bunediy.com/20210709/3hSO7wXK/index.m3u8
@@ -1118,7 +1110,6 @@ $c_start恐怖片$c_end
 电锯惊魂8,https://vod.bunediy.com/20201218/b5xSmd3g/index.m3u8
 电锯惊魂9,https://vod.bunediy.com/20210601/NjifTcC3/index.m3u8
 粽邪2,https://v3.dious.cc/20201231/ATOfMqkY/1000kb/hls/index.m3u8
-尸忆,https://v4.dious.cc/20210225/ll6Yp9Ns/1000kb/hls/index.m3u8?_t=1624692295987
 红衣小女孩外传,https://vod2.buycar5.cn/20200911/d8OCUkLG/1000kb/hls/index.m3u8
 流言,https://vod.bunediy.com/20210617/YcAQfTTo/index.m3u8
 明天的记忆,https://vod.bunediy.com/20210516/2NIkoFSR/index.m3u8
@@ -1158,7 +1149,7 @@ $c_start粤语片$c_end
 失恋反攻队,https://vod.bunediy.com/20210203/l3KUGh8t/index.m3u8
 无间风暴,https://vod.bunediy.com/20210523/uT4ghhN8/index.m3u8
 粤语港片,http://auney.gearhostpreview.com/huya.php?id=11352894
-天映电影,http://210.210.155.35/qwr9ew/s/s33/01.m3u8
+天映电影1,http://210.210.155.35/qwr9ew/s/s33/01.m3u8
 天映电影2,http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
 天映頻道1,tvbus://7tCv2tmBsAT1E8aA3cDpr2RkXCeNh4QjGDh1NaWEGaykUToTHc
 天映頻道2,tvbus://5gWRwQczZURAdQBNVt6KhaJZWfWYrQ4PzKM3VymWpSEBm9wVsnVHUsHT2d88o

@@ -1010,6 +1010,12 @@ ABC朝日放送,tvbus://5Ln6bQ7GAj9GXZMdcZCTy2tHZL1rJpuARqbDK2NEcwA31oxwYME2btdb
 人之怒,https://vod.bunediy.com/20210525/OF39UXjP/index.m3u8
 漠北追击,https://vod.bunediy.com/20210624/tOnad2Sz/index.m3u8
 科幻片,#genre#
+洛基1,https://vod.bunediy.com/20210609/pe68Hh2e/index.m3u8
+洛基2,https://vod.bunediy.com/20210616/AcuzDLYN/index.m3u8
+洛基3,https://vod.bunediy.com/20210623/5yjFRRFJ/index.m3u8
+洛基4,https://vod.bunediy.com/20210630/2EBKRthr/index.m3u8
+洛基5,https://vod.bunediy.com/20210707/V4QtjVFc/index.m3u8
+洛基6,https://vod.bunediy.com/20210714/hLZlyAof/index.m3u8
 缉魂2021,https://vod.bunediy.com/20210226/7cpHlqFm/index.m3u8
 明日之战2021,https://vod.bunediy.com/20210702/zTBLVa5m/index.m3u8
 寂静之地2021,https://vod.bunediy.com/20210628/PSuVWdEh/index.m3u8

@@ -1079,7 +1079,7 @@ ABC朝日放送,tvbus://5Ln6bQ7GAj9GXZMdcZCTy2tHZL1rJpuARqbDK2NEcwA31oxwYME2btdb
 赌侠2之上海滩赌圣,https://vod.bunediy.com/20200502/gRB1ZH18/index.m3u8
 盲探,https://vod.bunediy.com/20200508/PIZ2xtAv/index.m3u8
 拆弹专家1,https://vod.bunediy.com/20200505/IhpYdE7G/index.m3u8
-拆弹专家2,https://vod.bunediy.com/20210220/oAlPrSEp/index.m3u8
+拆弹专家2,https://vod.bunediy.com/20210417/wT1T0eNw/index.m3u8
 叶问3,https://vod.bunediy.com/20200428/lQbysS4M/index.m3u8
 追龙1,https://vod.bunediy.com/20200412/eKNTcmZb/index.m3u8
 追龙2,https://vod.bunediy.com/20210528/uf00AqP7/index.m3u8

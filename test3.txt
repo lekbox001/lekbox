@@ -830,81 +830,6 @@ True Sport HD2,https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
 True Sport HD3,https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
 TRUE4U,https://www.livedoomovie.com/02_TRUE4U_480p/chunklist.m3u8
 TRUEMUSI,https://www.livedoomovie.com/02_TRUEMUSIC_720p/chunklist.m3u8
-$c_startUS$c_end
-ABC-NEWS,tvbus://5RcfcqkzamcKBYqqCVEibMHEQwdBj34VAZM6juXfKPGC9MPogJCzvo3oTAK26
-AMC-HD,tvbus://6RTcZwcKYjj1nD7W81iRGsE7Yo9UzUkmmJz35uDKufWvR3HBHCfAkERPK37au
-BBC News,tvbus://5vpCNErf1u2vJFowgkbDWz7HatmnBQCLx5UM6ATeoHjy4xZWHg7FNzAHtHqrL
-BET-HD,tvbus://5jrdLNjhWtuo3K5jb19BovF6GFtNJd8vuxMnTU4SSsC13ouFZZoD8Yw9Do5sR
-Box Nation HD,tvbus://6sZNnW8dgrQuj6cgd3axzxrqL3RFmNAsLr4WYCdJYbzoSsdtWD
-CARTOON-NETWORK,tvbus://5MfVkmm57UdPxJTbB8a7Hu4i2iU2LmFfRAitXmDQ2MZLvA7LBfRh5eWBDR8z8
-CBC MONTREAL|SD,tvbus://5waVtfTgFcUpHNqqzmv6QfEEMS7ZkiF3w7FVzRKNxu4umjzb5jhzfxJAhEEyR
-CBC news,tvbus://66hXtpJAkqdfjjvcptVuaYcxuMsn2BUALFJoMPg5g2QaGXD2qKQd2TjjD2WcB
-CBS-HD,tvbus://6ZbDQTfJbMkGCRVWe32MMGZrZuhGdR9bzTGDCYo4TK8xw59FnuRPhsTc9rrr2
-CBSsprotsHD,tvbus://6N5ymz2zwvUxta9xxW9F9HWJ2X9iY3p8Svy2E8p5Hj4FHgXFJk6D3EMGS6Z22
-CNBC,tvbus://5XwaExme9uSiCFkcyNvCDyoaag8tXvixpQQi5Ey3gj7P8zAdZN3yCx6rQX19A
-cnn,tvbus://6JmKZvKEkZx9kjh44UnbhZ7yQrJMChUf1RCxiBUWLLjDqHBaniGyCLTnybHXh
-CNN-HD,tvbus://6cRsW2tkGMsByXvTtM6NxVfMr5DJnMwFnes1W5TBerwJdmwrGAkeaGpuJY6Dk
-cp24,tvbus://6bJaU3m9UZULA1w4cbPu1C5y5FkoGDqsGZp3i8zAjNiypZ1PqaWUAgEFr1Qn9
-CTV MONTREAL|SD,tvbus://6LgaCmcUc9SgxBJfW2epjkfQwpy77izxnZo9hwdMGb9nH4kuE7gjtzwBwLbgq
-CTV NEWS|SD,tvbus://66DSH9erdnKvzHiuVhTviV8Ri3xmJiwX3nt1aUWdZUkpJoiiDo13t7hD5Ya2f
-CTV TORONTO|SD,tvbus://6DtvmrHzE2QrDpxkEPKkzv5NhW6SHUyMudroq7rX3pMpk94ZCvfqDS3Z38nHx
-CTV TWO|SD,tvbus://64Qyaatv3ewoVcbmU7xDUMS5pqpoyPJbXi9otr4av4bDoy1iE8hyJx8LKkHf7
-DISCOVERY SCIENCE|HD,tvbus://6isYQLdajB982fw8TD1CtXUobrwiLwdkeUqAht3ao9SJL6K42u5kURdrxKKoY
-DISCOVERY|HD,tvbus://66ZJBnoErjPriZPjTocXRVY8ZvdC9etLK7nw2uiWSHbRrbTEt2QJv4fwrJ66k
-Disney JR,tvbus://5YHwghNNK1KAiXb47sbDT6XeLighHmSGqALZWZX1kygLJ1A3ctD6VZm7g6CqP
-DISNEY JR|HD,tvbus://5coez2C41dWwXDWVnJneD11c5Xj5qqQodBHgzvHwLsgfvQ8mBi7SDs9ou2Ntw
-DISNEY XD|HD,tvbus://5oT7giJujzA7oWqXMkzwHz1NtvNgaDkg8S6rXQMrmCBSXHRE9xZSuHMpvPjvo
-DISNEY-CHANNEL,tvbus://6CHkCNLd6UXCWGDpmAgTWbfz5CCir4b985gBFCiv92WfiQZS56GZ7CfGMStoJ
-DISNEY-XD,tvbus://6MLyERpCximr7CUWGbujcxu8edSVk4tPeCA2nYmqECi5kfTfcHWjE9Qrhkz5u
-DIYNETWORK,tvbus://69rEf1HTzjKB5nCvg7vrYRe1LQdJBpbpFpPsNMuzmoqUwPnKxwVHMT1BS9Km2
-ESPN 2,tvbus://6iZQm1AfXmG3nDAQhXf9rH7Gagxn7fA367e1wJSa371KdJPBrPsngDXwqYitY
-ESPN U,tvbus://6CXH3BcEshFEHfLi2gbGoSYKUpFDMvzDJTFvkbQEuhwVrCCsHcYy6Pvn9sqSY
-ESPN,tvbus://6dAuxZcZxALaxKnVTc5kHAGSbKxj7pr87YivXDFtkftPtv2LSKktZEo98cjE1
-ESPN-2,tvbus://5ZxUghVgr1DAsBzS5AjTCfFjgvY22BcX6ipxZ8QyfzkFtXtSW247jRi9Tgq44
-ESPNU,tvbus://5pJ89Fd8ySqevaQfiQcNm85zW1n885SN9u9aRNC5taaWaxBYwTQhKscY111EP
-EUROSPORTS 1,tvbus://5vuZqZCyWNbmMosYWFUHFpKcjaKsDYz7CPKMCEBd9tLGKKA4D8kBqphgq6SXf
-EUROSPORTS 2,tvbus://5Za3uPb1YTSR3kVaZCo1iJUk4pqCT7ECiGNELwAynTkY692gfqGnV6h9YEeBL
-Food Network|HD,tvbus://63mpnHvZ15wqSgjqNgSRWwtVnbosH2HbbS92JNJjyueCEAbe7GV8KpEmucqFs
-FOOD-NETWORK,tvbus://6GT63xDv1NDa2iB33NnD8kFXm13CWgpcGKt7kF6EfQRnnCZiPUUXFhucTdqwE
-foxbnews,tvbus://5yCCzksPrSVY4ie5YJQZQ61gQ6ZXmaSAak8YrC7owCkB24iDYBg5WKjuSaaY8
-FOX-HD,tvbus://6V1BeSTzmwbFjqsiTchXJzUqCX9HBeAVtjGRQ4dFxuePFxAQSxt4gDyqJupoU
-FOX-SPORTS1,tvbus://5WM8hWrEWfriwUfvG6iZzg1SUfiHpDB9MjxTgzx4epmsYpWkaS1AHbTGJmFei
-FOX-SPORTS2,tvbus://5UnGRCTsF25oDepBhRvbGVfbY7gLNsYRNstg9XXNBJ3rHD6xChPLFH1FaHos4
-foxwest,tvbus://5L4qG6pqMqc2FRkK2wUJYJF6JhAqxgeXG8ftiNa4xk5FyeBLvjKW76agRsspv
-FX-HD,tvbus://68NTC5vdRg6RU7aa7pnRvoudjvE6f3bkkE1FVM7br9T5TRLpVqbpqiZsfaMj9
-FXX,tvbus://6geW4XpnkJg46uz5p36fpHCYURMy7kNKuQmnG5aGwuhF2RAZNCAMnR8kYfvE4
-golf,tvbus://6efXUoXX9UJAfrMFtwS5X311gnjCj8Gh8cF8EJ6A48K9WBqfZLVW6TFz8fBpd
-HBO 2,tvbus://6YugJJ4yB1axwMGjjQSsvbp4cfYmxRYovVKPhMEfp2yLqpFvWcvxJUDq6jjvi
-HBO ca,tvbus://5ufA9DQRFjPRY1xB3d8ZjeXge4gKy6fZUg8MwoaWp3xiFEymegc18zjqttA3q
-HGTV,tvbus://6ANqMvY4d38nep7nc1mdJVCdFmXy9Yr7isqWDyAH2wBEi9BsYu51mm5kPjjHV
-MLB,tvbus://5mchETxU6eT6jS4Hckoyfb5X5XnptFFq9Xb6nsVPkp2EEQBnRw5E4m8MNsVJV
-nazw,tvbus://5joE3o1aFkXMWuUPDGZkNJ5ipqnh2wWXnvkpnwudNrc9wnDH3pMcxHjHgutEV
-NBA,tvbus://5ZuVP5JBftNYwXFDCZGa1sSnF5zvMr3SBfmSdc3dLF3Sw9zEJkeddMJ7Dneod
-NBA b,tvbus://6cBMJcX4qvyn2wPwjHRCQC9whnPoxj2zbnbkvVoUkfSYs75NsuQZ7qmisheSr
-NBC Sports Bay Area,tvbus://5UjyRokthaJxm9YN4gjSXb7WUsqntRYCrietzqmYH8pV6hFsFspS3ChtTnC4p
-NBC Sports Boston,tvbus://6WWjkQoaF36RRiwTzpg4STGHini7jVkQrSY9U4wHUY29AzJrCu3yPyad8BxGp
-NBC Sports Network,tvbus://5vbCuMUqDHn8rYmXTccotzGoBhrCuiubohdv2JTatky3z8B4WhsikSeF3j22y
-NBC Sports NorthWest,tvbus://5yU2596P87X8S5z2HXNtYAJ7Ud7HK6Nko8V3myXTDDzFzPzBU7wV1bqTM8EZT
-NBC Sports Washington,tvbus://74hA2ostdifUEZanCnF4Hre6MjxfTR1aT121XqvgCo3akXn8Ry
-NBCSportsHD,tvbus://5TxJowEyn2YeQ1R54jkEJh61B5zzSZkbYm2NccPWqtZMrvEPBTcVkprTdKF1S
-nick jr(English),tvbus://5zHPzU324J3guXpHAuUB3YnfR7KTBQxj5bcp4Da8iyYJDHJDhnrGAeCCeX9Tx
-NOWTVHD,tvbus://5kGBTYcpcvpsaR38XS8eF9unJCn792pGR5ARKB68BYQhKvASmXV5nu2HXsAQk
-OWN,tvbus://67uZq1rpFMsLCaZxDCYQAYjr5RgMamyyAWm9fVewwAj6a6NA61kTBoxJ9xHQj
-SCIENCA,tvbus://6aeRJ6zU8p5VggL7Bwvrw6iAjpiaDaBJPPVSt9w9GDjRcrcUrqXD7d3g9mMUw
-Science,tvbus://5itPgWuhXaxXzjVAST7xtGWMCA7S6AX3n36dxM6bmvGZp7ztkXKqbAwGHhrzD
-SHOWTIME,tvbus://5bB8JAzR3aF6Goc1hBWo4HGFfKw5r8cLtySPHV7Z2axe4hmkmbgwhpsksafhZ
-Sky Sport F1 HD,tvbus://5r39vTXth3s7boCw31vQ6UedJdNKnvyRDMNVfXouSLDQWNGKkVoH9vWU7FGcV
-STARZEAST,tvbus://6ZgAqBKpSvvTyGFgcfjPNEkigDMQ4wrvY4Wxuwr7jvGgPKxi6WGU9YDeEFtFA
-SYFY,tvbus://5Zf6yHqYDMwRjMtyfCNpwRz39nTJoFFKB5DE1kjaf7Cr4fqhrBGYLmUz2GMYf
-TELETOON,tvbus://8Vn63mSjXjV7eEaM8n7MaqoqCfsSvEhiqgFu43Naq9g1icn53q
-tnt,tvbus://5i5hnuCg8xZUCgZpU7LR47vNAB7eXmsLsxc3QcKXkUdTyfEkYzpd3vWuFqgHD
-TRAVEL-CHANNEL,tvbus://67NoaQuKjToGdnZkHiPxVpvbFdVKT9RP18TgLbRKZtnUuSFhJincRgY1jEGQ5
-TSN 2,tvbus://6TQtzYHYn7VZ1Eknw2gNMySaHgPbBR5P1nVnqQWSUqV8b9uFsK1tYvcL6CSAD
-TSN 3,tvbus://5eJSBjV55ADhgC85AZd9q3GXToxbcfuezby55bTdpyFkNLTZmyggL7UNqo8ci
-TSN 4,tvbus://5Wfer819KXEoeZeeZncVeqMXEevvwxs2MQ6QZWX4SEphWHH8qanWgEncfaPJJ
-TSN 5,tvbus://62H3vuRrAqZiqT4zzZBHFR9w89mzR5YkmQoASr32owv4PzjsUbrwMHahixDH8
-xsd,tvbus://7Hp3ztaQuwqZPm2fJJDZg7aJMemgze63Kk2WykYyPenRNM6keC
-xsd2,tvbus://5rT41JtvsAB93wohNk4fzSKCQVmkUES6Af4XSW9ro5NVJbAN6GZmYnyZxD33c
 $c_startSPORT$c_end
 纬来体育台,http://198.16.106.62:8278/streams/d/videolandsport_zero/playlist.m3u8#p2p://fccsovh.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts#p2p://fccseuro.pvbox.live:18912/5c2dd76e00049e335bba26bf05a87895.ts#p2p://fccseuro.pvbox.live:18912/5c7249e60007ce3b1d5832543a7916ad.ts#p2p://fccseuro.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts
 爱尔达体育2,http://198.16.106.62:8278/streams/d/luxetv_zero/playlist.m3u8
@@ -1029,7 +954,6 @@ $c_start电影系列$c_end
 钢铁侠,http://auney.gearhostpreview.com/huya.php?id=11602034
 变形金刚,http://auney.gearhostpreview.com/huya.php?id=11352895
 $c_start动作片$c_end
-超越,https://vod.bunediy.com/20210715/rXrhK4HA/index.m3u8
 黑寡妇2021,https://vod.bunediy.com/20210709/J4Ja9qwI/index.m3u8
 刺杀小说家,https://vod.bunediy.com/20210409/nGotUHrq/index.m3u8
 智齿2021,https://vod.bunediy.com/20210706/LlrzbwMt/index.m3u8
@@ -1046,12 +970,6 @@ $c_start动作片$c_end
 人之怒,https://vod.bunediy.com/20210525/OF39UXjP/index.m3u8
 漠北追击,https://vod.bunediy.com/20210624/tOnad2Sz/index.m3u8
 $c_start科幻片$c_end
-洛基1,https://vod.bunediy.com/20210609/pe68Hh2e/index.m3u8
-洛基2,https://vod.bunediy.com/20210616/AcuzDLYN/index.m3u8
-洛基3,https://vod.bunediy.com/20210623/5yjFRRFJ/index.m3u8
-洛基4,https://vod.bunediy.com/20210630/2EBKRthr/index.m3u8
-洛基5,https://vod.bunediy.com/20210707/V4QtjVFc/index.m3u8
-洛基6,https://vod.bunediy.com/20210714/hLZlyAof/index.m3u8
 缉魂2021,https://vod.bunediy.com/20210226/7cpHlqFm/index.m3u8
 明日之战2021,https://vod.bunediy.com/20210702/zTBLVa5m/index.m3u8
 寂静之地2021,https://vod.bunediy.com/20210628/PSuVWdEh/index.m3u8
@@ -1139,6 +1057,33 @@ $c_start战争片$c_end
 赵云传之龙鸣长坂坡,https://vod.bunediy.com/20201107/UNtYVV05/index.m3u8
 赵子龙,https://vod.bunediy.com/20201130/0XvMrvD4/index.m3u8
 $c_start粤语片$c_end
+澳门风云1,https://vod.bunediy.com/20200507/zzd7HFwq/index.m3u8
+澳门风云2,https://vod.bunediy.com/20200429/P9bXXW4Y/index.m3u8
+澳门风云3,https://vod.bunediy.com/20200413/wFbpv5Ph/index.m3u8
+冲锋战警,https://vod.bunediy.com/20200507/hV5vwb5m/index.m3u8
+线人,https://vod.bunediy.com/20200502/LkIv0kQA/index.m3u8
+宝贝计划,https://vod.bunediy.com/20200422/tkAPJur1/index.m3u8
+决战紫禁之巅,https://vod.bunediy.com/20200508/nPCsfb0w/index.m3u8
+消失的子弹,https://vod.bunediy.com/20200509/6T1yB1Sx/index.m3u8
+六福喜事,https://vod.bunediy.com/20200501/ObuDiUml/index.m3u8
+武状元苏乞儿,https://vod.bunediy.com/20200502/HAl7VeIg/index.m3u8
+反贪风暴2,https://vod.bunediy.com/20200413/4xxPBE9s/index.m3u8
+反贪风暴3,https://vod.bunediy.com/20200505/3MSozGmy/index.m3u8
+杀破狼·贪狼,https://vod.bunediy.com/20200502/UcivsUkO/index.m3u8
+黑白迷宫,https://vod.bunediy.com/20200505/mDITuuLv/index.m3u8
+毒。诫,https://vod.bunediy.com/20200506/ORGIjkTB/index.m3u8
+我的特工爷爷,https://vod.bunediy.com/20200506/4FKwF8mF/index.m3u8
+妖铃铃,https://vod.bunediy.com/20200506/Nu88z7bg/index.m3u8
+导火线,https://vod.bunediy.com/20200430/KW9Egt1J/index.m3u8
+赌侠1,https://vod.bunediy.com/20200502/NjxSYXFA/index.m3u8
+赌侠2之上海滩赌圣,https://vod.bunediy.com/20200502/gRB1ZH18/index.m3u8
+盲探,https://vod.bunediy.com/20200508/PIZ2xtAv/index.m3u8
+拆弹专家1,https://vod.bunediy.com/20200505/IhpYdE7G/index.m3u8
+拆弹专家2,https://vod.bunediy.com/20210220/oAlPrSEp/index.m3u8
+叶问3,https://vod.bunediy.com/20200428/lQbysS4M/index.m3u8
+追龙1,https://vod.bunediy.com/20200412/eKNTcmZb/index.m3u8
+追龙2,https://vod.bunediy.com/20210528/uf00AqP7/index.m3u8
+新喜剧之王,https://vod.bunediy.com/20200506/X9Z4oxAg/index.m3u8
 急先锋,https://vod.bunediy.com/20201019/laE6f29v/index.m3u8
 真·三国无双2021,https://vod.bunediy.com/20210506/sYQDB8Nk/index.m3u8
 满城尽带黄金甲2006,https://vod.bunediy.com/20210511/w9yrStD9/index.m3u8

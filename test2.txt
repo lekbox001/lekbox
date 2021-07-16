@@ -1002,6 +1002,7 @@ ABC朝日放送,tvbus://5Ln6bQ7GAj9GXZMdcZCTy2tHZL1rJpuARqbDK2NEcwA31oxwYME2btdb
 钢铁侠,http://auney.gearhostpreview.com/huya.php?id=11602034
 变形金刚,http://auney.gearhostpreview.com/huya.php?id=11352895
 动作片,#genre#
+超越,https://vod.bunediy.com/20210715/rXrhK4HA/index.m3u8
 黑寡妇2021,https://vod.bunediy.com/20210709/J4Ja9qwI/index.m3u8
 刺杀小说家,https://vod.bunediy.com/20210409/nGotUHrq/index.m3u8
 智齿2021,https://vod.bunediy.com/20210706/LlrzbwMt/index.m3u8

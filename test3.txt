@@ -970,6 +970,7 @@ $c_start动作片$c_end
 人之怒,https://vod.bunediy.com/20210525/OF39UXjP/index.m3u8
 漠北追击,https://vod.bunediy.com/20210624/tOnad2Sz/index.m3u8
 $c_start科幻片$c_end
+格罗姆少校,https://vod.bunediy.com/20210708/vQm4fsPn/index.m3u8
 缉魂2021,https://vod.bunediy.com/20210226/7cpHlqFm/index.m3u8
 明日之战2021,https://vod.bunediy.com/20210702/zTBLVa5m/index.m3u8
 寂静之地2021,https://vod.bunediy.com/20210628/PSuVWdEh/index.m3u8
@@ -997,6 +998,7 @@ $c_start科幻片$c_end
 皇家次子女秘密组织,https://vod4.buycar5.cn/20201116/cLjrmY2D/1000kb/hls/index.m3u8
 超能计划,https://video.buycar5.cn/20200818/SEImmz43/1000kb/hls/index.m3u8
 $c_start喜剧片$c_end
+超越2021,https://vod.bunediy.com/20210715/rXrhK4HA/index.m3u8
 你好李焕英2021,https://vod.bunediy.com/20210501/mL02M2tO/index.m3u8
 比得兔2021,https://vod.bunediy.com/20210706/92Da0kz4/index.m3u8
 人潮汹涌2021,https://vod.bunediy.com/20210414/RY8Zet12/index.m3u8
@@ -1016,8 +1018,9 @@ $c_start喜剧片$c_end
 黑白魔女库伊拉,https://vod.bunediy.com/20210529/oVwbZwt2/index.m3u8
 天使替我来爱你,https://vod.bunediy.com/20210529/G2jY90Mb/index.m3u8
 $c_start恐怖片$c_end
-恐惧街2021,https://vod.bunediy.com/20210702/pEsIzOE2/index.m3u8
-恐惧街b2021,https://vod.bunediy.com/20210709/3hSO7wXK/index.m3u8
+恐惧街1,https://vod.bunediy.com/20210702/pEsIzOE2/index.m3u8
+恐惧街2,https://vod.bunediy.com/20210709/3hSO7wXK/index.m3u8
+恐惧街3,https://vod.bunediy.com/20210716/MWbSiOdJ/index.m3u8
 猛鬼实验室2021,https://vod.bunediy.com/20210527/SedKmtZ5/index.m3u8
 我想结束这一切2020,https://vod.bunediy.com/20200905/eYY7CwMR/index.m3u8
 隐形人2020,https://vod.bunediy.com/20200612/pqpBfOmD/index.m3u8

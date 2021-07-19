@@ -979,6 +979,11 @@ $c_start动作片$c_end
 人之怒,https://vod.bunediy.com/20210525/OF39UXjP/index.m3u8
 漠北追击,https://vod.bunediy.com/20210624/tOnad2Sz/index.m3u8
 $c_start科幻片$c_end
+人类清除计划1,https://vod.bunediy.com/20210614/ugWIoqlI/index.m3u8
+人类清除计划2,https://vod.bunediy.com/20210614/a41vtWN3/index.m3u8
+人类清除计划3,https://vod.bunediy.com/20210614/hUKaRUH9/index.m3u8
+人类清除计划4,https://vod.bunediy.com/20210614/OJEilvp8/index.m3u8
+人类清除计划5,https://vod.bunediy.com/20210718/Qh7w1Rip/index.m3u8
 格罗姆少校,https://vod.bunediy.com/20210708/vQm4fsPn/index.m3u8
 缉魂2021,https://vod.bunediy.com/20210226/7cpHlqFm/index.m3u8
 明日之战2021,https://vod.bunediy.com/20210702/zTBLVa5m/index.m3u8

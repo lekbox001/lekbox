@@ -1,0 +1,2187 @@
+#EXTM3U
+#EXTINF:-1 group-title="MY",TV1
+http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
+#EXTINF:-1 group-title="MY",TV2
+http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
+#EXTINF:-1 group-title="MY",TV3
+http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
+#EXTINF:-1 group-title="MY",NTV7
+http://185.180.221.194:8278/streams/d/NTV7/playlist.m3u8
+#EXTINF:-1 group-title="MY",8TV
+http://185.180.221.194:8278/streams/d/TV8/playlist.m3u8
+#EXTINF:-1 group-title="MY",TV9
+http://185.180.221.194:8278/streams/d/TV9/playlist.m3u8
+#EXTINF:-1 group-title="MY",Astro Arena
+http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
+#EXTINF:-1 group-title="MY",Astro Awani
+http://185.180.221.194:8278/streams/d/Awani/playlist.m3u8
+#EXTINF:-1 group-title="MY",Astro AEC
+http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
+#EXTINF:-1 group-title="MY",Astro Warna
+http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
+#EXTINF:-1 group-title="MY",Astro Ria
+http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
+#EXTINF:-1 group-title="MY",Astro Prima
+http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
+#EXTINF:-1 group-title="MY",Astro Oasis
+http://185.180.221.194:8278/streams/d/Oasis/playlist.m3u8
+#EXTINF:-1 group-title="MY",Astro Citra
+http://185.180.221.194:8278/streams/d/Citra/playlist.m3u8
+#EXTINF:-1 group-title="MY",BOO
+http://185.180.221.194:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:-1 group-title="MY",Hello
+http://185.180.221.194:8278/streams/d/Hello/playlist.m3u8
+#EXTINF:-1 group-title="MY",Naura
+http://185.180.221.194:8278/streams/d/Naura/playlist.m3u8
+#EXTINF:-1 group-title="MY",TVB Xing He
+http://185.180.221.194:8278/streams/d/Xinhe/playlist.m3u8
+#EXTINF:-1 group-title="MY",Astro Quan Jia
+http://185.180.221.194:8278/streams/d/Quanjia/playlist.m3u8
+#EXTINF:-1 group-title="MY",Astro AOD
+http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
+#EXTINF:-1 group-title="MY",Astro Xiao Tai Yang
+http://185.180.221.194:8278/streams/d/Xiaotaiyang/playlist.m3u8
+#EXTINF:-1 group-title="MY",Astro Hua Hee Dai
+http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
+#EXTINF:-1 group-title="MY",Astro Shuang Xing
+http://185.180.221.194:8278/streams/d/Shuangxing/playlist.m3u8
+#EXTINF:-1 group-title="MY",iQIYI
+http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
+#EXTINF:-1 group-title="MY",Thrill
+http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
+#EXTINF:-1 group-title="MY",AXN HD
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="MY",AXN
+http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
+#EXTINF:-1 group-title="MY",TLC
+http://185.180.221.194:8278/streams/d/Tlc/playlist.m3u8
+#EXTINF:-1 group-title="MY",AFN
+http://185.180.221.194:8278/streams/d/Afc/playlist.m3u8
+#EXTINF:-1 group-title="MY",HITS
+http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
+#EXTINF:-1 group-title="MY",HITS MOVIES
+http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
+#EXTINF:-1 group-title="MY",Celestial Movie
+http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF:-1 group-title="MY",CCM
+http://185.180.221.194:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:-1 group-title="MY",ONE
+http://185.180.221.194:8278/streams/d/One/playlist.m3u8
+#EXTINF:-1 group-title="THAI",ALTV
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 group-title="THAI",ASTV News 1
+http://news1.live14.com/stream/news1_hi.m3u8
+#EXTINF:-1 group-title="THAI",Channel 5 (240p)
+https://tc-live1.sanook.com/live/22302_ch5.m3u8
+#EXTINF:-1 group-title="THAI",Channel 7 (240p)
+https://bcovlive-a.akamaihd.net/2d37038b355f4ea6a6b0d46993dc285c/ap-southeast-1/5282994675001/profile_0/chunklist.m3u8
+#EXTINF:-1 group-title="THAI",Channel 8
+http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
+#EXTINF:-1 group-title="THAI",Golf Channel Thailand HD (720p) [Not 24/7]
+https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
+#EXTINF:-1 group-title="THAI",Mono 29
+https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
+#EXTINF:-1 group-title="THAI",NBT Bangkok [Not 24/7]
+http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="THAI",News1
+http://news1.live14.com/stream/news1.m3u8
+#EXTINF:-1 group-title="THAI",Thai PBS (Opt-4)
+http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
+#EXTINF:-1 group-title="THAI",Thai PBS 3 (1080p)
+https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 group-title="THAI",Thai PBS 3
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 group-title="THAI",Thai PBS 3
+https://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
+#EXTINF:-1 group-title="THAI",Thairath TV 32 (720p)
+https://live.thairath.co.th/trtv2/playlist.m3u8
+#EXTINF:-1 group-title="THAI",TPTV (286p)
+http://49.231.66.85:1935/live/tptv/playlist.m3u8
+#EXTINF:-1 group-title="THAI",True Premier Football HD 1 (720p) [Not 24/7]
+https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="THAI",True Premier Football HD 2 (720p) [Not 24/7]
+https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="THAI",True Premier Football HD 3 (720p) [Not 24/7]
+https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="THAI",True Premier Football HD 4 (720p) [Not 24/7]
+https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="THAI",True Premier Football HD 5 (720p) [Not 24/7]
+https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1 group-title="THAI",True Sports 5 (480p Scaled) [Not 24/7]
+https://www.livedoomovie.com/02_sport5_480p/chunklist.m3u8
+#EXTINF:-1 group-title="THAI",True Sports 7 (480p Scaled) [Not 24/7]
+https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
+#EXTINF:-1 group-title="THAI",True Sports HD 1 (720p) [Not 24/7]
+https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="THAI",True Sports HD 2 (720p) [Not 24/7]
+https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="THAI",True Sports HD 3 (720p) [Not 24/7]
+https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="THAI",True Sports HD 4 (720p) [Not 24/7]
+https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="THAI",True Tennis HD (720p) [Not 24/7]
+https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="THAI",TV Muslim (1080p) [Not 24/7]
+http://vip2.liveanywhere.asia:1935/tvmuslim/tvmuslim/playlist.m3u8
+#EXTINF:-1 group-title="THAI",White Channel
+http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
+#EXTINF:-1 group-title="INDO",ADiTV
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+#EXTINF:-1 group-title="INDO",ATV
+http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="INDO",BANDUNG TV
+http://202.150.153.254/bandungtv720p.m3u8
+#EXTINF:-1 group-title="INDO",Bayu TV
+http://wms.klikhost.com/bayutv/live/chunklist_w54273383.m3u8
+#EXTINF:-1 group-title="INDO",BeritaSatu
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8#https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8#http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+#EXTINF:-1 group-title="INDO",Cahaya TV Banten
+http://103.23.201.170:1935/live/livestream/playlist.m3u8#http://103.23.201.170:1935/live/livestream/chunklist_w1352763317.m3u8
+#EXTINF:-1 group-title="INDO",CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b280000_sleng.m3u8#http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
+#EXTINF:-1 group-title="INDO",CTV BANTEN
+http://103.23.201.170:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 group-title="INDO",Extremadura TV
+https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/chunklist.m3u8
+#EXTINF:-1 group-title="INDO",Iqraa TV
+http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
+#EXTINF:-1 group-title="INDO",Jakarta Globe
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2288000.m3u8
+#EXTINF:-1 group-title="INDO",Kawanua tv
+http://122.248.43.138:1935/ch18/myStream/chunklist_w588500490.m3u8
+#EXTINF:-1 group-title="INDO",Maleo
+http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="INDO",METRO TV
+http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8#http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1 group-title="INDO",MGS TV
+http://wowza58.indostreamserver.com:1935/mgstv/live/playlist.m3u8
+#EXTINF:-1 group-title="INDO",Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+#EXTINF:-1 group-title="INDO",MYTV
+https://dl.dropbox.com/s/qzl6jtxmhyoyovl/Mytv.m3u8?dl=1
+#EXTINF:-1 group-title="INDO",PONTIANAK TV
+http://202.150.153.254/bandungtv720p.m3u8
+#EXTINF:-1 group-title="INDO",Radio 51 TV
+http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
+#EXTINF:-1 group-title="INDO",Reformed 21
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
+#EXTINF:-1 group-title="INDO",RIAU TV
+http://122.248.43.138:1935/ch11/myStream/playlist.m3u8
+#EXTINF:-1 group-title="INDO",RRI NET
+http://36.89.47.217:11935/rrinet/live/index.m3u8#http://cdnrrinet.rri.co.id/rrinet/live_720p/chunklist_w774084731.m3u8
+#EXTINF:-1 group-title="INDO",RTV Riau
+http://122.248.43.138:1935/ch11/myStream/live.m3u8
+#EXTINF:-1 group-title="INDO",SURAU TV
+http://119.235.249.58:1935/surautv/live/chunklist_w565930947.m3u8
+#EXTINF:-1 group-title="INDO",Tatv
+http://flash1.broadcastindo.net/tatv/live.sdp/playlist.m3u8#http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8
+#EXTINF:-1 group-title="INDO",Tegar TV
+http://wms.klikhost.com/tegartv/live/playlist.m3u8#,http://wms.klikhost.com:1935/tegartv/live/chunklist_w505057089.m3u8
+#EXTINF:-1 group-title="INDO",TV Banten
+http://103.23.201.170:1935/live/livestream/lihattv.m3u8
+#EXTINF:-1 group-title="INDO",TV Ku
+http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:-1 group-title="INDO",TV9 NUSANTARA
+http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
+#EXTINF:-1 group-title="INDO",TVRI 3
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8#http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI DKI Jakarta
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Jakarta
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Jawa Barat
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Jawa Tengah
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Jawa Tengah
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Kanal 3
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI NASIONAL
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Nasional
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Sports
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Yogyakarta
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
+#EXTINF:-1 group-title="INDO",BeritaSatu
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
+#EXTINF:-1 group-title="INDO",BeritaSatu
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+#EXTINF:-1 group-title="INDO",BeritaSatu
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:-1 group-title="INDO",BeritaSatu
+https://b1news.beritasatumedia.com/Beritasatu/B1News_320x240.m3u8
+#EXTINF:-1 group-title="INDO",BeritaSatu
+https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
+#EXTINF:-1 group-title="INDO",BeritaSatu English
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+#EXTINF:-1 group-title="INDO",BeritaSatu World
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+#EXTINF:-1 group-title="INDO",CNBC Indonesia (720p)
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#EXTINF:-1 group-title="INDO",CNN Indonesia (720p)
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 group-title="INDO",GTV (720p)
+https://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
+#EXTINF:-1 group-title="INDO",GTV
+https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.vidio.com/live/778-gtv
+#EXTINF:-1 group-title="INDO",GTV (720p)
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
+#EXTINF:-1 group-title="INDO",HIDUP TV (568p)
+http://202.93.133.3:1935/SVR1/ch_hiduptv.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="INDO",Hits
+https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
+#EXTINF:-1 group-title="INDO",Hits Movies
+https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+#EXTINF:-1 group-title="INDO",I AM CHANNEL (576p)
+http://iamchannel.org:1935/tes/1/playlist.m3u8
+#EXTINF:-1 group-title="INDO",Indonesia Channel (720p)
+http://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/playlist.m3u8
+#EXTINF:-1 group-title="INDO",Indosiar
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 group-title="INDO",Indosiar
+https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.vidio.com/live/205-indosiar
+#EXTINF:-1 group-title="INDO",iNews
+https://live.unregister.xyz/live/eds/inews_fta/live_fta/inews_fta.m3u8
+#EXTINF:-1 group-title="INDO",iNews
+https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.vidio.com/live/5409-inews
+#EXTINF:-1 group-title="INDO",iNews
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
+#EXTINF:-1 group-title="INDO",Kompas TV
+https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.vidio.com/live/874-kompas-tv
+#EXTINF:-1 group-title="INDO",METRO TV (720p)
+http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
+#EXTINF:-1 group-title="INDO",Metro TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8
+#EXTINF:-1 group-title="INDO",METRO TV (720p)
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1 group-title="INDO",METRO TV
+https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.vidio.com/live/777-metro-tv
+#EXTINF:-1 group-title="INDO",MNCTV
+http://bonev2.xyz:80/playlist/vidio-mnc-new-bonetv.m3u8
+#EXTINF:-1 group-title="INDO",MNCTV (720p)
+https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
+#EXTINF:-1 group-title="INDO",MNCTV
+https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.vidio.com/live/870-mnc
+#EXTINF:-1 group-title="INDO",MNCTV (720p)
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
+#EXTINF:-1 group-title="INDO",MyTV
+https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.vidio.com/live/6711-mytv
+#EXTINF:-1 group-title="INDO",NET.
+https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.vidio.com/live/875-net-tv
+#EXTINF:-1 group-title="INDO",O Channel
+https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.vidio.com/live/206-ochannel
+#EXTINF:-1 group-title="INDO",One TV
+https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+#EXTINF:-1 group-title="INDO",Radio 51 TV (480p)
+https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
+#EXTINF:-1 group-title="INDO",RCTI
+https://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
+#EXTINF:-1 group-title="INDO",RCTI
+https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.vidio.com/live/665-rcti
+#EXTINF:-1 group-title="INDO",RCTI (720p)
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
+#EXTINF:-1 group-title="INDO",Reformed 21
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
+#EXTINF:-1 group-title="INDO",RRI Net (720p)
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+#EXTINF:-1 group-title="INDO",RTV
+https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.vidio.com/live/1561-rtv
+#EXTINF:-1 group-title="INDO",SCTV
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 group-title="INDO",SCTV
+https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
+#EXTINF:-1 group-title="INDO",SCTV
+https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.vidio.com/live/204-sctv
+#EXTINF:-1 group-title="INDO",TEGAR TV (480p)
+http://wms.klikhost.com/tegartv/live/playlist.m3u8
+#EXTINF:-1 group-title="INDO",TRANS 7 HD
+https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.vidio.com/live/734-trans7
+#EXTINF:-1 group-title="INDO",TRANS 7 HD (720p)
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1 group-title="INDO",TRANS TV HD
+https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.vidio.com/live/733-trans-tv
+#EXTINF:-1 group-title="INDO",TRANS TV HD (720p)
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="INDO",TVIKIM (480p)
+http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
+#EXTINF:-1 group-title="INDO",TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:-1 group-title="INDO",TVR Parlemen [Not 24/7]
+http://103.18.181.69:1935/golive/livestream/playlist.m3u8
+#EXTINF:-1 group-title="INDO",TVR Parlemen Badan Anggaran [Not 24/7]
+http://103.18.181.69:1935/golive/livestreambanggar/playlist.m3u8
+#EXTINF:-1 group-title="INDO",TVR Parlemen Badan Legislatif [Not 24/7]
+http://103.18.181.69:1935/golive/livestreambaleg/playlist.m3u8
+#EXTINF:-1 group-title="INDO",TVR Parlemen Badan Musyawarah [Not 24/7]
+http://103.18.181.69:1935/golive/livestreambamus/playlist.m3u8
+#EXTINF:-1 group-title="INDO",TVR Parlemen BAKN [Not 24/7]
+http://103.18.181.69:1935/golive/livestreambakn/playlist.m3u8
+#EXTINF:-1 group-title="INDO",TVR Parlemen BKSAP [Not 24/7]
+http://103.18.181.69:1935/golive/livestreambksap/playlist.m3u8
+#EXTINF:-1 group-title="INDO",TVR Parlemen Komisi I [Not 24/7]
+http://103.18.181.69:1935/golive/livestream1/playlist.m3u8
+#EXTINF:-1 group-title="INDO",TVR Parlemen Komisi II [Not 24/7]
+http://103.18.181.69:1935/golive/livestream2/playlist.m3u8
+#EXTINF:-1 group-title="INDO",TVR Parlemen Komisi III [Not 24/7]
+http://103.18.181.69:1935/golive/livestream3/playlist.m3u8
+#EXTINF:-1 group-title="INDO",TVR Parlemen Komisi IV [Not 24/7]
+http://103.18.181.69:1935/golive/livestream4/playlist.m3u8
+#EXTINF:-1 group-title="INDO",TVR Parlemen Komisi IX [Not 24/7]
+http://103.18.181.69:1935/golive/livestream9/playlist.m3u8
+#EXTINF:-1 group-title="INDO",TVR Parlemen Komisi V [Not 24/7]
+http://103.18.181.69:1935/golive/livestream5/playlist.m3u8
+#EXTINF:-1 group-title="INDO",TVR Parlemen Komisi VI [Not 24/7]
+http://103.18.181.69:1935/golive/livestream6/playlist.m3u8
+#EXTINF:-1 group-title="INDO",TVR Parlemen Komisi VII [Not 24/7]
+http://103.18.181.69:1935/golive/livestream7/playlist.m3u8
+#EXTINF:-1 group-title="INDO",TVR Parlemen Komisi VIII [Not 24/7]
+http://103.18.181.69:1935/golive/livestream8/playlist.m3u8
+#EXTINF:-1 group-title="INDO",TVR Parlemen Komisi X [Not 24/7]
+http://103.18.181.69:1935/golive/livestream10/playlist.m3u8
+#EXTINF:-1 group-title="INDO",TVR Parlemen Komisi XI [Not 24/7]
+http://103.18.181.69:1935/golive/livestream11/playlist.m3u8
+#EXTINF:-1 group-title="INDO",TVRI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI 4
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Aceh
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Aceh
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Bali
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Bali
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Bangka Belitung
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIBABEL)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Bangka Belitung
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBABEL)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Bengkulu
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIBENGKULU)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Bengkulu
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBENGKULU)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI DKI Jakarta
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI DKI Jakarta
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Gorontalo
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIGORONTALO)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Gorontalo
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIGORONTALO)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Jambi
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Jambi
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Jawa Barat
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Jawa Barat
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Jawa Tengah
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Jawa Tengah
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Jawa Timur
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Jawa Timur
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Kalimantan Barat
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Kalimantan Barat
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Kalimantan Selatan
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Kalimantan Selatan
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Kalimantan Tengah
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALTENG)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Kalimantan Tengah
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALTENG)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Kalimantan Timur
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Kalimantan Timur
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Kanal 3
+http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Kanal 3
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Lampung
+http://118.97.50.107/Content/HLS/Live/Channel(TVRILAMPUNG)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Lampung
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRILAMPUNG)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Maluku
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Maluku
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Nasional
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Nasional
+http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="INDO",TVRI Nasional
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Nasional
+https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.vidio.com/live/6441-tvri
+#EXTINF:-1 group-title="INDO",TVRI Nusa Tenggara Barat
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINTBMATARAM)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Nusa Tenggara Barat
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINTBMATARAM)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Nusa Tenggara Timur
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINTTKUPANG)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Nusa Tenggara Timur
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINTTKUPANG)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Papua
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Papua
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Riau
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIriau)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Riau
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIriau)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Sport HD
+http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Sport HD
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Sulawesi Barat
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIsulbarmajene)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Sulawesi Barat
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIsulbarmajene)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Sulawesi Selatan
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISULSELMAKASAR)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Sulawesi Selatan
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULSELMAKASAR)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Sulawesi Tengah
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISULTENGPALU)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Sulawesi Tengah
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULTENGPALU)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Sulawesi Tenggara
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISULTRA)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Sulawesi Tenggara
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULTRA)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Sulawesi Utara
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISULUTMANADO)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Sulawesi Utara
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULUTMANADO)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Sumatera Barat
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Sumatera Barat
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Sumatera Selatan
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMSEL)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Sumatera Selatan
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISUMSEL)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Sumatera Utara
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMUTMEDAN)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Sumatera Utara
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISUMUTMEDAN)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Yogyakarta
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI Yogyakarta
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
+#EXTINF:-1 group-title="INDO",TVRI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
+#EXTINF:-1 group-title="Asian",BOO TV
+http://185.180.221.194:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Hello
+http://185.180.221.194:8278/streams/d/Hello/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Naura
+http://185.180.221.194:8278/streams/d/Naura/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Thrill
+http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
+#EXTINF:-1 group-title="Asian",AXN HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="Asian",AXN
+http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
+#EXTINF:-1 group-title="Asian",SPORT 2
+http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1 group-title="Asian",SPORT 2
+http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
+#EXTINF:-1 group-title="Asian",SPORT 4
+http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Arena
+http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Awani
+http://185.180.221.194:8278/streams/d/Awani/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Warna
+http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Ria
+http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Prima
+http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Oasis
+http://185.180.221.194:8278/streams/d/Oasis/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Citra
+http://185.180.221.194:8278/streams/d/Citra/playlist.m3u8
+#EXTINF:-1 group-title="Asian",AEC ᴴᴰ
+http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
+#EXTINF:-1 group-title="Asian",WWE摔角
+http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
+#EXTINF:-1 group-title="Asian",CNN International (720p)
+http://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Asian",SKYNEWs
+http://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
+#EXTINF:-1 group-title="Asian",TV1
+http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
+#EXTINF:-1 group-title="Asian",TV2
+http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
+#EXTINF:-1 group-title="Asian",TV3
+http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
+#EXTINF:-1 group-title="Asian",NTV7
+http://185.180.221.194:8278/streams/d/NTV7/playlist.m3u8
+#EXTINF:-1 group-title="Asian",8TV
+http://185.180.221.194:8278/streams/d/TV8/playlist.m3u8
+#EXTINF:-1 group-title="Asian",TV9
+http://185.180.221.194:8278/streams/d/TV9/playlist.m3u8
+#EXTINF:-1 group-title="Asian",TLC
+http://185.180.221.194:8278/streams/d/Tlc/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Fox Movies HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Fox Action Movies
+http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Fox HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Fox Sports 1
+http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Fox Sports 2
+http://185.180.221.194:8278/streams/d/Foxsports2/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Fox Sports 3
+http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Fox Movies
+http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Fox Life
+http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Fox Family Movies
+http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Fox HD
+http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Fox Crime
+http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
+#EXTINF:-1 group-title="Asian",AFN
+http://185.180.221.194:8278/streams/d/Afc/playlist.m3u8
+#EXTINF:-1 group-title="Asian",HITS
+http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
+#EXTINF:-1 group-title="Asian",HITS MOVIES
+http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
+#EXTINF:-1 group-title="Asian",TVN50
+http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+#EXTINF:-1 group-title="Asian",TVN185
+http://185.180.221.194:8278/streams/d/TVN/playlist.m3u8
+#EXTINF:-1 group-title="Asian",TVN Movie185
+http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
+#EXTINF:-1 group-title="Asian",SBS Star
+http://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8
+#EXTINF:-1 group-title="Asian",HBO50
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 group-title="Asian",HBO2
+http://gratismkctv.net/film/hbo.m3u8
+#EXTINF:-1 group-title="Asian",NHK
+http://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Sony One50
+http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Sony ONE185
+http://185.180.221.194:8278/streams/d/One/playlist.m3u8
+#EXTINF:-1 group-title="Asian",KBS World50
+http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Channel V
+http://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Asian",Channel V
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="Asian",HBO
+http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 group-title="Asian",HBO HiTS
+http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
+#EXTINF:-1 group-title="Asian",HBO Signature
+http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
+#EXTINF:-1 group-title="Asian",BBC Earth
+http://185.180.221.194:8278/streams/d/Bbcearth/playlist.m3u8
+#EXTINF:-1 group-title="Asian",NAT GEO
+http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
+#EXTINF:-1 group-title="Asian",DISNEY TV
+http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Animal Planet185
+http://185.180.221.194:8278/streams/d/AnimalPlanet/playlist.m3u8
+#EXTINF:-1 group-title="Asian",ANIMAX
+http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Ria HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6730
+#EXTINF:-1 group-title="Asian",Prima HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6727
+#EXTINF:-1 group-title="Asian",Warna HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6740
+#EXTINF:-1 group-title="Asian",Citra HD (subtitle)
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7267
+#EXTINF:-1 group-title="Asian",Naura HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6724
+#EXTINF:-1 group-title="Asian",Oasis HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6725
+#EXTINF:-1 group-title="Asian",Rania HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6729
+#EXTINF:-1 group-title="Asian",Awani HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6714
+#EXTINF:-1 group-title="Asian",Ceria HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6715
+#EXTINF:-1 group-title="Asian",Al-Jazzera HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6694
+#EXTINF:-1 group-title="Asian",Animax
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6696
+#EXTINF:-1 group-title="Asian",AEC HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6701
+#EXTINF:-1 group-title="Asian",Colors Tamil
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6716
+#EXTINF:-1 group-title="Asian",Zee Tamil HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6742
+#EXTINF:-1 group-title="Asian",Vinmeen HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6739
+#EXTINF:-1 group-title="Asian",Vaanavil HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6738
+#EXTINF:-1 group-title="Asian",Makkal TV
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6806
+#EXTINF:-1 group-title="Asian",Star Vijay HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6732
+#EXTINF:-1 group-title="Asian",iQIYI HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6723
+#EXTINF:-1 group-title="Asian",Hello
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6721
+#EXTINF:-1 group-title="Asian",Oh!K HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6726
+#EXTINF:-1 group-title="Asian",Shuang Xing HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6731
+#EXTINF:-1 group-title="Asian",Xiao Tai Yang HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6741
+#EXTINF:-1 group-title="Asian",AXN HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6743
+#EXTINF:-1 group-title="Asian",CNN HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6767
+#EXTINF:-1 group-title="Asian",Sony TV
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6829
+#EXTINF:-1 group-title="Asian",Sky News HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6826
+#EXTINF:-1 group-title="Asian",Nick Jr
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6813
+#EXTINF:-1 group-title="Asian",TV 1
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7177
+#EXTINF:-1 group-title="Asian",TV 3 HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8750
+#EXTINF:-1 group-title="Asian",TV 9
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7185
+#EXTINF:-1 group-title="Asian",BERNAMA
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7190
+#EXTINF:-1 group-title="Asian",Cinemax FHD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7062
+#EXTINF:-1 group-title="Asian",Hits Movies
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7066
+#EXTINF:-1 group-title="Asian",HBO FHD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7067
+#EXTINF:-1 group-title="Asian",HBO Signature FHD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7069
+#EXTINF:-1 group-title="Asian",Warner TV HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7072
+#EXTINF:-1 group-title="Asian",tVN movies HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7074
+#EXTINF:-1 group-title="Asian",Nat Geo Wild HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7081
+#EXTINF:-1 group-title="Asian",Nat Geo People HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7080
+#EXTINF:-1 group-title="Asian",History FHD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7079
+#EXTINF:-1 group-title="Asian",Discovery Channel HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7078
+#EXTINF:-1 group-title="Asian",HGTV
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7076
+#EXTINF:-1 group-title="Asian",Thrill
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7220
+#EXTINF:-1 group-title="Asian",FOX
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7227
+#EXTINF:-1 group-title="Asian",Fox Life
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7228
+#EXTINF:-1 group-title="Asian",Celestial Classic Movies.
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7222
+#EXTINF:-1 group-title="Asian",BBC Earth
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7233
+#EXTINF:-1 group-title="Asian",Arena HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6707
+#EXTINF:-1 group-title="Asian",SUPERSPORT HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6708
+#EXTINF:-1 group-title="Asian",SUPERSPORT 2 HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6710
+#EXTINF:-1 group-title="Asian",SUPERSPORT 3 HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6711
+#EXTINF:-1 group-title="Asian",SUPERSPORT 4 HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6712
+#EXTINF:-1 group-title="Asian",FOX Sports HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6793
+#EXTINF:-1 group-title="Asian",FOX Sports 2 HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6791
+#EXTINF:-1 group-title="Asian",FOX Sports 3 HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6792
+#EXTINF:-1 group-title="Asian",beIN MAX
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6748
+#EXTINF:-1 group-title="Asian",DSTV: SuperSport Premier League
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6574
+#EXTINF:-1 group-title="Asian",The Thousand Faces of Dunjia (2017)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/325.mp4
+#EXTINF:-1 group-title="Asian",Project Power (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/327.mp4
+#EXTINF:-1 group-title="Asian",The New Mutants (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/328.mp4
+#EXTINF:-1 group-title="Asian",Chalte Chalte (2018)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/329.mp4
+#EXTINF:-1 group-title="Asian",Neighbors 2: Sorority Rising (2016)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/330.mp4
+#EXTINF:-1 group-title="Asian",Manap Karaoke (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/331.mp4
+#EXTINF:-1 group-title="Asian",Man santan ( 2020 )
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/337.mp4
+#EXTINF:-1 group-title="Asian",-Malay Audio- The SpongeBob Movie: Sponge on the Run (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/338.mp4
+#EXTINF:-1 group-title="Asian",Bigfoot Family (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/339.mp4
+#EXTINF:-1 group-title="Asian",Death of Me (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/340.mp4
+#EXTINF:-1 group-title="Asian",Drag Me to Hell (2009)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/341.mp4
+#EXTINF:-1 group-title="Asian",Flypaper (2011)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/342.mp4
+#EXTINF:-1 group-title="Asian",Meet Joe Black (1998)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/343.mp4
+#EXTINF:-1 group-title="Asian",Pet (2016)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/344.mp4
+#EXTINF:-1 group-title="Asian",Seized (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/345.mp4
+#EXTINF:-1 group-title="Asian",Unhinged (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/346.mp4
+#EXTINF:-1 group-title="Asian",Aku Kaya The Movie (2003)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/423.mp4
+#EXTINF:-1 group-title="Asian",Code of Thieves (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/425.mp4
+#EXTINF:-1 group-title="Asian",Cun! (2011)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/426.mp4
+#EXTINF:-1 group-title="Asian",Raatchasi (2019)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6564.mp4
+#EXTINF:-1 group-title="Asian",Bhoothnath (2008)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6567.mp4
+#EXTINF:-1 group-title="Asian",Bhoothnath Returns (2014)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6568.mp4
+#EXTINF:-1 group-title="Asian",Triggered (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6643.mp4
+#EXTINF:-1 group-title="Asian",Antidote (2018)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6644.mp4
+#EXTINF:-1 group-title="Asian",Clouds (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6645.mp4
+#EXTINF:-1 group-title="Asian",Cuties (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6646.mp4
+#EXTINF:-1 group-title="Asian",Holidate (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6647.mp4
+#EXTINF:-1 group-title="Asian",Phineas and Ferb The Movie: Candace Against the Universe (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6648.mp4
+#EXTINF:-1 group-title="Asian",Possessor Uncut (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6649.mp4
+#EXTINF:-1 group-title="Asian",Ravers (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6650.mp4
+#EXTINF:-1 group-title="Asian",Rebecca (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6651.mp4
+#EXTINF:-1 group-title="Asian",Relic (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6652.mp4
+#EXTINF:-1 group-title="Asian",Rogue City (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6653.mp4
+#EXTINF:-1 group-title="Asian",Sputnik (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6654.mp4
+#EXTINF:-1 group-title="Asian",The Call (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6655.mp4
+#EXTINF:-1 group-title="Asian",Words on Bathroom Walls (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6656.mp4
+#EXTINF:-1 group-title="Asian",A Babysitter\'s Guide to Monster Hunting (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6664.mp4
+#EXTINF:-1 group-title="Asian",A Night of Horror: Nightmare Radio (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6665.mp4
+#EXTINF:-1 group-title="Asian",Ben 10 Versus the Universe: The Movie (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6666.mkv
+#EXTINF:-1 group-title="Asian",BLACKPINK: Light Up the Sky (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6667.mp4
+#EXTINF:-1 group-title="Asian",Broil (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6668.mp4
+#EXTINF:-1 group-title="Asian",Clownery (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6669.mp4
+#EXTINF:-1 group-title="Asian",Come Away (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6670.mp4
+#EXTINF:-1 group-title="Asian",Cut Throat City (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6671.mp4
+#EXTINF:-1 group-title="Asian",Fishbowl (2018)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6672.mp4
+#EXTINF:-1 group-title="Asian",Ginny Weds Sunny (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6673.mp4
+#EXTINF:-1 group-title="Asian",Kick (2014)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6675.mp4
+#EXTINF:-1 group-title="Asian",Love and Monsters (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6676.mp4
+#EXTINF:-1 group-title="Asian",Nobody Sleeps in the Woods Tonight (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6677.mp4
+#EXTINF:-1 group-title="Asian",Nocturne (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6678.mp4
+#EXTINF:-1 group-title="Asian",Over the Moon (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6679.mp4
+#EXTINF:-1 group-title="Asian",Pasal Kau!
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6681.mkv
+#EXTINF:-1 group-title="Asian",Psy 3: W imię zasad (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6682.mp4
+#EXTINF:-1 group-title="Asian",Robert the Bruce (2019)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6683.mp4
+#EXTINF:-1 group-title="Asian",Save Yourselves! (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6684.mp4
+#EXTINF:-1 group-title="Asian",The Mortuary Collection (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6685.mp4
+#EXTINF:-1 group-title="Asian",The Other Side of Hope (2017)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6686.mp4
+#EXTINF:-1 group-title="Asian",The Secrets We Keep (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6687.mp4
+#EXTINF:-1 group-title="Asian",The Trial of the Chicago 7 (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6688.mp4
+#EXTINF:-1 group-title="Asian",The Wolf of Snow Hollow (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6689.mp4
+#EXTINF:-1 group-title="Asian",Villain (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6690.mp4
+#EXTINF:-1 group-title="Asian",Gemerlapan (1997)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6980.mp4
+#EXTINF:-1 group-title="Asian",Hilang Akal (2018)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6981.mp4
+#EXTINF:-1 group-title="Asian",Hingga Hujung Nyawa (2004)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6982.mp4
+#EXTINF:-1 group-title="Asian",Mon dan Jin Pakai Toncit (2013)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6983.mp4
+#EXTINF:-1 group-title="Asian",Isteriku CEO ( 2018 )
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6984.mp4
+#EXTINF:-1 group-title="Asian",Jebat (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6985.mkv
+#EXTINF:-1 group-title="Asian",Jejaka Terhangat (2015)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6986.mp4
+#EXTINF:-1 group-title="Asian",Kalut Nak Raya (2017)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6987.mp4
+#EXTINF:-1 group-title="Asian",7 Perhentian (2004)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6988.mp4
+#EXTINF:-1 group-title="Asian",15 Puasa (2004)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6989.mp4
+#EXTINF:-1 group-title="Asian",16 Puasa (2017)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6990.mp4
+#EXTINF:-1 group-title="Asian",17 Puasa (2019)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6991.mp4
+#EXTINF:-1 group-title="Asian",Anak Perjanjian Syaitan (2019)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6993.mkv
+#EXTINF:-1 group-title="Asian",Baik Punya Cilok (2005)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6994.mp4
+#EXTINF:-1 group-title="Asian",Banglasia 2.0 (2019)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6995.mp4
+#EXTINF:-1 group-title="Asian",Biar Betul (2004)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6996.mp4
+#EXTINF:-1 group-title="Asian",Budok Kuba (2019)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6999.mp4
+#EXTINF:-1 group-title="Asian",Cinta Paling Agung (2015)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7000.mkv
+#EXTINF:-1 group-title="Asian",Cuci (2009)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7001.mp4
+#EXTINF:-1 group-title="Asian",Gadoh (2009)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7003.mp4
+#EXTINF:-1 group-title="Asian",Kimchi Untuk Awak (2017)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7004.mp4
+#EXTINF:-1 group-title="Asian",Magika (2010)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7005.mp4
+#EXTINF:-1 group-title="Asian",Paku Pontianak (2013)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7007.mp4
+#EXTINF:-1 group-title="Asian",Pisau Cukur (2009)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7008.mp4
+#EXTINF:-1 group-title="Asian",Putera (1994)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7009.mp4
+#EXTINF:-1 group-title="Asian",Saka Zain Jusoh (2019)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7010.mp4
+#EXTINF:-1 group-title="Asian",Sayang Suria (2015)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7011.mp4
+#EXTINF:-1 group-title="Asian",Sekali Lagi (2011)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7012.mp4
+#EXTINF:-1 group-title="Asian",Simfoni Duniaku (1994)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7013.mp4
+#EXTINF:-1 group-title="Asian",Sinaran (2015)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7014.mp4
+#EXTINF:-1 group-title="Asian",Surga Yang Tak Dirindukan 2 (2017)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7015.mp4
+#EXTINF:-1 group-title="Asian",Tempatkan Dia Di Syurga ( 2010 )
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7016.mp4
+#EXTINF:-1 group-title="Asian",V3: Samseng Jalanan (2010)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7017.mp4
+#EXTINF:-1 group-title="Asian",Fatman (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7018.mp4
+#EXTINF:-1 group-title="Asian",Kelaster (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7020.mkv
+#EXTINF:-1 group-title="Asian",Run (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7021.mp4
+#EXTINF:-1 group-title="Asian",The Last Warrior (2017)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7023.mp4
+#EXTINF:-1 group-title="Asian",Doraemon: Nobita and the Winged Braves (2001)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7025.mp4
+#EXTINF:-1 group-title="Asian",Doraemon The Movie - Nobita Dan Kerajaan Robot
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7026.mp4
+#EXTINF:-1 group-title="Asian",Doraemon: Nobita and the Windmasters (2003)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7027.mp4
+#EXTINF:-1 group-title="Asian",Doraemon: Nobita in the Wan-Nyan Spacetime Odyssey (2004)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7085.mp4
+#EXTINF:-1 group-title="Asian",Doraemon: Nobita\'s Dinosaur (2006)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7086.mp4
+#EXTINF:-1 group-title="Asian",Doraemon: Nobita The Great New Adventure Into The Underworld
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7087.mp4
+#EXTINF:-1 group-title="Asian",Doraemon: Nobita and the Steel Troops (1986)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7088.mp4
+#EXTINF:-1 group-title="Asian",Doraemon: Nobita and the Island of Miracles ~Animal Adventure~ (2012)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7089.mp4
+#EXTINF:-1 group-title="Asian",Mama Tak Akan Sama
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7090.mp4
+#EXTINF:-1 group-title="Asian",Bini Aku Dari Neraka Raya (2018)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7093.mp4
+#EXTINF:-1 group-title="Asian",Bukan Cerita Cinta Kita (2018)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7094.mp4
+#EXTINF:-1 group-title="Asian",Cinta Sticky Note (2018)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7095.mp4
+#EXTINF:-1 group-title="Asian",Cruise Cinta (2018)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7096.mp4
+#EXTINF:-1 group-title="Asian",Hantu Rumah Sakit Jiwa (2018)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7097.mp4
+#EXTINF:-1 group-title="Asian",Iman Ke Syurga (2018)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7099.mp4
+#EXTINF:-1 group-title="Asian",Istanbul Aku Datang! (2012)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7100.mp4
+#EXTINF:-1 group-title="Asian",Kerantung (2018)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7101.mp4
+#EXTINF:-1 group-title="Asian",Khalifahkan Aku
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7102.mp4
+#EXTINF:-1 group-title="Asian",KL Special Force (2018)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7103.mp4
+#EXTINF:-1 group-title="Asian",Lamaran Perfect (2018)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7104.mp4
+#EXTINF:-1 group-title="Asian",PONTIANAK DAN DOT DOT (2016)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7110.mp4
+#EXTINF:-1 group-title="Asian",Alien Invasion (2018)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7119.mp4
+#EXTINF:-1 group-title="Asian",Cagefighter: Worlds Collide (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7122.mp4
+#EXTINF:-1 group-title="Asian",Don\'t Listen (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7125.mp4
+#EXTINF:-1 group-title="Asian",Freaky (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7127.mp4
+#EXTINF:-1 group-title="Asian",Hachi: A Dog\'s Tale (2009)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7128.mp4
+#EXTINF:-1 group-title="Asian",Jingle Jangle: A Christmas Journey (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7131.mp4
+#EXTINF:-1 group-title="Asian",Inc. (2001)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7134.mp4
+#EXTINF:-1 group-title="Asian",Munich (2005)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7135.mp4
+#EXTINF:-1 group-title="Asian",Upin & Ipin: Keris Siamang Tunggal (2019)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7141.mkv
+#EXTINF:-1 group-title="Asian",Active Shooter (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7268.mp4
+#EXTINF:-1 group-title="Asian",Black Beauty (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7270.mp4
+#EXTINF:-1 group-title="Asian",Chick Fight (2021)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7271.mp4
+#EXTINF:-1 group-title="Asian",Come Play (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7272.mp4
+#EXTINF:-1 group-title="Asian",It Cuts Deep (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7273.mp4
+#EXTINF:-1 group-title="Asian",A Deadly Place (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7274.mp4
+#EXTINF:-1 group-title="Asian",Echo Boomers (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7275.mp4
+#EXTINF:-1 group-title="Asian",Jiu Jitsu (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7276.mp4
+#EXTINF:-1 group-title="Asian",Last Three Days (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7277.mp4
+#EXTINF:-1 group-title="Asian",Loco (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7278.mp4
+#EXTINF:-1 group-title="Asian",Pahuna: The Little Visitors (2017)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7279.mp4
+#EXTINF:-1 group-title="Asian",Playhouse (2021)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7280.mp4
+#EXTINF:-1 group-title="Asian",The Box (2009)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7281.mp4
+#EXTINF:-1 group-title="Asian",The Boy in the Striped Pyjamas (2008)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7282.mp4
+#EXTINF:-1 group-title="Asian",Transcendence (2014)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7298.mp4
+#EXTINF:-1 group-title="Asian",Turbo (2013)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7299.mp4
+#EXTINF:-1 group-title="Asian",What Happened to Mr Cha? (2021)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7301.mp4
+#EXTINF:-1 group-title="Asian",Dalil Cinta ( 2010 )
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7002.mp4
+#EXTINF:-1 group-title="Asian",Laskar Pelangi 2: Edensor (2013)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7105.mp4
+#EXTINF:-1 group-title="Asian",10 Tips Tipu Bini (2021)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7308.mkv
+#EXTINF:-1 group-title="Asian",Zack Snyder\'s Justice League (2021)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7309.mp4
+#EXTINF:-1 group-title="Asian",PK (2014)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7310.mp4
+#EXTINF:-1 group-title="Asian",The BFG (2016)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7311.mp4
+#EXTINF:-1 group-title="Asian",The Ten Commandments (2007)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7312.mp4
+#EXTINF:-1 group-title="Asian",Veer-Zaara (2004)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7317.mp4
+#EXTINF:-1 group-title="Asian",Weathering with You (2019)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7323.mp4
+#EXTINF:-1 group-title="Asian",Animax Japan
+http://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
+#EXTINF:-1 group-title="Asian",淘电影[高清]
+http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
+#EXTINF:-1 group-title="Asian",CCTV13HD
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
+#EXTINF:-1 group-title="Asian",CCTV13
+http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="Asian",C+-影视
+http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/01.m3u8
+#EXTINF:-1 group-title="Asian",NHK-综合
+http://203.162.235.41:16903
+#EXTINF:-1 group-title="Asian",Astro-爱奇艺
+http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Astro-港剧台
+http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Astro·BOO
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Astro·Citra
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+#EXTINF:-1 group-title="Asian",法国时尚
+http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+#EXTINF:-1 group-title="Asian",高清时尚
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Asian",亚洲新闻
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 group-title="Asian",亚洲新闻
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="Asian",红牛运动
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 group-title="Asian",红牛运动
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 group-title="Asian",彭博财经
+http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1 group-title="Asian",日本新闻
+https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
+#EXTINF:-1 group-title="Asian",NHK·华语视界
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 group-title="Asian",NHK·国际频道
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:-1 group-title="Asian",TVB·电视剧台
+https://edge6a.v2h-cdn.com/appt7/TDramaTV.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="Asian",K I X·动作频道
+https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Asian",Awani
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
+#EXTINF:-1 group-title="Asian",CinemaWorld
+http://210.210.155.35/uq2663/h/h04/index.m3u8
+#EXTINF:-1 group-title="Asian",KIX
+http://210.210.155.35/uq2663/h/h07/01.m3u8
+#EXTINF:-1 group-title="Asian",TV Ikim
+http://edge.vediostream.com/abr/tvikim/live/tvikim_360p/playlist.m3u8
+#EXTINF:-1 group-title="Asian",TV Ikim
+http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
+#EXTINF:-1 group-title="Asian",TV Ikim
+http://edge.vediostream.com/abr/tvikim/live/tvikim_source/playlist.m3u8
+#EXTINF:-1 group-title="Asian",ANIPLUS
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/index.m3u8
+#EXTINF:-1 group-title="Asian",Beam TV
+https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Inquirer 990 Television
+http://59c3ec70cfde0.streamlock.net/channel_7/channel7/chunklist.m3u8
+#EXTINF:-1 group-title="Asian",Life TV
+http://59c3ec70cfde0.streamlock.net/channel_6/channel6/chunklist.m3u8
+#EXTINF:-1 group-title="Asian",Life TV Asia
+https://d3cbe0gidjd4k2.cloudfront.net/channel_6/channel6/playlist.m3u8
+#EXTINF:-1 group-title="Asian",One Sports
+http://stream2.tv5.com.ph:1935/live3/smil:onesports.smil/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Pilipinas HD
+http://59c3ec70cfde0.streamlock.net/channel_5/channel5/chunklist.m3u8
+#EXTINF:-1 group-title="Asian",Shop TV
+https://d3cbe0gidjd4k2.cloudfront.net/channel_1/channel1/playlist.m3u8
+#EXTINF:-1 group-title="Asian",TV Shop Philippines
+http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
+#EXTINF:-1 group-title="Asian",TV5
+http://stream2.tv5.com.ph:1935/live2/smil:tv5stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Bloomberg TV Asia
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+#EXTINF:-1 group-title="Asian",Bloomberg TV Asia
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8
+#EXTINF:-1 group-title="Asian",Bloomberg TV Asia Live Event
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_event.m3u8
+#EXTINF:-1 group-title="Asian",Celestial Movies
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+#EXTINF:-1 group-title="Asian",CNA
+http://210.210.155.35/uq2663/h/h29/index.m3u8
+#EXTINF:-1 group-title="Asian",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 group-title="Asian",CNN-Indo
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
+#EXTINF:-1 group-title="Asian",CNN-Indo
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b280000_sleng.m3u8
+#EXTINF:-1 group-title="Asian",iNews-Indo
+https://www.dropbox.com/s/dl/9i6gugwhuhhlxtm/mkctv_inews.m3u8
+#EXTINF:-1 group-title="Asian",B1 News-Indo
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:-1 group-title="Asian",Thai PBS
+http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
+#EXTINF:-1 group-title="Asian",Sky News-Aus
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1 group-title="Asian",ABC News-Aus
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 group-title="Asian",ABC News-Aus
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 group-title="Asian",CGTN China
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 group-title="Asian",CGTN Spain
+http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 group-title="Asian",CNC News
+http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Arirang-Korea
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="Asian",KCTV-Korea
+http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+#EXTINF:-1 group-title="Asian",CBC News-Canada
+http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
+#EXTINF:-1 group-title="Asian",DW News-Germany
+https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
+#EXTINF:-1 group-title="Asian",DW News-Germany
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+#EXTINF:-1 group-title="Asian",France 24
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+#EXTINF:-1 group-title="Asian",Russia Today
+http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
+#EXTINF:-1 group-title="Asian",Sky News-UK
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
+#EXTINF:-1 group-title="Asian",BLOOMBERG TV-US
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
+#EXTINF:-1 group-title="Asian",BLOOMBERG TV-US
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1 group-title="Asian",Newsmax-US
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
+#EXTINF:-1 group-title="Asian",Newsmax-US
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 group-title="Asian",CBS News-US
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Asian",CBS News-US
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
+#EXTINF:-1 group-title="Asian",CBS News-US
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 group-title="Asian",FOX News
+http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Asian",Cheddar News
+http://live.chdrstatic.com/cbn/primary/3.m3u8
+#EXTINF:-1 group-title="Asian",Global News-US
+https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8
+#EXTINF:-1 group-title="Asian",Wairarapa-TV NZ
+http://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Telesur Venezuela
+https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
+#EXTINF:-1 group-title="Asian",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Asian",ARENA
+http://iptvtree.net:8080/11703/688cbf1a/157485?play_token=ovRrQhELXI
+#EXTINF:-1 group-title="Asian",ufc2
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="Asian",REUN
+https://livefta.malimarcdn.com/ftaedge00/houngfa.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="Asian",Sky Folk TV
+http://eu.live.skyfolk.mk/live.m3u8
+#EXTINF:-1 group-title="Asian",THAIPBS-3
+http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
+#EXTINF:-1 group-title="Asian",TV 5
+http://hls.cdn.ua/tv5.zp.ua_live/_definst_:tv5/playlist.m3u8
+#EXTINF:-1 group-title="Asian",TV5 Monde
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_6.m3u8
+#EXTINF:-1 group-title="Asian",TV7+ (Ð¥Ð¼ÐµÐ»ÑŒÐ½)
+http://tv7plus.com/hls/tv7_site.m3u8
+#EXTINF:-1 group-title="Asian",3HD
+https://www.livedoomovie.com/02_3HD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Asian",5HD
+https://www.livedoomovie.com/02_5HD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Asian",7HD
+https://www.livedoomovie.com/02_7HD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Asian",A3 Bikini Network
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Abu Dhabi Al Oula
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
+#EXTINF:-1 group-title="Asian",Abu Dhabi Drama
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
+#EXTINF:-1 group-title="Asian",Abu Dhabi Sports 2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+#EXTINF:-1 group-title="Asian",Abu Dhabi Sports 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+#EXTINF:-1 group-title="Asian",Abu Dhabi Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+#EXTINF:-1 group-title="Asian",Al Kass Sports 1
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:-1 group-title="Asian",Al Kass Sports 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1 group-title="Asian",Al Kass Sports 4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:-1 group-title="Asian",Al Kass Sports 5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF:-1 group-title="Asian",Al Saudiya
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
+#EXTINF:-1 group-title="Asian",ALTV4
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_720p/index.m3u8
+#EXTINF:-1 group-title="Asian",Animal Planet
+https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Asian",Arirang TV
+http://125.227.210.37:8933/VideoInput/play.ts
+#EXTINF:-1 group-title="Asian",Asian Food Network
+https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Asian",AXN HD
+https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Asian",Baby First
+https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Asian",Bahrain Sport 1
+http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1558393494
+#EXTINF:-1 group-title="Asian",Bahrain Sport 1
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Bahrain Sport 1
+http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1548640033
+#EXTINF:-1 group-title="Asian",Bahrain Sport 2
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports%202_all/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Battery Pop
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Asian",BBC Earth
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Asian",beIN Sport News
+https://dl.dropbox.com/s/a16m1s4w7ctosro/Bein%20Sports%20News.m3u8?dl=1
+#EXTINF:-1 group-title="Asian",Boomerang
+https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Asian",BT SPORT 1 HD
+https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Asian",Captital OTB Betting
+https://d2up1hmow19bcd.cloudfront.net/livecf/liveracing/playlist.m3u8
+#EXTINF:-1 group-title="Asian",CGTN Français
+https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+#EXTINF:-1 group-title="Asian",Channel [V]
+https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Asian",CINEMAX
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+#EXTINF:-1 group-title="Asian",CMC (USA)
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
+#EXTINF:-1 group-title="Asian",CombatGo
+https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8
+#EXTINF:-1 group-title="Asian",COMPANY TV HD Music
+http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Da Vinci
+https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Asian",DBM
+https://edge5.vedge.infomaniak.com/livecast/ik:dbmtv/manifest.m3u8
+#EXTINF:-1 group-title="Asian",Discovery
+https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Asian",Discovery Asia
+https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Asian",djing
+https://www.djing.com/tv/underground.m3u8
+#EXTINF:-1 group-title="Asian",du bai sports 1
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Asian",du bai sports 2 hd
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Asian",du bai sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Asian",Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Asian",Dubai Racing 2
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Asian",Dubai Racing 3
+http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+#EXTINF:-1 group-title="Asian",ETBSTR1
+https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-b.m3u8
+#EXTINF:-1 group-title="Asian",Eurosport 4K
+http://a3569457550-zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw20000000/playlist.m3u8
+#EXTINF:-1 group-title="Asian",eurosport1
+http://91.126.141.201:1935/live/eurosport1nntv/chunklist_w65928025.m3u8
+#EXTINF:-1 group-title="Asian",eurosport2
+http://91.126.141.201:1935/live/eurosport2hdnntv/chunklist_w1420994503.m3u8
+#EXTINF:-1 group-title="Asian",Fox Sport1
+https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Asian",Fox Sport3
+https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Asian",FoxMovies
+https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Asian",FoxMovies_TH
+https://www.livedoomovie.com/02_FoxMoviesTH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Asian",FoxThai_TH
+https://www.livedoomovie.com/02_FoxThai_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Asian",Francophonie
+http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
+#EXTINF:-1 group-title="Asian",GOODTV1
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+#EXTINF:-1 group-title="Asian",GOODTV2
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+#EXTINF:-1 group-title="Asian",Gospel Truth TV (USA) Music
+https://bstna.tulix.tv/live/bs_2m/index.m3u8
+#EXTINF:-1 group-title="Asian",Grand Lille TV
+http://str81.creacast.com/grandlilletv/smil:grandlilletv.smil/chunklist_w1118883208_b1464000.m3u8
+#EXTINF:-1 group-title="Asian",HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:-1 group-title="Asian",HBO Family
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#EXTINF:-1 group-title="Asian",HBO Hits
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#EXTINF:-1 group-title="Asian",HBO Signature
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+#EXTINF:-1 group-title="Asian",Hipódromo de las Américas
+http://wms.tecnoxia.com:1935/8158/8158/chunklist.m3u8
+#EXTINF:-1 group-title="Asian",Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 group-title="Asian",KBS World
+http://125.227.210.37:8935/VideoInput/play.ts
+#EXTINF:-1 group-title="Asian",KIX
+http://45.126.83.51/uq2663/h/h07/01.m3u8
+#EXTINF:-1 group-title="Asian",KTO
+https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
+#EXTINF:-1 group-title="Asian",LCI
+https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
+#EXTINF:-1 group-title="Asian",LOVE NATURE 4K UHD
+http://a3569457544-zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw20000000/playlist.m3u8
+#EXTINF:-1 group-title="Asian",m2otv
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1 group-title="Asian",MCOT HD
+https://www.livedoomovie.com/02_MCOTHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Asian",MCOT HD
+http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Asian",MLB Network
+http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1 group-title="Asian",MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8
+#EXTINF:-1 group-title="Asian",Music
+https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
+#EXTINF:-1 group-title="Asian",MyComedy
+http://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8
+#EXTINF:-1 group-title="Asian",NHK BS Premium
+http://125.227.210.37:8940/VideoInput/play.ts
+#EXTINF:-1 group-title="Asian",Paramount Network
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
+#EXTINF:-1 group-title="Asian",PPTV HD
+https://www.livedoomovie.com/02_PPTVHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Asian",PremierHD1
+https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Asian",PremierHD2
+https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Asian",PremierHD3
+https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Asian",PremierHD4
+https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Asian",PremierHD5
+https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Asian",Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+#EXTINF:-1 group-title="Asian",Red by HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+#EXTINF:-1 group-title="Asian",RT Français
+http://rt-france.secure.footprint.net:80/1107_2500Kb.m3u8
+#EXTINF:-1 group-title="Asian",ru sport tv
+https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Sky 1 Racing
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
+#EXTINF:-1 group-title="Asian",Sky 2 Racing
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+#EXTINF:-1 group-title="Asian",Sky News
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
+#EXTINF:-1 group-title="Asian",skyfolk Music
+http://www.skyfolk.mk/live.m3u8
+#EXTINF:-1 group-title="Asian",Stadium Network
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_2000k.m3u8
+#EXTINF:-1 group-title="Asian",StreamToCTV
+http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
+#EXTINF:-1 group-title="Asian",TF1 Séries Films
+https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
+#EXTINF:-1 group-title="Asian",TFX
+https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
+#EXTINF:-1 group-title="Asian",TG4
+http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
+#EXTINF:-1 group-title="Asian",Thai PBS 3
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 group-title="Asian",THAIRATH HD
+https://www.livedoomovie.com/02_THAIRATH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Asian",Throughbred Central
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8
+#EXTINF:-1 group-title="Asian",TMA Caraïbes
+http://hls.tmacaraibes.com/live/index.m3u8
+#EXTINF:-1 group-title="Asian",TMC
+https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
+#EXTINF:-1 group-title="Asian",TRUE SPORT 5
+https://www.livedoomovie.com/02_sport5_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Asian",TRUE SPORT 6
+https://www.livedoomovie.com/02_sport6_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Asian",TRUE SPORT 7
+https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Asian",True Sport HD1
+https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Asian",True Sport HD2
+https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Asian",True Sport HD3
+https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Asian",TRUE4U
+https://www.livedoomovie.com/02_TRUE4U_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Asian",TRUEMUSI
+https://www.livedoomovie.com/02_TRUEMUSIC_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Asian",TV7 Colmar
+http://tv7.hdr-tv.com:1935/live/tv7/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Asian",tvo KIDS
+https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
+#EXTINF:-1 group-title="Asian",v2beat
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Vià Occitanie
+https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117_medium/index.m3u8
+#EXTINF:-1 group-title="Asian",Weather Channel
+https://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Asian",YTN
+http://125.227.210.37:8932/VideoInput/play.ts
+#EXTINF:-1 group-title="Asian",Z Living
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/mono.m3u8
+#EXTINF:-1 group-title="Asian",INDIA
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:-1 group-title="Asian",7S Music
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+#EXTINF:-1 group-title="Asian",AajTak HD
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1 group-title="Asian",ACV
+https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
+#EXTINF:-1 group-title="Asian",ACV News
+https://acv.asianetmobiletvplus.com/webstreams/3e85eb4c12bd2110d3f495676205d50a.smil/playlist.m3u8
+#EXTINF:-1 group-title="Asian",ACV Utsav
+https://acv.asianetmobiletvplus.com/webstreams/021c9292219a98f899a7b74f0f34baa7.smil/playlist.m3u8
+#EXTINF:-1 group-title="Asian",ACV Utsav Plus
+https://acv.asianetmobiletvplus.com/webstreams/7eb4dc1f3240c8eb776d41b95bd1d197.smil/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Akaal TV
+http://akaal.zecast.net/akaal-live/smil:akaaltv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Amrita TV
+http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
+#EXTINF:-1 group-title="Asian",Anjan
+https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/chunklist_w1499288356_b1580000.m3u8
+#EXTINF:-1 group-title="Asian",Asianet News
+http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
+#EXTINF:-1 group-title="Asian",Assam Talks
+http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="Asian",AVT KHYBER
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@692670/index_150_av-p.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Asian",Ayush TV
+http://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+#EXTINF:-1 group-title="Asian",B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Asian",Boogle Bollywood
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:-1 group-title="Asian",Channel-S Live TV
+https://a.jsrdn.com/broadcast/22679_24MrQma9TX/-0500/c.m3u8
+#EXTINF:-1 group-title="Asian",Channel Win
+http://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Channel Y
+http://cdn19.live247stream.com/channely/tv/playlist.m3u8
+#EXTINF:-1 group-title="Asian",CNBC Awaaz
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
+#EXTINF:-1 group-title="Asian",CNBC TV18
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+#EXTINF:-1 group-title="Asian",DD Malayalam
+http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8
+#EXTINF:-1 group-title="Asian",DD National
+http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
+#EXTINF:-1 group-title="Asian",DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:-1 group-title="Asian",Desi Channel
+http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
+#EXTINF:-1 group-title="Asian",Desi Plus
+http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
+#EXTINF:-1 group-title="Asian",DW NEWS HD
+https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8
+#EXTINF:-1 group-title="Asian",Eawaz TV (CA)
+https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Asian",Eetlive
+https://live.streamjo.com/eetlive/eettv.m3u8
+#EXTINF:-1 group-title="Asian",ET Now
+http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
+#EXTINF:-1 group-title="Asian",Eye 95 America (US)
+http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Asian",FastWay
+http://fastway.ddns.net:6421/fastway/live10/index.m3u8?
+#EXTINF:-1 group-title="Asian",Flowers TV
+http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
+#EXTINF:-1 group-title="Asian",Gaunda Punjab TV
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Global Punjab
+https://wowzaprod207-i.akamaihd.net/hls/live/827936/2eba5b83/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Hiru TV
+http://cdncities.com/8012/8012/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Hulchul TV
+http://cdn12.henico.net:8080/live/jbani/index.m3u8
+#EXTINF:-1 group-title="Asian",India News
+https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8
+#EXTINF:-1 group-title="Asian",India Today
+https://feeds.intoday.in/hltapps/api/master.m3u8
+#EXTINF:-1 group-title="Asian",India TV
+https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
+#EXTINF:-1 group-title="Asian",Jaihind TV
+http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
+#EXTINF:-1 group-title="Asian",Janta TV
+http://live.wmncdn.net/jantatv/live.stream/index.m3u8
+#EXTINF:-1 group-title="Asian",Jeevan TV
+http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
+#EXTINF:-1 group-title="Asian",Jonack TV
+http://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Kairali News
+http://103.199.161.254/Content/people/Live/Channel(People)/index.m3u8
+#EXTINF:-1 group-title="Asian",Kairali TV
+http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
+#EXTINF:-1 group-title="Asian",Kairali We
+http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
+#EXTINF:-1 group-title="Asian",Kalaignar
+http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
+#EXTINF:-1 group-title="Asian",Kalinga TV
+https://live.mycast.in/kalingatv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Kappa TV
+http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
+#EXTINF:-1 group-title="Asian",Kasthuri TV
+http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
+#EXTINF:-1 group-title="Asian",Kaumudy TV
+http://live.wmncdn.net/kaumuditv1/live.stream/index.m3u8
+#EXTINF:-1 group-title="Asian",Mangalam TV
+http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
+#EXTINF:-1 group-title="Asian",Manorama News
+http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
+#EXTINF:-1 group-title="Asian",Mastiii
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+#EXTINF:-1 group-title="Asian",Mathrubhumi News
+http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8
+#EXTINF:-1 group-title="Asian",Mirror Now
+https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
+#EXTINF:-1 group-title="Asian",MK Six
+http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+#EXTINF:-1 group-title="Asian",MK Tunes
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
+#EXTINF:-1 group-title="Asian",MK TV
+http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
+#EXTINF:-1 group-title="Asian",Nandighosha Tv
+https://live.mycast.in/ngtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Naxtra News
+http://wearelive.livebox.co.in/naxatratvhls/Naxatratv.m3u8
+#EXTINF:-1 group-title="Asian",NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:-1 group-title="Asian",News18 Hindi
+https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_4_av-b.m3u8
+#EXTINF:-1 group-title="Asian",OTV
+https://cdn.smartstream.video/smartstream-us/otvnewmbr/otvnewmbr.smil/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Peace TV Bangla
+https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Pramaya News7
+https://live.mycast.in/encode/ee0c5a36ff5a7083ee044991974ad3ba.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Prime Canada TV
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
+#EXTINF:-1 group-title="Asian",Prive Tv HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Asian",Public Music
+http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
+#EXTINF:-1 group-title="Asian",Puthuyugam TV
+http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
+#EXTINF:-1 group-title="Asian",R Plus News
+https://cdn.smartstream.video/smartstream-us/rplus/rplus/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Reporter TV
+http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8
+#EXTINF:-1 group-title="Asian",Rosebowl
+https://acv.asianetmobiletvplus.com/webstreams/ef22daf97d61acb4bf52376c4105ad02.smil/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Santhora Short Flim
+http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/chunklist_w342316663.m3u8
+#EXTINF:-1 group-title="Asian",Sardari TV
+http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Shemaroo Bollywood Premier
+https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
+#EXTINF:-1 group-title="Asian",Shemaroo Kids
+https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
+#EXTINF:-1 group-title="Asian",Shubhsandesh
+http://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
+#EXTINF:-1 group-title="Asian",Steelbird Music
+http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Tamil Vision
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+#EXTINF:-1 group-title="Asian",TV9 Telugu
+http://103.199.161.254/Content/tv9telungu/Live/Channel(TV9Telungu)/index.m3u8
+#EXTINF:-1 group-title="Asian",Twenty Four News
+http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
+#EXTINF:-1 group-title="Asian",All Sports
+http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Arryadia
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1 group-title="Asian",Arryadia
+http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1 group-title="Asian",ATG
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+#EXTINF:-1 group-title="Asian",Bek Sports East
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Bek Sports West
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+#EXTINF:-1 group-title="Asian",CCTV中国中央电视台-5+ 体育赛事
+http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+#EXTINF:-1 group-title="Asian",Cycle World
+https://a.jsrdn.com/broadcast/3e5befe5dd/+0000/high/c.m3u8
+#EXTINF:-1 group-title="Asian",DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="Asian",Edge Sports
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Esport Club
+https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Fight Sports
+http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/index.m3u8
+#EXTINF:-1 group-title="Asian",Fight Sports
+http://210.210.155.35/uq2663/h/h05/index.m3u8
+#EXTINF:-1 group-title="Asian",FOX Sport HD 1
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 group-title="Asian",New Japan Pro Wrestling World
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
+#EXTINF:-1 group-title="Asian",Rai Sport
+https://everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/master.m3u8
+#EXTINF:-1 group-title="Asian",Red Bull TV
+https://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8
+#EXTINF:-1 group-title="Asian",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title="Asian",Red Bull TV
+https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Red Bull TV
+https://i.mjh.nz/au/Melbourne/tv.redbull.tv.m3u8
+#EXTINF:-1 group-title="Asian",Telecaribe Deportes
+https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8
+#EXTINF:-1 group-title="Asian",Türkmenistan Sport
+http://217.174.225.146/legacyhls/ch004_400/index.m3u8
+#EXTINF:-1 group-title="Asian",Türkmenistan Sport
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="Asian",Türkmenistan Sport
+https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="Asian",Türkmenistan Sport
+http://217.174.225.146/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="Asian",Türkmenistan Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="Asian",Viasat Sport East
+https://persik.tv/stream/3602/287583/10249.m3u8
+#EXTINF:-1 group-title="Asian",Астрахань.Ru Sport
+https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
+#EXTINF:-1 group-title="Asian",ANTV
+http://202.80.222.130/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Asian",Bali TV
+http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Asian",BeritaSatu World (Opt-1)
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+#EXTINF:-1 group-title="Asian",BeritaSatu World (Opt-2)
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+#EXTINF:-1 group-title="Asian",BeritaSatu World (Opt-3)
+http://202.80.222.130/000001/2/ch00000090990000001683/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Asian",CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Asian",DAAI TV (Opt-2)
+http://202.80.222.130/000001/2/ch00000090990000001706/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Asian",Global TV (Opt-1)
+http://202.80.222.182:80/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Asian",Global TV (Opt-2)
+http://202.80.222.130/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Asian",Indosiar (Opt-1)
+http://202.80.222.182/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Asian",Indosiar (Opt-2)
+http://202.80.222.130/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Asian",iNews TV
+http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Asian",Jakarta Globe News
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+#EXTINF:-1 group-title="Asian",JakTV (Opt-1)
+http://202.80.222.182:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Asian",JakTV (Opt-2)
+http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Asian",JakTV (Opt-3)
+http://202.80.222.130/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Asian",Jawa Pos TV (Opt-1)
+http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Asian",JTV
+http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Kompas (Opt-1)
+http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Asian",Kompas (Opt-2)
+http://202.80.222.130/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Asian",MetroTV (Opt-1)
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1 group-title="Asian",MetroTV (Opt-2)
+http://202.80.222.183/000001/2/ch14041511515576869807/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Asian",MetroTV (Opt-4)
+http://202.80.222.130/000001/2/ch14041511515576869807/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Asian",MNC News
+http://202.80.222.130/000001/2/ch14041511564438196910/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Asian",MNC TV
+http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Asian",Net TV (Opt-1)
+http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT219782019062322524313983108
+#EXTINF:-1 group-title="Asian",Net TV (Opt-4)
+http://202.80.222.130/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Asian",Rajawali TV (Opt-1)
+http://202.80.222.171:80/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT2198020181031055334464619
+#EXTINF:-1 group-title="Asian",Rajawali TV (Opt-2)
+http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT219992019062322543114287379
+#EXTINF:-1 group-title="Asian",Rajawali TV (Opt-3)
+http://202.80.222.170:80/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Asian",Rajawali TV (Opt-5)
+http://202.80.222.130/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Asian",RCTI (Opt-1)
+http://202.80.222.182/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Asian",RRI Net
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+#EXTINF:-1 group-title="Asian",SCTV (Opt-1)
+http://202.80.222.182/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Asian",SCTV (Opt-2)
+http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Asian",SCTV (Opt-4)
+http://202.80.222.130/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Asian",Tegar TV Lampung
+http://wms.klikhost.com:1935/tegartv/live/chunklist_w505057089.m3u8
+#EXTINF:-1 group-title="Asian",Trans 7 (Opt-1)
+http://202.80.222.182/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Asian",Trans 7 (Opt-2)
+http://202.80.222.130/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Asian",Trans TV (Opt-1)
+http://202.80.222.182/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Asian",Trans TV (Opt-2)
+http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT2931201906232251491158010
+#EXTINF:-1 group-title="Asian",Trans TV (Opt-3)
+http://202.80.222.130/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Asian",TV 9 Nusantara (Opt-2)
+http://202.80.222.130/000001/2/ch00000000000000001522/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Asian",TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:-1 group-title="Asian",tvOne (Opt-2)
+http://202.80.222.130/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Asian",TVRI (Opt-3)
+http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Asian",Lao Champa TV 1
+https://livefta.malimarcdn.com/ftaedge00/laochampa1.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="Asian",Lao Champa TV 2
+https://livefta.malimarcdn.com/ftaedge00/laochampa2.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Asian",Lao Champa TV 3
+https://livefta.malimarcdn.com/ftaedge00/laochampa3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Asian",bTV News
+http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Thai PBS (Opt-1)
+http://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Thai PBS (Opt-2)
+http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
+#EXTINF:-1 group-title="Asian",Thairath TV
+http://live.thairath.co.th/trtv2/playlist.m3u8
+#EXTINF:-1 group-title="Asian",White Channel
+http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
+#EXTINF:-1 group-title="Asian",GSTV
+https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Asian",Yushu TV Jilin (Opt-1)
+http://stream.zhystv.com/yset/sd/live.m3u8
+#EXTINF:-1 group-title="Asian",Yushu TV Jilin (Opt-2)
+http://stream.zhystv.com/ysyt/sd/live.m3u8
+#EXTINF:-1 group-title="Asian",FTV News (Opt-1)
+http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Asian",FTV News (Opt-2)
+http://210.61.56.23/hls/ftvtv/index.m3u8
+#EXTINF:-1 group-title="Asian",Next TV (Opt-4)
+http://ax.micaesoft.com/YMitv/YMITV_CN_eratv.m3u8
+#EXTINF:-1 group-title="Asian",UChannel TV (US)
+http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
+#EXTINF:-1 group-title="Asian",HRT 1
+http://live1.hrtonline.cn:1935/live/live101/500K/tzwj_video.m3u8
+#EXTINF:-1 group-title="Asian",HRT 2
+http://live1.hrtonline.cn:1935/live/live102/500K/tzwj_video.m3u8
+#EXTINF:-1 group-title="Asian",HRT 3
+http://live1.hrtonline.cn:1935/live/live100/500K/tzwj_video.m3u8
+#EXTINF:-1 group-title="Asian",Apsara TV
+http://203.176.130.123:8989/live/apsaratv_480k.stream/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Bayon TV
+http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8
+#EXTINF:-1 group-title="Asian",CTV 9
+http://203.176.130.123:8989/live/ctv9_480k.stream/playlist.m3u8
+#EXTINF:-1 group-title="Asian",PNN
+http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8
+#EXTINF:-1 group-title="Asian",SEA TV
+http://203.176.130.123:8989/live/seatv_480k.stream/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Tea TV
+https://livefta.malimarcdn.com/ftaedge00/teatv2.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Asian",TVK
+http://203.176.130.123:8989/live/tvk_480k.stream/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Da Nang TV 1
+http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
+#EXTINF:-1 group-title="Asian",Da Nang TV 2
+http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+#EXTINF:-1 group-title="Asian",Quang Nam TV
+http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 group-title="Asian",VBS TV 57.6 (US) (Opt-1)
+http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w439903609_b1228800.m3u8
+#EXTINF:-1 group-title="Asian",VBS TV 57.6 (US) (Opt-2)
+http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w1847269952_b204800.m3u8
+#EXTINF:-1 group-title="Asian",VBS TV 57.6 (US) (Opt-3)
+http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w530158239_b1228800.m3u8
+#EXTINF:-1 group-title="Asian",ngrp
+http://123.111.139.103:1935/live/ngrp:hmall.stream_mobile/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Shop Channel
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+#EXTINF:-1 group-title="Asian",TBSテレビ
+http://203.162.235.41:16907
+#EXTINF:-1 group-title="Asian",Tv Ri
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="Asian",TV2
+http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+#EXTINF:-1 group-title="Asian",TV8
+http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+#EXTINF:-1 group-title="Asian",TVWorkNet
+http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Asian",ANTV
+http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
+#EXTINF:-1 group-title="Asian",ANTV HD
+http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+#EXTINF:-1 group-title="Asian",BRT
+http://113.163.216.23:1935/live/tv2.stream_480p/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Bến Tre
+http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/thbt.m3u8
+#EXTINF:-1 group-title="Asian",Cà Mau TV
+http://tv.ctvcamau.vn/live/tv/tv.m3u8
+#EXTINF:-1 group-title="Asian",HBTV
+http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
+#EXTINF:-1 group-title="Asian",KienGiangTV
+http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
+#EXTINF:-1 group-title="Asian",KienGiangTV1
+http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
+#EXTINF:-1 group-title="Asian",LA34 - Long An
+http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8
+#EXTINF:-1 group-title="Asian",Quốc Hội
+http://113.164.225.140:1935/live/quochoitvlive.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="Asian",Tien Giang
+http://thtg.vn:8001/thtg.m3u8
+#EXTINF:-1 group-title="Asian",VITV
+http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 group-title="Asian",Việt Mỹ TV
+http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
+#EXTINF:-1 group-title="Action",1.Vanquish (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/7f50438d6f69f10b7a8dae9fa285befb/540p/index.m3u8
+#EXTINF:-1 group-title="Action",4.The Marksman (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/2bcc3d4ba624b78ee5efbdf192445b35/540p/index.m3u8
+#EXTINF:-1 group-title="Action",5.Lazarus (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/09c083af59d53871ecc6daa8c015a641/540p/index.m3u8
+#EXTINF:-1 group-title="Action",6.A Writer\\\'s Odyssey (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/996ee5e9d1e200255fb5565ba5f1b1b5/540p/index.m3u8
+#EXTINF:-1 group-title="Action",7.Thunder Force (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/769174d6904c3acda2034ecedd2179dd/540p/index.m3u8
+#EXTINF:-1 group-title="Action",8.Assault on VA-33 (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/aacc3c9262fbb8da9ff992c66a73f062/540p/index.m3u8
+#EXTINF:-1 group-title="Action",9.The Yin Yang Master (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/60a4e83ee154b971dd8daf9ec9146b66/540p/index.m3u8
+#EXTINF:-1 group-title="Action",10.Wu Song�s Bloody Battle With Lion House (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/b9b11c30beb13b11c1d88de8a0a10b62/540p/index.m3u8
+#EXTINF:-1 group-title="Action",11.Zack Snyder\\\'s Justice League (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/346d158048eb93d273de942c5da2f090/540p/index.m3u8
+#EXTINF:-1 group-title="Action",12.ARMAGEDDON TALES (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/3ca9a047ea086321136a11b7181cfc2a/540p/index.m3u8
+#EXTINF:-1 group-title="Action",13.SAS: Red Notice (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/d526cc20885c06e026cb23304abc5bd7/540p/index.m3u8
+#EXTINF:-1 group-title="Action",14.Twist (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/2664a17549df570378bdffd02aa1702c/540p/index.m3u8
+#EXTINF:-1 group-title="Action",15.Space Sweepers (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/b1add098cb4ac360e177435105e4ef75/540p/index.m3u8
+#EXTINF:-1 group-title="Action",16.Master (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/005bddd2e2c6a83d922ac5e942fb5473/540p/index.m3u8
+#EXTINF:-1 group-title="Action",17.Raya and the Last Dragon (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/23a92a8ccbb8f8362fb6f336ed364888/540p/index.m3u8
+#EXTINF:-1 group-title="Action",18.Sentinelle (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/653c870a59331c0e1abbb05b48869eea/540p/index.m3u8
+#EXTINF:-1 group-title="Action",19.Texas Red (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/a22b6b9b5b6dd732bcb2653c706c711c/540p/index.m3u8
+#EXTINF:-1 group-title="Action",20.Just Noise (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/b21d35731cf5adc8fb7baa80c1f1f967/540p/index.m3u8
+#EXTINF:-1 group-title="Action",21.Insight (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/55ce55eabcd4cb440dc36d2f7eb1f0a2/540p/index.m3u8
+#EXTINF:-1 group-title="Action",22.The Redneg (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/ee84350204b03a8bbf33e09233b42a05/540p/index.m3u8
+#EXTINF:-1 group-title="Action",23.Cosmic Sin (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/ccfc9657a73148af93b0de19f35c11a1/540p/index.m3u8
+#EXTINF:-1 group-title="Action",24.Death Chasing (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/582553f9a63786425b9073016fd156c9/540p/index.m3u8
+#EXTINF:-1 group-title="Action",25.New Justice Bao: The Nanxia Mystery Case (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/7aab4e0be500a3460e526b8a0b43d3f0/540p/index.m3u8
+#EXTINF:-1 group-title="Action",26.Counterattack (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/c1a7b7f8ea60843fea649a2d0bc119ab/540p/index.m3u8
+#EXTINF:-1 group-title="Action",27.Super Pacifier (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/d4e1e65abaaf2f30afd336f10d4f2523/540p/index.m3u8
+#EXTINF:-1 group-title="Action",28.Forbidden Martial Arts: The Nine Mysterious Candle Dragons (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/84e8de8d981b66130fd217bdcb1ab997/540p/index.m3u8
+#EXTINF:-1 group-title="Action",29.400 Bullets (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/bb1a2651013184c22adc299ebc25ef6b/540p/index.m3u8
+#EXTINF:-1 group-title="Action",30.Narco Sub (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/24461b81069bb0d529fef629122cbfeb/540p/index.m3u8
+#EXTINF:-1 group-title="Action",31.Green Dragon Crescent Blade (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/b123678e3928a46304ce8d49e5956851/540p/index.m3u8
+#EXTINF:-1 group-title="Action",32.En Passant P�cho: Les Carottes Sont Cuites (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/07986d6aaa9632efaaa549f693ba2dfd/540p/index.m3u8
+#EXTINF:-1 group-title="Action",33.Cowgirls vs. Pterodactyls (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/f16a44f49688336fd53be4d056a6c802/540p/index.m3u8
+#EXTINF:-1 group-title="Action",34.Heroes Return (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/12c134f002d2bc4948795126b1c4e9b4/540p/index.m3u8
+#EXTINF:-1 group-title="Action",35.Teddy (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/401410ed0d350461833d4b8a058212c9/540p/index.m3u8
+#EXTINF:-1 group-title="Action",36.Willy�s Wonderland (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/0c912b6e5536d5ba09a1d4871b999ae7/540p/index.m3u8
+#EXTINF:-1 group-title="Action",37.Triassic Hunt (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/8c38d7d33f136369e5c0eca7804a1f0c/540p/index.m3u8
+#EXTINF:-1 group-title="Action",38.Cabras da Peste (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/8602e34c92983319cd009c653298f216/540p/index.m3u8
+#EXTINF:-1 group-title="Action",39.The Pond (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/54e51c6ce7265017fbb12bccb7a41554/540p/index.m3u8
+#EXTINF:-1 group-title="Action",40.Rise Up (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/e2caf136a920c733e4b4351e6fa211de/540p/index.m3u8
+#EXTINF:-1 group-title="Action",41.Psycho Goreman (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/b1f52e5435ab121602765b3156dde817/540p/index.m3u8
+#EXTINF:-1 group-title="Action",42.The White Tiger (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/5b80bd6b1e549a7baebe25b2de0a579a/540p/index.m3u8
+#EXTINF:-1 group-title="Action",43.No Man�s Land (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/247d09ccfc4386a13c8dafceff02f7a2/540p/index.m3u8
+#EXTINF:-1 group-title="Action",44.Batman: Soul of the Dragon (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/1694a92b5d221c8e456f1e2022cdee98/540p/index.m3u8
+#EXTINF:-1 group-title="Action",45.Outside the Wire (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/2c880f49e8ac4efaa4bd596bb32d6f6c/540p/index.m3u8
+#EXTINF:-1 group-title="Action",46.Goodbye Butterfly (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/8dab3c63a76016415e475ed180c00a83/540p/index.m3u8
+#EXTINF:-1 group-title="Action",47.Dead in the Water (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/c60333d65ea8d34b5ff0533c1a83961d/540p/index.m3u8
+#EXTINF:-1 group-title="Action",48.Butchers (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/01e0a35bd2450f3152d8bd0f86b86d85/540p/index.m3u8
+#EXTINF:-1 group-title="Action",49.Born a Champion (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/7e70c3f1bd2631fc061e6346586778e7/540p/index.m3u8
+#EXTINF:-1 group-title="Action",50.Battle in Space: The Armada Attacks (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/2bf8a120078b6f73c84319135c01fa93/540p/index.m3u8
+#EXTINF:-1 group-title="Action",51.Attack of the Giant Blurry Finger (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/5b89d095da9ff29a1b29e9630afa67f6/540p/index.m3u8
+#EXTINF:-1 group-title="Action",52.Hunted (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/163ab27b9848d1ae9ee7b6d8bccf07ba/540p/index.m3u8
+#EXTINF:-1 group-title="Action",53.Corruption & Conspiracy (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/27776ae4003143ecfec5e47974f0bf3d/540p/index.m3u8
+#EXTINF:-1 group-title="Action",54.Norm of the North: Family Vacation (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/b726c3c74fddd43b3d217ed17fe72f4f/540p/index.m3u8
+#EXTINF:-1 group-title="Action",55.American Dream (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/2669184a15ad557b92c61a36df56ed9f/540p/index.m3u8
+#EXTINF:-1 group-title="Action",56.Sorry I Killed You (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/c15cf4145354335b44155888e9295dca/540p/index.m3u8
+#EXTINF:-1 group-title="Action",57.The Minimalists: Less Is Now (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/9b45a4d1f070048b8158394ce13e3dca/540p/index.m3u8
+#EXTINF:-1 group-title="Action",58.Agent Revelation (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/d0adfce9414c05dc3f5fde984012a1c7/540p/index.m3u8
+#EXTINF:-1 group-title="Action",59.Finding \\\'Ohana (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/d169147a60484e39fedcb7f3481f6f0e/540p/index.m3u8
+#EXTINF:-1 group-title="Action",60.Caged (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/d2d320a35c8bf9376d8f5d1f84f2af76/540p/index.m3u8
+#EXTINF:-1 group-title="Action",61.Redemption Day (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/d3ea522820faa6d92f51ac15d0bf0a3c/540p/index.m3u8
+#EXTINF:-1 group-title="Action",62.Locked Down (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/cbc4a7fc4b8e984e1c14ec595efb1a07/540p/index.m3u8
+#EXTINF:-1 group-title="Action",63.Our Friend (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/510fcb928191ab4a616b4d690c718371/540p/index.m3u8
+#EXTINF:-1 group-title="Action",64.Penguin Bloom (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/ce86aaaef93576f14395690ca2c24944/540p/index.m3u8
+#EXTINF:-1 group-title="Action",65.The Dig (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/7a152b927f651e7fa08d599cf5a2da17/540p/index.m3u8
+#EXTINF:-1 group-title="Action",66.The Little Things (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/0fb6096fc12a6353f91e24444b7425ee/540p/index.m3u8
+#EXTINF:-1 group-title="Action",67.Palmer (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/3670dbd46fdcfe5fb815ef5532350036/540p/index.m3u8
+#EXTINF:-1 group-title="Action",68.Heymaker (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/08a48027db41bb31ba254763b421a55f/540p/index.m3u8
+#EXTINF:-1 group-title="Action",69.Hellkat (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/9b2b1c8362e55234cff9ca547951d6cb/540p/index.m3u8
+#EXTINF:-1 group-title="Action",70.The Serpent (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/fac76f30fad708d91ba57fef97e2adbb/540p/index.m3u8
+#EXTINF:-1 group-title="Action",71.Below Zero (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/7184af7f929ceff3cf7ae4a3871eef51/540p/index.m3u8
+#EXTINF:-1 group-title="Action",72.Kill Cavalry (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/539f72ad9e0453c13c7d5c1137caaafb/540p/index.m3u8
+#EXTINF:-1 group-title="Action",73.The Power (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/c6863cb6dd663ac179aef272b60fee7b/540p/index.m3u8
+#EXTINF:-1 group-title="Action",74.Aida? (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/3946ad19757a6b2b781a2ec8198a6482/540p/index.m3u8
+#EXTINF:-1 group-title="Action",75.Lost & Found (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/31fb99b7379b012ecad026edf49480b6/540p/index.m3u8
+#EXTINF:-1 group-title="Crime",76.Flinch (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/a92e4f6e1d2eb587a5c52a882b38274a/540p/index.m3u8
+#EXTINF:-1 group-title="Crime",77.Crisis (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/e396a48d24cbda9d7ebda7d9ae76d0ce/540p/index.m3u8
+#EXTINF:-1 group-title="Crime",78.The College Admissions Scandal (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/ed01b097fb58b0e5f7bd3be172a88fe2/540p/index.m3u8
+#EXTINF:-1 group-title="Crime",79.Road to Damascus (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/7589b0dc36d3a71a45f8e2f734b305ff/540p/index.m3u8
+#EXTINF:-1 group-title="Crime",80.The Wife (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/c0893cdc465d6f9891ae981e356bc59b/540p/index.m3u8
+#EXTINF:-1 group-title="Crime",81.One and the Same (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/dec3d11a485cb4e3b2d32a8d85b7056c/540p/index.m3u8
+#EXTINF:-1 group-title="Crime",82.Burn It All (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/9d7ff466bee422b94c1d0b7d4daf152a/540p/index.m3u8
+#EXTINF:-1 group-title="Crime",83.Girl in the Basement (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/8a3b2b70fdb0b47e0bce326d95e0e605/540p/index.m3u8
+#EXTINF:-1 group-title="Crime",84.The Dead of Night (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/132ffb3304451d5f948002ecba8c9b62/540p/index.m3u8
+#EXTINF:-1 group-title="Crime",85.Cherry (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/5818591fff4b0d06469111a2daff8a5e/540p/index.m3u8
+#EXTINF:-1 group-title="Crime",86.The Girl on the Train (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/ea5a8116dfa1df8d71575260459d4aa2/540p/index.m3u8
+#EXTINF:-1 group-title="Crime",87.Body Brokers (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/2e3c374ff6e274c2ffd5954e7684dc89/540p/index.m3u8
+#EXTINF:-1 group-title="Crime",88.Silk Road (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/7b666d2d6de4b9e2a6c3b712c3944f56/540p/index.m3u8
+#EXTINF:-1 group-title="Crime",89.The Rodeo Thief (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/658c38672faf9c45bb2ccf9cac1e64e1/540p/index.m3u8
+#EXTINF:-1 group-title="Crime",90.Alice Fades Away (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/cfc8d36c9e6095bbb5e21b1b9dc0c6e4/540p/index.m3u8
+#EXTINF:-1 group-title="Crime",100.Paradise Cove (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/34f988677a4e4a1e48640c9931868f03/540p/index.m3u8
+#EXTINF:-1 group-title="Crime",101.Faceless (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/3cd77976b7511174e3740cad01c58796/540p/index.m3u8
+#EXTINF:-1 group-title="Crime",102.I Portrait (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/3b1be98c530c5040950e21f479d95599/540p/index.m3u8
+#EXTINF:-1 group-title="Crime",103.Exodus (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/3d0b7c4ac18401cbaecef6c8521acae9/540p/index.m3u8
+#EXTINF:-1 group-title="Crime",104.Doors (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/2afc40deb56b17c21874022bc419fa46/540p/index.m3u8
+#EXTINF:-1 group-title="Crime",105.Expiry (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/3f7bb4f0aadea5388c06e8fbdc171b21/540p/index.m3u8
+#EXTINF:-1 group-title="Crime",106.The Journey Home (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/3043155549bcb28a7b2dbdc28f757c82/540p/index.m3u8
+#EXTINF:-1 group-title="Crime",107.Norman (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/4b7ea26e36b17f69c4cb9c2c4dbdef89/540p/index.m3u8
+#EXTINF:-1 group-title="Crime",108.Flora & Ulysses (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/b99386358c1f3e0330682034d8c6b88f/540p/index.m3u8
+#EXTINF:-1 group-title="Crime",109.Judas and the Black Messiah (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/f7e247296deba30029c2fcc3323389f3/540p/index.m3u8
+#EXTINF:-1 group-title="Crime",110.Son of the South (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/4b90f73e89298816d8751287caf48f10/540p/index.m3u8
+#EXTINF:-1 group-title="Horror",IRUL: Ghost Hotel 
+https://vod4.buycar5.cn/20210404/KC489PZQ/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="Horror",Phobias (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/8eff084ddb2ae8f6c2056ceb4e3fe594/540p/index.m3u8
+#EXTINF:-1 group-title="Horror",60 Seconds to Di3) 2021)
+https://cdn3ii.diebutx.com/own2hls/2020/5038692d826f121309e29ad49c107ae8/540p/index.m3u8
+#EXTINF:-1 group-title="Horror",Dreamcatcher (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/2ef94737b5792d42c458235771e4a88f/540p/index.m3u8
+#EXTINF:-1 group-title="Horror",Stay Out of the F**king Attic (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/1f47020e198f853bfc111e2da3aa5e91/540p/index.m3u8
+#EXTINF:-1 group-title="Horror",Come True(2021)
+https://cdn3ii.diebutx.com/own2hls/2020/86c6f1faf0d246563bedb2f53223ca1f/540p/index.m3u8
+#EXTINF:-1 group-title="Horror",The Seventh Day (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/ce5f0c2ae334178277dec43638706378/540p/index.m3u8
+#EXTINF:-1 group-title="Horror",The Toll (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/7d78072209cbbf5b11783145e5ba86cb/540p/index.m3u8
+#EXTINF:-1 group-title="Horror",The Toll (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/7d78072209cbbf5b11783145e5ba86cb/540p/index.m3u8
+#EXTINF:-1 group-title="Horror",The Seventh Day (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/ce5f0c2ae334178277dec43638706378/540p/index.m3u8
+#EXTINF:-1 group-title="Horror",Amber\\\'s Descent (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/089fdf8db58c2401d931c5850fbf8276/540p/index.m3u8
+#EXTINF:-1 group-title="Horror",American Liar (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/167f6a2fe5cea631ff46c0deb9704ad5/540p/index.m3u8
+#EXTINF:-1 group-title="Horror",Honeydew (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/88e23e661ffcc09379e479f15d4fe49a/540p/index.m3u8
+#EXTINF:-1 group-title="Horror",Held (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/3524d392bd8a2d5d8e6a5ae401c03d6b/540p/index.m3u8
+#EXTINF:-1 group-title="Horror",The Oak Room (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/71f856f0db9aa8d8f0f819ed1bbe955e/540p/index.m3u8
+#EXTINF:-1 group-title="Horror",Dawn of the Beast (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/dbd2e455c06d645639621c3188255832/540p/index.m3u8
+#EXTINF:-1 group-title="Horror",The Reckoning (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/954a255d5a817ff5ceee232cc2580541/540p/index.m3u8
+#EXTINF:-1 group-title="Horror",Wrong Turn (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/f175bb157bed3140504f9422f14d06c7/540p/index.m3u8
+#EXTINF:-1 group-title="Horror",Sator (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/c49070879371d648e2541f76acf1fa51/540p/index.m3u8
+#EXTINF:-1 group-title="Horror",Know Fear (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/301eb8fa05563afcfa4aa03037177c10/540p/index.m3u8
+#EXTINF:-1 group-title="Horror",The Canyonlands (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/93c0518243c11ccd997d582ff44ea700/540p/index.m3u8
+#EXTINF:-1 group-title="Horror",The Devil Below (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/4bea35095a9f6137037219cc78359301/540p/index.m3u8
+#EXTINF:-1 group-title="Horror",The Red Nightmare (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/b1115353573bdc23a489a1c6653be9d4/540p/index.m3u8
+#EXTINF:-1 group-title="Horror",Shook (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/aed51414b1d9787359892c18c64fef61/540p/index.m3u8
+#EXTINF:-1 group-title="Horror",Sacrifice (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/e4744c1939ddbae9b3a23c3c4a4098e8/540p/index.m3u8
+#EXTINF:-1 group-title="Horror",Blood Brothers (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/0e7bc1b5824943fc967747d65baed688/540p/index.m3u8
+#EXTINF:-1 group-title="Drama",My True Fairytale (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/6c67e8f8d3ce142424c126fbab8bfa36/540p/index.m3u8
+#EXTINF:-1 group-title="Drama",The World to Come (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/776916aa1572dc2cb0bb7b51c63efe6f/540p/index.m3u8
+#EXTINF:-1 group-title="Drama",Trust(2021)
+https://cdn3ii.diebutx.com/own2hls/2020/c7f6fcbf0961a1ad754bd1a4d45e2584/540p/index.m3u8
+#EXTINF:-1 group-title="Drama",Paper Lives (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/974a022dfb8011dba60ee039120f57c4/540p/index.m3u8
+#EXTINF:-1 group-title="Drama",Drama  Wildcat (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/2676bc525bdd072c5ad6800571d35e9f/540p/index.m3u8
+#EXTINF:-1 group-title="Drama",Drama  The Arbors (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/41f907567a35e8da06f821d48407336a/360p/index.m3u8
+#EXTINF:-1 group-title="Drama",Malcolm & Marie (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/136fbe7304c0f285d9f0c1ffb61f7288/540p/index.m3u8
+#EXTINF:-1 group-title="Drama",Payback (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/8a687087286b2a6438af5f5763b5f2e9/540p/index.m3u8
+#EXTINF:-1 group-title="Drama",L\\\'ultimo paradiso (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/9c238dab3ea73d84159dd139f08902f0/540p/index.m3u8
+#EXTINF:-1 group-title="Drama",Fear of Rain (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/173a071836837c214b0c68ea15223537/540p/index.m3u8
+#EXTINF:-1 group-title="Drama",Bliss (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/10555182f5ce9ad5dd2f2219972151d9/540p/index.m3u8
+#EXTINF:-1 group-title="Drama",Red Dot (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/ce5a6a0bd2749698f7d023f2648afae1/540p/index.m3u8
+#EXTINF:-1 group-title="Drama",Little Fish (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/c77550cc34a64283c22553496a384ddf/540p/index.m3u8
+#EXTINF:-1 group-title="Drama",Drishyam 2 (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/c7ba58ccbaf864a200536abd8396dfdb/540p/index.m3u8
+#EXTINF:-1 group-title="Drama",Dream About Face-Change Comes True (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/4f3b36b967a44e7db4c0ec8760a1e598/540p/index.m3u8
+#EXTINF:-1 group-title="Drama",HILO 2 (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/87002b78d6977e7cede234e1c442bca9/540p/index.m3u8
+#EXTINF:-1 group-title="Drama",Land (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/db3b50eea11629b38a726701757f12a1/540p/index.m3u8
+#EXTINF:-1 group-title="Drama",The Mauritanian (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/d216527646bd705d1956dd2fe2b502f2/540p/index.m3u8
+#EXTINF:-1 group-title="Drama",How to Stop a Recurring Dream (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/dd684d23949727868a7d1be120b4e116/540p/index.m3u8
+#EXTINF:-1 group-title="Drama",The Soul (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/aaab4072eed83b9fbe18ca83e9f2447e/540p/index.m3u8
+#EXTINF:-1 group-title="Drama",The Winter Lake (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/b5873e9dbe4243abb12c4c545b77a472/540p/index.m3u8
+#EXTINF:-1 group-title="Drama",Being Dead (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/6566fe01430080da3cc3fd20f4e1a7cd/540p/index.m3u8
+#EXTINF:-1 group-title="Comedy",Coming 2 America (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/7ff682ddde3d6cee268fa644f24fb60f/540p/index.m3u8
+#EXTINF:-1 group-title="Comedy",Moxie (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/9d065092bc6f35eb6108c49c6c2f1606/540p/index.m3u8
+#EXTINF:-1 group-title="Comedy",Comedy  Happily (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/a8245d9af74140add28955726247a3a5/540p/index.m3u8
+#EXTINF:-1 group-title="Comedy",Yes Day (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/a51a6d26ec4fcb88526afcb64c94b69e/540p/index.m3u8
+#EXTINF:-1 group-title="Comedy",New Year Blues (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/7b043632e78a1ef2410de7a9ee46f4cd/540p/index.m3u8
+#EXTINF:-1 group-title="Comedy",Lena and Snowball (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/7f78e0eaa2063a4a5578f2f45f3d5abc/540p/index.m3u8
+#EXTINF:-1 group-title="Comedy",The Funeral Home (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/d8aed09a3dbcd45c02bc7c02c0ebabbe/540p/index.m3u8
+#EXTINF:-1 group-title="Comedy",Squared Love (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/4657e7b8e5dd26c505e3099345d4f7cd/540p/index.m3u8
+#EXTINF:-1 group-title="Comedy",To All the Boys: Always and Forever (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/1e6075400b7da5fba809ffae4a667ff5/540p/index.m3u8
+#EXTINF:-1 group-title="Comedy",Barb and Star Go to Vista Del Mar (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/5d20ce252956a2a808bd83e149fc08e7/540p/index.m3u8
+#EXTINF:-1 group-title="Comedy",Paranormal Prison (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/30a1e5249c4ae9ba75844008dfc7fca5/540p/index.m3u8
+#EXTINF:-1 group-title="Comedy",Proud of Love (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/b647f708b11a7ac373660b42881e8ec5/540p/index.m3u8
+#EXTINF:-1 group-title="Comedy",Breaking News in Yuba County (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/53719bd461fe52fdee4b09321afd0d4f/540p/index.m3u8
+#EXTINF:-1 group-title="Comedy",The Mad Monk (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/16e261514edd3ecb40befdddb2b6fc9b/540p/index.m3u8
+#EXTINF:-1 group-title="Comedy",I Care a Lot (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/d5345b593d97a14898e321dfbdcbb7d8/540p/index.m3u8
+#EXTINF:-1 group-title="Comedy",Dead Again (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/4a438f729eecfb7f5b57f312533c2b39/540p/index.m3u8
+#EXTINF:-1 group-title="Comedy",The Right One (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/67303167dc0d62b40d55ac683ba38f69/540p/index.m3u8
+#EXTINF:-1 group-title="Comedy",Fantasy: The Map of Tiny Perfect Things (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/021067a30fde31011709ee564e2d4c7d/540p/index.m3u8
+#EXTINF:-1 group-title="Comedy",Kids: Tom and Jerry (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/0dfcb92a188bc7676b71c95902e2cca7/540p/index.m3u8
+#EXTINF:-1 group-title="Comedy",The Rodeo Thief (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/658c38672faf9c45bb2ccf9cac1e64e1/540p/index.m3u8

@@ -1096,7 +1096,6 @@ $c_start动画片$c_end
 刺猬索尼克2020,https://vod.bunediy.com/20200614/I10PiEjp/index.m3u8
 大侦探皮卡丘2019,https://vod.bunediy.com/20200413/p5UVBxY2/index.m3u8
 $c_start粤语片$c_end
-天师斗僵尸,https://www2.88zy.live/20190819/%E5%A4%A9%E5%B8%88%E6%96%97%E5%83%B5%E5%B0%B8/1024kb/hls/index.m3u8
 澳门风云1,https://vod.bunediy.com/20200507/zzd7HFwq/index.m3u8
 澳门风云2,https://vod.bunediy.com/20200429/P9bXXW4Y/index.m3u8
 澳门风云3,https://vod.bunediy.com/20200413/wFbpv5Ph/index.m3u8

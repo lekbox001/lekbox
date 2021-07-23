@@ -589,27 +589,12 @@ The Ten Commandments (2007),http://iptv.tvmalaysia.cc:80/movie/penang172/penang1
 Veer-Zaara (2004),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7317.mp4
 Weathering with You (2019),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7323.mp4
 Animax Japan,http://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
-淘电影[高清],http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 CCTV13HD,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
 CCTV13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
-C+-影视,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/01.m3u8
-NHK-综合,http://203.162.235.41:16903
-Astro-爱奇艺,http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
-Astro-港剧台,http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8
-Astro·BOO,http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-Astro·Citra,http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
-高清时尚,http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-彭博财经,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-日本新闻,https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
-NHK·华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-NHK·国际频道,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-TVB·电视剧台,https://edge6a.v2h-cdn.com/appt7/TDramaTV.stream_720p/playlist.m3u8
-K I X·动作频道,https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/01.m3u8
+NHK,http://203.162.235.41:16903
+BOO,http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+Citra,http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 Awani,https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
 CinemaWorld,http://210.210.155.35/uq2663/h/h04/index.m3u8
 KIX,http://210.210.155.35/uq2663/h/h07/01.m3u8
@@ -881,7 +866,6 @@ Arryadia,http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
 ATG,https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 Bek Sports East,https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 Bek Sports West,https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
-CCTV中国中央电视台-5+ 体育赛事,http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
 Cycle World,https://a.jsrdn.com/broadcast/3e5befe5dd/+0000/high/c.m3u8
 DD Sports,http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
 Edge Sports,https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
@@ -1000,6 +984,128 @@ Quốc Hội,http://113.164.225.140:1935/live/quochoitvlive.stream_720p/playlist
 Tien Giang,http://thtg.vn:8001/thtg.m3u8
 VITV,http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 Việt Mỹ TV,http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
+INDIA,#genre#
+5aab TV,http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+7S Music,http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+7X Music,http://skystar.livebox.co.in/7xtvChannelhls/7xtv7973090372.m3u8
+AajTak HD,https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+ACV,https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
+ACV News,https://acv.asianetmobiletvplus.com/webstreams/3e85eb4c12bd2110d3f495676205d50a.smil/playlist.m3u8
+ACV Utsav,https://acv.asianetmobiletvplus.com/webstreams/021c9292219a98f899a7b74f0f34baa7.smil/playlist.m3u8
+ACV Utsav Plus,https://acv.asianetmobiletvplus.com/webstreams/7eb4dc1f3240c8eb776d41b95bd1d197.smil/playlist.m3u8
+Akaal TV,http://akaal.zecast.net/akaal-live/smil:akaaltv.smil/playlist.m3u8
+Amrita TV,http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
+Ashrafi Channel,http://ashrafichannel.livebox.co.in/ashrafivhannelhls/live.m3u8
+Asianet News,http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
+Assam Talks,http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
+AVT KHYBER,https://dcunilive38-lh.akamaihd.net/i/dclive_1@692670/index_150_av-p.m3u8?checkedby:iptvcat.com
+Ayush TV,http://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+B4U Kadak,http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8?checkedby:iptvcat.com
+Boogle Bollywood,http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+Channel-S Live TV - github.com/free-iptv,https://a.jsrdn.com/broadcast/22679_24MrQma9TX/-0500/c.m3u8
+Channel NewsAsia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+Channel T1,http://128.199.212.160/channelt1/1080/index.m3u8
+Channel Win,http://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
+Channel Y,http://cdn19.live247stream.com/channely/tv/playlist.m3u8
+CNBC Awaaz,https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
+CNBC Bajar,https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8
+CNBC TV18,https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+DD Malayalam,http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8
+DD National,http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
+DD News,http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+DD Sports,http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+Desi Channel,http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
+Divya,http://edge-ind.inapcdn.in:1935/berry1/latest.stream_aac/chunklist_w927914309.m3u8
+Dunya News,http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8
+DW NEWS HD,https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8
+Eawaz TV (CA),https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/chunks.m3u8?checkedby:iptvcat.com
+ET Now,http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
+Eye 95 America (US),http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8?checkedby:iptvcat.com
+FastWay,http://fastway.ddns.net:6421/fastway/live10/index.m3u8?
+Filmstream,https://spi-filmstream-1-in.samsung.wurl.com/manifest/playlist.m3u8
+Flowers TV - github.com/free-iptv,http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
+Gaunda Punjab TV,http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+Geo Kahani,https://jk3lz82elw79-hls-live.5centscdn.com/Geo/83ccf718ec6040646c295cb25dbef052.sdp/playlist.m3u8
+Global Punjab,https://wowzaprod207-i.akamaihd.net/hls/live/827936/2eba5b83/playlist.m3u8
+GSTV,https://cdnlive.livecast.io/388656798579293628302251.m3u8
+Gurbani Healing,http://live.wmncdn.net/gurbanihealing/e09c9e2a70cc03a0b6d2171391dd682b.sdp/index.m3u8
+Hiru TV,http://cdncities.com/8012/8012/playlist.m3u8
+Hulchul TV,http://cdn12.henico.net:8080/live/jbani/index.m3u8
+India News,https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8
+India Today,https://feeds.intoday.in/hltapps/api/master.m3u8
+India TV,https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
+Inshort TV IN,https://inshort-samsungindia.amagi.tv/playlist.m3u8
+Insight TV IN,https://insighttv-samsungindia.amagi.tv/playlist.m3u8
+Introuble TV IN,https://introuble-samsungindia.amagi.tv/playlist.m3u8
+Inwild TV IN,https://inwild-samsungindia.amagi.tv/playlist.m3u8
+Inwonder TV IN,https://inwonder-samsungindia.amagi.tv/playlist.m3u8
+Jaihind TV,http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
+Janam TV,https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live3/chunks.m3u8
+Janataa TV,http://mydreams.livebox.co.in/Janataatvhls/Janataatv.m3u8
+Janta TV,http://live.wmncdn.net/jantatv/live.stream/index.m3u8
+Jeevan TV,http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
+Jonack TV,http://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
+Kairali News,http://103.199.161.254/Content/people/Live/Channel(People)/index.m3u8
+Kairali TV,http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
+Kairali We,http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
+Kalaignar,http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
+Kalinga TV,https://live.mycast.in/kalingatv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+Kanak News,https://live.kanaknews.com:4443/live/stream/playlist.m3u8
+Kappa TV,http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
+Kasthuri TV,http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
+Kaumudy TV,http://live.wmncdn.net/kaumuditv1/live.stream/index.m3u8
+Khyber News TV,https://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/index_150_av-p.m3u8?checkedby:iptvcat.com
+Lok Sabha TV,https://nicls1-lh.akamaihd.net/i/lst_1@26969/index_1_av-p.m3u8?sd=10&rebase=on
+Mangalam TV - github.com/free-iptv,http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
+Manorama News,http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
+Marutam TV,http://mntv.livebox.co.in/mntvhls/mntv.m3u8
+Mastiii,http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+Mathrubhumi News,http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8
+Mav TV IN,http://mavtv-mavtvglobal-1-in.samsung.wurl.com/manifest/playlist.m3u8
+Mazhavil Manorama HD,http://103.199.161.254/Content/mazhavil/Live/Channel(Mazhavil)/index.m3u8
+Media One,https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/chunks.m3u8
+MH1 Music,http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
+MH1 Prim,http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
+Mirror Now,https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
+MK Six,http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+MK Tunes,http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
+MK TV,http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
+Nandighosha Tv,https://live.mycast.in/ngtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+Naxtra News,http://wearelive.livebox.co.in/naxatratvhls/Naxatratv.m3u8
+NDTV 24x7,https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+News 24,https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
+News18 Hindi,https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_4_av-b.m3u8
+News18 Lokmat,https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
+OTV,https://cdn.smartstream.video/smartstream-us/otvnewmbr/otvnewmbr.smil/playlist.m3u8
+Peace TV Bangla,https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8
+Pramaya News7,https://live.mycast.in/encode/ee0c5a36ff5a7083ee044991974ad3ba.sdp/playlist.m3u8
+Pratidin Time,https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
+Prime Canada TV,http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
+Prive Tv HD,https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+Public Music,http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
+Puthuyugam TV,http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
+R Plus News,https://cdn.smartstream.video/smartstream-us/rplus/rplus/playlist.m3u8
+Reporter TV,http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8
+Republic Bharat,https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8
+Republic TV,https://weblive.republicworld.com/liveorigin/republictv/master_hdlive_360p.m3u8
+Rosebowl,https://acv.asianetmobiletvplus.com/webstreams/ef22daf97d61acb4bf52376c4105ad02.smil/playlist.m3u8
+RSTV RajyaSabha,http://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
+Santhora Short Film,http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/chunklist_w342316663.m3u8
+Sardari TV,http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+Shemaroo Bollywood Premier,https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
+Shemaroo Kids,https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
+Shubhsandesh,http://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
+Steelbird Music,http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+Suvarna News 24/7,https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/chunks.m3u8
+Tamil Vision,http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+Thanthi TV,https://vidcdn.vidgyor.com/thanthi-origin/liveabr/playlist.m3u8
+The Pet Collective,https://the-pet-collective-international-in.samsung.wurl.com/manifest/playlist.m3u8
+Times Now HD,https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
+TV9 Telugu,http://103.199.161.254/Content/tv9telungu/Live/Channel(TV9Telungu)/index.m3u8
+Twenty Four News,http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
+Vaanavil TV,http://live.wmncdn.net/vaanaviltv/live.stream/index.m3u8
+Velicham,https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
+Weatherspy IN,https://jukin-weatherspy-2-in.samsung.wurl.com/manifest/playlist.m3u8
 Action,#genre#
 1.Vanquish (2021),https://cdn3ii.diebutx.com/own2hls/2020/7f50438d6f69f10b7a8dae9fa285befb/540p/index.m3u8
 4.The Marksman (2021),https://cdn2ii.diebutx.com/own2hls/2020/2bcc3d4ba624b78ee5efbdf192445b35/540p/index.m3u8

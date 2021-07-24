@@ -140,6 +140,10 @@ Channel 8,http://198.16.106.62:8278/streams/d/Channel8HD/playlist.m3u8
 Channel 5,http://198.16.106.62:8278/streams/d/Channel5HD/playlist.m3u8
 SURIA,http://198.16.106.62:8278/streams/d/Suria/playlist.m3u8
 MiaoMi,http://198.16.106.62:8278/streams/d/MiaoMi/playlist.m3u8
+ASSP1 HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6708
+ASSP2 HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6710
+ASSP3 HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6711
+ASSP4 HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6712
 ASSP 2,http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 ASSP 2,http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
 ASSP 4,http://159.192.73.198:1072/astro4

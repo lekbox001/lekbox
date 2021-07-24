@@ -726,6 +726,41 @@ NBA HD,https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 求索生活,http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
 求索科学,http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
 求索动物,http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
+SPORT,#genre#
+CCTV5,http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
+CCTV5+,http://39.134.39.39/PLTV/88888888/224/3221226253/index.m3u8
+五星体育,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&authCode=3a&stbId=7D4003FF004735100000288CB80A1C30&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
+劲爆体育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
+魅力足球,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
+五星体育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+新视觉,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
+超级体育ᴴᴰ,http://39.134.155.137/PLTV/88888888/224/3221225653/index.m3u8
+超级体育,http://39.134.155.153/PLTV/88888888/224/3221225576/index.m3u8
+体育赛事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226803/index.m3u8
+精彩体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226010/index.m3u8
+咪咕视频·PP体育1,http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
+百事通体育 1080,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226599/index.m3u8
+爱尔达体育3,http://198.16.106.62:8278/streams/d/eltasport3_zero/playlist.m3u8
+Star Sports,rtmp://58.200.131.2:1935/livetv/starsports
+ELEVEN2,http://198.16.106.62:8278/streams/d/luxetv_zero/playlist.m3u8
+SPORT 2,http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
+SPORT 2b,http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
+SPORT 4,http://159.192.73.198:1072/astro4
+SPORT 4b,http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
+SPORT 4c,http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
+NBA HD,https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+纬来体育台,http://198.16.106.62:8278/streams/d/videolandsport_zero/playlist.m3u8#p2p://fccsovh.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts#p2p://fccseuro.pvbox.live:18912/5c2dd76e00049e335bba26bf05a87895.ts#p2p://fccseuro.pvbox.live:18912/5c7249e60007ce3b1d5832543a7916ad.ts#p2p://fccseuro.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts
+FS1cdn,https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+FS2cdn,https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+FS3cdn,https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
+FS3cdn,https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
+ASSP1 HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6708
+ASSP2 HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6710
+ASSP3 HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6711
+ASSP4 HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6712
+RTM Sports HD,http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
+RTM Sports HD2,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
+ELTA體育3台,http://198.16.106.62:8278/streams/d/eltasport3_zero/playlist.m3u8
 电影系列,#genre#
 HBOSignature,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
 HBOHits,p2p://fccsovh.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52.ts#p2p://fccseuro.pvbox.live:18912/5c7249ee000f145b1d5853691cf1378b.ts#p2p://fccseuro.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52.ts

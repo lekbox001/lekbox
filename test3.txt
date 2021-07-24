@@ -123,6 +123,9 @@ TV3c,http://50.7.161.82:8278/streams/d/tv3_pye/playlist.m3u8
 NTV7,http://185.180.221.194:8278/streams/d/NTV7/playlist.m3u8
 NTV7b,http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
 NTV7c,http://50.7.161.82:8278/streams/d/ntv7_pye/playlist.m3u8
+8TV,http://185.180.221.194:8278/streams/d/TV8/playlist.m3u8
+8TV2,http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+8TV3,http://50.7.161.82:8278/streams/d/tv8_pye/playlist.m3u8
 TV9,http://185.180.221.194:8278/streams/d/TV9/playlist.m3u8
 TV9b,http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 TV9c,http://50.7.161.82:8278/streams/d/tv9_pye/playlist.m3u8
@@ -151,9 +154,6 @@ TVB 星河,http://185.180.221.194:8278/streams/d/Xinhe/playlist.m3u8
 澳門蓮花,http://93.190.139.36:8278/streams/d/macauweishi_twn/playlist.m3u8
 天映频道,http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
 天映频道2,http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
-8TV,http://185.180.221.194:8278/streams/d/TV8/playlist.m3u8
-8TV2,http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
-8TV3,http://50.7.161.82:8278/streams/d/tv8_pye/playlist.m3u8
 GO SHOP Ch,http://50.7.161.82:8278/streams/d/Goshopch/playlist.m3u8
 GO SHOP Ch2,http://50.7.161.82:8278/streams/d/goshopch_pye/playlist.m3u8
 Animal Planet,http://185.180.221.194:8278/streams/d/AnimalPlanet/playlist.m3u8

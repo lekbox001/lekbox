@@ -111,6 +111,22 @@ Trans TV,tvbus://6hJYy7tDNyGCXbfigjUPrwmAw9jbu9tesWFi1XirZ8mgnuBikZxVDe7U6jJCb
 TV ONE,tvbus://6GY6hTFbUXfjC2aXjoJapQY7q48Gvxr8DByfN8oDpgMuHKbRZT1CprCe7VVcr
 TVRI,tvbus://5nHtkB1y2ke44tsCPWCuSbCQNvVyq1bMeHGKQtcSSPCFqoZGGJ9XgERXcNSAc
 MY2,#genre#
+TV1,http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
+TV1b,http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+TV1c,http://50.7.161.82:8278/streams/d/tv1_pye/playlist.m3u8
+TV2,http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
+TV2b,http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+TV2c,http://50.7.161.82:8278/streams/d/tv2_pye/playlist.m3u8
+TV3,http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
+TV3b,http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+TV3c,http://50.7.161.82:8278/streams/d/tv3_pye/playlist.m3u8
+NTV7,http://185.180.221.194:8278/streams/d/NTV7/playlist.m3u8
+NTV7b,http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
+NTV7c,http://50.7.161.82:8278/streams/d/ntv7_pye/playlist.m3u8
+TV9,http://185.180.221.194:8278/streams/d/TV9/playlist.m3u8
+TV9b,http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+TV9c,http://50.7.161.82:8278/streams/d/tv9_pye/playlist.m3u8
+TV9d,http://190.2.133.47:8278/streams/d/TV9/playlist.m3u8
 AEC,http://198.16.106.62:8278/streams/d/Aec1511/playlist.m3u8
 AOD,http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
 华丽台,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
@@ -235,22 +251,6 @@ Warna,http://50.7.161.82:8278/streams/d/warnahd_pye/playlist.m3u8
 Warna,http://190.2.133.47:8278/streams/d/Warna/playlist.m3u8
 RTM Sports HD,http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
 RTM Sports HD,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
-TV1,http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
-TV1b,http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
-TV1c,http://50.7.161.82:8278/streams/d/tv1_pye/playlist.m3u8
-TV2,http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
-TV2b,http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
-TV2c,http://50.7.161.82:8278/streams/d/tv2_pye/playlist.m3u8
-TV3,http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
-TV3b,http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
-TV3c,http://50.7.161.82:8278/streams/d/tv3_pye/playlist.m3u8
-NTV7,http://185.180.221.194:8278/streams/d/NTV7/playlist.m3u8
-NTV7b,http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
-NTV7c,http://50.7.161.82:8278/streams/d/ntv7_pye/playlist.m3u8
-TV9,http://185.180.221.194:8278/streams/d/TV9/playlist.m3u8
-TV9b,http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
-TV9c,http://50.7.161.82:8278/streams/d/tv9_pye/playlist.m3u8
-TV9d,http://190.2.133.47:8278/streams/d/TV9/playlist.m3u8
 CNA,http://185.180.221.194:8278/streams/d/cna/playlist.m3u8
 Channel 5,http://185.180.221.194:8278/streams/d/Channel5/playlist.m3u8
 SURIA,http://185.180.221.194:8278/streams/d/Suria/playlist.m3u8
@@ -282,68 +282,29 @@ CCTV14,http://39.134.115.163:8080/PLTV/88888910/224/3221225639/index.m3u8
 CCTV15,http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
 CCTV17,tvbus://6AqNdcGeUHZnLLcVKdjiF39BxojeWB5DxRTfoBnujRHszsnhrMsBYvZdJec8W
 CCTV央视台球,tvbus://8eXCHssrBizb53M4B36FDuSwW1diXiWhFC32yQJ3sTHsgyXTtw
-CHC动作,tvbus://6TfW6jpouWzHz3s8bcTjAo9uUBZ13DU6DCC8G5jtBWq6YxzVbgFaGh5Kwwq5t
-CHC动作电影,tvbus://7nCmUsh4cxsiKt7Ah47w7bSBZ2X74X89gQSGWzSZ79CegqHuKX
-CHC家庭,tvbus://5SJex4DJSFtsx2yY1wskJWcf7H4mHrbGb3zi6TKoR7BZDdDmUKTea5YkwGcWp
-CHC家庭影院,tvbus://7KsgbNT5ChgnHGBBJ5SG75LUJH9RuzY4xvX3ovKJJLG8L5iAZW
-CHC高清,tvbus://5SyJCjeETvr9yMBVba2K1eR4x9TRiZewydfnHdmMvM1dKmshAisKCUKUBG7gW
-CHC高清电影,tvbus://8RRw3M93t4yNqZRb7bYNsyV55wzE61v4dfU3Qvrp3LJC8z6dSt
-都市频道,tvbus://5gS77oD48TvX4pxC2VBEnDWiqRYyG4hwwjeZBMw6fpPTm4L8cDAexSCtE4SDM
-都市频道 b,tvbus://8Bffit867T6sPiRvGvPJoXxyXdVS1sM4ABnVYKFo7ALBVLcKWr
-都市剧场,tvbus://72n9jfDLRxDhiYMnDeN7xJcy4hVuF6hBaowTDZUdFK9rjHYEsP
-金鹰纪实,tvbus://8E4Nx5FBzXC6D1d3F98wQdkhMSYsnfHe7bTUV81SjoShVNW96Q
-星空衛视,tvbus://6Mis62zjjXhAFMV4jTpT8449d9eAuxtox4UDWXqSeWFQC1GgfNuE5GyZjFupc
-星空衛视 b,tvbus://72VVtkzwoUSVvakREiYSPn2Fm9P3JYZiXzVdCVq6Yevz2Q35sB
-江苏卫视,tvbus://6R2tcrJ3aoyp9LS4sBLeULSXLwHzRhHHCxqZvNJJuVUMaFpMqP8ZnVNJuAQ3b
-江苏卫视 b,tvbus://6zN1rgtwc1YkjNEo7qQTWJ9y4gTjqhmabPNCFrkpTNQPz2qPXU
-浙江卫视,tvbus://6E5mWxq1v5t4Nfp2z7meZCppJG6nheBUyBMqZtNdz7Xjb7yqKQfGWYfSqjqPM
-浙江卫视 b,tvbus://6zxYRuWEXKK3V3cMZuFpLDsSRHmH5ztW28qEHNuMqUSimBLBQ4
-湖南卫视,tvbus://6EmC2dswb7FjfmZLis6CDU3hfFgyKmnXXAk6BZgZr6dRzprbYvmPETL2YYu1g
-湖南卫视 b,tvbus://8KCv8fgtso7ymSsmdX7HNYp9YhRJb2TS96nNNxV48Vsxk2AV3E
-东方卫视,tvbus://6fzA21XE1u2ndEiw8VAKuTUcWEScYATEsz3zqQmkdyjoNA873r18WvFY57wHX
-东方卫视 b,tvbus://7GtBzJkWyvrpckZL2pjXHoEzzfbadxPkkpPhK45VmAoCUZHvZd
-北京卫视,tvbus://6UK3rRhdM8ZpLtL88gkkdcmAV7pcLFqv9PUUs6rFTwc5NmLRgvw6eGNNwJj9e
-北京卫视 b,tvbus://8jVPLruDAw9P99xm94ZcY2UtHwkStVgQnjwt2Pabnrj1Ejt97V
-广东卫视,tvbus://5ut2xsV199jytu4CKJSdGa1HmjWXawbPxbE3kNJ8ptsJhApAy4ouUGWh3VWDw
-广东卫视 b,tvbus://7ZLcdKFRDTCNMX5foXcnaJyhRTyZ7HVUc1XguY7KieAw28gWqK
-广东新闻,tvbus://6XANrXXSzbLAUBv9RHb3qQELuN3Am4PZJ5zr5czmoFaF9S2JHUJzFxCkUDfgL
-广东新闻 b,tvbus://7QjFxsvXTvWU52cX9db5rGLAw6wwXH7VXk7LQxvgmPt6Je7Koc
-广东珠江,tvbus://6gfNE9gwsxxJa44rbU7TgXZTqnkKgpjpKSDc1cyd2r7EdxQEJZRjwqmyWFV7Q
-广东珠江 b,tvbus://7CiW7Bdg9K5aNEUCv3nYwZGeUe5bsYCfwTeSzvbFHsm2ctTMR7
-广东体育,tvbus://5jVQxPtV5yrF5W4ua67SvK7nSaeHxdLRHrNnHgRnTE6Y3GEXpeL67eGdQHT6a
-广东体育 b,tvbus://7Lji1R32r9mP2JUzks2rpRwrSrNADbYRjRBsEpV8usFNWUp3FZ
-广东高尔夫,tvbus://6Er99xpJQHGGefghRY5bK36BqknkzTYh5ewy8NZ8tx6sewBZKAYGgLkjoarmq
-深圳卫视,tvbus://6LjK9Dst5XFXtmE4QC61ujBDgUdAVkPA6yEg4WrBVFSkbaYqXDmuuR9FUUV8f
-天津卫视,tvbus://5srtcjQUYbHfxtNaptir3UzsvQid8bR1qmCRBrbgGJ5naP1dMYqor96MJDZMB
-天津卫视 b,tvbus://6vVQiTasHnXiWkHVw1N5t5FR3wE2jdfdcndVeDQCk4WHhd4ozf
-安徽卫视,tvbus://6JPhP69BpSWUQRjhsBCe5QLn9UJ61dMPJpcDN4sB7n7RqMcm2zkMqPoi1DEof
-安徽卫视 b,tvbus://7SqDdnu82PgVjtTE6m2HAmpdsLMFy118exyc3TEMHbVMZULxks
-山东卫视,tvbus://6GVP5izQw8epQzVGc7sUZq1JvSFvPA3vdoj76etdpd1jigyZtTaVXhtztCTEo
-山东卫视 b,tvbus://8G21winnXwwHiYxdTa7DQ9PhnLD5Xt4PhDQYQenkFnPP3A6MFC
-山西卫视,tvbus://7dHMnWNbGYjCY9ceo1fd9EpaPz11Gc53Wg9zxpejtcnL2VuG15
-重庆卫视,tvbus://6QwHbRVvsBt9iuTYApoTMPjKjTYF4u1DWGD6FmLVNcXMtCE7NWas3HWEXLnaM
-重庆卫视 b,tvbus://7kTGgWv3Nz6SiJbK64F2BwM11exjY24nhxPDx3Cq1KWqnr1wh2
-黑龙江卫视,tvbus://6fasppzwo6faRN6mTjBUGFUogtSinSnXE9X7pnLPMdwRq8gEjCwxUY4fwV18C
-黑龙江卫视 b,tvbus://7E1wtTNc4AcQWERfmL9taw17q9Z3ceJVdcVqQVB7vVE338P9wf
-海南卫视,tvbus://8A2bnuFFJVeauXXE4yarJ7DxuQhcxmNVXCzxktqmSEVqfyBACb
-贵州卫视,tvbus://6bKwrPnkx94KktksWY7FPRh6neAxdFuWm8RLfgoi1S1oxDSFUnArhiBCGQR4r
-贵州卫视 b,tvbus://878NTuTQHs43eon4KKXQjAcFMJKM5BDJayedJ8NJj9XzNpyvPn
-辽宁卫视,tvbus://6SmVGGeiD1yK1TaC1RoA66VLtBwMmQgrtdA36W9m9Zfss2aHUgmz4CdFT8ZGJ
-辽宁卫视 b,tvbus://7MBFGor4MDuBqeUC8cagNp2h5UNjQNYN6txJYhHW3QEGt4SzNW
-厦门卫视,tvbus://6aLcHsocCUrpkeZt173oA8fJfGA7Ntrqk74FmCzpe9XBbcrSEcYnbUxkdB9uP
-厦门卫视 b,tvbus://8SNxtoM4cz7mgLExA8TZjCJ75mfzYDdth4QgmyNJC2SUNeH3R7
-吉林卫视,tvbus://5j7WqVUpzEzRr2xCJNeAtBWvep2817SfLomzf5kBo4AoGLk6EYXj6jvMZ1shc
-四川卫视,tvbus://5nvbCXEFe1i5t9p1HGiq3io5TwWWnnt9v4uKyGskvq8fWLuj1bYQBMJxQUqoM
-四川卫视 b,tvbus://763pPfdUjAmdgtGvE1Rpmwk6HSk5iaBpMwTsnvJkVhZ4L97vnW
-海南卫视 b,tvbus://8A2bnuFFJVeauXXE4yarJ7DxuQhcxmNVXCzxktqmSEVqfyBACb
-河南卫视,tvbus://5yJmkrtmz7Zq1VdYASnaYZviYHVHWCwkQfbSK1yKrgrPfRU3QxhcZqLisdPjm
-河南卫视 b,tvbus://7Zf1RZ31LsmAdpsbi7jF9TJoMJrAFB3bFQ6pgrJpauAq6NoHah
-山西卫视,tvbus://7dHMnWNbGYjCY9ceo1fd9EpaPz11Gc53Wg9zxpejtcnL2VuG15
-安多卫视,tvbus://69Mrkqnhzg7UMKtXF3dCF2Nep8VapGh8Nd4wqMGp26zrqNA9DY3vfeDxhF79c
-安多卫视 b,tvbus://7SUQ15EKecCReG3yy8vhg2VBcCGjxJhehk6oaPZpiaR9qz2anx
-安多卫视 b,tvbus://7SUQ15EKecCReG3yy8vhg2VBcCGjxJhehk6oaPZpiaR9qz2anx
-第一财经,tvbus://5JnhyBKz3qscTL3R1k8uqtp9E4XoYfKf9Cm2xCLDFBfPiLCkjwxa5gNviuQHV
-第一财经 b,tvbus://8cCtMe63wX1ZyJPBmbE69PYXhuCz8cb3E9iMddMai7LkXkkFwC
+CN2,#genre#
+CCTV-1综合,http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+CCTV-2财经,http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
+CCTV-3综艺,http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8
+CCTV-4国际,http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
+CCTV-5体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
+CCTV-6电影,https://cctvalih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8
+CCTV-7国防军事,http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
+CCTV-8电视剧,http://39.134.115.163:8080/PLTV/88888910/224/3221225635/index.m3u8
+CCTV-9纪录,http://39.134.115.163:8080/PLTV/88888910/224/3221225626/index.m3u8
+CCTV-10科教,http://39.134.115.163:8080/PLTV/88888910/224/3221225627/index.m3u8
+CCTV-11戏曲,http://39.134.115.163:8080/PLTV/88888910/224/3221225628/index.m3u8
+CCTV-12社会与法,http://39.134.115.163:8080/PLTV/88888910/224/3221225629/index.m3u8
+CCTV-13新闻,http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+CCTV-14少儿,http://39.134.115.163:8080/PLTV/88888910/224/3221225639/index.m3u8
+CCTV-15音乐,http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
+CCTV-17农业农村,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
+CCTV-5+体育,http://39.134.67.6:80/wh7f454c46tw2029879648_2093826562/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/1590394299-1.m3u8
+CCTV-7军事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+CCTV-8电视,http://39.134.115.163:8080/PLTV/88888910/224/3221225635/index.m3u8
+CCTV-12社会,http://39.134.66.66/PLTV/88888888/224/3221225669/index.m3u8
+CCTV-5⁺体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+CCTV-17农业,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/1.m3u8
 HK,#genre#
 鳳凰中文台,tvbus://6VcWe6ABdTke5PBvWQ9Bg3APSDwsQCJjNwjKYtZrU2kMGWJ1dHETNPPsRCGJL
 鳳凰中文台 b,tvbus://7hpEZEVQ1MZu2jzkQreR5DwWhtfAVA7BTzd5uEGGFRqMzwHrR6 
@@ -402,7 +363,51 @@ ViuTV b2,tvbus://86dmKKY1fitYB4WhoPCrMeZU4MBSsmssAbypzfgXFWzqenHaCo
 衛視卡式台 b,tvbus://7n2hA4hJH7rqhSQ2LLs3iPh3FYu1bC7sEBjEf4fDLV4Gp5LpSJ 
 新動力600新聞,tvbus://5jYymnbuNFPoHM9MVy6rRqgGakMhZnNKQUQS7ubW57HxmwRkKngHpXSS4UTLz
 澳視體育,tvbus://7z7GSXCAZX7uRAZJQqtrpybE6e3n2U8ax5RbJrNpcMyfV9ZDgh
+HK2,#genre#
+有線財經資訊台,https://api.leonardpark.dev/live/icable/108
+有線新聞台,https://api.leonardpark.dev/live/icable/109
+TVB翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+TVB J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
+TVB 新闻,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
+AOD翡翠,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
+明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
+无线新闻,http://190.2.133.47:8278/streams/d/Inews/playlist.m3u8
+香港电台直播,https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
+香港開電視,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+财经资讯台,http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
+澳視MACAU,http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
+澳視澳門台,http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
+澳視資訊,http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
+RHK32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
+RHK31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
+港台電視32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-p.m3u8
+ViuTV,http://61.238.6.49:8000/bysid/99
+ViuTV Six,http://61.238.6.49:8000/bysid/96
+澳视澳门,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
+澳视微影,http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
+澳视资讯,http://61.244.22.5/ch5/info_ch5.live/master.m3u8
+凤凰资讯HD,https://player.ggiptv.com/v/ifeng.php?id=1
+凤凰香港HD,https://player.ggiptv.com/v/ifeng.php?id=3
+凤凰中文HD,https://player.ggiptv.com/v/ifeng.php?id=2
+TVB星河,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+翡翠华丽台,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
+TVB星河频道,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+TVB星河频道,http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
+有線財經資訊台,https://api.leonardpark.dev/live/icable/108
+有线新闻台,https://api.leonardpark.dev/live/icable/109
+有线财经资讯台,https://api.leonardpark.dev/live/icable/108
+有線直播新聞台,https://api.leonardpark.dev/live/icable/110
+有線綜合娛樂台,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-CN/03.m3u8
+天映电影,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+天映电影,http://50.7.161.82:8278/Celestial2/playlist.m3u8?tid=m02000000000010416484&ct=17955&tsum=cd7dbff483b639f549b95320c78a1f3b
+天映頻道,http://50.7.161.82:8278/Celestial/playlist.m3u8?tid=m02000000000014496578&ct=17956&tsum=808f037499700f0538f13ea983dce703
+天映电影2,http://topwin-tv.my.id/2/master.m3u8?id=celestialmovie
+天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+星空卫视,rtmp://58.200.131.2:1935/livetv/startv
+Channel[V],rtmp://58.200.131.2:1935/livetv/channelv
+Discovery,rtmp://58.200.131.2:1935/livetv/discovery
 TW,#genre#
+豬哥亮歌廳秀,tvbus://66az2LHXLAdGzxupW7Wr6w4ZYRDG6AYHu5snfsnqCc4QQdXbfJuSeDrz6zt8G
 TVBS HD,tvbus://5khZxPGzFF6DCCCjBW4pivattKmEfaJqf25epZCHUA823V8jt5F6QHJMu4N6z
 TVBS HD b,tvbus://6XbZPjUSREcXYoh1NWQ6LmTHS54rREPg8e4kEnWaHzcRZaspKcN5h9HxPGgM4
 TVBS HD b2,tvbus://65qXnWpqWqgbrh5nhu8jE5eYgx5TcwFWCLSgHjkYip1quwX47T9se7J8peFbK
@@ -651,317 +656,102 @@ HBO CA,tvbus://5ufA9DQRFjPRY1xB3d8ZjeXge4gKy6fZUg8MwoaWp3xiFEymegc18zjqttA3q
 MTV Live,tvbus://6KkQcWWPHAd5MuTaseQeai1b1o8Zx3zwS7LtXzERkChRirKYMUkjgRdeYS4Xs
 MTV Live b,tvbus://7whA5UQwVQ9b5b2G55g3Qdgo4yV9eQzNr49AT1PpGVcrAzFt4B 
 TW2,#genre#
-民視,tvbus://6Lj9rFEdKejTmFCH2Kv7jX2G56jH6y1zu7sNmRWp1qGYpyWzZk4tgPKnwWSi2
-豬哥亮歌廳秀,tvbus://66az2LHXLAdGzxupW7Wr6w4ZYRDG6AYHu5snfsnqCc4QQdXbfJuSeDrz6zt8G
-台視,tvbus://6Q1Sse26Zx4Bb33LwYrUXekJwjGu5ogGDiBiqTbonztTEr7bESCCm5BY4s1xb
-三立台灣,tvbus://6KDZEwsaiTyKpYASWzYE3aJSWB8vkhQyrgtNDb8XAqgriAwdo2EiMcMhVm8oa
-三立都會,tvbus://6ZLRzjLE58srUuzBPq3QNRSPE9L5EYDhp1p2uvYHEBZ8nJBY9kQii1X5hTy2w
-三立國際,tvbus://67jD3VftcMR8qp8HCnFNcHPUeHDHXF7WLMsT6Zwu5HXtuMbDjLrWUYRTVFR9P
-三立戲劇,tvbus://8TNVsoqe7ULzyCimBACzQMNeMopXB4dFx1xsqDk3TGVR6Vm3CN
-三立台湾台,http://198.16.106.62:8278/streams/d/sanlitaiwan/playlist.m3u8
-三立综合台,http://198.16.106.62:8278/streams/d/sanlizhonghe/playlist.m3u8
-三立戏剧台,http://198.16.106.62:8278/streams/d/sanlixiju_zero/playlist.m3u8
-Tw min shi 民視,tvbus://6GwMH4m2UbVfWAMzAs38fnm1rmpMyqrwkPtBFZdrZkiBsmBrmSeQYonMVKusd
-Tw tai shi 台視,tvbus://6Uz6j3KQTSS5GjDTezuHHSozxzwZhEsBi6h39pUAkJfHvu5Ybsc9UMcnBcLgc
-Tw zhong shi 中視,tvbus://6NwPWjgQKaW6Hcq9PPhazh4cPxh4xCmKC7zq9hpbU7oJknuasWmpwL5Ji1Exb
-Hua shi 華視,tvbus://5uupLdVx6j2ddXjJwMTC1uPCVmXLkzyxvzJvx1XrGD5vyjEPSJVqKTd8FuMmx
-Gong shi 公視,tvbus://65FCDZWSMR4G6PQau23gbRnMATae9xv371pWKZxaon6wRYE8faLrMmVmiaGc5
-Guo jia di li國家地理頻道,tvbus://6K4Hz43ew43P2xcNrqmZjjhprcWn8eH8U6HMzjk1TBagpd5Xg7jvCbjimN58W
-Tan suo ping dao 探索頻道,tvbus://5hRnim3vdD4FMR6B2WZck8mQ2dcupLronp9ks2CRDHAz7ehuUqff38zD66W9F
-TLC lu you sheng huo 旅遊生活_HD,tvbus://6ZoepDKPgs2BA5dBFEdB4iTUWd4JJJvhff1VX4t3V2B8Vde4MpAwrkkMviKir
-Dong wu xin qiu 動物星球,tvbus://6SPfmkT19m1ckp3MBcEhkxUqXGzzBXBxNffqaEviMgW56WJ3Hzoc5skNVKojq
-Di shi ni 迪士尼,tvbus://5kZ8i4ftZm6b3DroFWmRPREjDQiyuxkwSCc69bE4xafAyWXXUpLncR3sCjCJX
-Ka tong ping dao 卡通頻道,tvbus://6cCTwbYLkkx5vSHmZ1fTVb7rrbo5XRcaWbtNuUTTpSHFxsqPD6KyZuEHESnZz
-MOMO qin zi親子,tvbus://5X5Hd9WdA5SySjWsbASTc8rbcxfcYewnPnvy59KegMAhWFrA16sHebm9L8Xqn
-Dong shen you you東森幼幼,tvbus://6QCZY2EVkFP5ebQcSLx9Bn1GJ95zvxkQDW1ia3fy6gQZETKgvBh1yXLtYaZnd
-Wei lai zhong he 緯來綜合,tvbus://5vv8ngW7EBMnpjCvuYFLbNN9nfaYptrEiTXZ79tBQd4VQgArPtThhrd16ZYe7
-Ba da di yi 八大第一_HD,tvbus://5cn9j1kJ9kuy7UYaPW6MPuDZ2YjZ5qWU6uQTvWehGFjRoujhsZkt6RrrTSKuP
-Ba da zhong he 八大綜合,tvbus://5L5N1QrvtKfN1R2rZVrXewcP5EJuRcXFqaYanE6GrqfaGvZoQDvxF89bQc55Q
-Tw San li tai wan三立台灣_HD,tvbus://5bs16MgndrbAVgewPk3FnyB65GFG34CUgswUfMxVirdmUUJxnuv7Rx2Ly7CqF
-Tw san li dou hui 三立都會_HD,tvbus://5eQroiSHYbP571m8HFv6R5vjDGFaQn75vPvEfeW3XHZg8JhcZLV4qsWTjmqpY
-Wei shi zhong wen 衛視中文_HD,tvbus://6b7sWQXkuKumRbpqkoGxkW4cKZXXnW93KDY1tnVQq5CneNeZAEQduCLST2xKW
-Dong shen 東森綜合,tvbus://5Qrgum8xNNX2B7wtwBCTiVb3Lse9teDkoL1cbqFr3rKBK79tp5czXXpKBMj4z
-Dong shen chao shi 東森超視,tvbus://6UY92VSrRoTTi43hYRfCNiyDCzFTA2sgqF22Cea8KQ1SjkMfPanUBCAak2CtH
-Zhong tian 中天綜合_HD,tvbus://5rgD9pjmXsTKdWcJnpJuJyrvUnaBotkNk8Yr38KkcZVUyNRcCTu2bhPnMFfMN
-Zhong tian 中天娛樂,tvbus://6XFa2kYAStDvecKtn6Zy8h93kvFaWY3eSKt7BP9phpGywAc1PJFkGfHw5qo6R
-Dong shen xi ju 東森戲劇_HD,tvbus://5yfhooLEp2fj8eQP3MZcLVCHRTuQe9ByW9T6Hj5DY4rJjhFUzB2BENnEBWKuQ
-Ba da xi ju 八大戲劇,tvbus://5upkUXxwXcjLDtUuffF2ZPfQiCEbDgvhbP8GU7yocirn9qrfRsvjZeq3uaER9
-TVBS huan le tai 歡樂,tvbus://5iuZdrPxQDmVpNk2RvS5p7U9UMSk1r7CrcjvpP1yzBQjMe6GytF3bDqbiF1vo
-Wei lai xi ju 緯來戲劇,tvbus://64GFZ6uKjo9WiZHyHw8vuiqtuygNEc7KNJLTvZEkkF7i36kqoUSS4oMxxajtR
-Jing tian ying hua 靖天映畫,tvbus://5Y2LJHzn8EExip1PfcGApZxJLg7qUzqWpf7NiWvencGEnBEe9db9pCd5TrpHc
-San li xi ju 三立戲劇台,tvbus://8TNVsoqe7ULzyCimBACzQMNeMopXB4dFx1xsqDk3TGVR6Vm3CN
-Yi dian shi 壹電視新聞台,tvbus://6HAaEgfgUnyuir85rt9epacbB99a2XyEzmGkwUidf2dwjDSZ15at8d8AouURP
-TVBS_HD,tvbus://5khZxPGzFF6DCCCjBW4pivattKmEfaJqf25epZCHUA823V8jt5F6QHJMu4N6z
-Tian ying jing dian 天映經典,tvbus://6HbVAkQXXj4SAXKpyDt18vqEHoHVkjNQ4gSQNVtgWeBJ72VT7Yc2npgAr2WUY
-Wei shi dian shi tai 衛視電影台,tvbus://5au5QAR4QVNUXum4PLi7zF3TyoxTfWv6cWRboJuXkkZSaNcYAGdNHjccAxVUQ
-Dong shen dian ying 東森電影,tvbus://5KVKy5MZ69VvVapedT8GC56zKNGuoCD4eqyfgwppcwFPYdc4GK5ghmydBRehB
-Wei lai dian ying 纬来电影,tvbus://5XDwXtHqpxQFkV9kv3JUroUu9bQnDJrSHwAPbt3EETaQi8TjL9rBBpF9wRsAF
-Long xiang shi dai 龙祥时代,tvbus://6LPRczsLaX5Zg1GATf3R7g3osN4z6dcFHa5E17sM1keh6C3bc64jpUv2MxMFM
-HBO_HD,tvbus://5opYE6ErJoLGfYc4vUN9WxYLLzrKu7PT6g6TKqDtkZHVxPZCrxTmrQTBNyigP
-Dong shen yang pian 東森洋片,tvbus://6dTYTD7sdGGBDNnToo42Nig1KvfEw2nNfn1NuWRcYfUGudoiorjJFkHCXV9My
-AXN,tvbus://6Tuzxb72WjjEXqCn6YG8YU4dPChX78TuWQC1k1kE3SR8XtV19RuHJJtobrPfw
-Hao lai wu 好萊塢電影_HD,tvbus://5KrB5QCAYhhvfJ4c8jiUPu9HfpP4i2wnjDZXU1ATJAQpzAYzcwfZjRPVL8iHP
-CINEMAX_HD,tvbus://5ehU7TgbheBuRFcsKK1PQFhccU1RWD51wYKTrKuYtm4DHX3r7HcWhFuADKd8U
-Wei lai yu le纬来育乐,tvbus://5XuZLifLBB4dzkfzoKA93WCdigZmBRzSbUBvRzJ1QjaJd7ecS9gdMGdKLetfB
-Wei lai ti yu緯來體育_HD,tvbus://6dvyXxrgyK2SDTDRbvo7eZiZkn4oVBnttCRazMcjvfriVd29d1ihd7ZBwAah2
-Eleven_Sport,tvbus://5NrQ5pvLs9nQVyZtWJYJQaobzbEa1uTQwg2D4P1mwrtAh7ZsWZfpG2hA9FM2P
-Guo xing 國興衛視,tvbus://5SX9vAMYLsHuC9UPJvZSGQcjCp3Zq2yCZYJP5YSdCyi7CrYu7CJmSkmWe11aP
-Z pin dao频道,tvbus://6R1Mb1nKR5CvDNMeoPgdwFbgR4hAT8GoYmjAmg71KpcS1CnCZNqcsb5gvj6vq
-Hua shi 华视新闻资讯HD,tvbus://5v634cmpVDfScXt8753ifdEd7G2JQYo51ikg3oTJVuFTz75T9W5PLXpgbcfNU
-MTV_Live,tvbus://6KkQcWWPHAd5MuTaseQeai1b1o8Zx3zwS7LtXzERkChRirKYMUkjgRdeYS4Xs
-San li 三立财经台,tvbus://5ZbnUfiKH4jFZ7uQoMMgk9o7GWhD8MZJa6ZM1cypdSZQFeYhLmRkU1NhreVFL
-Long hua1龍華戲劇,tvbus://5bBUJ3ztc56iCX5ZBkbapFa2Be5D7LXUi2sa6F29oghRGfcnS3sUXZGogQLTU
-Long hua3 龍華電影,tvbus://6LwUVDeFb8Jsbakw6NkRVBFAA5KgeehuDN64LJKBiNRUVHAB7r42TWHiSTgsL
-Fox_Action,tvbus://6EPSdeqvXNb7KLxD89cY9miiqJ9Ug4fneLZQwmcwvdNYNitf7SnQaT923uaCf
-Gong shi 公視二台,tvbus://5TiPr2DjeUVndyJeyKN4scd8hyRYWMSYHcvLpK6XMHKzowB3vrMx9oVvxBJf2
-Hua cang 华藏卫视,tvbus://5KJu4mHQebPojUWthRKPcWt2VcqW5jhRNQ5hTB15bqHMdL8SXBBsH6kYovvY2
-Fox jia ting dian ying tai 家庭電影台,tvbus://6geZ8Q1FXN7tbD8UFaBcjsSJeDCkXHS6NcEdf7zx6aUfUV1vrRteXCMKvquNA
-Ya zhou亞洲旅遊台,tvbus://6TGif8EbHMdyDFXSrEwTcoPZXaAuPMgDjDLNLLcgmTZEHxv7Snj16RYxM98ZM
-Jing tian dian shi tai 靖天電影台,tvbus://5TwdQ9cS9ytejmgT77nfnGW7xYuXtGxFqeeUjhgp79yQtamqBuxYkmY4FLLbe
-Fight_Sport_HD,tvbus://5bPPQaxBZozxSDVUDR32yxFaKRyMCuFfDwF4e4bkbXgUkzMcgLAvCxtCwVRSG
-Gong shi 公視3,tvbus://6F5LQ73o1ic8HGkwvdC5Zw9m2xz9KQpEgrb1pTz9dvRLP6neoj8SD7Q511Maq
-Hua shi 華視體育台,tvbus://6bJSUQVVo3EoQuP1S1mA1KKDsG2qo52CjTKU4RDu7doyUGpHqXu5jDm2HvL4n
-Mei ya 美亞電影台,tvbus://6fXbnEVt2xue4aYZga9ER8ftVvU1tycYH4S4rqjBgsmGSu6WrAFcD8cQUVgiG
-Hua na 華納電影,tvbus://5nx3ew6pSzsNypijptouK8okba1QBASVFvb75jSokUVoCesubL4qCf1XfU5PU
-Hao xiao xi 2好消息2,tvbus://6PDiL5v2TyzqJeK9W3V9eLRqsJaBAQhSWddfWofmEBe7USe38CBbqp3khAJWH
-Xi wanh希望电视台,tvbus://6XAXMTpAZewLnNstKjwysvqqJ4QZbKgW3za2rBdnbYMu1Khc81pg27JVtSSXu
-Gao dian 高點綜合,tvbus://8BnmsVjVRUSXVAccaMNkx6psUkpsoWRdtUaVzfydvA5D6g82jg
-Tan suo 探索科學,tvbus://6KC6sWoijKPxJj8XcFzYLTnhjTchqeGSQa8dVwajH2m4UHECcMd49yCFE9pq2
-EYE_TV戲劇台,tvbus://5WmNR3P9mdwzYuLBr8ecBLi9m8V7DjTJfm4SgM4tmqQqr7RMiFASqTS8E29bH
-sports 1愛爾達體育1台,tvbus://5NTfiiK2rBLvUCEpGRuWd4zKchfZoMGpK6Be9BsWUzyytKqNtpw8bWK7tZyjb
-sports 2愛爾達體育2台,tvbus://6eUVgb2q6mR2wN3TuPNmKkqPmQvzaqgQQS6KEqahbV6rRSz1GSabpqWfnoCwb
-sports 3愛爾達體育3台,tvbus://63GPxtiHLwo8KLGyPnjBQnTYgHyFUf2PHDwJfH8szh5gGhshnZZQV8ZagBirm
-Huan yu 2寰宇新聞二台,tvbus://5wxL2ywZEn7YoKudKyqbJtKaL2Qj3DL4wjjq5BQ7NQCjJoC2YKg21Xwz7tU27
-Huan yu xin wen寰宇新聞台,tvbus://6JKuKpFKftPN5faMaHje6597pVufZ44XiP8oC8uGCmw12E2XX1VNho9cNnR2c
-Tw Min shi 民視第一台HD,tvbus://6ednGj6km9MMnYffReGPEqn5nkuGF9JeeS8KYs1FfWdZD7TNDfeeHbjzWTS37
-Tw Min shi民視台灣台HD,tvbus://5qUwVXwdT4DdpcNKXRi77GdzH9Gb2ZQD5WWueA5WkZ7kpuvmC53oDoSCDVRTd
-Tw zhong shi中视新闻HD,tvbus://5R9W8Pyu2dnVpue6Jsfx74SJwa1Vn2VtWxuDHCWihBMMFkrCMeMr7Wz1hdFdQ
-Tw tai shi台視財經台,tvbus://5QKsG2nutAoqFyBrLsWUUX6NyzLK8M2DTXtb2Z5ynMKNFnVZ1piYPwYmHuSUY
-Tw tai shi2台視綜合台,tvbus://6Z9NPPR697ZRRs1JyrvJkcEFXT9iUZ1aDBMqTGdBsVM6ectZ9aKDNPk89SVYf
-nba,tvbus://6jVrf9r92hKsQCPqqCiEgETKVK8wcjcwJNQH9j46aWB5r8NqA6HufS5n6a6jX
-Eleven_Sport2,tvbus://6SxHQswLudukLP996c4UcgZPuWG7HDvp2PM2mRg8ahfkJG9AjKTCJwZQjaKUL
-FOX_CRIME,tvbus://5SfH5CqHH7Caop9yq7RPojibWTmSthiuZgcoAzjJ4zakagDu6mDGnV1Rz5XPP
-Ya zhou 亞洲美食頻道,tvbus://5cnGsb1zt9JnveQhexaWWPVG84Tdf1eXynqTXH3sCK7WvHqExgLGvdKMfUejC
-BBC_Lifestyle_Channel,tvbus://5wefCvSVvkt2zhp4HDBEWmxbYV7g5r6Xj27bg7FJMv8o9FBdYudRNYyLVw2at
-TVBS精采台,tvbus://6XbZPjUSREcXYoh1NWQ6LmTHS54rREPg8e4kEnWaHzcRZaspKcN5h9HxPGgM4
-sports 5博斯運動一台,tvbus://5PWUSk5i67uQNx1TYcu9KANMCLe6CtTztGSgXAdnqqDpNX7YkVjUvscJDtYYo
-探索亞洲,tvbus://5VBcbUCJXNi2HkYD1f5MXD6QpZjqWst6kkytcp9xh6oFUoWRwm7FBsQzmat5s
-DMAX,tvbus://874a6KPRGwFtaEE5NnSUG4SpLz4nLvTYyypYupFCsw3UUSvmSi
-H2,tvbus://65uc4WnPyY6F6seDNVLobGHNPTSrWCUhUqxNNpt8MQFQMMjqcQaUVxsKzGQ9y
-罪案偵緝頻道,tvbus://5cBuWJcyHBKyH8t8vCKZ9bpZUMUFk8DTc1LUuXYg3PGULKo7wsvxizftUPTmT
-Korea 韓國娛樂台KMTV,tvbus://5NW3FFM1tRx9FiZW5KWX2kf6NDLwntDiFnjqnuPKqvqCczeGm7vk5FQX4tvto
-Xing wei 星衛電影台,tvbus://5ixd4eARkmWRUdmjnAu17xUsC7ngBWDaxsmgk4LcxkFCkXELGn8CrfBYQijmA
-National Geographic Wild 國家地理野生頻道,tvbus://5oRJxmZ4F1mga6wmLhCEkCZDiJWrbydZc9rvG4eynVwHRLqgKW38fVjchKJML
-National Geographic Wild2國家地理悠人頻道,tvbus://5rcm8hf7wJMULKec5YcP7MSV4s7fd7LHhfjpWrBqmoLP4M8Xb4r8DJGSqTTfa
-Golf_Channel_(博斯高球),tvbus://61gn94JLNN2gxHHPZGD5N7wn8JfZSKsrwr9HnBrfoRA8Y6Lh4tfWzREoSsQJN
-Golf_Plus_(博斯高球二台),tvbus://5sBm5icQbDAZimzmUUCDWftepBhGDcrT4c21xnxyn8bBMtn7Jm7F1az6vdNJX
-Sports 7博斯網球,tvbus://5ZjaFSgh4BXSSVPJLgRybUYuxPeLQxLBSpnwqcUuvH4ZPWZuYFMNB4hwRXWui
-Bo shi 博斯無限 ,tvbus://6UKxSYxrqMVTE7RkrLjrLrbnQX2y2iRUJoYiWVEhqzr8uwZ7QJio6qbaVacHf
-Li shi 歷史頻道,tvbus://5e5WsYxPHbGNzugLb4WNbiJx523VzgDtGXd9L44e5YUKwLuKHLgR4R3xdPYYZ
-Tw tai shi 台視新聞,tvbus://6ZmEsG1fAYZVjYz1Zv4p9b3tjEiYuxHqbe6QBtmNwtKuFCcfcxV7iM1snBVx9
-DRT_Da_Nang1,tvbus://5xewi3f1ptr35Hwp6Jbw6bUESh81ToEf61FZG25M2PHaSspbyZL3TEsvszjFM
-DRT1,tvbus://67YUjZeHM32rSkvDBhRmMFZ19zW7fSnsPVfP1N1QwUruLgT5Qmg4YocVkRacH
-VN,#genre#
-Air TV,https://livefta.malimarcdn.com/ftaedge00/airtv.sdp/playlist.m3u8
-Brian TV,https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8
-BRT (360p),http://113.163.216.23:1935/live/tv2.stream_480p/playlist.m3u8
-Bến Tre,http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/thbt.m3u8
-Cà Mau TV,http://tv.ctvcamau.vn/live/tv/tv.m3u8
-Da Nang TV1,http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
-Da Nang TV2,http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
-Dao Lane Xang,https://livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/playlist.m3u8
-Dhammasapha TV,https://livefta.malimarcdn.com/ftaedge00/dhammasapha.stream/playlist.m3u8
-Gia Lai TV,http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
-Good Idea TV,https://livefta.malimarcdn.com/ftaedge00/gooditv.sdp/playlist.m3u8
-HBTV,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
-Hmong Star TV,https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8
-HmongUSA TV,https://livefta.malimarcdn.com/ftaedge00/hmongusatv.sdp/playlist.m3u8
-Houng Fa,https://livefta.malimarcdn.com/ftaedge00/houngfa.sdp/playlist.m3u8
-ISTV,https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
-KhmerTV,https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/playlist.m3u8
-Khomsanh TV,https://livefta.malimarcdn.com/ftaedge00/lstv2.sdp/playlist.m3u8
-KienGiangTV,http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
-KienGiangTV1,http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
-LA34 - Long An,http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8
-Lao Champa TV 1,https://livefta.malimarcdn.com/ftaedge00/laochampa1.sdp/playlist.m3u8
-Lao Champa TV 2,https://livefta.malimarcdn.com/ftaedge00/laochampa2.stream/playlist.m3u8
-Lao Champa TV 3,https://livefta.malimarcdn.com/ftaedge00/laochampa3.stream/playlist.m3u8
-Lao Heritage Foundation TV,https://livefta.malimarcdn.com/ftaedge00/laoheritagetv.sdp/playlist.m3u8
-Lao Muslim TV [Not 24/7],https://livefta.malimarcdn.com/ftaedge00/ddtvlao.stream/playlist.m3u8
-Lao Net TV,https://livefta.malimarcdn.com/ftaedge00/laonet.sdp/playlist.m3u8
-Lao SV TV,https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8
-Laos Planet TV,https://livefta.malimarcdn.com/ftaedge00/laosplanet.sdp/playlist.m3u8
-Lone Sinh Lao TV,https://livefta.malimarcdn.com/ftaedge00/lonesinhlao.sdp/playlist.m3u8
-Look Thoong TV,https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
-LS TV,https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8
-NAT TV,https://livefta.malimarcdn.com/ftaedge00/nat.sdp/playlist.m3u8
-Ning TV,https://livefta.malimarcdn.com/ftaedge00/ningtv.sdp/playlist.m3u8
-Oh Muang Lao TV,https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8
-Oy Lao TV,https://livefta.malimarcdn.com/ftaedge00/oylaotv.sdp/playlist.m3u8
-PNTV,https://livefta.malimarcdn.com/ftaedge00/pntv.sdp/playlist.m3u8
-PTP - Phú Yên [Not 24/7],http://113.161.4.48:8080/phuyen/tv.m3u8
-QRT,http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-Quốc Hội (720p),http://113.164.225.140:1935/live/quochoitvlive.stream_720p/playlist.m3u8
-Supreme Master TV,https://lbs-us1.suprememastertv.com/720p.m3u8
-Tea TV,https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
-Tea TV 2,https://livefta.malimarcdn.com/ftaedge00/teatv2.sdp/playlist.m3u8
-Tien Giang (720p),http://thtg.vn:8001/thtg.m3u8
-Uniquely Thai,https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8
-Vajtswv Txojlus,https://livefta.malimarcdn.com/ftaedge00/vajtswv.stream/playlist.m3u8
-Vanphenh TV,https://livefta.malimarcdn.com/ftaedge00/vanphenhtv.sdp/playlist.m3u8
-Vati Lao TV,https://livefta.malimarcdn.com/ftaedge00/vatilaotv.stream/playlist.m3u8
-VITV,http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-Việt Mỹ TV (480p),http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
-THAI,#genre#
-THAIPBS-3,http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
-3HD,https://www.livedoomovie.com/02_3HD_720p/chunklist.m3u8
-5HD,https://www.livedoomovie.com/02_5HD_720p/chunklist.m3u8
-7HD,https://www.livedoomovie.com/02_7HD_720p/chunklist.m3u8
-Fox Sport1,https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
-Fox Sport3,https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
-FoxMovies,https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
-FoxMovies_TH,https://www.livedoomovie.com/02_FoxMoviesTH_720p/chunklist.m3u8
-FoxThai_TH,https://www.livedoomovie.com/02_FoxThai_TH_720p/chunklist.m3u8
-MCOT HD,https://www.livedoomovie.com/02_MCOTHD_720p/chunklist.m3u8
-PPTV HD,https://www.livedoomovie.com/02_PPTVHD_720p/chunklist.m3u8
-PremierHD1,https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
-PremierHD2,https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
-PremierHD3,https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
-PremierHD4,https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
-PremierHD5,https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
-Thai PBS 3,http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-THAIRATH HD,https://www.livedoomovie.com/02_THAIRATH_720p/chunklist.m3u8
-TRUE SPORT 5,https://www.livedoomovie.com/02_sport5_480p/chunklist.m3u8
-TRUE SPORT 6,https://www.livedoomovie.com/02_sport6_480p/chunklist.m3u8
-TRUE SPORT 7,https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
-True Sport HD1,https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
-True Sport HD2,https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
-True Sport HD3,https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
-TRUE4U,https://www.livedoomovie.com/02_TRUE4U_480p/chunklist.m3u8
-TRUEMUSI,https://www.livedoomovie.com/02_TRUEMUSIC_720p/chunklist.m3u8
-SPORT,#genre#
-纬来体育台,http://198.16.106.62:8278/streams/d/videolandsport_zero/playlist.m3u8#p2p://fccsovh.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts#p2p://fccseuro.pvbox.live:18912/5c2dd76e00049e335bba26bf05a87895.ts#p2p://fccseuro.pvbox.live:18912/5c7249e60007ce3b1d5832543a7916ad.ts#p2p://fccseuro.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts
-爱尔达体育2,http://198.16.106.62:8278/streams/d/luxetv_zero/playlist.m3u8
-爱尔达体育3,http://198.16.106.62:8278/streams/d/eltasport3_zero/playlist.m3u8
-BT Sports 1,http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
-BT Sports 2,http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
-BeinSports 1Max,http://7.anbdaouras.xyz/live/9889900/index.m3u8
-BeinSports 2Max,http://4.amroutras.xyz/live/00002500/index.m3u8
-Bein max 11 ,http://8.anbdaouras.xyz/live/6262622200/index.m3u8
-SPORT 2,http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
-SPORT 2,http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
-SPORT 4,http://159.192.73.198:1072/astro4
-SPORT 4,http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
-SPORT 4,http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
-WWE摔角,http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
+ELTA影劇台,http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
+ELTA綜合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
+ELTA體育3台,http://198.16.106.62:8278/streams/d/eltasport3_zero/playlist.m3u8
+FOX動作電影,http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
+FOX家庭電影,http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
+FOX犯罪電影,http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
+HBO Family FHD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7070
+HBO Hits FHD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7068
+HGTV,http://iptv.tvmalaysia.cc:80/penang172/penang172/7076
+History FHD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7079
+Hits Movies,http://iptv.tvmalaysia.cc:80/penang172/penang172/7066
+Nat Geo People HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7080
+Nat Geo Wild HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7081
+National Geographic HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7075
+TVBS,http://198.16.106.62:8278/streams/d/tvbs/playlist.m3u8
+TVBS 新聞台,http://198.16.106.62:8278/streams/d/tvbs_n/playlist.m3u8
+TVBS歡樂,http://198.16.106.62:8278/streams/d/tvbsgbk_twn/playlist.m3u8
+Warner TV HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7072
+三立台灣,http://198.16.106.62:8278/streams/d/sanlitaiwan/playlist.m3u8
+三立新聞,http://198.16.106.62:8278/streams/d/sanlinews_zero/playlist.m3u8
+中天新闻 FHD,http://seb.sason.top/sc/ztxw_fhd.m3u8
+中天綜合,http://198.16.106.62:8278/streams/d/ctizhonghe/playlist.m3u8
+HBOsignature,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
+亞洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
+台视新闻 FHD,http://seb.sason.top/sc/tsxw_fhd.m3u8
+欢笑剧场4K,http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
+民視,http://198.16.106.62:8278/streams/d/ftvhd_taiwan/playlist.m3u8
+民視台灣台,http://198.16.106.62:8278/streams/d/ftvtaiwan_twn/playlist.m3u8
+民视新闻 FHD,http://seb.sason.top/sc/msxw_fhd.m3u8
+求索动物FHD,http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
+緯來戲劇台,http://198.16.106.62:8278/streams/d/videolandxiju_zero/playlist.m3u8
+緯來日本台,http://198.16.106.62:8278/streams/d/videolandjapan_zero/playlist.m3u8
+緯來精彩台,http://198.16.106.62:8278/streams/d/videolandspecial_zero/playlist.m3u8
+緯來綜合台,http://198.16.106.62:8278/streams/d/videolandzonghe_zero/playlist.m3u8
+緯來電影台,http://198.16.106.62:8278/streams/d/videolandmovie_zero/playlist.m3u8
+美食星球,http://198.16.106.62:8278/streams/d/foodplanet_zero/playlist.m3u8
+華藏衛視,http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8?fbclid=IwAR2uErpXmasWyKXdAsf_7CmAt16pfI_p8LnqdgrwtxWmErj7tq4NSTRtnPc
+华视,http://185.207.176.189:8080/channels/tw-501/playlist.m3u8
+华视教育,http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
+华视新闻,http://185.207.176.189:8080/channels/tw-503/playlist.m3u8
+台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8
+華藏衛視,http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
+民视第一台,http://185.207.176.189:8080/channels/tw-301/playlist.m3u8
+纬来体育,http://198.16.106.62:8278/streams/d/videolandsport_zero/playlist.m3u8
+纬来戏剧台,http://198.16.106.62:8278/streams/d/videolandxiju_zero/playlist.m3u8
+纬来日本,http://198.16.106.62:8278/streams/d/videolandjapan_zero/playlist.m3u8
+纬来电影台,http://198.16.106.62:8278/streams/d/videolandmovie_zero/playlist.m3u8
+纬来精彩,http://198.16.106.62:8278/streams/d/videolandspecial_zero/playlist.m3u8
+纬来综合台,http://198.16.106.62:8278/streams/d/videolandzonghe_zero/playlist.m3u8
+美食星球,http://198.16.106.62:8278/streams/d/foodplanet_zero/playlist.m3u8
+HBO原創電影,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
+Discovery,https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+Discovery Asia,https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+Discovery Eve,http://198.16.106.62:8278/streams/d/eve_zero/playlist.m3u8
+NatGeo_People,http://198.16.106.62:8278/streams/d/natgeopeople_zero/playlist.m3u8
+National Geographic Wild HD,https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 NBA HD,https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
-劲爆体育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
-魅力足球,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
-五星体育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
-新视觉,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
-超级体育ᴴᴰ,http://39.134.155.137/PLTV/88888888/224/3221225653/index.m3u8
-超级体育ᴴᴰ,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225925/index.m3u8
-超级体育,http://39.134.155.153/PLTV/88888888/224/3221225576/index.m3u8
-体育赛事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226803/index.m3u8
-精彩体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226010/index.m3u8
-ELTA體育1台,tvbus://6KhXj8xz99EuGM9rd2eDLTdMpPh4TH6ZumiQ1x4ehChL1KmSQmqDezSjQMq5C
-ELTA體育1台 b,tvbus://5NTfiiK2rBLvUCEpGRuWd4zKchfZoMGpK6Be9BsWUzyytKqNtpw8bWK7tZyjb
-ELTA體育2台,tvbus://5iaCMsScXr5BP82USvKuvUMnVT3ZCxqHrpxA5Ar8RnqW2t5iEsRPKjX4UjmM7
-ELTA體育2台 b,tvbus://6eUVgb2q6mR2wN3TuPNmKkqPmQvzaqgQQS6KEqahbV6rRSz1GSabpqWfnoCwb
-ELTA體育3台,tvbus://5vvVp9p6pHnRoVko5KUH2jt1P3rAUzQs7a1px4auhe5DZCkMbG79vqu8LJH2t
-ELTA體育3台 b,tvbus://63GPxtiHLwo8KLGyPnjBQnTYgHyFUf2PHDwJfH8szh5gGhshnZZQV8ZagBirm
-緯來體育,tvbus://6dvyXxrgyK2SDTDRbvo7eZiZkn4oVBnttCRazMcjvfriVd29d1ihd7ZBwAah2
-緯來體育 b,tvbus://5LzKbAJcgSpPhQ2ZXtBud7KDZFWkwBj8BuUYV8a5sc54cQKKoBSXMFRLxYRxQ
-Elevensports1,tvbus://5NrQ5pvLs9nQVyZtWJYJQaobzbEa1uTQwg2D4P1mwrtAh7ZsWZfpG2hA9FM2P
-Elevensports2,tvbus://6SxHQswLudukLP996c4UcgZPuWG7HDvp2PM2mRg8ahfkJG9AjKTCJwZQjaKUL
-FOX体育1台,tvbus://6ZoiQNkhZSPfY9s3VffwMPXEusncCbcjNAu7vKNZTtdhdZ76CfFMd13z4ABBH
-FOX体育2台,tvbus://6W2ozVmfTVdGadVhv6F75zwX5VYtnKAvYxri9bnd9WxsUyFhtScGgbuXKxXBe
-FOX体育3台,tvbus://6HB6UMpUbJzpUEwF6YbaRxMxw2muZ2WVyNFyU7mRoWgh9WzSFpnVhgtMSNRr5
-NBATV,tvbus://6cBMJcX4qvyn2wPwjHRCQC9whnPoxj2zbnbkvVoUkfSYs75NsuQZ7qmisheSr
-NBA Canada,tvbus://6jVrf9r92hKsQCPqqCiEgETKVK8wcjcwJNQH9j46aWB5r8NqA6HufS5n6a6jX
-NBA Canada b,tvbus://5ZuVP5JBftNYwXFDCZGa1sSnF5zvMr3SBfmSdc3dLF3Sw9zEJkeddMJ7Dneod
-EUROSPORT 1,tvbus://5vuZqZCyWNbmMosYWFUHFpKcjaKsDYz7CPKMCEBd9tLGKKA4D8kBqphgq6SXf
-EUROSPORT 2,tvbus://5Za3uPb1YTSR3kVaZCo1iJUk4pqCT7ECiGNELwAynTkY692gfqGnV6h9YEeBL
-ESPN,tvbus://5pJ89Fd8ySqevaQfiQcNm85zW1n885SN9u9aRNC5taaWaxBYwTQhKscY111EP
-ESPN SC,tvbus://6dAuxZcZxALaxKnVTc5kHAGSbKxj7pr87YivXDFtkftPtv2LSKktZEo98cjE1
-CBS SPORTS,tvbus://6N5ymz2zwvUxta9xxW9F9HWJ2X9iY3p8Svy2E8p5Hj4FHgXFJk6D3EMGS6Z22
-NBC Sports,tvbus://5TxJowEyn2YeQ1R54jkEJh61B5zzSZkbYm2NccPWqtZMrvEPBTcVkprTdKF1S
-GOLF,tvbus://6efXUoXX9UJAfrMFtwS5X311gnjCj8Gh8cF8EJ6A48K9WBqfZLVW6TFz8fBpd
-FOX SPORTS1,tvbus://5WM8hWrEWfriwUfvG6iZzg1SUfiHpDB9MjxTgzx4epmsYpWkaS1AHbTGJmFei
-FOX SPORTS2,tvbus://5UnGRCTsF25oDepBhRvbGVfbY7gLNsYRNstg9XXNBJ3rHD6xChPLFH1FaHos4
-Sky Sports News,tvbus://5SqwPixBAVVESSyMgbLCUm5CWm9YoP3ErCcMT64kbGkFfteTgwXbuqc8xiPZt
-Sky Sports Premiere League,tvbus://69RqgH4tJWdeUBuokEYGsBzTVpYg2ZAMMAeK1cYybxZRGL34jEjAzif96TWGa
-Sky Sports Football,tvbus://5VsypGmVfWbmoW1Endoaru7gsCMnXrRkC9CWRWWJMTwqp1H5sL9MWcJP1BS9H
-TSN 1,tvbus://5ZbsXTkLkg7zEPC6Vnrdk5ubjpFhgWYaZTdGf6Z6oQoTmxXhJaZized89To7r
-TSN 2,tvbus://6TQtzYHYn7VZ1Eknw2gNMySaHgPbBR5P1nVnqQWSUqV8b9uFsK1tYvcL6CSAD
-TSN 3,tvbus://5eJSBjV55ADhgC85AZd9q3GXToxbcfuezby55bTdpyFkNLTZmyggL7UNqo8ci
-TSN 4,tvbus://5Wfer819KXEoeZeeZncVeqMXEevvwxs2MQ6QZWX4SEphWHH8qanWgEncfaPJJ
-TSN 5,tvbus://62H3vuRrAqZiqT4zzZBHFR9w89mzR5YkmQoASr32owv4PzjsUbrwMHahixDH8
-BEIN SPORT1,tvbus://5gyvTD16xgvMGmoXNPsT8fQThTHYJDab7yEAQ38n2Tu2WNQtcKXUn6JXoxqqS
-BEIN SPORT2,tvbus://69xw6akBTZprdUcAZXRJU4bhRC3yu7zQrLAdK6ZWPwQQPnBhDKDnahALqP9PT
-BEIN SPORT3,tvbus://6CFNugNBpDWSmYZbHfkZNGSVj5GAhDxtS1XqnZoHJF8Z5w5s2aam8FZGgwkdy
-BEIN SPORT4,tvbus://5ZV6xLFo3fqyu391LPzGeucnBkLqeCYKkb3Mxt8vro9QaQ1XJWqFMTgAApVrY
-BEIN SPORT5,tvbus://63k9beCkSjDZJTJwYHk81GfwUfriExzSsjx4ZvEWUGRR5qXct1tP5rx6yyDzF
-BEIN SPORT6,tvbus://6C5YpLCGEBjmKpGuHKoscENKDUd3QXm9w4gQbwp7Yqmz7CFQC4wemTKKb7GTq
-BEIN SPORT7,tvbus://5bm7etgrnLT83RhVBaMADTpqPe2iaWXUsyUuBV8Nej7sjsvV15TnJkM18DcPu
-BEIN SPORT8,tvbus://6XvAwbo8a6gxFJFWLub8vuoNxUKZjw3fUk1cV3qpVkgTJpC4NFGhZRKsaNxQJ
-BEIN SPORT9,tvbus://5MjP5nyuW4XcQSY2hVqr3LvqPDuC4yNKs5GjtgRH34W1jq3hBcbiTjnvDY5fg
-BEIN SPORT10,tvbus://5XXqfUGtfamXrguBqkgvFZgCAYHNmYhfhAJRE1HY8ycTQ2xqw2uzzRoSeyMiu
-BEIN SPORT11,tvbus://5MbQRH71Ddn5a3DVxYNyv4YznEa3RcvcwUVnCA49kfCamVgvssTBao5BTQeuK
-BEIN SPORT12,tvbus://5UieiWVbtAu9FxgBYMxoZBhDVLSp6ztdcUxFmaqB7KRkzfmKnCiLgps18gZwW
-J SPORTS 1,tvbus://5P19YaVCrBTdG3hSy3AuRC6dzuRFWCEvP9UHtjdCxzvQqyiQ5pDYtbMS6NUca
-J SPORTS 2,tvbus://5pQD24S4466A139yM6y3fPrBkPdV7chyhEJ8y4bXbX2Qv9JEGHAdMHRCx3CDE
-J SPORTS 3,tvbus://6dADDkTGu2oiwREWcP93w5nGscSVfZjaXEBA5dAC92XEevHjPSqYrY3XL6ST4
-J SPORTS 4,tvbus://5xJS5QV17qfubUQRDmcme8wzU8EAigZtZeFsDgxcMKwxDVSztergMkL7PwGxz
-テレビ朝日,tvbus://6fBCXJuiiC8eX12Tx81AYnpHekbnKU9RPwGb1ScqDD45jHjxqyoVT3Gkuukvr
-スカイA,tvbus://5mVSNMW8UQo2fQnofGoyfiroTmxJRYGtrgzzuZgJTgXg71EYtVWktKJzSUZY9
-ABC朝日放送,tvbus://5Ln6bQ7GAj9GXZMdcZCTy2tHZL1rJpuARqbDK2NEcwA31oxwYME2btdbEGWCs
+天映电影50,http://50.7.161.82:8277/streams/d/celestial_pye/playlist.m3u8
+台湾地理,rtmp://58.200.131.2/livetv/natlgeo
+台湾探索,rtmp://58.200.131.2/livetv/discovery
+求索纪录,http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
+求索生活,http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
+求索科学,http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
+求索动物,http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
 电影系列,#genre#
-動作電影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-愛情喜劇,http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
-搏擊運動,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
-超级体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225753/index.m3u8 
-超级综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-超级电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-精品纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
-精品大剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-古装剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-家庭剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-欢乐剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-海外剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
-潮妈辣婆,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-炫舞未来,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
-爱情喜剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
-怡伴健康,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
-军事评论,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
-军旅剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-农业致富,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
-博击,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
-黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225744/index.m3u8
-欧美电影,http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221227037/index.m3u8
-卡通,http://39.135.53.196/ott.fj.chinamobile.com/PLTV/88888888/224/3221227036/index.m3u8
-电视剧,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227134/index.m3u8
-谍战,http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221227045/index.m3u8
-戏曲,http://39.135.53.196/ott.fj.chinamobile.com/PLTV/88888888/224/3221227049/index.m3u8
-综艺,http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221227040/index.m3u8
-养生,http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221227044/index.m3u8
-超级体育,http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221227052/index.m3u8u
-功夫,http://ftp9524803.host166.gotoip4.cn/bilibili.php?id=21715386
-淘电影[高清],http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
-科幻动作,http://auney.gearhostpreview.com/huya.php?id=11602044
-沈腾,http://auney.gearhostpreview.com/huya.php?id=11601968
-盗墓系列,http://auney.gearhostpreview.com/huya.php?id=11352913
-灾难电影,http://auney.gearhostpreview.com/huya.php?id=11352871
-国产喜剧,http://auney.gearhostpreview.com/huya.php?id=11352938
-历年贺岁档,http://auney.gearhostpreview.com/huya.php?id=11601986
-钢铁侠,http://auney.gearhostpreview.com/huya.php?id=11602034
-变形金刚,http://auney.gearhostpreview.com/huya.php?id=11352895
+HBOHD,http://198.16.106.62:8278/sundance_twn/playlist.m3u8?tid=m02000000000017768575&ct=17955&tsum=c3ecd772420130079ba147320f61cc12
+HBOSignature,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
+HBOHits,p2p://fccsovh.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52.ts#p2p://fccseuro.pvbox.live:18912/5c7249ee000f145b1d5853691cf1378b.ts#p2p://fccseuro.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52.ts
+FOXCRIME,http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
+FOXActionMovies,http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
+FoxFamilyMovies,http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
+纬来电影台,http://198.16.106.62:8278/streams/d/videolandmovie_zero/playlist.m3u8
+淘娱乐,http://39.135.238.69:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
+淘电影,http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
+淘BABY,http://39.134.134.88:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8
+萌宠TV,http://39.135.238.61:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
+大健康,http://39.135.238.67:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226556/1.m3u8
+5+频道,http://39.134.39.37/PLTV/88888888/224/3221226267/index.m3u8
+6+频道,http://39.134.39.37/PLTV/88888888/224/3221226269/index.m3u8
+8+频道,http://39.134.39.37/PLTV/88888888/224/3221226271/index.m3u8
+野外频道,http://39.134.39.37/PLTV/88888888/224/3221226262/index.m3u8
+法治频道,http://39.134.39.37/PLTV/88888888/224/3221226258/index.m3u8
+谍战剧场,http://39.134.39.37/PLTV/88888888/224/3221226256/index.m3u8
+相声小品,http://39.134.39.37/PLTV/88888888/224/3221226260/index.m3u8
+动漫秀场,http://39.134.39.39/PLTV/88888888/224/3221226197/index.m3u8
+极速汽车,http://39.134.39.39/PLTV/88888888/224/3221226195/index.m3u8
+极速赛车,http://39.134.39.39/PLTV/88888888/224/3221226310/index.m3u8
+欢笑剧场,http://39.134.39.39/PLTV/88888888/224/3221226203/index.m3u8
+都市剧场,http://39.134.39.39/PLTV/88888888/224/3221226176/index.m3u8
+高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+星光影视,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+绍兴影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+凤凰电影,rtmp://58.200.131.2:1935/livetv/fhdy
 动作片,#genre#
 黑寡妇2021,https://vod.bunediy.com/20210709/J4Ja9qwI/index.m3u8
 刺杀小说家,https://vod.bunediy.com/20210409/nGotUHrq/index.m3u8
@@ -1096,6 +886,7 @@ ABC朝日放送,tvbus://5Ln6bQ7GAj9GXZMdcZCTy2tHZL1rJpuARqbDK2NEcwA31oxwYME2btdb
 刺猬索尼克2020,https://vod.bunediy.com/20200614/I10PiEjp/index.m3u8
 大侦探皮卡丘2019,https://vod.bunediy.com/20200413/p5UVBxY2/index.m3u8
 粤语片,#genre#
+天师斗僵尸,https://www2.88zy.live/20190819/%E5%A4%A9%E5%B8%88%E6%96%97%E5%83%B5%E5%B0%B8/1024kb/hls/index.m3u8
 澳门风云1,https://vod.bunediy.com/20200507/zzd7HFwq/index.m3u8
 澳门风云2,https://vod.bunediy.com/20200429/P9bXXW4Y/index.m3u8
 澳门风云3,https://vod.bunediy.com/20200413/wFbpv5Ph/index.m3u8

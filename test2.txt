@@ -1,4 +1,4 @@
-olympics,#genre#
+Olympics,#genre#
 奥运1,https://rtm-olympic01.secureswiftcontent.com/rtm/olympic01_720.m3u8
 奥运2,https://rtm-olympic02.secureswiftcontent.com/rtm/olympic02_720.m3u8
 奥运3,https://rtm-olympic03.secureswiftcontent.com/rtm/olympic03_720.m3u8

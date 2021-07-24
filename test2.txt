@@ -1,3 +1,11 @@
+olympics,#genre#
+奥运1,https://rtm-olympic01.secureswiftcontent.com/rtm/olympic01_720.m3u8
+奥运2,https://rtm-olympic02.secureswiftcontent.com/rtm/olympic02_720.m3u8
+奥运3,https://rtm-olympic03.secureswiftcontent.com/rtm/olympic03_720.m3u8
+奥运4,https://rtm-olympic04.secureswiftcontent.com/rtm/olympic04_720.m3u8
+奥运5,https://rtm-olympic05.secureswiftcontent.com/rtm/olympic05_720.m3u8
+TV okey,https://rtmlive03.secureswiftcontent.com/rtmchannel/03_720.m3u8
+RTM,https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b513000.m3u8
 MY,#genre#
 TV1,tvbus://6e4hEeMVvASd7JKXXCLo9JU65A2ns8Dj3CZ4tQo95FCtRnks8euKBifTk513z
 TV2,tvbus://6RYDsoHodF94frXYaSTyfydVzfyYx4N8PjEipXRxsorENxbFZY9FowtGPZurF

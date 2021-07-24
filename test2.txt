@@ -721,7 +721,6 @@ NBA HD,https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 求索科学,http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
 求索动物,http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
 电影系列,#genre#
-HBOHD,http://198.16.106.62:8278/sundance_twn/playlist.m3u8?tid=m02000000000017768575&ct=17955&tsum=c3ecd772420130079ba147320f61cc12
 HBOSignature,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
 HBOHits,p2p://fccsovh.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52.ts#p2p://fccseuro.pvbox.live:18912/5c7249ee000f145b1d5853691cf1378b.ts#p2p://fccseuro.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52.ts
 FOXCRIME,http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8

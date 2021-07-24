@@ -142,6 +142,8 @@ SURIA,http://198.16.106.62:8278/streams/d/Suria/playlist.m3u8
 MiaoMi,http://198.16.106.62:8278/streams/d/MiaoMi/playlist.m3u8
 ASSP 2,http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 ASSP 2,http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
+ASSP 4,http://159.192.73.198:1072/astro4
+ASSP 4b,http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 AEC2,http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
 AEC3,http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
 AOD2,http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8

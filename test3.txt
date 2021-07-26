@@ -3,7 +3,7 @@ TV1,http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
 TV2,http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
 TV3,http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
 NTV7,http://185.180.221.194:8278/streams/d/NTV7/playlist.m3u8
-8TV,http://185.180.221.194:8278/streams/d/TV8/playlist.m3u8
+8TV,http://50.7.161.82:8278/streams/d/tv8_pye/playlist.m3u8
 TV9,http://185.180.221.194:8278/streams/d/TV9/playlist.m3u8
 Ria,http://198.16.106.62:8278/streams/d/Ria/playlist.m3u8
 CNA,http://198.16.106.62:8278/streams/d/cna/playlist.m3u8

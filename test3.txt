@@ -283,7 +283,15 @@ $c_startSPORT$c_end
 有线奥运603台,https://api.leonardpark.dev/live/icable/603
 有线奥运604台,https://api.leonardpark.dev/live/icable/604
 有线奥运605台,https://api.leonardpark.dev/live/icable/605
-Arena,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/147
+Arena HD,http://iptv.tvmalaysia.cc:80/624850/624850/6707
+SUPERSPORT HD,http://iptv.tvmalaysia.cc:80/624850/624850/6708
+SUPERSPORT 2 HD,http://iptv.tvmalaysia.cc:80/624850/624850/6710
+SUPERSPORT 3 HD,http://iptv.tvmalaysia.cc:80/624850/624850/6711
+SUPERSPORT 4 HD,http://iptv.tvmalaysia.cc:80/624850/624850/6712
+FOX Sports HD,http://iptv.tvmalaysia.cc:80/624850/624850/6793
+FOX Sports 2 HD,http://iptv.tvmalaysia.cc:80/624850/624850/6791
+FOX Sports 3 HD,http://iptv.tvmalaysia.cc:80/624850/624850/6792
+Cricket,http://iptv.tvmalaysia.cc:80/624850/624850/6717
 CCTV5,http://39.135.32.24:6610/000000001000/1000000001000004794/index.m3u8?i
 CCTV5+,http://39.134.39.39/PLTV/88888888/224/3221226253/index.m3u8
 五星体育,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&authCode=3a&stbId=7D4003FF004735100000288CB80A1C30&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000

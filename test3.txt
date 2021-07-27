@@ -283,7 +283,7 @@ $c_startSPORT$c_end
 有线奥运603台,https://api.leonardpark.dev/live/icable/603
 有线奥运604台,https://api.leonardpark.dev/live/icable/604
 有线奥运605台,https://api.leonardpark.dev/live/icable/605
-Arena HD,http://iptv.tvmalaysia.cc:80/624850/624850/6707
+Arena HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6707
 SUPERSPORT HD,http://iptv.tvmalaysia.cc:80/624850/624850/6708
 SUPERSPORT 2 HD,http://iptv.tvmalaysia.cc:80/624850/624850/6710
 SUPERSPORT 3 HD,http://iptv.tvmalaysia.cc:80/624850/624850/6711

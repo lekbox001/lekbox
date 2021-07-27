@@ -350,6 +350,8 @@ FoxFamilyMovies,http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
 绍兴影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 凤凰电影,rtmp://58.200.131.2:1935/livetv/fhdy
 $c_start动作片$c_end
+火药奶昔,https://vod.bunediy.com/20210715/n0yn4g7S/index.m3u8
+疾速猪杀,https://vod.bunediy.com/20210717/alo7iYhP/index.m3u8
 黑寡妇2021,https://vod.bunediy.com/20210709/J4Ja9qwI/index.m3u8
 刺杀小说家,https://vod.bunediy.com/20210409/nGotUHrq/index.m3u8
 智齿2021,https://vod.bunediy.com/20210706/LlrzbwMt/index.m3u8
@@ -419,6 +421,7 @@ $c_start喜剧片$c_end
 黑白魔女库伊拉,https://vod.bunediy.com/20210529/oVwbZwt2/index.m3u8
 天使替我来爱你,https://vod.bunediy.com/20210529/G2jY90Mb/index.m3u8
 $c_start恐怖片$c_end
+王国北方的阿信,https://vod.bunediy.com/20210723/ISvKTPET/index.m3u8
 恐惧街1,https://vod.bunediy.com/20210702/pEsIzOE2/index.m3u8
 恐惧街2,https://vod.bunediy.com/20210709/3hSO7wXK/index.m3u8
 恐惧街3,https://vod.bunediy.com/20210716/MWbSiOdJ/index.m3u8
@@ -483,7 +486,6 @@ $c_start动画片$c_end
 刺猬索尼克2020,https://vod.bunediy.com/20200614/I10PiEjp/index.m3u8
 大侦探皮卡丘2019,https://vod.bunediy.com/20200413/p5UVBxY2/index.m3u8
 $c_start粤语片$c_end
-天师斗僵尸,https://www2.88zy.live/20190819/%E5%A4%A9%E5%B8%88%E6%96%97%E5%83%B5%E5%B0%B8/1024kb/hls/index.m3u8
 澳门风云1,https://vod.bunediy.com/20200507/zzd7HFwq/index.m3u8
 澳门风云2,https://vod.bunediy.com/20200429/P9bXXW4Y/index.m3u8
 澳门风云3,https://vod.bunediy.com/20200413/wFbpv5Ph/index.m3u8
@@ -533,11 +535,3 @@ $c_start粤语片$c_end
 麦路人,https://vod.bunediy.com/20201016/eZvsUK6M/index.m3u8
 失恋反攻队,https://vod.bunediy.com/20210203/l3KUGh8t/index.m3u8
 无间风暴,https://vod.bunediy.com/20210523/uT4ghhN8/index.m3u8
-天映頻道1,tvbus://7tCv2tmBsAT1E8aA3cDpr2RkXCeNh4QjGDh1NaWEGaykUToTHc
-天映頻道2,tvbus://5gWRwQczZURAdQBNVt6KhaJZWfWYrQ4PzKM3VymWpSEBm9wVsnVHUsHT2d88o
-天映频道3,tvbus://5uA3Q5VhG7bfQiSsHq7q3GmCQ2FW7NYt5RvfZL7gpvD1W1SFtSAHxi3osTH4v
-天映电影4,tvbus://7L8vYaPr4NQdQduvhazTU1HXSeLCLeh9GuxaBZoJX6dqTpTCpT
-衛視卡式台1,tvbus://5XASRw3ac7CzLwLsAMqbESqBHmdXNWixfXTVw7BTiEs14NfUKD5metCuQNXZm
-衛视卡式台2,tvbus://7n2hA4hJH7rqhSQ2LLs3iPh3FYu1bC7sEBjEf4fDLV4Gp5LpSJ 
-衛視卡式台3,tvbus://6H9Sd3UuK8sb5xSWCM7xbRhGstVdLsTYEgpVSobHd4j1VkreoD5YMiQxxQtqT
-爆谷台,tvbus://5TyTrVuP5Ux1Wnngj1vBqZvtBEk6EdWymRxHcXa3ppqn4yZK1gk12R9rwnifG

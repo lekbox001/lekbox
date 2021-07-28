@@ -335,6 +335,16 @@ NBA HD,https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 求索科学,http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
 求索动物,http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
 SPORT,#genre#
+Olympic 785,https://link.zozotv.xyz:443/Freemium1/unlimited99/318
+Olympic 786,https://link.zozotv.xyz:443/Freemium1/unlimited99/319
+Olympic 787,https://link.zozotv.xyz:443/Freemium1/unlimited99/320
+Olympic 788,https://link.zozotv.xyz:443/Freemium1/unlimited99/321
+Olympic 789,https://link.zozotv.xyz:443/Freemium1/unlimited99/322
+Olympic 790,https://link.zozotv.xyz:443/Freemium1/unlimited99/323
+Olympic 791,https://link.zozotv.xyz:443/Freemium1/unlimited99/324
+Olympic 792,https://link.zozotv.xyz:443/Freemium1/unlimited99/325
+Olympic 793,https://link.zozotv.xyz:443/Freemium1/unlimited99/326
+Olympic 794,https://link.zozotv.xyz:443/Freemium1/unlimited99/327
 香港奥运会,http://livetv.dnsfor.me/channel.9.m3u8
 有线奥运601台,https://api.leonardpark.dev/live/icable/601
 有线奥运602台,https://api.leonardpark.dev/live/icable/602

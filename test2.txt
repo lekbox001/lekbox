@@ -3,7 +3,7 @@ TV1,http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
 TV2,http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
 TV3,http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
 NTV7,http://185.180.221.194:8278/streams/d/NTV7/playlist.m3u8
-8TV,http://50.7.161.82:8278/streams/d/tv8_pye/playlist.m3u8
+8TV,http://185.180.221.194:8278/streams/d/TV8/playlist.m3u8
 TV9,http://185.180.221.194:8278/streams/d/TV9/playlist.m3u8
 Ria,http://198.16.106.62:8278/streams/d/Ria/playlist.m3u8
 CNA,http://198.16.106.62:8278/streams/d/cna/playlist.m3u8
@@ -164,6 +164,64 @@ CCTV-13新闻,http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
 CCTV-14少儿,http://39.134.115.163:8080/PLTV/88888910/224/3221225639/index.m3u8
 CCTV-15音乐,http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
 CCTV-17农业农村,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
+浙江卫视,http://117.169.124.43:6610/ysten-businessmobile/live/zhejiangstv/index.m3u8
+江苏卫视,http://117.169.124.43:6610/ysten-businessmobile/live/jiangsustv/index.m3u8
+湖南卫视,http://117.169.124.43:6610/ysten-businessmobile/live/hunanstv/index.m3u8
+深圳卫视HD,http://117.169.124.43:6610/ysten-businessmobile/live/hdshenzhenstv/index.m3u8
+深圳卫视,http://117.169.124.43:6610/ysten-businessmobile/live/shenzhenstv/index.m3u8
+东方卫视HD,http://117.169.124.43:6610/ysten-businessmobile/live/hddongfangstv/index.m3u8
+东方卫视,http://117.169.124.43:6610/ysten-businessmobile/live/dongfangstv/index.m3u8
+北京卫视HD,http://117.169.124.43:6610/ysten-businessmobile/live/hdbeijingstv/index.m3u8
+北京卫视,http://117.169.124.43:6610/ysten-businessmobile/live/beijingstv/index.m3u8
+广东卫视HD,http://117.169.124.43:6610/ysten-businessmobile/live/hdguangdongstv/index.m3u8
+广东卫视,http://117.169.124.43:6610/ysten-businessmobile/live/guangdongstv/index.m3u8
+天津卫视HD,http://117.169.124.43:6610/ysten-businessmobile/live/hdtianjinstv/index.m3u8
+天津卫视,http://117.169.124.43:6610/ysten-businessmobile/live/tianjinstv/index.m3u8
+湖北卫视HD,http://117.169.124.43:6610/ysten-businessmobile/live/hdhubeistv/2.m3u8
+湖北卫视,http://117.169.124.43:6610/ysten-businessmobile/live/hubeistv/2.m3u8
+山东卫视HD,http://117.169.124.43:6610/ysten-businessmobile/live/hdshandongstv/2.m3u8
+山东卫视,http://117.169.124.43:6610/ysten-businessmobile/live/shandongstv/2.m3u8
+江西卫视HD,http://117.169.124.43:6610/ysten-businessmobile/live/hdjiangxistv/2.m3u8
+江西卫视,http://117.169.124.43:6610/ysten-businessmobile/live/jiangxistv/2.m3u8
+黑龙江卫视HD,http://117.169.124.43:6610/ysten-businessmobile/live/hdheilongjiangstv/2.m3u8
+东南卫视,http://117.169.124.43:6610/ysten-businessmobile/live/dongnanstv/2.m3u8
+云南卫视,http://117.169.124.43:6610/ysten-businessmobile/live/yunnanstv/2.m3u8
+吉林卫视,http://117.169.124.43:6610/ysten-businessmobile/live/jilinstv/2.m3u8
+四川卫视,http://117.169.124.43:6610/ysten-businessmobile/live/sichuanstv/2.m3u8
+宁夏卫视,http://117.169.124.43:6610/ysten-businessmobile/live/ningxiastv/2.m3u8
+安徽卫视,http://117.169.124.43:6610/ysten-businessmobile/live/anhuistv/2.m3u8
+山西卫视,http://117.169.124.43:6610/ysten-businessmobile/live/shanxistv/2.m3u8
+广西卫视,http://117.169.124.43:6610/ysten-businessmobile/live/guangxistv/2.m3u8
+河北卫视,http://117.169.124.43:6610/ysten-businessmobile/live/hebeistv/2.m3u8
+河南卫视,http://117.169.124.43:6610/ysten-businessmobile/live/henanstv/2.m3u8
+海南卫视,http://117.169.124.43:6610/ysten-businessmobile/live/lvyoustv/2.m3u8
+甘肃卫视,http://117.169.124.43:6610/ysten-businessmobile/live/gansustv/2.m3u8
+贵州卫视,http://117.169.124.43:6610/ysten-businessmobile/live/guizhoustv/2.m3u8
+辽宁卫视,http://117.169.124.43:6610/ysten-businessmobile/live/liaoningstv/2.m3u8
+重庆卫视,http://117.169.124.43:6610/ysten-businessmobile/live/chongqingstv/2.m3u8
+陕西卫视,http://117.169.124.43:6610/ysten-businessmobile/live/shanxi1stv/2.m3u8
+青海卫视,http://117.169.124.43:6610/ysten-businessmobile/live/qinghaistv/2.m3u8
+内蒙卫视,http://117.169.124.43:6610/ysten-businessmobile/live/neimenggustv/2.m3u8
+新疆卫视,http://117.169.124.43:6610/ysten-businessmobile/live/xinjiangstv/2.m3u8
+西藏卫视,http://117.169.124.43:6610/ysten-businessmobile/live/xizangstv/2.m3u8
+山东教育卫视,http://117.169.124.43:6610/ysten-businessmobile/live/shandongjy/2.m3u8
+CETV 1,http://117.169.124.43:6610/ysten-businessmobile/live/jiaoyutv/2.m3u8
+金鹰卡通,http://117.169.124.43:6610/ysten-businessmobile/live/jinyingkaton/2.m3u8
+优漫卡通,http://117.169.124.43:6610/ysten-businessmobile/live/youmankaton/2.m3u8
+卡酷少儿,http://117.169.124.43:6610/ysten-businessmobile/live/kakukaton/2.m3u8
+上海ICSHD,http://117.156.28.21/PLTV/88888888/224/3221225639/index.m3u8
+上海电视剧HD,http://117.156.28.21/PLTV/88888888/224/3221225654/index.m3u8
+东方电影,http://117.156.28.21/PLTV/88888888/224/3221225656/index.m3u8
+东方财经浦东,http://117.156.28.21/PLTV/88888888/224/3221225667/index.m3u8
+极速汽车,http://117.156.28.21/PLTV/88888888/224/3221225657/index.m3u8
+法制天地,http://117.156.28.21/PLTV/88888888/224/3221225713/index.m3u8
+游戏风云,http://117.156.28.21/PLTV/88888888/224/3221225638/index.m3u8
+厦门卫视,http://cstvpull.live.wscdns.com/live/xiamen.flv
+厦门一套,http://cstvpull.live.wscdns.com/live/xiamen1.flv
+厦门二套,http://cstvpull.live.wscdns.com/live/xiamen2.flv
+厦门三套,http://cstvpull.live.wscdns.com/live/xiamen3.flv
+厦门四套,http://cstvpull.live.wscdns.com/live/xiamen4.flv
+厦门移动电视,http://cstvpull.live.wscdns.com/live/xiamenyidong.flv
 HK,#genre#
 有線財經資訊台,https://api.leonardpark.dev/live/icable/108
 有線新聞台,https://api.leonardpark.dev/live/icable/109
@@ -283,6 +341,7 @@ SPORT,#genre#
 有线奥运603台,https://api.leonardpark.dev/live/icable/603
 有线奥运604台,https://api.leonardpark.dev/live/icable/604
 有线奥运605台,https://api.leonardpark.dev/live/icable/605
+冬奥纪实,http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
 Arena HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6707
 SUPERSPORT HD,http://iptv.tvmalaysia.cc:80/624850/624850/6708
 SUPERSPORT 2 HD,http://iptv.tvmalaysia.cc:80/624850/624850/6710
@@ -327,8 +386,10 @@ RTM Sports HD,http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
 RTM Sports HD2,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 ELTA體育3台,http://198.16.106.62:8278/streams/d/eltasport3_zero/playlist.m3u8
 电影系列,#genre#
-HBOSignature,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
-HBOHits,p2p://fccsovh.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52.ts#p2p://fccseuro.pvbox.live:18912/5c7249ee000f145b1d5853691cf1378b.ts#p2p://fccseuro.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52.ts
+HBOHD,http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
+HBOHits,http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
+HBOSignature,http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
+HBOSignature2,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
 FOXCRIME,http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
 FOXActionMovies,http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
 FoxFamilyMovies,http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8

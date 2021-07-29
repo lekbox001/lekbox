@@ -465,6 +465,7 @@ $c_start动作片$c_end
 人之怒,https://vod.bunediy.com/20210525/OF39UXjP/index.m3u8
 漠北追击,https://vod.bunediy.com/20210624/tOnad2Sz/index.m3u8
 $c_start科幻片$c_end
+僵尸世界大战,https://vod.bunediy.com/20201114/9NGt3RRS/index.m3u8
 人类清除计划1,https://vod.bunediy.com/20210614/ugWIoqlI/index.m3u8
 人类清除计划2,https://vod.bunediy.com/20210614/a41vtWN3/index.m3u8
 人类清除计划3,https://vod.bunediy.com/20210614/hUKaRUH9/index.m3u8
@@ -553,6 +554,12 @@ $c_start恐怖片$c_end
 笔仙怪谈,https://vod.bunediy.com/20210519/75UEjIKE/index.m3u8
 深海狂鲨3,https://vod.bunediy.com/20200728/jmzbVL3q/index.m3u8
 $c_start战争片$c_end
+敢死队,https://video.buycar5.cn/20200924/uwrJO0H3/1000kb/hls/index.m3u8
+敢死队2,https://video.buycar5.cn/20200921/8VwzwvT7/1000kb/hls/index.m3u8
+敢死队3,https://video.buycar5.cn/20200902/hN54huLN/1000kb/hls/index.m3u8
+长城,https://vod.bunediy.com/20201112/D12bKXu1/index.m3u8
+海豹突击队大战僵尸,https://vod.bunediy.com/20200429/V37xe7Sd/index.m3u8
+勇者行动,https://vod4.buycar5.cn/20210319/lEblpSN4/1000kb/hls/index.m3u8
 浴血无名川2021,https://vod.bunediy.com/20210402/0XLg8Moc/index.m3u8
 灰猎犬号2020,https://vod.bunediy.com/20210315/5KzwUySP/index.m3u8
 战争幽灵2020,https://vod.bunediy.com/20201101/oEeIZs7s/index.m3u8
@@ -563,6 +570,15 @@ $c_start战争片$c_end
 赵云传之龙鸣长坂坡,https://vod.bunediy.com/20201107/UNtYVV05/index.m3u8
 赵子龙,https://vod.bunediy.com/20201130/0XvMrvD4/index.m3u8
 $c_start灾难片$c_end
+鲨海,https://v2.szjal.cn/ppvod/A25A1A2E35269D452DD27C9DECC36335.m3u8
+鲨海逃生,https://vod.bunediy.com/20200715/yqForWuB/index.m3u8
+伦敦陷落,https://video.buycar5.cn/20200905/mcnsOyft/1000kb/hls/index.m3u8
+天使陷落,https://vod.bunediy.com/20200716/kqWXJuaG/index.m3u8
+奥林匹斯的陷落,https://video.buycar5.cn/20200831/9EWTqUWw/1000kb/hls/index.m3u8
+冰海陷落,https://sf1-ttcdn-tos.pstatp.com/obj/tos-cn-o-0004/34b477bb663d4f1185f7a3b2620d64f9?.mp4
+圣安地列斯地震,https://vod.bunediy.com/20200429/TgcGlvX6/index.m3u8
+摩天营救,https://vod.bunediy.com/20200502/eYIxYopq/index.m3u8
+惊涛飓浪,https://vod.bunediy.com/20210107/uPeK4B4o/index.m3u8
 极限逃生,https://video.buycar5.cn/20200902/Ll6uHuNT/1000kb/hls/index.m3u8
 惊涛飓浪,https://vod.bunediy.com/20210107/uPeK4B4o/index.m3u8
 大地震,https://vod.bunediy.com/20201228/0b3waKbS/index.m3u8

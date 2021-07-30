@@ -435,14 +435,13 @@ FoxFamilyMovies,http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
 凤凰电影,rtmp://58.200.131.2:1935/livetv/fhdy
 $c_start动作片$c_end
 速度与激情：特别行动,https://vod.bunediy.com/20200506/QIBYXYBg/index.m3u8
-速度与激情1,https://video.buycar5.cn/20200918/yyLrALJF/1000kb/hls/index.m3u8
+速度与激情1,https://vod.bunediy.com/20200504/hzsbE24q/index.m3u8
 速度与激情2,https://vod.bunediy.com/20200508/XEPv04NL/index.m3u8
-速度与激情3,https://video.buycar5.cn/20200918/fgy99iFB/1000kb/hls/index.m3u8
+速度与激情3,https://vod.bunediy.com/20200502/o0W0XpNu/index.m3u8
 速度与激情4,https://vod.bunediy.com/20201123/iGZ3KNq0/index.m3u8
 速度与激情5,https://vod.bunediy.com/20200411/1LxuwQJG/index.m3u8
 速度与激情6,https://vod.bunediy.com/20200502/UkkujEjt/index.m3u8
-速度与激情7,https://video.buycar5.cn/20200918/Uhucc183/1000kb/hls/index.m3u8?dlnaopt=2&tpseq=4
-速度与激情7b,https://v4.szjal.cn/20200622/iwsP3VHi/1000kb/hls/index.m3u8
+速度与激情7,https://vod.bunediy.com/20200411/KIyfciyV/index.m3u8
 速度与激情8,https://vod.bunediy.com/20200506/ojX8vBqa/index.m3u8
 速度与激情9,https://vod4.buycar5.cn/20210729/mDmEtkRd/1000kb/hls/index.m3u8
 小人物,https://vod.bunediy.com/20210415/YfavRyHH/index.m3u8

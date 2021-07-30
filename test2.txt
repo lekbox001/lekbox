@@ -351,8 +351,23 @@ FOX Sports HD,http://iptv.tvmalaysia.cc:80/624850/624850/6793
 FOX Sports 2 HD,http://iptv.tvmalaysia.cc:80/624850/624850/6791
 FOX Sports 3 HD,http://iptv.tvmalaysia.cc:80/624850/624850/6792
 Cricket,http://iptv.tvmalaysia.cc:80/624850/624850/6717
-CCTV5,http://39.135.32.24:6610/000000001000/1000000001000004794/index.m3u8?i
-CCTV5+,http://39.134.39.39/PLTV/88888888/224/3221226253/index.m3u8
+CCTV奧運,http://111.20.105.60:6060/yinhe/2/ch00000090990000001010/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+五星體育+重,http://112.25.48.11/live/program/live/ssty/4000000/mnf.m3u8
+CCTV-5體育,http://livetv.dnsfor.me:80/channel.17.m3u8
+CCTV5,http://111.20.105.60:6060/yinhe/2/ch00000090990000001010/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV5+11,http://111.20.105.60:6060/yinhe/2/ch00000090990000001008/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV5b,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+CCTV5+13,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
+CCTV5+14,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
+CCTV5+15,http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
+CCTV5c,http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
+CCTV5d,http://39.135.32.24:6610/000000001000/1000000001000004794/index.m3u8?i
+CCTV5e,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
+CCTV5+18,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
+CCTV5+19,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
+北京冬奥纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
+爱尔达体育 2,rtmp://59.124.75.153/sat/md021
+爱尔达体育 3,rtmp://59.124.75.153/sat/md051
 五星体育,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&authCode=3a&stbId=7D4003FF004735100000288CB80A1C30&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
 劲爆体育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
 魅力足球,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8

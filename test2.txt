@@ -434,7 +434,6 @@ FoxFamilyMovies,http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
 绍兴影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 凤凰电影,rtmp://58.200.131.2:1935/livetv/fhdy
 动作片,#genre#
-速度与激情：特别行动,https://vod.bunediy.com/20200506/QIBYXYBg/index.m3u8
 速度与激情1,https://vod.bunediy.com/20200504/hzsbE24q/index.m3u8
 速度与激情2,https://vod.bunediy.com/20200508/XEPv04NL/index.m3u8
 速度与激情3,https://vod.bunediy.com/20200502/o0W0XpNu/index.m3u8

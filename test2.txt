@@ -498,7 +498,7 @@ FoxFamilyMovies,http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
 奇花记,https://vod.bunediy.com/20210528/rhWni38B/index.m3u8
 十四天之暖春来,https://vod.bunediy.com/20210524/5uzpnQYP/index.m3u8
 超越2021,https://vod.bunediy.com/20210715/rXrhK4HA/index.m3u8
-你好李焕英2021,https://vod.bunediy.com/20210501/mL02M2tO/index.m3u8
+你好李焕英2021,https://vod6.wenshibaowenbei.com/20210501/pnQb5CF6/index.m3u8
 比得兔2021,https://vod.bunediy.com/20210706/92Da0kz4/index.m3u8
 人潮汹涌2021,https://vod.bunediy.com/20210414/RY8Zet12/index.m3u8
 非常保镖2021,https://vod.bunediy.com/20210523/c5qB9U3N/index.m3u8

@@ -1,21 +1,19 @@
 MY,#genre#
-TV1,http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
-TV2,http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
-TV3,http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
-NTV7,http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
-8TV,http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
-TV9,http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+TV1a,http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+TV2a,http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+TV3a,http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+NTV7a,http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
+8TV1,http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+TV9a,http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 AEC,http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
 港剧台,http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8
 星河,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
-欢喜台,http://50.7.161.82:8278/streams/d/huanxi_pye/playlist.m3u8
-爱奇艺,http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
-双星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-小太阳1,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
-小太阳2,http://50.7.161.82:8278/streams/d/xiaotaiyang_pye/playlist.m3u8
+AEC,http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
 全佳2,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 天映频道,http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
 天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+天映电影,http://50.7.161.82:8278/Celestial2/playlist.m3u8?tid=m02000000000010416484&ct=17955&tsum=cd7dbff483b639f549b95320c78a1f3b
+天映頻道,http://50.7.161.82:8278/Celestial/playlist.m3u8?tid=m02000000000014496578&ct=17956&tsum=808f037499700f0538f13ea983dce703
 GO SHOP Ch,http://50.7.161.82:8278/streams/d/Goshopch/playlist.m3u8
 GO SHOP Ch2,http://50.7.161.82:8278/streams/d/goshopch_pye/playlist.m3u8
 CGTN,http://50.7.161.82:8278/streams/d/cgtn_pye/playlist.m3u8
@@ -23,28 +21,57 @@ CGTN2,http://50.7.161.82:8278/streams/d/cgtn_pye/playlist.m3u8
 GOLF,http://50.7.161.82:8278/streams/d/astrogolf_pye/playlist.m3u8
 Awani,http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 Prima,http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+Animal Planet2,http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+Bernama TV,http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+Boo,http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+CGTN,http://50.7.161.82:8278/streams/d/cgtn_pye/playlist.m3u8
 Ceria,http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 Citra,http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+Drama Sangat,http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
+Drama Sangat2,http://50.7.161.82:8278/streams/d/dsangat_pye/playlist.m3u8
+GOLF,http://50.7.161.82:8278/streams/d/astrogolf_pye/playlist.m3u8
 Oasis,http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 Bernama TV,http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 Boo,http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+Oh!k,http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+Prima,http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+Prima2,http://50.7.161.82:8278/streams/d/prima_pye/playlist.m3u8
+SURIA,http://50.7.161.82:8278/streams/d/Suria/playlist.m3u8
+Hello,http://50.7.161.82:8278/streams/d/hello_pye/playlist.m3u8
 Naura,http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+Naura2,http://50.7.161.82:8278/streams/d/naura_pye/playlist.m3u8
+Warna,http://50.7.161.82:8278/streams/d/warnahd_pye/playlist.m3u8
 Sony HD,http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 tvN,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 KBS Wolrd,http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
+KBS Wolrd,http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
+KBS Wolrd,http://50.7.161.82:8278/streams/d/kbsw_pye/playlist.m3u8
+KIX,http://50.7.161.82:8278/streams/d/kixj_pye/playlist.m3u8
 HBO,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 HBO-综合,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 TVN-亚洲,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 OHK,http://50.7.161.82:8277/streams/d/ohk_pye/playlist.m3u8
 OHK2,http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+Set One HD,http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
+Set One HD2,http://50.7.161.82:8278/streams/d/sonyhd_pye/playlist.m3u8
 WWE,http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 HGTV,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 NatGeo Wild HD,http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+Arena,http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 ASSP 1,http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 ASSP 2,http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 ASSP 2,http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
 ASSP 3,http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
 ASSP 4,http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
+CRICKET,http://50.7.161.82:8278/streams/d/astrocricket_pye/playlist.m3u8
+RTM Sports HD,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
+Go Shop GAAYA,http://50.7.161.82:8278/streams/d/goshop2_pye/playlist.m3u8
+TV1b,http://50.7.161.82:8278/streams/d/tv1_pye/playlist.m3u8
+TV2b,http://50.7.161.82:8278/streams/d/tv2_pye/playlist.m3u8
+TV3b,http://50.7.161.82:8278/streams/d/tv3_pye/playlist.m3u8
+NTV7b,http://50.7.161.82:8278/streams/d/ntv7_pye/playlist.m3u8
+8TV2,http://50.7.161.82:8278/streams/d/tv8_pye/playlist.m3u8
+TV9b,http://50.7.161.82:8278/streams/d/tv9_pye/playlist.m3u8
 CN,#genre#
 CCTV-1综合,http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 CCTV-2财经,http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8

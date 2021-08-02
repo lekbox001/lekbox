@@ -45,6 +45,7 @@ ASSP 2,http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 ASSP 2,http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
 ASSP 3,http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
 ASSP 4,http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
+$c_startMY2$c_end
 TV1,http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
 TV2,http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
 TV3,http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8

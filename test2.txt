@@ -304,30 +304,12 @@ TVBS歡樂台,rtmp://161.202.204.248/sat/tv421
 緯來日本,rtmp://161.202.204.248/sat/tv521
 momo综合台,rtmp://161.202.204.248/sat/tv761
 SPORT,#genre#
-Olympic 1,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/318
-Olympic 2,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/319
-Olympic 3,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/320
-Olympic 4,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/321
-Olympic 5,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/322
-Olympic 6,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/323
-Olympic 7,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/324
-Olympic 8,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/325
-Olympic 9,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/326
-Olympic 10,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/327
-Arena,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/147
-Arena2,http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+Arena,http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 ASSP 1,http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 ASSP 2,http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 ASSP 2,http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
 ASSP 3,http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
 ASSP 4,http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
-ASSP,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/148
-ASSP (B),http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/233
-ASSP2,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/149
-ASSP2 (B),http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/234
-ASSP3,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/150
-ASSP4,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/151
-ASSP4 (B),http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/249
 香港奥运会,http://livetv.dnsfor.me/channel.9.m3u8
 有线奥运601台,https://api.leonardpark.dev/live/icable/601
 有线奥运602台,https://api.leonardpark.dev/live/icable/602

@@ -29,6 +29,9 @@ Ceria,http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 Citra,http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 Drama Sangat,http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
 Drama Sangat2,http://50.7.161.82:8278/streams/d/dsangat_pye/playlist.m3u8
+Aura,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/28
+Flik,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/72
+IMC,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/71
 GOLF,http://50.7.161.82:8278/streams/d/astrogolf_pye/playlist.m3u8
 Oasis,http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 Bernama TV,http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
@@ -156,6 +159,7 @@ ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
 凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 凤凰资讯,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
+TVB剧场,http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/virtuallive/5101059662/150/index.m3u8?&encrypt=1
 now爆谷台,http://45.11.92.252/luck/940049/26
 now新聞台,https://www.navchina.cf/IPTV/now.php?id=332
 now財經台,https://www.navchina.cf/IPTV/now.php?id=333
@@ -186,8 +190,6 @@ TVB星河2,http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
 有線綜合娛樂台,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-CN/03.m3u8
 C+-影视,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/01.m3u8
 天映电影,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-天映頻道,http://50.7.161.82:8278/Celestial/playlist.m3u8?tid=m02000000000014496578&ct=17956&tsum=808f037499700f0538f13ea983dce703
-天映经典,http://50.7.161.82:8278/Celestial2/playlist.m3u8?tid=m02000000000010416484&ct=17955&tsum=cd7dbff483b639f549b95320c78a1f3b
 天映经典2,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 星空卫视,rtmp://58.200.131.2:1935/livetv/startv
 Channel[V],rtmp://58.200.131.2:1935/livetv/channelv
@@ -235,6 +237,8 @@ ELEVEN 2,http://198.16.106.62:8278/streams/d/luxetv_zero/playlist.m3u8
 Baby TV Eng,http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
 BBC Earth,http://198.16.106.62:8278/streams/d/bbcearthhd_zero/playlist.m3u8
 BBC Lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
+EVE,http://198.16.106.62:8278/streams/d/eve_zero/playlist.m3u8
+SLEVEN2,http://198.16.106.62:8278/streams/d/luxetv_zero/playlist.m3u8
 Kids TV,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
 CBeebies,http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
 Discovery Eve,http://198.16.106.62:8278/streams/d/eve_zero/playlist.m3u8
@@ -290,7 +294,43 @@ TVBS欢乐台,rtmp://59.124.75.153/sat/tv421#http://198.16.106.62:8278/tvbsgbk_t
 DaAi,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
 FOX體育,rtmp://59.124.75.153:1935/sat/tv731
 FOX2體育,rtmp://59.124.75.153/sat/tv741
+民视,rtmp://161.202.204.248/sat/tv051
+台视,rtmp://161.202.204.248/sat/tv071
+中视,rtmp://161.202.204.248/sat/tv091
+華视,rtmp://161.202.204.248/sat/tv111
+TVBS新聞台,rtmp://161.202.204.248/sat/tv551
+TVBS歡樂台,rtmp://161.202.204.248/sat/tv421
+東森财经新聞,rtmp://161.202.204.248/sat/tv571
+東森超視,rtmp://161.202.204.248/sat/tv771
+緯來育樂,rtmp://161.202.204.248/sat/tv701
+緯來體育,rtmp://161.202.204.248/sat/tv721
+緯來日本,rtmp://161.202.204.248/sat/tv521
+momo综合台,rtmp://161.202.204.248/sat/tv761
 $c_startSPORT$c_end
+Olympic 1,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/318
+Olympic 2,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/319
+Olympic 3,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/320
+Olympic 4,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/321
+Olympic 5,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/322
+Olympic 6,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/323
+Olympic 7,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/324
+Olympic 8,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/325
+Olympic 9,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/326
+Olympic 10,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/327
+Arena,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/147
+Arena2,http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+ASSP 1,http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
+ASSP 2,http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
+ASSP 2,http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
+ASSP 3,http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
+ASSP 4,http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
+ASSP,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/148
+ASSP (B),http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/233
+ASSP2,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/149
+ASSP2 (B),http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/234
+ASSP3,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/150
+ASSP4,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/151
+ASSP4 (B),http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/249
 香港奥运会,http://livetv.dnsfor.me/channel.9.m3u8
 有线奥运601台,https://api.leonardpark.dev/live/icable/601
 有线奥运602台,https://api.leonardpark.dev/live/icable/602
@@ -300,6 +340,14 @@ $c_startSPORT$c_end
 爱尔达体育 1,rtmp://59.124.75.153/sat/md021
 爱尔达体育 2,rtmp://59.124.75.153/sat/md011
 爱尔达体育 3,rtmp://59.124.75.153/sat/md051
+愛爾達奧運1台,http://198.16.106.62:8278/streams/d/elta_olymp1/playlist.m3u8
+愛爾達奧運2台,http://198.16.106.62:8278/streams/d/elta_olymp2/playlist.m3u8
+愛爾達奧運3台,http://198.16.106.62:8278/streams/d/elta_olymp3/playlist.m3u8
+爱尔达体育1台,rtmp://161.202.204.248/sat/md011
+爱尔达体育1台b,rtmp://161.202.204.248/md041
+爱尔达体育2台,rtmp://161.202.204.248/sat/md021
+爱尔达体育2台b,rtmp://161.202.204.248/sat/md031
+爱尔达体育3台,rtmp://161.202.204.248/sat/md051
 AIS1,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel1/chunks.m3u8
 AIS2,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel2/chunks.m3u8
 AIS3,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel3/chunks.m3u8
@@ -317,7 +365,6 @@ AIS14,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel14/chu
 AIS15,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel15/chunks.m3u8
 AIS16,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel16/chunks.m3u8
 NBA,https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
-Arena,http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 CRICKET,http://50.7.161.82:8278/streams/d/astrocricket_pye/playlist.m3u8
 CCTV奧運,http://111.20.105.60:6060/yinhe/2/ch00000090990000001010/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 五星體育+重,http://112.25.48.11/live/program/live/ssty/4000000/mnf.m3u8
@@ -349,6 +396,7 @@ SPORT 2b,http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
 SPORT 4,http://159.192.73.198:1072/astro4
 SPORT 4c,http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 NBA HD,https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+NBA TV,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/160
 纬来体育台,http://198.16.106.62:8278/streams/d/videolandsport_zero/playlist.m3u8#p2p://fccsovh.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts#p2p://fccseuro.pvbox.live:18912/5c2dd76e00049e335bba26bf05a87895.ts#p2p://fccseuro.pvbox.live:18912/5c7249e60007ce3b1d5832543a7916ad.ts#p2p://fccseuro.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts
 FS1cdn,https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 FS2cdn,https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
@@ -357,9 +405,12 @@ FS3cdn,https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b25000
 RTM Sports HD,http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
 RTM Sports HD2,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 $c_start电影系列$c_end
+衛視卡式台,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/52
+FOX HD,http://198.16.106.62:8278/streams/d/foxhd_zero/playlist.m3u8
 FOX動作電影,http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
 FOX家庭電影,http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
 FOX犯罪電影,http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
+HBO原創電影,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
 HBOHD,http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 HBOHits,http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
 HBOSignature,http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
@@ -367,6 +418,14 @@ HBOSignature2,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u
 FOXCRIME,http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
 FOXActionMovies,http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
 FoxFamilyMovies,http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
+求索动物,http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
+求索科学,http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
+求索生活,http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
+求索记录,http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
+求索记录4K,http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
+求索二,http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
+求索三,http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
+求索四,http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
 纬来电影台,http://198.16.106.62:8278/streams/d/videolandmovie_zero/playlist.m3u8
 淘娱乐,http://39.135.238.69:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
 淘电影,http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8

@@ -8,12 +8,14 @@ TV9a,http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 AEC,http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
 港剧台,http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8
 星河,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+欢喜台,http://50.7.161.82:8278/streams/d/huanxi_pye/playlist.m3u8
 爱奇艺,http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
+双星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+小太阳1,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+小太阳2,http://50.7.161.82:8278/streams/d/xiaotaiyang_pye/playlist.m3u8
 全佳,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 天映频道,http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
 天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-天映电影,http://50.7.161.82:8278/Celestial2/playlist.m3u8?tid=m02000000000010416484&ct=17955&tsum=cd7dbff483b639f549b95320c78a1f3b
-天映頻道,http://50.7.161.82:8278/Celestial/playlist.m3u8?tid=m02000000000014496578&ct=17956&tsum=808f037499700f0538f13ea983dce703
 GO SHOP Ch,http://50.7.161.82:8278/streams/d/Goshopch/playlist.m3u8
 GO SHOP Ch2,http://50.7.161.82:8278/streams/d/goshopch_pye/playlist.m3u8
 CGTN,http://50.7.161.82:8278/streams/d/cgtn_pye/playlist.m3u8
@@ -89,6 +91,21 @@ CCTV-13新闻,http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
 CCTV-14少儿,http://39.134.115.163:8080/PLTV/88888910/224/3221225639/index.m3u8
 CCTV-15音乐,http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
 CCTV-17农业农村,http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/20200324/cctv17hd/57/index.m3u8?&encrypt=1
+CCTV1综合,http://223.110.241.136:6610/gitv/live1/G_CCTV-1-HQ/
+CCTV3综艺,http://223.110.241.136:6610/gitv/live1/G_CCTV-3-HQ/
+CCTV4中文国际,http://223.110.241.136:6610/gitv/live1/G_CCTV-4-HQ/
+CCTV5体育,http://223.110.241.136:6610/gitv/live1/G_CCTV-5-HQ/
+CCTV5+体育,http://223.110.241.136:6610/gitv/live1/G_CCTV-5PLUS-HQ/
+CCTV6电影,http://223.110.241.136:6610/gitv/live1/G_CCTV-6-HQ/
+CCTV7国防军事,http://223.110.241.136:6610/gitv/live1/G_CCTV-7-HQ/
+CCTV8电视剧,http://223.110.241.136:6610/gitv/live1/G_CCTV-8-HQ/
+CCTV9纪录,http://223.110.241.136:6610/gitv/live1/G_CCTV-9/
+CCTV10科教,http://223.110.241.136:6610/gitv/live1/G_CCTV-10-HQ/
+CCTV11戏曲,http://223.110.241.136:6610/gitv/live1/G_CCTV-11-HQ/
+CCTV12社会与法,http://223.110.241.136:6610/gitv/live1/CCTV-12/
+CCTV13新闻,http://223.110.241.136:6610/gitv/live1/G_CCTV-13-HQ/
+CCTV14少儿,http://223.110.241.136:6610/gitv/live1/G_CCTV-14/
+CCTV15音乐,http://223.110.241.136:6610/gitv/live1/G_CCTV-15/
 浙江卫视,http://117.169.124.43:6610/ysten-businessmobile/live/zhejiangstv/index.m3u8
 江苏卫视,http://117.169.124.43:6610/ysten-businessmobile/live/jiangsustv/index.m3u8
 湖南卫视,http://117.169.124.43:6610/ysten-businessmobile/live/hunanstv/index.m3u8

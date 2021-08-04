@@ -621,6 +621,8 @@ $c_start战争片$c_end
 赵云传之龙鸣长坂坡,https://vod.bunediy.com/20201107/UNtYVV05/index.m3u8
 赵子龙,https://vod.bunediy.com/20201130/0XvMrvD4/index.m3u8
 $c_start灾难片$c_end
+一呼百应,https://vod.bunediy.com/20201202/w5BmvUtc/index.m3u8
+战疫2020之我是医生,https://vod.bunediy.com/20201104/fRZDGu3E/index.m3u8
 鲨海逃生,https://vod.bunediy.com/20200715/yqForWuB/index.m3u8
 伦敦陷落,https://vod.bunediy.com/20200410/lLDXf1Na/index.m3u8
 天使陷落,https://vod.bunediy.com/20200716/kqWXJuaG/index.m3u8

@@ -321,6 +321,16 @@ TVBS歡樂台,rtmp://161.202.204.248/sat/tv421
 緯來日本,rtmp://161.202.204.248/sat/tv521
 momo综合台,rtmp://161.202.204.248/sat/tv761
 SPORT,#genre#
+Olympic 1,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/318
+Olympic 2,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/319
+Olympic 3,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/320
+Olympic 4,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/321
+Olympic 5,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/322
+Olympic 6,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/323
+Olympic 7,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/324
+Olympic 8,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/325
+Olympic 9,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/326
+Olympic 10,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/327
 Arena,http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 ASSP 1,http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 ASSP 2,http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
@@ -457,6 +467,14 @@ FoxFamilyMovies,http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
 速度与激情7,https://vod.bunediy.com/20200411/KIyfciyV/index.m3u8
 速度与激情8,https://vod.bunediy.com/20200506/ojX8vBqa/index.m3u8
 速度与激情9,https://sod.bunediy.com/20210801/jS39LVvB/index.m3u8
+碟中谍1,https://vod.bunediy.com/20200502/XQLlxzBj/index.m3u8
+碟中谍2,https://vod.bunediy.com/20200502/q8QQd3A7/index.m3u8
+碟中谍3,https://vod3.buycar5.cn/20201112/pKdRJ5In/1000kb/hls/index.m3u8
+碟中谍4,,https://vod.bunediy.com/20200507/YDyIVxVC/index.m3u8
+碟中谍5,https://vod.bunediy.com/20200430/txxPIQyd/index.m3u8
+碟中谍6,https://vod.bunediy.com/20200505/oISZDOVe/index.m3u8
+刺客联盟,https://vod.bunediy.com/20200501/MlJ8cFEN/index.m3u8
+刺客学妹,https://vod.bunediy.com/20200429/zHcjL0Tl/index.m3u8
 超能查派,https://vod.bunediy.com/20210423/82vlXTCU/index.m3u8
 小人物,https://vod.bunediy.com/20210415/YfavRyHH/index.m3u8
 扫黑·决战,https://vod3.buycar5.cn/20210529/PzbOlrXI/1000kb/hls/index.m3u8
@@ -586,6 +604,7 @@ FoxFamilyMovies,http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
 笔仙怪谈,https://vod.bunediy.com/20210519/75UEjIKE/index.m3u8
 深海狂鲨3,https://vod.bunediy.com/20200728/jmzbVL3q/index.m3u8
 战争片,#genre#
+敦刻尔克,https://vod.bunediy.com/20200505/9lnPcpJs/index.m3u8
 敢死队,https://vod.bunediy.com/20200414/viyQfwe6/index.m3u8
 敢死队2,https://vod.bunediy.com/20200507/PlYF2nAX/index.m3u8
 敢死队3,https://video.buycar5.cn/20200902/hN54huLN/1000kb/hls/index.m3u8

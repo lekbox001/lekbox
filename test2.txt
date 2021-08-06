@@ -60,6 +60,12 @@ WWE,http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 HGTV,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 NatGeo Wild HD,http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 Arena,http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+Sukan,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
+RTM Sports,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
+SuperSport,http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
+SuperSport 2,http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
+SuperSport 3,http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
+SuperSport 4,http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 ASSP 1,http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 ASSP 2,http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 ASSP 2,http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
@@ -322,6 +328,12 @@ TVBS歡樂台,rtmp://161.202.204.248/sat/tv421
 momo综合台,rtmp://161.202.204.248/sat/tv761
 SPORT,#genre#
 Arena,http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+Sukan,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
+RTM Sports,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
+SuperSport,http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
+SuperSport 2,http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
+SuperSport 3,http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
+SuperSport 4,http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 ASSP 1,http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 ASSP 2,http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 ASSP 2,http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8

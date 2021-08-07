@@ -80,6 +80,94 @@ TV3b,http://50.7.161.82:8278/streams/d/tv3_pye/playlist.m3u8
 NTV7b,http://50.7.161.82:8278/streams/d/ntv7_pye/playlist.m3u8
 8TV2,http://50.7.161.82:8278/streams/d/tv8_pye/playlist.m3u8
 TV9b,http://50.7.161.82:8278/streams/d/tv9_pye/playlist.m3u8
+$c_startMY2$c_end
+TV1,mitv://ns2.hellotvvod.com:9906/9766298f7b3b4bf298b0cd4897b654d4.ts
+TV2,mitv://ns2.hellotvvod.com:9906/d87a3704f24342b182742ce0e68bbfd2.ts
+TV3,mitv://ns2.hellotvvod.com:9906/3d13f2ac51cf463d84235ab10e4b836d.ts
+NTV7,mitv://ns2.hellotvvod.com:9906/7cca61573175485ea7d5f556452a144f.ts
+8TV,mitv://ns2.hellotvvod.com:9906/a9334b1403da4598aeadecd244a6bcb8.ts
+TV9,mitv://ns2.hellotvvod.com:9906/51a7f70964a4410b898e5f6afda1a272.ts
+Astro Ria HD,mitv://ns2.hellotvvod.com:9906/36e22b34c1004c759c9e50b54bbe168b.ts
+Astro Prima HD,mitv://ns2.hellotvvod.com:9906/13a8ea6b1fc44567a3a8b931fc70d902.ts
+Astro Oasis HD,mitv://ns2.hellotvvod.com:9906/3aa8d2ee8c154c31b2d1ff513264954e.ts
+Astro Warna HD,mitv://ns2.hellotvvod.com:9906/1450b82a410a4f37a830ad1620084b23.ts
+Astro Citra HD,mitv://ns2.hellotvvod.com:9906/330e58405da749a8842684bf5af5fcfa.ts
+Naura HD,mitv://ns2.hellotvvod.com:9906/30a4e0bae02a438fa7c1c6f19f5e95ea.ts
+Astro Rania HD,mitv://ns2.hellotvvod.com:9906/3a3b69e492b144708e35dc577ca4fcfe.ts
+Astro Aura HD,mitv://ns2.hellotvvod.com:9906/9f105f97832f4d4f9d21481a07bf2e16.ts
+Al-Hijrah,mitv://ns2.hellotvvod.com:9906/9cab89868af84d67a5ed11fdbecf412d.ts
+TV Okey,mitv://ns2.hellotvvod.com:9906/e034b965b72c4628bb020bf0cf3c2846.ts
+SUN TV,mitv://ns2.hellotvvod.com:9906/3aded786a36e4d06868ed83facdfafd4.ts
+卫视中文台,mitv://ns2.hellotvvod.com:9906/6e14aa74a75349ca89437e32eb889a70.ts
+爱奇艺,mitv://ns2.hellotvvod.com:9906/a49111eaf4a34361a81cc2b681720741.ts
+Astro小太阳,mitv://ns2.hellotvvod.com:9906/44f8db3489b04549aaa8206aef6dd0d6.ts
+Astro AEC(备),mitv://ns2.hellotvvod.com:9906/d16620a8522f423ab7c9ad8337179b4f.ts
+Astro双星,mitv://ns2.hellotvvod.com:9906/100aeab83c5f4819aaa56aa0eb15c92d.ts
+Astro全佳,mitv://ns2.hellotvvod.com:9906/2b12b90d5e0545318f8450770a436016.ts
+天映频道,mitv://ns2.hellotvvod.com:9906/2ee117f35bf64cd79f7781db6ed5e345.ts
+翡翠台(华丽台),mitv://ns2.hellotvvod.com:9906/3ed45d10be2e455cbd90dabf5c61f10e.ts
+Astro AOD HD 311,mitv://ns2.hellotvvod.com:9906/6cfcc52f085f47978fcfc35a01af4bb3.ts
+中天亚洲台,mitv://ns2.hellotvvod.com:9906/76f8156f23d64ef6a2485bded4600318.ts
+TVB 星河,mitv://ns2.hellotvvod.com:9906/74089bb389214fc5ab8731a1aadfe1be.ts
+天映经典,mitv://ns2.hellotvvod.com:9906/32c1048631e24dabaa713acdf1f5282c.ts
+Astro欢喜台,mitv://ns2.hellotvvod.com:9906/d1a4b2b41ebc4e5e9f477c66ced6c05a.ts
+KBS World,mitv://ns2.hellotvvod.com:9906/68974951a49244e1b267f97b1ef6e9b2.ts
+ONE,mitv://ns2.hellotvvod.com:9906/696440772be545a88eab3cbfd54ab321.ts
+Oh!K,mitv://ns2.hellotvvod.com:9906/a08c8e03efc540c1b0acac4fbaa1d83f.ts
+HBO,mitv://ns2.hellotvvod.com:9906/c26d085134904542b5c6d94bdff167a4.ts
+FOX Movies HD,mitv://ns2.hellotvvod.com:9906/de44def3314b4083a69b97b2c6e59715.ts
+FOX Action Movies HD,mitv://ns2.hellotvvod.com:9906/db16da3b08cb4da89d5cdb9314c3e9c1.ts
+tvN Movies HD,mitv://ns2.hellotvvod.com:9906/d4b8e9302c644fcfa3ffac044a6e4235.ts
+Astro Awani,mitv://ns2.hellotvvod.com:9906/a65b47f75c874e9585de9e64e4e58049.ts
+BERNAMA,mitv://ns2.hellotvvod.com:9906/29039f83fb224286b34666104bef0d5b.ts
+CGTN,mitv://ns2.hellotvvod.com:9906/4e4f65f61a214217a9cde0efa813ed0b.ts
+BBC World News,mitv://ns2.hellotvvod.com:9906/6dfaaafb37984527838dc99211b2a863.ts
+Al Jazeera English,mitv://ns2.hellotvvod.com:9906/e97a73dae6df4c009617cbe4b2ae18b2.ts
+CNBC,mitv://ns2.hellotvvod.com:9906/eebe5b05a1114097b39107897f4bdedb.ts
+Bloomberg TV,mitv://ns2.hellotvvod.com:9906/4320462ffd49443086edcf874a343396.ts
+Astro Ceria,mitv://ns2.hellotvvod.com:9906/01e358de4497466e91c860c31090d733.ts
+Cartoon Network,mitv://ns2.hellotvvod.com:9906/27736610559348238cae68af675e22a0.ts
+Nickelodeon,mitv://ns2.hellotvvod.com:9906/11255aa0bd0c43ebacb73b9c068fbcc6.ts
+Nick Jr.,mitv://ns2.hellotvvod.com:9906/9e0890b9652645bb85ec4a1690466611.ts
+Baby TV,mitv://ns2.hellotvvod.com:9906/3c1f864284284667ae430a7fe02c4b5e.ts
+Boomerang,mitv://ns2.hellotvvod.com:9906/6fe74bb09f4e4c07ae9db3d4d174a95c.ts
+AXN亚洲,mitv://ns2.hellotvvod.com:9906/f89ab2caa73048dfa9504d587a440e5f.ts
+KIX,mitv://ns2.hellotvvod.com:9906/7d11f41a99634962a34c4884798b4732.ts
+HITS,mitv://ns2.hellotvvod.com:9906/79884c41c32a4eeda65ca9214ff4dd37.ts
+Astro Arena,mitv://ns2.hellotvvod.com:9906/55cb0aa65c8d43e690639dbcf3fd994d.ts
+Astro SuperSport,mitv://ns2.hellotvvod.com:9906/07e72b137335400881ba030ae4f18b13.ts
+Astro SuperSport 2,mitv://ns2.hellotvvod.com:9906/01d913de59064c428feb87b9dda80637.ts
+Astro SuperSport 3,mitv://ns2.hellotvvod.com:9906/796859f39d2e4f918578d1ac71731a16.ts
+Astro SuperSport 4,mitv://ns2.hellotvvod.com:9906/d65121e7428f492b860f9a2b4374241d.ts
+beIN Sports MAX,mitv://ns2.hellotvvod.com:9906/80a6c434eade46588e76251120b5222c.ts
+WWE,mitv://ns2.hellotvvod.com:9906/2a278a15810f41ce880b159ba08f6195.ts
+卫视电影台,mitv://ns2.hellotvvod.com:9906/3452264dff17476596842bcdf899616f.ts
+FOX SPORTS 2,mitv://ns2.hellotvvod.com:9906/72b5b19b7e1f4556ab0159aebaae8ca2.ts
+Nat Geo Wild,mitv://ns2.hellotvvod.com:9906/c660f29e071b4be58de72e3ea93ca161.ts
+tvN,mitv://ns2.hellotvvod.com:9906/92e17f9f4c4d4aeb976dfd868240cc76.ts
+Drama Sangat,mitv://ns2.hellotvvod.com:9906/86772b23aef849049bee57eb188744ee.ts
+RTM Sport,mitv://ns2.hellotvvod.com:9906/546fa3a4f7e24c5fbe177226a9bca8a7.ts
+Berita RTM,mitv://ns2.hellotvvod.com:9906/6be4169dd8c145c2bfa536aa6b2deae8.ts
+卫视卡式台,mitv://ns2.hellotvvod.com:9906/dd4c341e0f914269a7d08352479b8c26.ts
+DW,mitv://ns2.hellotvvod.com:9906/b6e1ca8d01b244ed8143110062a7772a.ts
+France24,mitv://ns2.hellotvvod.com:9906/f0cecd24e9264fe5be31aab4df029fd7.ts
+Astro AEC,mitv://ns2.hellotvvod.com:9906/594ff397fcfa47a292c583d4cd263889.ts
+Awesome TV,mitv://ns2.hellotvvod.com:9906/2f42b9b7e0604d418f9825b7345746b1.ts
+ABO Movies Thangathirai HD,mitv://ns2.hellotvvod.com:9906/fe59770294734cfc829c53ee77f01c73.ts
+Colors Tamil,mitv://ns2.hellotvvod.com:9906/6098b795dd884142a5f004176c0b241b.ts
+BOO,mitv://ns2.hellotvvod.com:9906/67ccc35982134508a0598d75f456d406.ts
+Disney Junior,mitv://ns2.hellotvvod.com:9906/9429aada7cd24971aa4d45058fa78b33.ts
+奥运01,mitv://ns2.hellotvvod.com:9906/e6ba6777b7d14d66ac34022a447f2b47.ts
+奥运02,mitv://ns2.hellotvvod.com:9906/90be92d798b94802b98bc1d89b5c58bf.ts
+奥运03,mitv://ns2.hellotvvod.com:9906/313ff29857eb48839da69bd27bed2d0a.ts
+奥运04,mitv://ns2.hellotvvod.com:9906/9518e84a72864c86a8a889e79e06cea2.ts
+奥运05,mitv://ns2.hellotvvod.com:9906/4c21a29d9a954a27825efd7b9ba631c6.ts
+奥运06,mitv://ns2.hellotvvod.com:9906/88104fd93d8a4296a8ff2cb0e46c4982.ts
+奥运07,mitv://ns2.hellotvvod.com:9906/d42e6367487645e29b1828b1af91de6c.ts
+奥运08,mitv://ns2.hellotvvod.com:9906/545dd37d30f845e9a8855bc9e9f96f2d.ts
+奥运09,mitv://ns2.hellotvvod.com:9906/909f5b7de913480b994273cf5e9b30fd.ts
+奥运10,mitv://ns2.hellotvvod.com:9906/3f3c80543d2247a5b1dc416580e23b73.ts
+卫视电影台(亚洲版),mitv://ns2.hellotvvod.com:9906/75c14b34064748068bca0dfdd89ced71.ts
 $c_startCN$c_end
 CCTV-1综合,http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 CCTV-2财经,http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
@@ -327,6 +415,16 @@ TVBS歡樂台,rtmp://161.202.204.248/sat/tv421
 緯來日本,rtmp://161.202.204.248/sat/tv521
 momo综合台,rtmp://161.202.204.248/sat/tv761
 $c_startSPORT$c_end
+奥运01,mitv://ns2.hellotvvod.com:9906/e6ba6777b7d14d66ac34022a447f2b47.ts
+奥运02,mitv://ns2.hellotvvod.com:9906/90be92d798b94802b98bc1d89b5c58bf.ts
+奥运03,mitv://ns2.hellotvvod.com:9906/313ff29857eb48839da69bd27bed2d0a.ts
+奥运04,mitv://ns2.hellotvvod.com:9906/9518e84a72864c86a8a889e79e06cea2.ts
+奥运05,mitv://ns2.hellotvvod.com:9906/4c21a29d9a954a27825efd7b9ba631c6.ts
+奥运06,mitv://ns2.hellotvvod.com:9906/88104fd93d8a4296a8ff2cb0e46c4982.ts
+奥运07,mitv://ns2.hellotvvod.com:9906/d42e6367487645e29b1828b1af91de6c.ts
+奥运08,mitv://ns2.hellotvvod.com:9906/545dd37d30f845e9a8855bc9e9f96f2d.ts
+奥运09,mitv://ns2.hellotvvod.com:9906/909f5b7de913480b994273cf5e9b30fd.ts
+奥运10,mitv://ns2.hellotvvod.com:9906/3f3c80543d2247a5b1dc416580e23b73.ts
 Olympic 1,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/318
 Olympic 2,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/319
 Olympic 3,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/320

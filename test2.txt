@@ -514,6 +514,7 @@ FoxFamilyMovies,http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
 人之怒,https://vod.bunediy.com/20210525/OF39UXjP/index.m3u8
 漠北追击,https://vod.bunediy.com/20210624/tOnad2Sz/index.m3u8
 科幻片,#genre#
+X特遣队全员集结,https://sod.bunediy.com/20210806/zhCJwweF/index.m3u8
 黑衣人1,https://vod.bunediy.com/20210423/sPJL0UDN/index.m3u8
 黑衣人2,https://vod.bunediy.com/20210423/pwxKyrkx/index.m3u8
 黑衣人3,https://vod.bunediy.com/20210423/YTNsu0ts/index.m3u8
@@ -551,6 +552,7 @@ FoxFamilyMovies,http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
 皇家次子女秘密组织,https://vod4.buycar5.cn/20201116/cLjrmY2D/1000kb/hls/index.m3u8
 超能计划,https://video.buycar5.cn/20200818/SEImmz43/1000kb/hls/index.m3u8
 喜剧片,#genre#
+男儿王,https://sod.bunediy.com/20210805/1QqETSkl/index.m3u8
 奇花记,https://vod.bunediy.com/20210528/rhWni38B/index.m3u8
 十四天之暖春来,https://vod.bunediy.com/20210524/5uzpnQYP/index.m3u8
 超越2021,https://vod.bunediy.com/20210715/rXrhK4HA/index.m3u8

@@ -476,7 +476,7 @@ $c_start动作片$c_end
 速度与激情9,https://sod.bunediy.com/20210801/jS39LVvB/index.m3u8
 碟中谍1,https://vod.bunediy.com/20200502/XQLlxzBj/index.m3u8
 碟中谍2,https://vod.bunediy.com/20200502/q8QQd3A7/index.m3u8
-碟中谍3,https://vod3.buycar5.cn/20201112/pKdRJ5In/1000kb/hls/index.m3u8
+碟中谍3,https://v3.dious.cc/20201112/TfqwhPYB/1000kb/hls/index.m3u8
 碟中谍4,https://vod.bunediy.com/20200507/YDyIVxVC/index.m3u8
 碟中谍5,https://vod.bunediy.com/20200430/txxPIQyd/index.m3u8
 碟中谍6,https://vod.bunediy.com/20200505/oISZDOVe/index.m3u8

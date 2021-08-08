@@ -343,9 +343,6 @@ ASSP 4,http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 爱尔达体育 1,rtmp://59.124.75.153/sat/md021
 爱尔达体育 2,rtmp://59.124.75.153/sat/md011
 爱尔达体育 3,rtmp://59.124.75.153/sat/md051
-愛爾達奧運1台,http://198.16.106.62:8278/streams/d/elta_olymp1/playlist.m3u8
-愛爾達奧運2台,http://198.16.106.62:8278/streams/d/elta_olymp2/playlist.m3u8
-愛爾達奧運3台,http://198.16.106.62:8278/streams/d/elta_olymp3/playlist.m3u8
 爱尔达体育1台,rtmp://161.202.204.248/sat/md011
 爱尔达体育1台b,rtmp://161.202.204.248/md041
 爱尔达体育2台,rtmp://161.202.204.248/sat/md021

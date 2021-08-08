@@ -464,6 +464,7 @@ FoxFamilyMovies,http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
 绍兴影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 凤凰电影,rtmp://58.200.131.2:1935/livetv/fhdy
 $c_start动作片$c_end
+硬汉枪神,https://sod.bunediy.com/20210807/Nhk3KAqK/index.m3u8
 丛林奇航,https://vod.bunediy.com/20210731/htf0kjSn/index.m3u8
 速度与激情1,https://vod.bunediy.com/20200504/hzsbE24q/index.m3u8
 速度与激情2,https://vod.bunediy.com/20200508/XEPv04NL/index.m3u8

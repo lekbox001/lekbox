@@ -446,6 +446,10 @@ FoxFamilyMovies,http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
 淘电影,http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 淘BABY,http://39.134.134.88:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8
 萌宠TV,http://39.135.238.61:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
+死神來了,http://121.12.115.15/tx.hls.huya.com/src/1423782074-1423782074-6115097444461051904-2847687604-10057-A-0-1.m3u8
+漫威宇宙,http://121.12.115.15/tx.hls.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.m3u8
+科幻电影,http://121.12.115.15/tx.hls.huya.com/src/1423782061-1423782061-6115097388626477056-2847687578-10057-A-0-1.m3u8
+蜡笔小新,http://hy.tushepy.com/pls/huya.php?id=11352970
 大健康,http://39.135.238.67:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226556/1.m3u8
 5+频道,http://39.134.39.37/PLTV/88888888/224/3221226267/index.m3u8
 6+频道,http://39.134.39.37/PLTV/88888888/224/3221226269/index.m3u8

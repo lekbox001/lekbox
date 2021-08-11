@@ -1,110 +1,76 @@
 MY,#genre#
-TV1,tvbus://6e4hEeMVvASd7JKXXCLo9JU65A2ns8Dj3CZ4tQo95FCtRnks8euKBifTk513z
-TV2,tvbus://6RYDsoHodF94frXYaSTyfydVzfyYx4N8PjEipXRxsorENxbFZY9FowtGPZurF
-TV3,tvbus://5MBHfstHRxv4veqrkdkishHpfvuW2hMdL954y4yaMz77pTH7HsqkGFFu1ZAbv
-ntv7,tvbus://5kn41Lpr589iZMwYw2rT1qvUXoNSLqvgYBv135SU5ALatmAmvMNyE3QwPnbkW
-8tv,tvbus://68tToF9dmdwyVaq37iG6MLZZAJEFaxww3j51VwHXZxHYZekVfa84VkMcdVj7k
-TV9,tvbus://6B4apWva1Y8xJMNogtf6KGz2ud9k9MMyL5SaTL7nQe2GNsbpm8AoCPQY2FLzL
-AOD,tvbus://62NNnEntcG5Uev4mzo8NPmozm3g5Lpa6vVrfq7CbNyKQfSLgsy54PQaS6sgyY
-AEC,tvbus://6hceEo3SMnTG5m7CG2ZakyWbfgG1ZmtNukkaE8mSpCNrnmf3EVovACCdyEUN3
-AEC b,tvbus://5Kvp549VCkiqZ2rGEgubPevAhQ4KtMaNf7tPb9VM4vfWtmLQa7wV2NZ71bpJq
-AEC b2,tvbus://6L2keFB3TzqTqR4Y3b3jgqTG2V4yPYSs6tbPp2tv1rjx8njTRyi6Dumq26Ehe
-shuangxing,tvbus://65KFzmeNPHWa91jTcsym8egA3XAiavnD5Ak1NJ2iiHNhKxC2AY7Gz47q6MyDj
-shuangxing2,tvbus://6vaTAJGo78j4SnSgk3XswL3fH4amTFmnd65VEMtfMMyAFZu3Tq
-quanjia,tvbus://61XJ6FKo7WXX8qmJTjsiy31pFaDLPCpUvGJXiRinmDa7TPnRJJgr7NTxh2J4m
-quanjia2,tvbus://7AVPPPt8kpup4Ct9WFGzMfKNzibDhJvmVM2rAaDEFYqCJQyZHs
-feiqui,tvbus://6gsunidCw9zw1XxAhtwAGEXRyfKxSVspS6yBTMGszT9gAHdi3sitETJwNobCF
-feiqui2 b,tvbus://7f5FQXEtHxfnkhqDEbJwMe2uUxqxTW95X7LVv9KsZwLvGRjisq
-huanhee,tvbus://6Gv4wn3XhVm449Z2Qc9Dip7j2WQYWW1ZjWoGGKiv9NRQNpGKgDEYEYtWmJJC6
-huanhee2,tvbus://71Jwu3tfPt6yUftBEL3ioCsheU4AYZJw8VyhgTZFWv2iDJMWHN
-aiqiyi,tvbus://66FRpocmtD6gMwzcvdFBh66GfamAqyNA5s1b9FrEKnuUnjQXsQn7zs6YAR55g
-xty,tvbus://6LktFjSSxNajgkUMFiNyQ5929UGv7otwbF7NYuVfCsDzQy9CxRQDdTyJYcYmJ
-xty2,tvbus://8Pe3wipkqx3q8BJSUtcwcN4FtmPEuQLwmcQTppxNc3zCohjFRJ
-Celestial Movies,tvbus://5gWRwQczZURAdQBNVt6KhaJZWfWYrQ4PzKM3VymWpSEBm9wVsnVHUsHT2d88o
-Celestial Movies2,tvbus://7tCv2tmBsAT1E8aA3cDpr2RkXCeNh4QjGDh1NaWEGaykUToTHc
-Celestial Movies3,tvbus://5uA3Q5VhG7bfQiSsHq7q3GmCQ2FW7NYt5RvfZL7gpvD1W1SFtSAHxi3osTH4v
-Celestial Movies4,tvbus://7L8vYaPr4NQdQduvhazTU1HXSeLCLeh9GuxaBZoJX6dqTpTCpT
-ccm,tvbus://6HbVAkQXXj4SAXKpyDt18vqEHoHVkjNQ4gSQNVtgWeBJ72VT7Yc2npgAr2WUY
-ccm2,tvbus://7KJnCoUNhpTAp6jANg63ym4G352YzBGkZKCsDnuQATZDSfcAbx
-GO SHOP(中文),tvbus://6GTHDW3tiyfhMXVSbyrovtjyYdvvCXQ6WEZa4r441MqwDTiaNrQRedsvYKnNw
-ASSP 1,tvbus://5WqJVQRnFRL3iU8XdjNDMyJdzqEAkBZRZ4DfEfCAZsGSai7up7seDMGDccT7H
-ASSP 2,tvbus://6beEjL8WJkEmP9EL9fTDumDSMtQsbCTTXESHcH2z2xYd1Am2FPViuUYL9MXWU
-ASSP 3,tvbus://66YsnCwdo8dZ2CU4WaFDoRuFhws6EqMrvj9RvzaR7BqYjHQP6BupHpWgS6vTK
-ASSP 4,tvbus://64c3y33FyTEPFJ6Y9vXci8KGyBNDV1mZ2hA8dfx1oqxFZEhGo1eGuRMiBxEm9
-AFC,tvbus://5bt8GdWfz7CoBFt6bKyk8V1sa5QTTH8sSWty9bt9hcWQ2ERWovGiH284MWRbX
-Animax,tvbus://5uoCKeuWTjVa6aY3dHgCe2fTf9AzsPfGpZJ1a59XBFZGxfdwUGS4vPhKzTT2H
-AXN,tvbus://5xyMGYHzUAWxhDzBftqg5ALUJJANKoZTnPg6f8TB7K1MRNFMQH8pueDmGie7w
-Bloomberg TV,tvbus://5ZWLDsAVxRa11Q7RLtDw4RTrCTk4X9L7FZiv6PBJQnwvysmKsEk2ixvQ5BB7L
-CARTOON-NETWORK,tvbus://5MfVkmm57UdPxJTbB8a7Hu4i2iU2LmFfRAitXmDQ2MZLvA7LBfRh5eWBDR8z8
-CNN,tvbus://6JmKZvKEkZx9kjh44UnbhZ7yQrJMChUf1RCxiBUWLLjDqHBaniGyCLTnybHXh
-DISNEY-CHANNEL,tvbus://6CHkCNLd6UXCWGDpmAgTWbfz5CCir4b985gBFCiv92WfiQZS56GZ7CfGMStoJ
-FOX HD,tvbus://6Hn97tQ34VLtKdp8cafQBctQdyxDW7gN8FviCzR3YcXZnhbBNhjXgjL7zdHhi
-FOX Action Movies,tvbus://6E1nceb7yUvewmwy2onEPyJ5T7bQTaJSV3iUUBrAcdoJrLE9bj6G96EvgzkEJ
-FOX Life HD,tvbus://5xSJeD2W56Ubh3CfyFdqJczPNQUURPTs4f5iEzRpLBp9ZhmYCm2kLMcH9jwJS
-FOX Movies HD,tvbus://5TCPkxa6rnkQoAeYRF52jR9mqqdCx6BNeAuKNmwAezef3xrxBvLqNfkG4JtAH
-HBO,tvbus://65zNd1hpusR1oRNRJmekUBxWaHCkt6aYmisfxHFhwFNdQq1W4bdvENcDtMEu4
-HBO HD,tvbus://5g7NaB7D2Ro6A1q6kHELAdczsLhfbhEFfwnXM3UR3Qu5zhjxwzchXvkRVrgxX
-HBO Family HD,tvbus://5KVqLdyQoeZ7eC5YDD9KcncZCv8ra9LE39Z6B2yQQ6tmvR4ygDgfSLktQQoBY
-HBO Hits HD,tvbus://5ssqUAyqhEVjtqecZoLxBPxLziDmQGtDzGGjBqPdJxodN6auStKR4uU6t44C6
-HBO Signature HD,tvbus://5ga6mpRoDeYUf76t9BrkFqAEPuMW9nK8WRzm4GTWHYrMqaVf9hVQAR44FLZAY
-K plus,tvbus://5dKFzZ9CuPTFL6ZyWFspETr9h94pkokZcemREBtGDzvKySmCLpzbaptYXND6M
-KIX,tvbus://5pbjjt9rwu6Y3WEGT7jkBZb8xgLFVDfGmqThLudHBGSouMXgoivDHFu8pM8xD
-LifeTime,tvbus://5gaNcVq2rh644s1JWSdhTS8EiABmUsq1vannXKfiCatMHBBNTzjgm38up1PZA
-National Geographic,tvbus://5XisRcapXu4nAHj8KreveFP1L9onShtgEbndRy3mtuc6uLdkrt9pscnPgTAqT
-National Geographic Wild,tvbus://5qpiu44Nif4zZw6Hk7yGNYwzczXu3SwXz3iqNeft31tcK3pk3kShPdQHrqQUN
-Sony ONE,tvbus://6dTR9f5smQNUxMTy9N5iRsSykdC58na7fK1CQBj3T8jCHbGBdDpT6PCgiqwyo
-TELETOON,tvbus://8Vn63mSjXjV7eEaM8n7MaqoqCfsSvEhiqgFu43Naq9g1icn53q
-TLC HD,tvbus://5tPdUqjvz49gip2aJVZSKhkmUq4R6DnQdV3oAsdXVHyoA4egfj1MZba4pqMEe
-Waku Waku Japan,tvbus://6FvygsEHnZgMxxhQRLQVxWYwM53dCPMMbwk8xzdci1L2MEUeM3FsZ3aW1kAoU
-Waku Waku Japan b,tvbus://786qCNs7FLm9ouCtbUEPA57ZkRQZfZBkcQM7Yg8CV6Xti36r7D
-Warner-TV,tvbus://6PojYEAsLLARcQSHri4j7YQi99uMZaTPyBdvB5ZQT4cAdninLbDSdzCFEppWt
-WWE,tvbus://69jvf5kMznUvkAByoJzjszmeEKiXzzgP1JXWLHUqwH9DZJUEqxQ2NbpwzyvE3
-WWE b,tvbus://8QFpRehbtGF6gJXcsvAJBFvq5E35euN2we1iTfW4tb7MW2K6D7 
-Awani,tvbus://5YixKGcXy9WpxvvQXSeW12ZTX14gh9RdwhaPDW7tbvMMAjFsuXc565dtVh95B
-Bernama,tvbus://5poYVhRQLe61qxaWvhaJ5RRSTWWNyzZ3UzP7ZPD7Z5S5SHoNYD8LgjDWu1VtU
-Drama Sangat,tvbus://6HGzP5kU6fKUDbV1nNMaCqFjpA2uE3U4xh5EjdAoU1agwMQnCryQkLD5xboCF
-OKEY,tvbus://6Rx8NSXLxzTk8sy84z688ZUqbHv76seQGBi2MjmynSwSVMQ4YcWGGYef35Wbo
-Prima,tvbus://66kUm4p9KFfmXfFCg9j1wy74ETapsKVRWBW5VbcLfZ3Cm9qGD3e89j3c3ARfH
-Ria,tvbus://6Je2dBf75zm7QGGuVttkfxcbN5XuJUnio6QmP6XEPDKkVMqCckDSg8DujTFXR
-WARNA,tvbus://6DP2zC8zfpj7qRFtRowFTyj8DvGJTgb9m17iJ522n85QFjsF4H7oLFU3pMwtV
-BERITA RTM,tvbus://6EQJ2k96w4Pn3ZPuy6KVDVdU2zrG52j1CrBcgqw8sZCMuD6LPq4E2ZjLtnTHC
-RTMsportHD,tvbus://5ejKRPmNukEhWXWe2bnuafe5hqL5a5Mb1UCc1SWy8jrXwYrHs9kfYJTREQECC
-CNA,tvbus://6dr6ak7rDN59qs8j7GzSzPeiZXKQg38UbbdQJVKszQeycSNpsz2rmGpM363oP
-Channel 8,tvbus://65xso2Veq1GffYRnyi4BPPtexdhXtwf8dqRJnpyJYwaGqSSsqahAt2mV4zofh
-Channel 5,tvbus://5vh5AYEgpLtBT8zc4qWXZs4qdikuMajtWoh22J7XbgbHt26s1mxnAbfc8b5TA
-Channel U,tvbus://6C4PGkpCggL8GC7MyxfxsUop6Jd4nMsvG28j16JQtuhdbQjMyFED4Js51RYvW
-Suria,tvbus://6VU5zRuQY8t38cmETx8iMHVxiFmU46m6tZ44ij1VR84GsYon3A8NcUc1TEHnL
-Vasantham,tvbus://5dWryauMGrMkazdn1cZAHahyASB5XakBCkzkruwiLitNe4UhcF64kdSmVHqCP
-ABS CBN,tvbus://6JnKtpQbEa7q948T66BYZqbEDaeCz2A3BdB4qMp6z7Pvr7B7CJfXRTR7GeL82
-ABS CBN News,tvbus://5NM3uc8EdZPu61ASCD39w8RNeave5n1EBKdoBgPnG9uYyqCmjbfmJhoUAL9r5
-Knowledgechannel,tvbus://5wriyGWjHConmh9ahhCFvFmR5qBXCdQdANLBq6Df8vSZ879VBcE4THrFTaEd3
-GMA News TV,tvbus://68cFzKEA8em3Bxqzj9GvKHd6je6thMZ9Yxt6s5z6UDMtoBiBf2NFQZCuyoZMa
-GMA Pinoy TV,tvbus://6HtbUbk1qC14oQW7geApH6j69LJUWFCN1Z27p7s9TYppevpTDwEGx8LDFjq8L
-gma7,tvbus://5hmKYsdoNZGMspW53m5tRAW1xav7wtZUz6psgKESBG8oFkbksudiSJ4VtBVAF
-ONE SPORTS,tvbus://6UYLwbGPm575CE7xFUkYYNUAPcUmwUDR1gvou8A8mqJsAee967ZdAC4fAiy9q
-PBO,tvbus://5fcD4FNF1ZjVuU935sCMw3RK9AnG4rM7dxpSUXR1WTpeFC5LwSe9JWioB9kTJ
-ptv,tvbus://5wSBSXLSBpFvgbkgStdoPY2YfzWprn88KmiPBZj8BMpqfQgzRGGCW1VCTY2BG
-UNTV,tvbus://6QNqQLYUeTgLJJTh6bbc83J34nJ5mmX4q1Kqy8st6TFxUXcZi1VjRJkREzvsb
-ANTV,tvbus://5p7V27iS7T5kzHdQQb3k4b8BWptbmunPMkdAELXuq2cYQmPDMcWxMyUULDYJf
-Asianet-Utsav,tvbus://7R8ba65R2TSXPHLcsiGKZppcVgkqruhLjUBzqG4twZqrkmpM3f
-Bali-TV,tvbus://6PVEgJsnj9S6Atc9TVkU7CitoS6Ef5i3tid3U22Gm627WtfpEoxi9ovyLW3zX
-Berita Satu News,tvbus://5qsqWURSGapweRQ82QDzNWVgdvPqCfcvVyF5bSBVid9h5mpEPJ64ppoR4Prbv
-CNN Indonesia,tvbus://6MMXDrFzN19HxJ9in663RWYgJqGx29DvKtfUdYEENvNobLdw6X8WhJQ6uPtBE
-DAAI-TV,tvbus://6Z33ainxXJd3tsoBC7w2zVE34AHLVeFDZZj4PZz5pcQn2oFEy3w1rcty57Ktt
-Disney JR,tvbus://5YHwghNNK1KAiXb47sbDT6XeLighHmSGqALZWZX1kygLJ1A3ctD6VZm7g6CqP
-DISNEY JR|HD,tvbus://5coez2C41dWwXDWVnJneD11c5Xj5qqQodBHgzvHwLsgfvQ8mBi7SDs9ou2Ntw
-DISNEY-XD,tvbus://6MLyERpCximr7CUWGbujcxu8edSVk4tPeCA2nYmqECi5kfTfcHWjE9Qrhkz5u
-Indosiar,tvbus://5MZe2FAeC5EsLadw8nEHFYctoz3B76gdU6eHJ7Eur5Fj9saXmt9DiCCnF5oBu
-Jak-TV,tvbus://6cc7yZ1PCAPx8ZtNAo6LQHkKog3FpFFoCEB7LcrzsDUrgUz9hSvQvoGwHJJAT
-Kompas TV,tvbus://6ixpVkRzHHJdYGyhvSAb6KmxdpyQn7b7oBezozJyBtnVv1JppoZCCKsFR4j6G
-Metro TV,tvbus://5NKrmWLzVjYiPueKMSr77E7uoPkArovwViknzPNfAYeXMAjEzQKSwE5z7RzRc
-Movies-OK,tvbus://79JxMf64LveMAUirD5UkRWxdncSEtcvMv1p4wWGdhCxtG8FFnL
-Rajawali TV,tvbus://6dJGWeKmPXc38kARAW2n3xn1ZrfhhsBEjkxtyFTGhUjLVAJohDTea38N25JQ6
-SCTV,tvbus://5omUZDzrfRmkMGGKSvn8eCUdNQwhBLTGQGYpamgsLUgvS1EcC4augQFMgxvvd
-Trans 7,tvbus://63U64RrYVGBjEHNkgn74rTLvLSFYjfbEJcyrwRG2w1256tCAh8HNzbi4XRHoQ
-Trans TV,tvbus://6hJYy7tDNyGCXbfigjUPrwmAw9jbu9tesWFi1XirZ8mgnuBikZxVDe7U6jJCb
-TV ONE,tvbus://6GY6hTFbUXfjC2aXjoJapQY7q48Gvxr8DByfN8oDpgMuHKbRZT1CprCe7VVcr
-TVRI,tvbus://5nHtkB1y2ke44tsCPWCuSbCQNvVyq1bMeHGKQtcSSPCFqoZGGJ9XgERXcNSAc
+TV1a,http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+TV2a,http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+TV3a,http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+NTV7a,http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
+8TV1,http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+TV9a,http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+AEC,http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
+GO SHOP Ch,http://50.7.161.82:8278/streams/d/Goshopch/playlist.m3u8
+GO SHOP Ch2,http://50.7.161.82:8278/streams/d/goshopch_pye/playlist.m3u8
+CGTN,http://50.7.161.82:8278/streams/d/cgtn_pye/playlist.m3u8
+CGTN2,http://50.7.161.82:8278/streams/d/cgtn_pye/playlist.m3u8
+GOLF,http://50.7.161.82:8278/streams/d/astrogolf_pye/playlist.m3u8
+Awani,http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+Prima,http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+Animal Planet2,http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+Bernama TV,http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+Boo,http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+CGTN,http://50.7.161.82:8278/streams/d/cgtn_pye/playlist.m3u8
+Ceria,http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+Citra,http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+Drama Sangat,http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
+Drama Sangat2,http://50.7.161.82:8278/streams/d/dsangat_pye/playlist.m3u8
+GOLF,http://50.7.161.82:8278/streams/d/astrogolf_pye/playlist.m3u8
+Oasis,http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+Bernama TV,http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+Boo,http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+Oh!k,http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+Prima,http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+Prima2,http://50.7.161.82:8278/streams/d/prima_pye/playlist.m3u8
+SURIA,http://50.7.161.82:8278/streams/d/Suria/playlist.m3u8
+Hello,http://50.7.161.82:8278/streams/d/hello_pye/playlist.m3u8
+Naura,http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+Naura2,http://50.7.161.82:8278/streams/d/naura_pye/playlist.m3u8
+Warna,http://50.7.161.82:8278/streams/d/warnahd_pye/playlist.m3u8
+Sony HD,http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
+tvN,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+KBS Wolrd,http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
+KBS Wolrd,http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
+KBS Wolrd,http://50.7.161.82:8278/streams/d/kbsw_pye/playlist.m3u8
+KIX,http://50.7.161.82:8278/streams/d/kixj_pye/playlist.m3u8
+HBO,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+TVN,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+OHK,http://50.7.161.82:8277/streams/d/ohk_pye/playlist.m3u8
+OHK2,http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+Set One HD,http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
+Set One HD2,http://50.7.161.82:8278/streams/d/sonyhd_pye/playlist.m3u8
+WWE,http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
+HGTV,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+NatGeo Wild HD,http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+Arena,http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+Sukan,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
+RTM Sports,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
+SuperSport,http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
+SuperSport 2,http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
+SuperSport 3,http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
+SuperSport 4,http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
+ASSP 1,http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
+ASSP 2,http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
+ASSP 2,http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
+ASSP 3,http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
+ASSP 4,http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
+CRICKET,http://50.7.161.82:8278/streams/d/astrocricket_pye/playlist.m3u8
+RTM Sports HD,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
+Go Shop GAAYA,http://50.7.161.82:8278/streams/d/goshop2_pye/playlist.m3u8
+TV1b,http://50.7.161.82:8278/streams/d/tv1_pye/playlist.m3u8
+TV2b,http://50.7.161.82:8278/streams/d/tv2_pye/playlist.m3u8
+TV3b,http://50.7.161.82:8278/streams/d/tv3_pye/playlist.m3u8
+NTV7b,http://50.7.161.82:8278/streams/d/ntv7_pye/playlist.m3u8
+8TV2,http://50.7.161.82:8278/streams/d/tv8_pye/playlist.m3u8
+TV9b,http://50.7.161.82:8278/streams/d/tv9_pye/playlist.m3u8
+Kids TV,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
+Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 THAI,#genre#
 ALTV,https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
 ASTV News 1,http://news1.live14.com/stream/news1_hi.m3u8
@@ -315,67 +281,544 @@ TVRI Yogyakarta,http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/in
 TVRI Yogyakarta,http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
 TVRI,http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
 Asian,#genre#
-BOO TV,http://185.180.221.194:8278/streams/d/Boo/playlist.m3u8
-Hello,http://185.180.221.194:8278/streams/d/Hello/playlist.m3u8
-Naura,http://185.180.221.194:8278/streams/d/Naura/playlist.m3u8
-Thrill,http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
+双星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+Asiancrush,https://ac-samsung.samsung.wurl.com/manifest/playlist.m3u8
+全佳,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+Ceria,http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+8TV,http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+Citra,http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+Awani,http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+Drama Sangat,http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
+TV3,http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+Bernama TV,http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+NTV 7,http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
+TV2,http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+TV9,http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+Prima,http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+Oh!K hd,http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+Travel,https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+SuperSport 2,http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
+SuperSport 2,http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+Awani,https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+Awani,https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream04/streamPlaylist.m3u8
+Oasis,http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+Boo,http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+Celestial Classic 天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+AOD,http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
+FOX,http://198.16.106.62:8278/streams/d/foxhd_zero/playlist.m3u8
+FOX犯罪电影,http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
+FOX动作电影,http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
+FOX家庭电影,http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
+HBO原创电影,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
+HBO,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+HBO Family,https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+HBO Hits,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+HBO Signature,https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+Red by HBO,https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+Baby First,https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
+Boomerang,https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
+CBeebies,http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/823.m3u8
+Da Vinci,https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
+Battery Pop,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
+Asian Food Network,https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+Animal Planet,https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
+BBC Earth,https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+Discovery,https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+Discovery Asia,https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+CinemaWorld (576p),http://210.210.155.35/uq2663/h/h04/index.m3u8
+HBO Malaysia,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+Kix,http://210.210.155.35/uq2663/h/h07/01.m3u8
+新唐人-美西频道,http://live.ntdimg.com/uwlive520/playlist.m3u8
+新唐人亚太臺,https://live.ntdimg.com/aplive200/playlist.m3u8
+新唐人加东臺,https://live.ntdimg.com/mllive860/playlist.m3u8
+新唐人加西臺,https://live.ntdimg.com/cwlive220/playlist.m3u8
+新唐人旧金山臺,https://live.ntdimg.com/sflive990/playlist.m3u8
+新唐人美东臺,https://live.ntdimg.com/live400/playlist.m3u8
+新唐人美西臺,https://live.ntdimg.com/uwlive990/playlist.m3u8
+新婚夫妇的性生活,https://156zy.suyunbo.tv/2018/07/21/RiQKisSwjNi4r7Hb/playlist.m3u8
+亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+狗狗宠物,http://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+彭博财经,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+NHK·华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+NHK·国际频道,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+TVB·电视剧台,https://edge6a.v2h-cdn.com/appt7/TDramaTV.stream_720p/playlist.m3u8
+俄罗斯老电影,http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
+俄罗斯第一台,https://radio-live-mg.rtr-vesti.ru/hls/russia_hd/playlist_3.m3u8
+法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+高清时尚,http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+摩洛哥·TV5,http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+加拿大国家台,https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/index_1299456_av-p.m3u8?sd=10&rebase=on
+加拿大中文台,https://wowzaprodhd45-lh.akamaihd.net/i/96d54ef6_1@438617/index_1299456_av-p.m3u8?sd=10&rebase=on
+ABC·新闻频道,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+News·Max,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
+Racing·运动,http://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱二台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
+C+-影视,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/01.m3u8
+天映频道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+天映频道,http://50.7.161.82:8277/streams/d/celestial_pye/playlist.m3u8
+TVN-亚洲,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+Astro-爱奇艺,http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
+Astro-港剧台,http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8
+BBC-记录,https://livecdn.fptplay.net/qnetlive/bbcearth_2000.stream/chunklist.m3u8
+FOX-生活,https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
+FOX-FS1,http://stream.fs1.tv:8080/hls/webstream.m3u8
+FOX-体育一台,https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+FOX-体育一台,http://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+FOX-体育二台,https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
+FOX-体育二台,http://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+FOX-体育三台,http://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
+FOX-体育三台,https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+NBA-体育频道,https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+TLC-旅游生活,https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
+TLC-旅游生活,http://198.16.106.62:8278/streams/d/tlcasia_zero/playlist.m3u8
+中视,http://185.207.176.189:8080/channels/tw-100/playlist.m3u8
+华视,http://185.207.176.189:8080/channels/tw-501/playlist.m3u8
+OHK,http://50.7.161.82:8277/streams/d/ohk_pye/playlist.m3u8
+WWE,http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
+TVBS-综合台,http://198.16.106.62:8278/streams/d/tvbs/playlist.m3u8
+TVBS-欢乐台,http://198.16.106.62:8278/streams/d/tvbsgbk_twn/playlist.m3u8
+TVBS-新闻台,http://198.16.106.62:8278/streams/d/tvbs_n/playlist.m3u8
+中天综合,http://198.16.106.62:8278/streams/d/ctizhonghe/playlist.m3u8
+中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
+中视新闻,http://185.207.176.189:8080/channels/tw-101/playlist.m3u8
+中视新闻,http://seb.sason.top/sc/zsxw_fhd.m3u8
+中视经典,http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
+中视菁采,http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
+索尼动画,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
+GOODTV-综合,https://dqhxk7sbp7xog.cloudfront.net/osmflivech1.m3u8
+GOODTV-卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
+纬来综合,http://198.16.106.62:8278/streams/d/videolandzonghe_zero/playlist.m3u8
+纬来电影,http://198.16.106.62:8278/streams/d/videolandmovie_zero/playlist.m3u8
+纬来戏剧,http://198.16.106.62:8278/streams/d/videolandxiju_zero/playlist.m3u8
+纬来精彩,http://198.16.106.62:8278/streams/d/videolandspecial_zero/playlist.m3u8
+纬来体育,http://198.16.106.62:8278/streams/d/videolandsport_zero/playlist.m3u8
+探索频道,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
+探索亚洲,https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
+国家地理,https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+亚洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
+美食星球,http://198.16.106.62:8278/streams/d/foodplanet_zero/playlist.m3u8
+华纳电视,https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
+ELTA-综合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
+ELTA-影剧台,http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
+Thrill,http://45.126.83.51/qwr9ew/s/s34/02.m3u8
+Thrill,https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+tvN Movies,https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+TVB 星河,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+TV1,http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+Naura,http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+Sony HD,http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
+KBS Wolrd,http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
+HGTV,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+AnimalPlanet,https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
+Arirang TV,http://125.227.210.37:8933/VideoInput/play.ts
+ASTro港剧台,http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
+AXN HD,https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
+Baby TV Eng,http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
+Bahrain Sport 1,https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8
+Bahrain Sport 1,http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1558393494
+Bahrain Sport 1,http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1548640033
+Bahrain Sport 2,https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports%202_all/playlist.m3u8
+BBS 불교방송,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
+beIN Sport News,https://dl.dropbox.com/s/a16m1s4w7ctosro/Bein%20Sports%20News.m3u8?dl=1
+Bloomberg US,https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+Bollywood HD,https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
+BT SPORT 1 HD,https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+BT SPORT 2 HD,https://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+Captital OTB Betting,https://d2up1hmow19bcd.cloudfront.net/livecf/liveracing/playlist.m3u8
+CBeebies,http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
+CBN幸福剧场,http://home.lpfcdn.com:4000/udp/235.254.198.193:7980
+CBN幸福娱乐,http://home.lpfcdn.com:4000/udp/235.254.198.195:7980
+CBN每日影院,http://home.lpfcdn.com:4000/udp/235.254.198.192:7980
+CBN风尚生活,http://home.lpfcdn.com:4000/udp/235.254.198.194:7980
+CGTN Français,https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+CH8,http://usa.login.in.th/ch8/ch8/playlist.m3u8
+Channel [V],https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
+CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+CINEMAX,https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+CJB청주방송(SBS 淸州),http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+CMC (USA),https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
+CNC,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
+CombatGo,https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8
+COMPANY TV HD Music,http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
+CPBC,https://media1.cpbc.co.kr:8888/vod/_definst_/mp4:ads/spot_khs.mp4/chunklist.m3u8
+DBM,https://edge5.vedge.infomaniak.com/livecast/ik:dbmtv/manifest.m3u8
+djing,https://www.djing.com/tv/underground.m3u8
+du bai sports 1,http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+du bai sports 2 hd,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+du bai sports 3,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+Dubai Racing,http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+Dubai Racing 2,http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+Dubai Racing 3,http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+DW德国之声,https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+3HD,https://www.livedoomovie.com/02_3HD_720p/chunklist.m3u8
+5HD,https://www.livedoomovie.com/02_5HD_720p/chunklist.m3u8
+7HD,https://www.livedoomovie.com/02_7HD_720p/chunklist.m3u8
+A3 Bikini Network,https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
+ABC News 24,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+Abu Dhabi Al Oula,http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
+Abu Dhabi Drama,http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
+Abu Dhabi Sports 2,http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+Abu Dhabi Sports 3,http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+Abu Dhabi Sports 4,http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+Al Kass Sports 1,http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+Al Kass Sports 2,http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+Al Kass Sports 4,http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+Al Kass Sports 5,http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+Al Saudiya,http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
+ALTV4,https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_720p/index.m3u8
+ELSHINTA TV,http://45.126.83.51/qwr9ew/s/s10/01.m3u8
+ETBSTR1,https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-b.m3u8
+Eurosport 4K,http://a3569457550-zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw20000000/playlist.m3u8
+eurosport1,http://91.126.141.201:1935/live/eurosport1nntv/chunklist_w65928025.m3u8
+eurosport2,http://91.126.141.201:1935/live/eurosport2hdnntv/chunklist_w1420994503.m3u8
+F1 SPORTS,https://overtakefans.com/f1-live-stream/f1tv-pro-stream-web-player/master2.m3u8
+Fishing TV,http://media.fishingtv.kr:1935/mobileLIVE/_definst_/mp4:livestream.sdp/playlist.m3u8
+Fox Sports 1 Asia,https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+Fox Sports 2 Asia,https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+Fox Sports 3 Asia,https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
+FoxMovies,https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
+FoxMovies_TH,https://www.livedoomovie.com/02_FoxMoviesTH_720p/chunklist.m3u8
+FoxThai_TH,https://www.livedoomovie.com/02_FoxThai_TH_720p/chunklist.m3u8
+France 24,http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
+Francophonie,http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
+Golf HD,https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
+GOODTV1,http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+GOODTV2,http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+Gospel Truth TV (USA) Music,https://bstna.tulix.tv/live/bs_2m/index.m3u8
+Grand Lille TV,http://str81.creacast.com/grandlilletv/smil:grandlilletv.smil/chunklist_w1118883208_b1464000.m3u8
+Hipódromo de las Américas,http://wms.tecnoxia.com:1935/8158/8158/chunklist.m3u8
+HISTORY HD,https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
+KTO,https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
+La Chaine Normande,http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
+LCI,https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
+LOVE NATURE 4K UHD,http://a3569457544-zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw20000000/playlist.m3u8
+Luxe TV,http://198.16.106.62:8278/streams/d/luxetv_zero/playlist.m3u8
+m2otv,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+MCOT HD,https://www.livedoomovie.com/02_MCOTHD_720p/chunklist.m3u8
+MCOT HD,http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist.m3u8
+MLB Network,http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
+Monterrico TV,http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+MTN,http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
+MTV,http://81.30.182.82:18092/hls/live.m3u8
+MTV,http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8
+MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+MTV Block Party,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+MTV Live,http://198.16.106.62:8278/streams/d/mtvlive_zero/playlist.m3u8
+MTV Spankin' New,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+MTV WMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+MTV Yo!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+Music,https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
+MyComedy,http://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8
+NBS日韩频道농업방송,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+NHK BS 1,http://125.227.210.37:8939/VideoInput/play.ts
+NHK BS Premium,http://125.227.210.37:8940/VideoInput/play.ts
+NHK华语视界,http://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+NHK総合,http://203.162.235.41:16903
+Nick Jr,http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
+Nickelodeon,http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
+One Golf,http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+Paramount Network,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
+PPTV HD,https://www.livedoomovie.com/02_PPTVHD_720p/chunklist.m3u8
+PremierHD1,https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+PremierHD2,https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+PremierHD3,https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+PremierHD4,https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+PremierHD5,https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
+Racing.com,https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+RT Français,http://rt-france.secure.footprint.net:80/1107_2500Kb.m3u8
+ru sport tv,https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+Sky 1 Racing,https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
+Sky 2 Racing,https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+Sky News,https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
+Stadium Network,https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_2000k.m3u8
+StreamToCTV,http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
+TBC 대구(SBS 大邱),http://221.157.125.239:1935/live/psike/playlist.m3u8
+TBS,http://tbs.hscdn.com/tbstvweb/tbstv/chunklist_w1331473189.m3u8
+TBSテレビ,http://203.162.235.41:16907
+Tennis HD,https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
+TG4,http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
+THAIRATH HD,https://www.livedoomovie.com/02_THAIRATH_720p/chunklist.m3u8
+Throughbred Central,https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8
+TRUE SPORT 5,https://www.livedoomovie.com/02_sport5_480p/chunklist.m3u8
+TRUE SPORT 6,https://www.livedoomovie.com/02_sport6_480p/chunklist.m3u8
+TRUE SPORT 7,https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
+True Sport HD1,https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+True Sport HD2,https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+True Sport HD3,https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+TRUE4U,https://www.livedoomovie.com/02_TRUE4U_480p/chunklist.m3u8
+TRUEMUSI,https://www.livedoomovie.com/02_TRUEMUSIC_720p/chunklist.m3u8
+TV5 MONDE OPT 3,http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
+TV7 Colmar,http://tv7.hdr-tv.com:1935/live/tv7/livestream/playlist.m3u8
+tvo KIDS,https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
+v2beat,https://abr.de1se01.v2beat.live/playlist.m3u8
+Vià Occitanie,https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117_medium/index.m3u8
+YTN,http://125.227.210.37:8932/VideoInput/play.ts
+YTN,http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
+YTN DMB,http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
+YTN Science,http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
+Z Living,https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/mono.m3u8
+Россия 1 (Сочи),http://sochi.camera:8080/cam_255/index.m3u8?token=null
+Ria HD,http://iptv.tvmalaysia.cc:80/624850/624850/6730
+Prima HD,http://iptv.tvmalaysia.cc:80/624850/624850/6727
+Warna HD,http://iptv.tvmalaysia.cc:80/624850/624850/6740
+Citra HD (subtitle),http://iptv.tvmalaysia.cc:80/624850/624850/7267
+Boo,http://iptv.tvmalaysia.cc:80/624850/624850/8872
+Naura HD,http://iptv.tvmalaysia.cc:80/624850/624850/6724
+Oasis HD,http://iptv.tvmalaysia.cc:80/624850/624850/6725
+Aura HD,http://iptv.tvmalaysia.cc:80/624850/624850/6713
+Rania HD,http://iptv.tvmalaysia.cc:80/624850/624850/6729
+Awani HD,http://iptv.tvmalaysia.cc:80/624850/624850/6714
+Ceria HD,http://iptv.tvmalaysia.cc:80/624850/624850/6715
+Asian Food Network HD,http://iptv.tvmalaysia.cc:80/624850/624850/6693
+Al-Jazzera HD,http://iptv.tvmalaysia.cc:80/624850/624850/6694
+Adithya,http://iptv.tvmalaysia.cc:80/624850/624850/6700
+Colors Tamil,http://iptv.tvmalaysia.cc:80/624850/624850/6716
+Zee Tamil HD,http://iptv.tvmalaysia.cc:80/624850/624850/6742
+Vinmeen HD,http://iptv.tvmalaysia.cc:80/624850/624850/6739
+Vaanavil HD,http://iptv.tvmalaysia.cc:80/624850/624850/6738
+Makkal TV,http://iptv.tvmalaysia.cc:80/624850/624850/6806
+Sun TV HD,http://iptv.tvmalaysia.cc:80/624850/624850/6733
+Star Vijay HD,http://iptv.tvmalaysia.cc:80/624850/624850/6732
+Jaya Max,http://iptv.tvmalaysia.cc:80/624850/624850/6802
+Chutti TV,http://iptv.tvmalaysia.cc:80/624850/624850/6762
+Bernama News,http://iptv.tvmalaysia.cc:80/624850/624850/6750
+Colors HD,http://iptv.tvmalaysia.cc:80/624850/624850/6769
+Colors Cineplex,http://iptv.tvmalaysia.cc:80/624850/624850/6768
+Sun Music,http://iptv.tvmalaysia.cc:80/624850/624850/6831
+One HD,http://iptv.tvmalaysia.cc:80/624850/624850/6817
+TV 1,http://iptv.tvmalaysia.cc:80/624850/624850/7177
+TV 2,http://iptv.tvmalaysia.cc:80/624850/624850/7178
+TV 3,http://iptv.tvmalaysia.cc:80/624850/624850/7266
+TV 3 HD,http://iptv.tvmalaysia.cc:80/624850/624850/8750
+TV 9,http://iptv.tvmalaysia.cc:80/624850/624850/7185
+Fox Movies Premium,http://iptv.tvmalaysia.cc:80/624850/624850/8838
+Fox Action Movies,http://iptv.tvmalaysia.cc:80/624850/624850/8839
+Cinemax FHD,http://iptv.tvmalaysia.cc:80/624850/624850/7062
+HBO FHD,http://iptv.tvmalaysia.cc:80/624850/624850/7067
+HBO Hits FHD,http://iptv.tvmalaysia.cc:80/624850/624850/7068
+HBO Signature FHD,http://iptv.tvmalaysia.cc:80/624850/624850/7069
+HBO Family FHD,http://iptv.tvmalaysia.cc:80/624850/624850/7070
+Warner TV HD,http://iptv.tvmalaysia.cc:80/624850/624850/7072
+tVN movies HD,http://iptv.tvmalaysia.cc:80/624850/624850/7074
+National Geographic HD,http://iptv.tvmalaysia.cc:80/624850/624850/7075
+Nat Geo Wild HD,http://iptv.tvmalaysia.cc:80/624850/624850/7081
+Nat Geo People HD,http://iptv.tvmalaysia.cc:80/624850/624850/7080
+History FHD,http://iptv.tvmalaysia.cc:80/624850/624850/7079
+Discovery Channel HD,http://iptv.tvmalaysia.cc:80/624850/624850/7078
+Animal Planet,http://iptv.tvmalaysia.cc:80/624850/624850/7077
+HGTV,http://iptv.tvmalaysia.cc:80/624850/624850/7076
+Era FM,http://iptv.tvmalaysia.cc:80/624850/624850/7169
+AXN,http://iptv.tvmalaysia.cc:80/624850/624850/7223
+Fox Crime,http://iptv.tvmalaysia.cc:80/624850/624850/7225
+Fox Life,http://iptv.tvmalaysia.cc:80/624850/624850/7228
+KiX,http://iptv.tvmalaysia.cc:80/624850/624850/7229
+Asia Food Network,http://iptv.tvmalaysia.cc:80/624850/624850/8857
+Crime & Investigation,http://iptv.tvmalaysia.cc:80/624850/624850/8858
+Blue Ant Entertainment,http://iptv.tvmalaysia.cc:80/624850/624850/8860
+Blue Ant Extreme,http://iptv.tvmalaysia.cc:80/624850/624850/8861
+Sony Gem,http://iptv.tvmalaysia.cc:80/624850/624850/8864
+TvN,http://iptv.tvmalaysia.cc:80/624850/624850/8865
+Disney Channel HD,http://iptv.tvmalaysia.cc:80/624850/624850/7196
+Didik TV (NTV 7),http://iptv.tvmalaysia.cc:80/624850/624850/8922
+Discovery Asia.,http://iptv.tvmalaysia.cc:80/624850/624850/8856
+மக்கள் தொலைக்காட்சி,http://iptv.tvmalaysia.cc:80/624850/624850/8995
+SUPERSPORT HD,http://iptv.tvmalaysia.cc:80/624850/624850/6708
+SUPERSPORT 2 HD,http://iptv.tvmalaysia.cc:80/624850/624850/6710
+SUPERSPORT 3 HD,http://iptv.tvmalaysia.cc:80/624850/624850/6711
+SUPERSPORT 4 HD,http://iptv.tvmalaysia.cc:80/624850/624850/6712
+FOX Sports HD,http://iptv.tvmalaysia.cc:80/624850/624850/6793
+FOX Sports 2 HD,http://iptv.tvmalaysia.cc:80/624850/624850/6791
+FOX Sports 3 HD,http://iptv.tvmalaysia.cc:80/624850/624850/6792
+Cricket,http://iptv.tvmalaysia.cc:80/624850/624850/6717
+beIN Sports,http://iptv.tvmalaysia.cc:80/624850/624850/6749
+beIN MAX,http://iptv.tvmalaysia.cc:80/624850/624850/6748
+TSN 1,http://iptv.tvmalaysia.cc:80/624850/624850/8923
+TSN 2,http://iptv.tvmalaysia.cc:80/624850/624850/8924
+DSTV: SuperSport Grandstand,http://iptv.tvmalaysia.cc:80/624850/624850/6572
+DSTV: SuperSport PSL,http://iptv.tvmalaysia.cc:80/624850/624850/6573
+DSTV: SuperSport Premier League,http://iptv.tvmalaysia.cc:80/624850/624850/6574
+DSTV: SuperSport La Liga,http://iptv.tvmalaysia.cc:80/624850/624850/6575
+BT Sport 1,http://iptv.tvmalaysia.cc:80/624850/624850/6610
+UK: Sky Sports News,http://iptv.tvmalaysia.cc:80/624850/624850/6614
+UK: Sky Sports F1,http://iptv.tvmalaysia.cc:80/624850/624850/6617
+UK: Sky Sports Golf,http://iptv.tvmalaysia.cc:80/624850/624850/6618
+MUTV,http://iptv.tvmalaysia.cc:80/624850/624850/7236
+LFC TV,http://iptv.tvmalaysia.cc:80/624850/624850/7237
+The Thousand Faces of Dunjia (2017),http://iptv.tvmalaysia.cc:80/movie/624850/624850/325.mp4
+Project Power (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/327.mp4
+The New Mutants (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/328.mp4
+Chalte Chalte (2018),http://iptv.tvmalaysia.cc:80/movie/624850/624850/329.mp4
+Neighbors 2: Sorority Rising (2016),http://iptv.tvmalaysia.cc:80/movie/624850/624850/330.mp4
+Manap Karaoke (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/331.mp4
+Man santan ( 2020 ),http://iptv.tvmalaysia.cc:80/movie/624850/624850/337.mp4
+-Malay Audio- The SpongeBob Movie: Sponge on the Run (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/338.mp4
+Bigfoot Family (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/339.mp4
+Death of Me (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/340.mp4
+Drag Me to Hell (2009),http://iptv.tvmalaysia.cc:80/movie/624850/624850/341.mp4
+Flypaper (2011),http://iptv.tvmalaysia.cc:80/movie/624850/624850/342.mp4
+Meet Joe Black (1998),http://iptv.tvmalaysia.cc:80/movie/624850/624850/343.mp4
+Pet (2016),http://iptv.tvmalaysia.cc:80/movie/624850/624850/344.mp4
+Seized (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/345.mp4
+Unhinged (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/346.mp4
+Aku Kaya The Movie (2003),http://iptv.tvmalaysia.cc:80/movie/624850/624850/423.mp4
+Code of Thieves (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/425.mp4
+Cun! (2011),http://iptv.tvmalaysia.cc:80/movie/624850/624850/426.mp4
+Raatchasi (2019),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6564.mp4
+Bhoothnath (2008),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6567.mp4
+Bhoothnath Returns (2014),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6568.mp4
+Triggered (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6643.mp4
+Antidote (2018),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6644.mp4
+Clouds (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6645.mp4
+Cuties (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6646.mp4
+Holidate (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6647.mp4
+Phineas and Ferb The Movie: Candace Against the Universe (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6648.mp4
+Possessor Uncut (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6649.mp4
+Ravers (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6650.mp4
+Rebecca (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6651.mp4
+Relic (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6652.mp4
+Rogue City (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6653.mp4
+Sputnik (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6654.mp4
+The Call (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6655.mp4
+Words on Bathroom Walls (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6656.mp4
+A Babysitter's Guide to Monster Hunting (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6664.mp4
+A Night of Horror: Nightmare Radio (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6665.mp4
+Ben 10 Versus the Universe: The Movie (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6666.mkv
+BLACKPINK: Light Up the Sky (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6667.mp4
+Broil (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6668.mp4
+Clownery (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6669.mp4
+Come Away (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6670.mp4
+Cut Throat City (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6671.mp4
+Fishbowl (2018),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6672.mp4
+Ginny Weds Sunny (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6673.mp4
+Kick (2014),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6675.mp4
+Love and Monsters (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6676.mp4
+Nobody Sleeps in the Woods Tonight (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6677.mp4
+Nocturne (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6678.mp4
+Over the Moon (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6679.mp4
+Pasal Kau!,http://iptv.tvmalaysia.cc:80/movie/624850/624850/6681.mkv
+Psy 3: W imię zasad (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6682.mp4
+Robert the Bruce (2019),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6683.mp4
+Save Yourselves! (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6684.mp4
+The Mortuary Collection (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6685.mp4
+The Other Side of Hope (2017),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6686.mp4
+The Secrets We Keep (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6687.mp4
+The Trial of the Chicago 7 (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6688.mp4
+The Wolf of Snow Hollow (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6689.mp4
+Villain (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6690.mp4
+Gemerlapan (1997),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6980.mp4
+Hilang Akal (2018),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6981.mp4
+Hingga Hujung Nyawa (2004),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6982.mp4
+Mon dan Jin Pakai Toncit (2013),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6983.mp4
+Isteriku CEO ( 2018 ),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6984.mp4
+Jebat (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6985.mkv
+Jejaka Terhangat (2015),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6986.mp4
+Kalut Nak Raya (2017),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6987.mp4
+7 Perhentian (2004),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6988.mp4
+15 Puasa (2004),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6989.mp4
+16 Puasa (2017),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6990.mp4
+17 Puasa (2019),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6991.mp4
+Anak Perjanjian Syaitan (2019),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6993.mkv
+Baik Punya Cilok (2005),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6994.mp4
+Banglasia 2.0 (2019),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6995.mp4
+Biar Betul (2004),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6996.mp4
+Budok Kuba (2019),http://iptv.tvmalaysia.cc:80/movie/624850/624850/6999.mp4
+Cinta Paling Agung (2015),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7000.mkv
+Cuci (2009),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7001.mp4
+Gadoh (2009),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7003.mp4
+Kimchi Untuk Awak (2017),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7004.mp4
+Magika (2010),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7005.mp4
+Paku Pontianak (2013),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7007.mp4
+Pisau Cukur (2009),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7008.mp4
+Putera (1994),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7009.mp4
+Saka Zain Jusoh (2019),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7010.mp4
+Sayang Suria (2015),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7011.mp4
+Sekali Lagi (2011),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7012.mp4
+Simfoni Duniaku (1994),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7013.mp4
+Sinaran (2015),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7014.mp4
+Surga Yang Tak Dirindukan 2 (2017),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7015.mp4
+Tempatkan Dia Di Syurga ( 2010 ),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7016.mp4
+V3: Samseng Jalanan (2010),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7017.mp4
+Fatman (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7018.mp4
+Kelaster (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7020.mkv
+Run (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7021.mp4
+The Last Warrior (2017),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7023.mp4
+Doraemon: Nobita and the Winged Braves (2001),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7025.mp4
+Doraemon The Movie - Nobita Dan Kerajaan Robot,http://iptv.tvmalaysia.cc:80/movie/624850/624850/7026.mp4
+Doraemon: Nobita and the Windmasters (2003),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7027.mp4
+Doraemon: Nobita in the Wan-Nyan Spacetime Odyssey (2004),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7085.mp4
+Doraemon: Nobita's Dinosaur (2006),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7086.mp4
+Doraemon: Nobita The Great New Adventure Into The Underworld,http://iptv.tvmalaysia.cc:80/movie/624850/624850/7087.mp4
+Doraemon: Nobita and the Steel Troops (1986),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7088.mp4
+Doraemon: Nobita and the Island of Miracles ~Animal Adventure~ (2012),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7089.mp4
+Mama Tak Akan Sama,http://iptv.tvmalaysia.cc:80/movie/624850/624850/7090.mp4
+Bini Aku Dari Neraka Raya (2018),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7093.mp4
+Bukan Cerita Cinta Kita (2018),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7094.mp4
+Cinta Sticky Note (2018),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7095.mp4
+Cruise Cinta (2018),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7096.mp4
+Hantu Rumah Sakit Jiwa (2018),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7097.mp4
+Iman Ke Syurga (2018),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7099.mp4
+Istanbul Aku Datang! (2012),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7100.mp4
+Kerantung (2018),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7101.mp4
+Khalifahkan Aku,http://iptv.tvmalaysia.cc:80/movie/624850/624850/7102.mp4
+KL Special Force (2018),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7103.mp4
+Lamaran Perfect (2018),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7104.mp4
+PONTIANAK DAN DOT DOT (2016),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7110.mp4
+Alien Invasion (2018),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7119.mp4
+Cagefighter: Worlds Collide (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7122.mp4
+Don't Listen (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7125.mp4
+Freaky (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7127.mp4
+Hachi: A Dog's Tale (2009),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7128.mp4
+Jingle Jangle: A Christmas Journey (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7131.mp4
+Inc. (2001),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7134.mp4
+Munich (2005),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7135.mp4
+Upin & Ipin: Keris Siamang Tunggal (2019),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7141.mkv
+Active Shooter (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7268.mp4
+Black Beauty (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7270.mp4
+Chick Fight (2021),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7271.mp4
+Come Play (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7272.mp4
+It Cuts Deep (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7273.mp4
+A Deadly Place (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7274.mp4
+Echo Boomers (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7275.mp4
+Jiu Jitsu (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7276.mp4
+Last Three Days (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7277.mp4
+Loco (2020),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7278.mp4
+Pahuna: The Little Visitors (2017),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7279.mp4
+Playhouse (2021),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7280.mp4
+The Box (2009),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7281.mp4
+The Boy in the Striped Pyjamas (2008),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7282.mp4
+Transcendence (2014),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7298.mp4
+Turbo (2013),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7299.mp4
+What Happened to Mr Cha? (2021),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7301.mp4
+Dalil Cinta ( 2010 ),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7002.mp4
+Laskar Pelangi 2: Edensor (2013),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7105.mp4
+10 Tips Tipu Bini (2021),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7308.mkv
+Zack Snyder's Justice League (2021),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7309.mp4
+PK (2014),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7310.mp4
+The BFG (2016),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7311.mp4
+The Ten Commandments (2007),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7312.mp4
+Veer-Zaara (2004),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7317.mp4
+Weathering with You (2019),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7323.mp4
+Wreck-It Ralph (2012),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7327.mp4
+Godzilla vs. Kong (2021),http://iptv.tvmalaysia.cc:80/movie/624850/624850/7332.mp4
+18 Puasa Di Kampung Pisang,http://iptv.tvmalaysia.cc:80/movie/624850/624850/7334.mkv
+天映电影,http://210.210.155.35/qwr9ew/s/s33/01.m3u8
 AXN HD,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
-AXN,http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
-SPORT 2,http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 SPORT 2,http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
 SPORT 4,http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
-Arena,http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
-Awani,http://185.180.221.194:8278/streams/d/Awani/playlist.m3u8
-Warna,http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
-Ria,http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
-Prima,http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
-Oasis,http://185.180.221.194:8278/streams/d/Oasis/playlist.m3u8
-Citra,http://185.180.221.194:8278/streams/d/Citra/playlist.m3u8
-AEC ᴴᴰ,http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
-WWE摔角,http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
 CNN International (720p),http://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 SKYNEWs,http://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
-TV1,http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
-TV2,http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
-TV3,http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
-NTV7,http://185.180.221.194:8278/streams/d/NTV7/playlist.m3u8
-8TV,http://185.180.221.194:8278/streams/d/TV8/playlist.m3u8
-TV9,http://185.180.221.194:8278/streams/d/TV9/playlist.m3u8
-TLC,http://185.180.221.194:8278/streams/d/Tlc/playlist.m3u8
 Fox Movies HD,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
-Fox Action Movies,http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
 Fox HD,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
-Fox Sports 1,http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
-Fox Sports 2,http://185.180.221.194:8278/streams/d/Foxsports2/playlist.m3u8
-Fox Sports 3,http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
-Fox Movies,http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
-Fox Life,http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
-Fox Family Movies,http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
-Fox HD,http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
-Fox Crime,http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
-AFN,http://185.180.221.194:8278/streams/d/Afc/playlist.m3u8
-HITS,http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
-HITS MOVIES,http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
-TVN50,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
-TVN185,http://185.180.221.194:8278/streams/d/TVN/playlist.m3u8
-TVN Movie185,http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
 SBS Star,http://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8
-HBO50,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 HBO2,http://gratismkctv.net/film/hbo.m3u8
-NHK,http://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-Sony One50,http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
-Sony ONE185,http://185.180.221.194:8278/streams/d/One/playlist.m3u8
-KBS World50,http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 Channel V,http://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 Channel V,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
-HBO,http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
-HBO HiTS,http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
-HBO Signature,http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
-BBC Earth,http://185.180.221.194:8278/streams/d/Bbcearth/playlist.m3u8
-NAT GEO,http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
-DISNEY TV,http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
-Animal Planet185,http://185.180.221.194:8278/streams/d/AnimalPlanet/playlist.m3u8
-ANIMAX,http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
 Ria HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6730
 Prima HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6727
 Warna HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6740
@@ -386,22 +829,12 @@ Rania HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6729
 Awani HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6714
 Ceria HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6715
 Al-Jazzera HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6694
-Animax,http://iptv.tvmalaysia.cc:80/penang172/penang172/6696
-AEC HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6701
 Colors Tamil,http://iptv.tvmalaysia.cc:80/penang172/penang172/6716
 Zee Tamil HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6742
 Vinmeen HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6739
 Vaanavil HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6738
 Makkal TV,http://iptv.tvmalaysia.cc:80/penang172/penang172/6806
 Star Vijay HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6732
-iQIYI HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6723
-Hello,http://iptv.tvmalaysia.cc:80/penang172/penang172/6721
-Oh!K HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6726
-Shuang Xing HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6731
-Xiao Tai Yang HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6741
-AXN HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6743
-CNN HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6767
-Sony TV,http://iptv.tvmalaysia.cc:80/penang172/penang172/6829
 Sky News HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6826
 Nick Jr,http://iptv.tvmalaysia.cc:80/penang172/penang172/6813
 TV 1,http://iptv.tvmalaysia.cc:80/penang172/penang172/7177
@@ -420,10 +853,8 @@ History FHD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7079
 Discovery Channel HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7078
 HGTV,http://iptv.tvmalaysia.cc:80/penang172/penang172/7076
 Thrill,http://iptv.tvmalaysia.cc:80/penang172/penang172/7220
-FOX,http://iptv.tvmalaysia.cc:80/penang172/penang172/7227
 Fox Life,http://iptv.tvmalaysia.cc:80/penang172/penang172/7228
 Celestial Classic Movies.,http://iptv.tvmalaysia.cc:80/penang172/penang172/7222
-BBC Earth,http://iptv.tvmalaysia.cc:80/penang172/penang172/7233
 Arena HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6707
 SUPERSPORT HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6708
 SUPERSPORT 2 HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6710
@@ -589,31 +1020,15 @@ The Ten Commandments (2007),http://iptv.tvmalaysia.cc:80/movie/penang172/penang1
 Veer-Zaara (2004),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7317.mp4
 Weathering with You (2019),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7323.mp4
 Animax Japan,http://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
+淘电影[高清],http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 CCTV13HD,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
 CCTV13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
-C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/01.m3u8
-NHK,http://203.162.235.41:16903
-BOO,http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-Citra,http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 Awani,https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
-CinemaWorld,http://210.210.155.35/uq2663/h/h04/index.m3u8
-KIX,http://210.210.155.35/uq2663/h/h07/01.m3u8
 TV Ikim,http://edge.vediostream.com/abr/tvikim/live/tvikim_360p/playlist.m3u8
 TV Ikim,http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
 TV Ikim,http://edge.vediostream.com/abr/tvikim/live/tvikim_source/playlist.m3u8
 ANIPLUS,http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/index.m3u8
-Beam TV,https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/playlist.m3u8
-Inquirer 990 Television,http://59c3ec70cfde0.streamlock.net/channel_7/channel7/chunklist.m3u8
-Life TV,http://59c3ec70cfde0.streamlock.net/channel_6/channel6/chunklist.m3u8
-Life TV Asia,https://d3cbe0gidjd4k2.cloudfront.net/channel_6/channel6/playlist.m3u8
-One Sports,http://stream2.tv5.com.ph:1935/live3/smil:onesports.smil/playlist.m3u8
-Pilipinas HD,http://59c3ec70cfde0.streamlock.net/channel_5/channel5/chunklist.m3u8
-Shop TV,https://d3cbe0gidjd4k2.cloudfront.net/channel_1/channel1/playlist.m3u8
-TV Shop Philippines,http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
-TV5,http://stream2.tv5.com.ph:1935/live2/smil:tv5stream.smil/playlist.m3u8
 Bloomberg TV Asia,https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
-Bloomberg TV Asia,https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8
-Bloomberg TV Asia Live Event,https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_event.m3u8
 Celestial Movies,http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 CNA,http://210.210.155.35/uq2663/h/h29/index.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
@@ -621,23 +1036,18 @@ CNN-Indo,http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822
 CNN-Indo,http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b280000_sleng.m3u8
 iNews-Indo,https://www.dropbox.com/s/dl/9i6gugwhuhhlxtm/mkctv_inews.m3u8
 B1 News-Indo,https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-Thai PBS,http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
 Sky News-Aus,https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-ABC News-Aus,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 ABC News-Aus,https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 CGTN China,https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 CGTN Spain,http://livees.cgtn.com/1000e/prog_index.m3u8
-CNC News,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 Arirang-Korea,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 KCTV-Korea,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 CBC News-Canada,http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
 DW News-Germany,https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
-DW News-Germany,https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 France 24,http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 Russia Today,http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
 Sky News-UK,https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
 BLOOMBERG TV-US,https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
-BLOOMBERG TV-US,https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 Newsmax-US,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
 Newsmax-US,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 CBS News-US,http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_500_av-p.m3u8?sd=10&rebase=on
@@ -650,133 +1060,21 @@ Wairarapa-TV NZ,http://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8
 Telesur Venezuela,https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?checkedby:iptvcat.com
 ARENA,http://iptvtree.net:8080/11703/688cbf1a/157485?play_token=ovRrQhELXI
+新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+新马 Ⅰ 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
+越南ktv,http://210.245.20.94/hls/ktv1.m3u8
+越南PTP hd,http://113.161.4.48:8080/phuyen/tv.m3u8
+越南和平HBTV,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
+阳光卫视,http://stream.chinasuntv.com/680k/mid_video_index.m3u8
 ufc2,https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 REUN,https://livefta.malimarcdn.com/ftaedge00/houngfa.sdp/chunklist.m3u8
-Sky Folk TV,http://eu.live.skyfolk.mk/live.m3u8
-THAIPBS-3,http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
 TV 5,http://hls.cdn.ua/tv5.zp.ua_live/_definst_:tv5/playlist.m3u8
 TV5 Monde,http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_6.m3u8
 TV7+ (Ð¥Ð¼ÐµÐ»ÑŒÐ½),http://tv7plus.com/hls/tv7_site.m3u8
-3HD,https://www.livedoomovie.com/02_3HD_720p/chunklist.m3u8
-5HD,https://www.livedoomovie.com/02_5HD_720p/chunklist.m3u8
-7HD,https://www.livedoomovie.com/02_7HD_720p/chunklist.m3u8
-A3 Bikini Network,https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
-Abu Dhabi Al Oula,http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
-Abu Dhabi Drama,http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
-Abu Dhabi Sports 2,http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
-Abu Dhabi Sports 3,http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
-Abu Dhabi Sports 4,http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
-Al Kass Sports 1,http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
-Al Kass Sports 2,http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
-Al Kass Sports 4,http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
-Al Kass Sports 5,http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
-Al Saudiya,http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
-ALTV4,https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_720p/index.m3u8
-Animal Planet,https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
-Arirang TV,http://125.227.210.37:8933/VideoInput/play.ts
-Asian Food Network,https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
-AXN HD,https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
-Baby First,https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
-Bahrain Sport 1,http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1558393494
-Bahrain Sport 1,https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8
-Bahrain Sport 1,http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1548640033
-Bahrain Sport 2,https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports%202_all/playlist.m3u8
-Battery Pop,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
-BBC Earth,https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
-beIN Sport News,https://dl.dropbox.com/s/a16m1s4w7ctosro/Bein%20Sports%20News.m3u8?dl=1
-Boomerang,https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
-BT SPORT 1 HD,https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-Captital OTB Betting,https://d2up1hmow19bcd.cloudfront.net/livecf/liveracing/playlist.m3u8
-CGTN Français,https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
-Channel [V],https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
-CINEMAX,https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
-CMC (USA),https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
-CombatGo,https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8
-COMPANY TV HD Music,http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
-Da Vinci,https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
-DBM,https://edge5.vedge.infomaniak.com/livecast/ik:dbmtv/manifest.m3u8
-Discovery,https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
-Discovery Asia,https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
-djing,https://www.djing.com/tv/underground.m3u8
-du bai sports 1,http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-du bai sports 2 hd,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-du bai sports 3,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-Dubai Racing,http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
-Dubai Racing 2,http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
-Dubai Racing 3,http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
-ETBSTR1,https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-b.m3u8
-Eurosport 4K,http://a3569457550-zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw20000000/playlist.m3u8
-eurosport1,http://91.126.141.201:1935/live/eurosport1nntv/chunklist_w65928025.m3u8
-eurosport2,http://91.126.141.201:1935/live/eurosport2hdnntv/chunklist_w1420994503.m3u8
-Fox Sport1,https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
-Fox Sport3,https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
-FoxMovies,https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
-FoxMovies_TH,https://www.livedoomovie.com/02_FoxMoviesTH_720p/chunklist.m3u8
-FoxThai_TH,https://www.livedoomovie.com/02_FoxThai_TH_720p/chunklist.m3u8
-Francophonie,http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
-GOODTV1,http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
-GOODTV2,http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
-Gospel Truth TV (USA) Music,https://bstna.tulix.tv/live/bs_2m/index.m3u8
-Grand Lille TV,http://str81.creacast.com/grandlilletv/smil:grandlilletv.smil/chunklist_w1118883208_b1464000.m3u8
-HBO,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-HBO Family,https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-HBO Hits,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-HBO Signature,https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-Hipódromo de las Américas,http://wms.tecnoxia.com:1935/8158/8158/chunklist.m3u8
 Jasmin TV,http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 KBS World,http://125.227.210.37:8935/VideoInput/play.ts
 KIX,http://45.126.83.51/uq2663/h/h07/01.m3u8
-KTO,https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
-LCI,https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
-LOVE NATURE 4K UHD,http://a3569457544-zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw20000000/playlist.m3u8
-m2otv,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-MCOT HD,https://www.livedoomovie.com/02_MCOTHD_720p/chunklist.m3u8
-MCOT HD,http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist.m3u8
-MLB Network,http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
-MTV,http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8
-Music,https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
-MyComedy,http://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8
-NHK BS Premium,http://125.227.210.37:8940/VideoInput/play.ts
-Paramount Network,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
-PPTV HD,https://www.livedoomovie.com/02_PPTVHD_720p/chunklist.m3u8
-PremierHD1,https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
-PremierHD2,https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
-PremierHD3,https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
-PremierHD4,https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
-PremierHD5,https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
-Racing.com,https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
-Red by HBO,https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
-RT Français,http://rt-france.secure.footprint.net:80/1107_2500Kb.m3u8
-ru sport tv,https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-Sky 1 Racing,https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
-Sky 2 Racing,https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
-Sky News,https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
-skyfolk Music,http://www.skyfolk.mk/live.m3u8
-Stadium Network,https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_2000k.m3u8
-StreamToCTV,http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
-TF1 Séries Films,https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
-TFX,https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
-TG4,http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
-Thai PBS 3,http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-THAIRATH HD,https://www.livedoomovie.com/02_THAIRATH_720p/chunklist.m3u8
-Throughbred Central,https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8
 TMA Caraïbes,http://hls.tmacaraibes.com/live/index.m3u8
-TMC,https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
-TRUE SPORT 5,https://www.livedoomovie.com/02_sport5_480p/chunklist.m3u8
-TRUE SPORT 6,https://www.livedoomovie.com/02_sport6_480p/chunklist.m3u8
-TRUE SPORT 7,https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
-True Sport HD1,https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
-True Sport HD2,https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
-True Sport HD3,https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
-TRUE4U,https://www.livedoomovie.com/02_TRUE4U_480p/chunklist.m3u8
-TRUEMUSI,https://www.livedoomovie.com/02_TRUEMUSIC_720p/chunklist.m3u8
-TV7 Colmar,http://tv7.hdr-tv.com:1935/live/tv7/livestream/playlist.m3u8
-tvo KIDS,https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
-v2beat,https://abr.de1se01.v2beat.live/playlist.m3u8
-Vià Occitanie,https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117_medium/index.m3u8
-Weather Channel,https://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-b.m3u8?sd=10&rebase=on
-YTN,http://125.227.210.37:8932/VideoInput/play.ts
-Z Living,https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/mono.m3u8
 INDIA,http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 7S Music,http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 AajTak HD,https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
@@ -786,7 +1084,6 @@ ACV Utsav,https://acv.asianetmobiletvplus.com/webstreams/021c9292219a98f899a7b74
 ACV Utsav Plus,https://acv.asianetmobiletvplus.com/webstreams/7eb4dc1f3240c8eb776d41b95bd1d197.smil/playlist.m3u8
 Akaal TV,http://akaal.zecast.net/akaal-live/smil:akaaltv.smil/playlist.m3u8
 Amrita TV,http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
-Anjan,https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/chunklist_w1499288356_b1580000.m3u8
 Asianet News,http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
 Assam Talks,http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
 AVT KHYBER,https://dcunilive38-lh.akamaihd.net/i/dclive_1@692670/index_150_av-p.m3u8?checkedby:iptvcat.com
@@ -803,18 +1100,15 @@ DD National,http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/i
 DD Sports,http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 Desi Channel,http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
 Desi Plus,http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
-DW NEWS HD,https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8
 Eawaz TV (CA),https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/chunks.m3u8?checkedby:iptvcat.com
 Eetlive,https://live.streamjo.com/eetlive/eettv.m3u8
 ET Now,http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
 Eye 95 America (US),http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8?checkedby:iptvcat.com
-FastWay,http://fastway.ddns.net:6421/fastway/live10/index.m3u8?
 Flowers TV,http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
 Gaunda Punjab TV,http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
 Global Punjab,https://wowzaprod207-i.akamaihd.net/hls/live/827936/2eba5b83/playlist.m3u8
 Hiru TV,http://cdncities.com/8012/8012/playlist.m3u8
 Hulchul TV,http://cdn12.henico.net:8080/live/jbani/index.m3u8
-India News,https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8
 India Today,https://feeds.intoday.in/hltapps/api/master.m3u8
 India TV,https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
 Jaihind TV,http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
@@ -840,7 +1134,6 @@ MK TV,http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
 Nandighosha Tv,https://live.mycast.in/ngtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 Naxtra News,http://wearelive.livebox.co.in/naxatratvhls/Naxatratv.m3u8
 NDTV 24x7,https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-News18 Hindi,https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_4_av-b.m3u8
 OTV,https://cdn.smartstream.video/smartstream-us/otvnewmbr/otvnewmbr.smil/playlist.m3u8
 Peace TV Bangla,https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8
 Pramaya News7,https://live.mycast.in/encode/ee0c5a36ff5a7083ee044991974ad3ba.sdp/playlist.m3u8
@@ -858,7 +1151,6 @@ Shemaroo Kids,https://livechannel.shemaroome.com/linearplayout/kids-linear-chann
 Shubhsandesh,http://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
 Steelbird Music,http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
 Tamil Vision,http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
-TV9 Telugu,http://103.199.161.254/Content/tv9telungu/Live/Channel(TV9Telungu)/index.m3u8
 Twenty Four News,http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
 All Sports,http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/playlist.m3u8
 Arryadia,https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
@@ -866,6 +1158,7 @@ Arryadia,http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
 ATG,https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 Bek Sports East,https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 Bek Sports West,https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+CCTV中国中央电视台-5+ 体育赛事,http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
 Cycle World,https://a.jsrdn.com/broadcast/3e5befe5dd/+0000/high/c.m3u8
 DD Sports,http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
 Edge Sports,https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
@@ -937,8 +1230,6 @@ Lao Champa TV 1,https://livefta.malimarcdn.com/ftaedge00/laochampa1.sdp/chunklis
 Lao Champa TV 2,https://livefta.malimarcdn.com/ftaedge00/laochampa2.stream/chunklist.m3u8
 Lao Champa TV 3,https://livefta.malimarcdn.com/ftaedge00/laochampa3.stream/chunklist.m3u8
 bTV News,http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
-Thai PBS (Opt-1),http://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
-Thai PBS (Opt-2),http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
 Thairath TV,http://live.thairath.co.th/trtv2/playlist.m3u8
 White Channel,http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 GSTV,https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
@@ -951,7 +1242,6 @@ UChannel TV (US),http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadc
 HRT 1,http://live1.hrtonline.cn:1935/live/live101/500K/tzwj_video.m3u8
 HRT 2,http://live1.hrtonline.cn:1935/live/live102/500K/tzwj_video.m3u8
 HRT 3,http://live1.hrtonline.cn:1935/live/live100/500K/tzwj_video.m3u8
-Apsara TV,http://203.176.130.123:8989/live/apsaratv_480k.stream/playlist.m3u8
 Bayon TV,http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8
 CTV 9,http://203.176.130.123:8989/live/ctv9_480k.stream/playlist.m3u8
 PNN,http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8
@@ -966,10 +1256,7 @@ VBS TV 57.6 (US) (Opt-2),http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunkli
 VBS TV 57.6 (US) (Opt-3),http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w530158239_b1228800.m3u8
 ngrp,http://123.111.139.103:1935/live/ngrp:hmall.stream_mobile/playlist.m3u8
 Shop Channel,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-TBSテレビ,http://203.162.235.41:16907
 Tv Ri,http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
-TV2,http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
-TV8,http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 TVWorkNet,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 ANTV HD,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
@@ -979,11 +1266,9 @@ Cà Mau TV,http://tv.ctvcamau.vn/live/tv/tv.m3u8
 HBTV,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
 KienGiangTV,http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 KienGiangTV1,http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
-LA34 - Long An,http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8
 Quốc Hội,http://113.164.225.140:1935/live/quochoitvlive.stream_720p/playlist.m3u8
 Tien Giang,http://thtg.vn:8001/thtg.m3u8
 VITV,http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-Việt Mỹ TV,http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
 INDIA,#genre#
 5aab TV,http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 7S Music,http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8

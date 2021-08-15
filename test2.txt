@@ -694,3 +694,7 @@ X特遣队全员集结,https://sod.bunediy.com/20210806/zhCJwweF/index.m3u8
 麦路人,https://vod.bunediy.com/20201016/eZvsUK6M/index.m3u8
 失恋反攻队,https://vod.bunediy.com/20210203/l3KUGh8t/index.m3u8
 无间风暴,https://vod.bunediy.com/20210523/uT4ghhN8/index.m3u8
+中国好声音,#genre#
+1,https://vod.bunediy.com/20210731/lqiiEX5G/index.m3u8
+2,https://sod.bunediy.com/20210807/Oznzac7O/index.m3u8
+3,https://sod.bunediy.com/20210814/jdHcyP6r/index.m3u8

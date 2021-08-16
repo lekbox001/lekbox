@@ -82,112 +82,6 @@ NTV7b,http://50.7.161.82:8278/streams/d/ntv7_pye/playlist.m3u8
 TV9b,http://50.7.161.82:8278/streams/d/tv9_pye/playlist.m3u8
 Kids TV,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
 Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
-$c_startiptv$c_end
-Ria HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6730
-Prima HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6727
-Warna HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6740
-Citra HD (subtitle),http://iptv.tvmalaysia.cc:80/penang172/penang172/7267
-Naura HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6724
-Oasis HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6725
-Aura HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6713
-Rania HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6729
-Awani HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6714
-Ceria HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6715
-Asian Food Network HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6693
-Al-Jazzera HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6694
-Adithya,http://iptv.tvmalaysia.cc:80/penang172/penang172/6700
-AOD 351 HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6702
-AOD 352 HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6703
-AOD 353 HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6704
-AOD 354 HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6705
-AOD 355 HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6706
-Colors Tamil,http://iptv.tvmalaysia.cc:80/penang172/penang172/6716
-Zee Tamil HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6742
-Vinmeen HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6739
-Vaanavil HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6738
-Makkal TV,http://iptv.tvmalaysia.cc:80/penang172/penang172/6806
-Sun TV HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6733
-Star Vijay HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6732
-Chutti TV,http://iptv.tvmalaysia.cc:80/penang172/penang172/6762
-Bernama News,http://iptv.tvmalaysia.cc:80/penang172/penang172/6750
-BollyOne HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6754
-Discovery Asia,http://iptv.tvmalaysia.cc:80/penang172/penang172/6772
-Colors HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6769
-Warner TV,http://iptv.tvmalaysia.cc:80/penang172/penang172/6848
-TV SARAWAK,http://iptv.tvmalaysia.cc:80/penang172/penang172/6846
-tvN Movies,http://iptv.tvmalaysia.cc:80/penang172/penang172/6845
-TVBS Asia HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6843
-TVB Xing He HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6842
-TVB E-News,http://iptv.tvmalaysia.cc:80/penang172/penang172/6840
-TV-AlHijrah,http://iptv.tvmalaysia.cc:80/penang172/penang172/6834
-Travel Channel HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6833
-Sun Music,http://iptv.tvmalaysia.cc:80/penang172/penang172/6831
-Sky News HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6826
-One HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6817
-Nick Jr,http://iptv.tvmalaysia.cc:80/penang172/penang172/6813
-Hits HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6800
-History HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6799
-HGTV HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6798
-HBO HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6797
-TV 1,http://iptv.tvmalaysia.cc:80/penang172/penang172/7177
-TV 2,http://iptv.tvmalaysia.cc:80/penang172/penang172/7178
-TV 3,http://iptv.tvmalaysia.cc:80/penang172/penang172/7266
-TV 3 HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/8750
-TV 9,http://iptv.tvmalaysia.cc:80/penang172/penang172/7185
-BERNAMA,http://iptv.tvmalaysia.cc:80/penang172/penang172/7190
-Fox Movies Premium,http://iptv.tvmalaysia.cc:80/penang172/penang172/8838
-Fox Action Movies,http://iptv.tvmalaysia.cc:80/penang172/penang172/8839
-HBO FHD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7067
-Cinemax FHD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7062
-HBO Hits FHD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7068
-HBO Signature FHD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7069
-HBO Family FHD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7070
-Warner TV HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7072
-tVN movies HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7074
-National Geographic HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7075
-Nat Geo Wild HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7081
-Nat Geo People HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7080
-History FHD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7079
-Discovery Channel HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7078
-Animal Planet,http://iptv.tvmalaysia.cc:80/penang172/penang172/7077
-HGTV,http://iptv.tvmalaysia.cc:80/penang172/penang172/7076
-Era FM,http://iptv.tvmalaysia.cc:80/penang172/penang172/7169
-Hitz FM,http://iptv.tvmalaysia.cc:80/penang172/penang172/7171
-Sinar FM,http://iptv.tvmalaysia.cc:80/penang172/penang172/7172
-THR GEGAR,http://iptv.tvmalaysia.cc:80/penang172/penang172/7174
-Cinema World,http://iptv.tvmalaysia.cc:80/penang172/penang172/7219
-AXN,http://iptv.tvmalaysia.cc:80/penang172/penang172/7223
-Fox Crime,http://iptv.tvmalaysia.cc:80/penang172/penang172/7225
-Fox Life,http://iptv.tvmalaysia.cc:80/penang172/penang172/7228
-Celestial Classic Movies.,http://iptv.tvmalaysia.cc:80/penang172/penang172/7222
-Celestial Movies,http://iptv.tvmalaysia.cc:80/penang172/penang172/7235
-Asia Food Network,http://iptv.tvmalaysia.cc:80/penang172/penang172/8857
-Crime & Investigation,http://iptv.tvmalaysia.cc:80/penang172/penang172/8858
-Blue Ant Entertainment,http://iptv.tvmalaysia.cc:80/penang172/penang172/8860
-Blue Ant Extreme,http://iptv.tvmalaysia.cc:80/penang172/penang172/8861
-Sony One,http://iptv.tvmalaysia.cc:80/penang172/penang172/8863
-Sony Gem,http://iptv.tvmalaysia.cc:80/penang172/penang172/8864
-TvN,http://iptv.tvmalaysia.cc:80/penang172/penang172/8865
-Disney Channel HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7196
-Arena HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6707
-SUPERSPORT HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6708
-SUPERSPORT 3 HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6711
-SUPERSPORT 4 HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6712
-FOX Sports 3 HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6792
-WWE Network,http://iptv.tvmalaysia.cc:80/penang172/penang172/6849
-DSTV: SuperSport Variety 2,http://iptv.tvmalaysia.cc:80/penang172/penang172/6578
-DSTV: SuperSport Variety 3,http://iptv.tvmalaysia.cc:80/penang172/penang172/6579
-BT Sport 1,http://iptv.tvmalaysia.cc:80/penang172/penang172/6610
-BT Sport 2,http://iptv.tvmalaysia.cc:80/penang172/penang172/6611
-BT Sport 3,http://iptv.tvmalaysia.cc:80/penang172/penang172/6612
-UK: Sky Sports News,http://iptv.tvmalaysia.cc:80/penang172/penang172/6614
-UK: Sky Sports F1,http://iptv.tvmalaysia.cc:80/penang172/penang172/6617
-UK: Sky Sports Golf,http://iptv.tvmalaysia.cc:80/penang172/penang172/6618
-UK: Sky Sports Cricket,http://iptv.tvmalaysia.cc:80/penang172/penang172/6619
-MUTV,http://iptv.tvmalaysia.cc:80/penang172/penang172/7236
-LFC TV,http://iptv.tvmalaysia.cc:80/penang172/penang172/7237
-CA: Disney Junior,http://iptv.tvmalaysia.cc:80/penang172/penang172/7197
-USA: Nickelodeon,http://iptv.tvmalaysia.cc:80/penang172/penang172/7201
 $c_startCN$c_end
 CCTV1,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225829/index.m3u8
 CCTV1,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227014/index.m3u8
@@ -835,7 +729,7 @@ $c_start灾难片$c_end
 中国机长2019,https://vod.bunediy.com/20200507/dacHXlEB/index.m3u8
 烈火英雄2019,https://vod.bunediy.com/20200506/fE01jzHV/index.m3u8
 $c_start动画片$c_end
-机器人总动员,https://b.baobuzz.com/m3u8/154741.m3u8?sign=b97a0d42d210ae850af53c946e85a4a1
+机器人总动员,https://xianguoglass.com:65/20210520/8uKKsIN4/1500kb/hls/index.m3u8
 蜜熊的夏天,https://sod.bunediy.com/20210806/WCyPa98U/index.m3u8
 美国：一部电影,https://vod.bunediy.com/20210630/5MsuY2aS/index.m3u8
 济公之降龙降世,https://sod.bunediy.com/20210810/2m4TRkCp/index.m3u8

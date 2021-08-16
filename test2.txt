@@ -729,6 +729,7 @@ X特遣队全员集结,https://sod.bunediy.com/20210806/zhCJwweF/index.m3u8
 中国机长2019,https://vod.bunediy.com/20200507/dacHXlEB/index.m3u8
 烈火英雄2019,https://vod.bunediy.com/20200506/fE01jzHV/index.m3u8
 动画片,#genre#
+俑之城,https://sod.bunediy.com/20210812/Ji1LsP2K/index.m3u8
 蜜熊的夏天,https://sod.bunediy.com/20210806/WCyPa98U/index.m3u8
 美国：一部电影,https://vod.bunediy.com/20210630/5MsuY2aS/index.m3u8
 济公之降龙降世,https://sod.bunediy.com/20210810/2m4TRkCp/index.m3u8
@@ -741,6 +742,7 @@ X特遣队全员集结,https://sod.bunediy.com/20210806/zhCJwweF/index.m3u8
 刺猬索尼克2020,https://vod.bunediy.com/20200614/I10PiEjp/index.m3u8
 大侦探皮卡丘2019,https://vod.bunediy.com/20200413/p5UVBxY2/index.m3u8
 粤语片,#genre#
+一秒拳王,https://sod.bunediy.com/20210802/jLrkchhc/index.m3u8
 感动她77次,https://vod.bunediy.com/20210616/yIqayuCV/index.m3u8
 乜代宗师,https://vod.bunediy.com/20200614/OCvmcxdM/index.m3u8
 小Q,https://vod.bunediy.com/20200506/UHhFhJW2/index.m3u8

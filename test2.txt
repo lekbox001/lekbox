@@ -473,7 +473,7 @@ FoxFamilyMovies,http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
 速度与激情3,https://vod.bunediy.com/20200502/o0W0XpNu/index.m3u8
 速度与激情4,https://vod.bunediy.com/20201123/iGZ3KNq0/index.m3u8
 速度与激情5,https://vod.bunediy.com/20200411/1LxuwQJG/index.m3u8
-速度与激情6,https://vod.bunediy.com/20200502/UkkujEjt/index.m3u8
+速度与激情6,https://txmov2.a.yximgs.com/upic/2020/05/10/13/BMjAyMDA1MTAxMzQwMjlfMTU3Njc3OTBfMjgzMTM2NDExOTNfMl8z_b_Bddfd444c521006d189bb41d19237f07d.mp4
 速度与激情7,https://vod.bunediy.com/20200411/KIyfciyV/index.m3u8
 速度与激情8,https://vod.bunediy.com/20200506/ojX8vBqa/index.m3u8
 速度与激情9,https://sod.bunediy.com/20210801/jS39LVvB/index.m3u8

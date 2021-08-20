@@ -392,88 +392,31 @@ TVBS新聞台,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
 東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8
 東森財經新聞,http://seb.sason.top/sc/dscjxw_fhd.m3u8
+AEC,http://198.16.106.62:8278/streams/d/Aec1511/playlist.m3u8
+AOD,http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
+华丽台,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
+爱奇艺,http://198.16.106.62:8278/streams/d/Qiyi1511/playlist.m3u8
 SPORT,#genre#
 Arena,http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 Sukan,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 RTM Sports,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
-SuperSport,http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
-SuperSport 2,http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
-SuperSport 3,http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
-SuperSport 4,http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
-ASSP 1,http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
-ASSP 2,http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
-ASSP 2,http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
-ASSP 3,http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
-ASSP 4,http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 香港奥运会,http://livetv.dnsfor.me/channel.9.m3u8
-有线奥运601台,https://api.leonardpark.dev/live/icable/601
-有线奥运602台,https://api.leonardpark.dev/live/icable/602
-有线奥运603台,https://api.leonardpark.dev/live/icable/603
-有线奥运604台,https://api.leonardpark.dev/live/icable/604
-有线奥运605台,https://api.leonardpark.dev/live/icable/605
 爱尔达体育 1,rtmp://59.124.75.153/sat/md021
 爱尔达体育 2,rtmp://59.124.75.153/sat/md011
 爱尔达体育 3,rtmp://59.124.75.153/sat/md051
 爱尔达体育1台,rtmp://161.202.204.248/sat/md011
-爱尔达体育1台b,rtmp://161.202.204.248/md041
 爱尔达体育2台,rtmp://161.202.204.248/sat/md021
 爱尔达体育2台b,rtmp://161.202.204.248/sat/md031
 爱尔达体育3台,rtmp://161.202.204.248/sat/md051
-AIS1,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel1/chunks.m3u8
-AIS2,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel2/chunks.m3u8
-AIS3,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel3/chunks.m3u8
-AIS4,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel4/chunks.m3u8
-AIS5,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel5/chunks.m3u8
-AIS6,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel6/chunks.m3u8
-AIS7,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel7/chunks.m3u8
-AIS8,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel8/chunks.m3u8
-AIS9,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel9/chunks.m3u8
-AIS10,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel10/chunks.m3u8
-AIS11,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel11/chunks.m3u8
-AIS12,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel12/chunks.m3u8
-AIS13,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel13/chunks.m3u8
-AIS14,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel14/chunks.m3u8
-AIS15,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel15/chunks.m3u8
-AIS16,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel16/chunks.m3u8
 NBA,https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 CRICKET,http://50.7.161.82:8278/streams/d/astrocricket_pye/playlist.m3u8
-CCTV奧運,http://111.20.105.60:6060/yinhe/2/ch00000090990000001010/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 五星體育+重,http://112.25.48.11/live/program/live/ssty/4000000/mnf.m3u8
-CCTV-5體育,http://livetv.dnsfor.me:80/channel.17.m3u8
-CCTV5,http://111.20.105.60:6060/yinhe/2/ch00000090990000001010/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV5+11,http://111.20.105.60:6060/yinhe/2/ch00000090990000001008/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV5b,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-CCTV5+13,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
-CCTV5+14,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
-CCTV5+15,http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
 CCTV5c,http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
 CCTV5d,http://39.135.32.24:6610/000000001000/1000000001000004794/index.m3u8?i
-CCTV5e,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
-CCTV5+18,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
-CCTV5+19,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
-北京冬奥纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
-五星体育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
-新视觉,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
 超级体育ᴴᴰ,http://39.134.155.137/PLTV/88888888/224/3221225653/index.m3u8
 超级体育,http://39.134.155.153/PLTV/88888888/224/3221225576/index.m3u8
-体育赛事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226803/index.m3u8
-精彩体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226010/index.m3u8
-咪咕视频·PP体育1,http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
-百事通体育 1080,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226599/index.m3u8
-Star Sports,rtmp://58.200.131.2:1935/livetv/starsports
-ELEVEN2,http://198.16.106.62:8278/streams/d/luxetv_zero/playlist.m3u8
-SPORT 2,http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
-SPORT 2b,http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
-SPORT 4,http://159.192.73.198:1072/astro4
-SPORT 4c,http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 NBA HD,https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 NBA TV,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/160
-纬来体育台,http://198.16.106.62:8278/streams/d/videolandsport_zero/playlist.m3u8#p2p://fccsovh.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts#p2p://fccseuro.pvbox.live:18912/5c2dd76e00049e335bba26bf05a87895.ts#p2p://fccseuro.pvbox.live:18912/5c7249e60007ce3b1d5832543a7916ad.ts#p2p://fccseuro.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts
-FS1cdn,https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-FS2cdn,https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-FS3cdn,https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
-FS3cdn,https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
-RTM Sports HD,http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
 RTM Sports HD2,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 电影系列,#genre#
 Discovery Asia,vjms://14.102.154.164:8500/live/cid=440

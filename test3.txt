@@ -706,7 +706,6 @@ $c_start动作片$c_end
 人之怒,https://vod.bunediy.com/20210525/OF39UXjP/index.m3u8
 漠北追击,https://vod.bunediy.com/20210624/tOnad2Sz/index.m3u8
 $c_start科幻片$c_end
-2067,https://xianguoglass.com:65/20210719/Zq78JM6l/index.m3u8
 变种狂蜥,https://vod.bunediy.com/20210725/57JcvhAY/index.m3u8
 殖民地,https://vod.bunediy.com/20210721/kO8CSau7/index.m3u8
 X特遣队全员集结,https://sod.bunediy.com/20210806/zhCJwweF/index.m3u8

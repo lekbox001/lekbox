@@ -706,6 +706,7 @@ $c_start动作片$c_end
 人之怒,https://vod.bunediy.com/20210525/OF39UXjP/index.m3u8
 漠北追击,https://vod.bunediy.com/20210624/tOnad2Sz/index.m3u8
 $c_start科幻片$c_end
+2067,https://xianguoglass.com:65/20210719/Zq78JM6l/index.m3u8
 变种狂蜥,https://vod.bunediy.com/20210725/57JcvhAY/index.m3u8
 殖民地,https://vod.bunediy.com/20210721/kO8CSau7/index.m3u8
 X特遣队全员集结,https://sod.bunediy.com/20210806/zhCJwweF/index.m3u8
@@ -784,6 +785,7 @@ $c_start喜剧片$c_end
 黑白魔女库伊拉,https://vod.bunediy.com/20210529/oVwbZwt2/index.m3u8
 天使替我来爱你,https://vod.bunediy.com/20210529/G2jY90Mb/index.m3u8
 $c_start恐怖片$c_end
+感官游戏,https://vod.bunediy.com/20210626/nbjZNgp3/index.m3u8
 电源,https://sod.bunediy.com/20210803/oJtnyXXg/index.m3u8
 恶趣味,https://sod.bunediy.com/20210806/yD3MIAFf/index.m3u8
 女高怪谈重启,https://vod.bunediy.com/20210710/evOHblcO/index.m3u8

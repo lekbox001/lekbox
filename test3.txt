@@ -877,6 +877,7 @@ $c_start灾难片$c_end
 中国机长2019,https://vod.bunediy.com/20200507/dacHXlEB/index.m3u8
 烈火英雄2019,https://vod.bunediy.com/20200506/fE01jzHV/index.m3u8
 $c_start动画片$c_end
+西游记之再世妖王,https://sod.bunediy.com/20210823/0f3bJZMm/index.m3u8
 俑之城,https://sod.bunediy.com/20210812/Ji1LsP2K/index.m3u8
 蜜熊的夏天,https://sod.bunediy.com/20210806/WCyPa98U/index.m3u8
 美国：一部电影,https://vod.bunediy.com/20210630/5MsuY2aS/index.m3u8

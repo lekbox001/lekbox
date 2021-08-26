@@ -1489,6 +1489,8 @@ X特遣队全员集结,https://sod.bunediy.com/20210806/zhCJwweF/index.m3u8
 笔仙怪谈,https://vod.bunediy.com/20210519/75UEjIKE/index.m3u8
 深海狂鲨3,https://vod.bunediy.com/20200728/jmzbVL3q/index.m3u8
 战争片,#genre#
+特种部队1,https://vod.bunediy.com/20200411/8cD6yFwY/index.m3u8
+特种部队2,https://vod.bunediy.com/20200411/pzkveIwc/index.m3u8
 比利·林恩的中场战事,https://vod.bunediy.com/20200505/gmMDRLcj/index.m3u8
 麦克白,https://vod.bunediy.com/20200429/0bTPaGWs/index.m3u8
 哈斯木,https://vod.bunediy.com/20200414/roTeeqyd/index.m3u8

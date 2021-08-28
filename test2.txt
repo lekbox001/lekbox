@@ -315,53 +315,49 @@ Now新聞332台,http://livetv.dnsfor.me:80/channel.4.m3u8
 開電視,http://livetv.dnsfor.me:80/channel.9.m3u8
 VIU TV,http://livetv.dnsfor.me:80/channel.20.m3u8
 TW,#genre#
-中视,rtmp://59.124.75.153/sat/tv091
-中视2,rtmp://161.202.204.248/sat/tv091
-台视,rtmp://59.124.75.153/sat/tv071
-台视2,rtmp://161.202.204.248:1935/sat/tv071
-台视3,rtmp://161.202.204.248/sat/tv071
-民视,rtmp://59.124.75.153/sat/tv051
-民视2,rtmp://161.202.204.248/sat/tv051
-華视,rtmp://161.202.204.248/sat/tv111
-TVBS新聞台,rtmp://161.202.204.248/sat/tv551
-TVBS歡樂台,rtmp://161.202.204.248/sat/tv421
-東森财经新聞,rtmp://161.202.204.248/sat/tv571
-東森超視,rtmp://161.202.204.248/sat/tv771
-緯來育樂,rtmp://161.202.204.248/sat/tv701
-緯來體育,rtmp://161.202.204.248/sat/tv721
-緯來日本,rtmp://161.202.204.248/sat/tv521
-momo综合台,rtmp://161.202.204.248/sat/tv761
-欢喜台,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
+民视,rtmp://161.202.204.248/sat/tv051#rtmp://161.202.204.248:1935/sat/tv051
+台视,rtmp://161.202.204.248/sat/tv071#rtmp://161.202.204.248:1935/sat/tv071
+中视,rtmp://161.202.204.248/sat/tv091#rtmp://161.202.204.248:1935/sat/tv091
+华视,rtmp://161.202.204.248:1935/sat/tv111
+TVBS欢乐台,rtmp://161.202.204.248/sat/tv421
+纬来日本,rtmp://161.202.204.248:1935/sat/tv521
+TVBS新闻台,rtmp://161.202.204.248/sat/tv551
+东森财经新闻,rtmp://161.202.204.248:1935/sat/tv571
+纬来育乐,rtmp://161.202.204.248/sat/tv701
+纬来育乐,rtmp://161.202.204.248:1935/sat/tv701
+纬来体育,rtmp://161.202.204.248/sat/tv721
+纬来体育,rtmp://161.202.204.248:1935/sat/tv721
+eleven1,rtmp://161.202.204.248:1935/sat/tv731
+eleven2,rtmp://161.202.204.248:1935/sat/tv741
+MoMo综合,rtmp://161.202.204.248/sat/tv761
+东森超视,rtmp://161.202.204.248/sat/tv771
+爱尔达体育1,rtmp://161.202.204.248/sat/md011
+eleven2,rtmp://161.202.204.248/sat/md021
+博斯网球,rtmp://161.202.204.248/sat/md031
+博斯魅力,rtmp://161.202.204.248/sat/md041
+爱尔达体育1,rtmp://161.202.204.248/sat/md051
+CBS2 720,rtmp://161.202.204.248:1935/sat/us011
+纬来电影,rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910c8c?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 亚洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
-ELTA綜合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
-ELTA影劇台,http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
 BBC Earth Lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
-Nickelodeon,http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
-Nick Jr,http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
-Baby TV Eng,http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
-Kids TV,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
-CBeebies,http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
-Disney Channel,http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
-Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
-翡翠台,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
-AOD,http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
-Food亞洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
-天映頻道HD,http://50.7.161.82:8278/Celestial/playlist.m3u8?tid=m02000000000014496578&ct=17956&tsum=808f037499700f0538f13ea983dce703
-ELTA奧運1台,rtmp://59.124.75.153/sat/md011
-ELTA奧運2台,rtmp://59.124.75.153/sat/md021
-ELTA奧運3台,rtmp://59.124.75.153/sat/md031
-ELTA體育1台,rtmp://59.124.75.153/sat/md041
-ELTA體育3台,rtmp://59.124.75.153/sat/md051
-东森财经新闻台,rtmp://59.124.75.153:1935/sat/tv571
-东森超视,rtmp://59.124.75.153:1935/sat/tv771#rtmp://59.124.75.153/sat/tv771
-TVBS新闻台,rtmp://59.124.75.153/sat/tv552#rtmp://59.124.75.1530:1935/sat/tv551
-TVBS欢乐台,rtmp://59.124.75.153/sat/tv421#http://198.16.106.62:8278/tvbsgbk_twn/playlist.m3u8
-卫视卡式台,http://93.190.139.35:8278/streams/d/Weishilegend/playlist.m3u8
-大愛1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-DaAi,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
-FOX體育,rtmp://59.124.75.153:1935/sat/tv731
-FOX2體育,rtmp://59.124.75.153/sat/tv741
+ELTA综合,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
+三立台湾,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
+三立都会,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
+中视新闻 HD,http://seb.sason.top/sc/zsxw_fhd.m3u8
+台视新闻 HD,http://seb.sason.top/sc/tsxw_fhd.m3u8
+民视新闻 HD,http://seb.sason.top/sc/msxw_fhd.m3u8
+中天新闻 HD,http://seb.sason.top/sc/ztxw_fhd.m3u8
+东森新闻 HD,http://seb.sason.top/sc/dsxw_fhd.m3u8
+东森财经新闻 HD,http://seb.sason.top/sc/dscjxw_fhd.m3u8
+三立iNews,http://seb.sason.top/sc/slinews_fhd.m3u8
+三立Live新闻,http://seb.sason.top/sc/sllive_fhd.m3u8
+HBO,http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
+HBO原创电影,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
+国家地理,http://125.227.210.37:16408/VideoInput/play.ts
+CN卡通  ,http://125.227.210.37:16671/VideoInput/play.ts
+FOXMOVIES1,http://60.251.59.179:8504/xoxo.m3u8
+FOXMOVIES2,http://60.251.59.179:8543/xoxo.m3u8
+FOXMOVIES3,http://60.251.59.179:8506/xoxo.m3u8
 AEC,http://198.16.106.62:8278/streams/d/Aec1511/playlist.m3u8
 AOD,http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
 华丽台,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
@@ -390,23 +386,33 @@ AOD,http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
 三立iNews,http://seb.sason.top/sc/slinews_fhd.m3u8
 三立Live新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
 海外,#genre#
-Channel V,http://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
-Outdoor Channel,http://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
-Fashion TV1,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
-Fashion TV2,http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
-AFC-美食,https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
-FOX-生活,https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
+Channel V[1280*720],http://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
+Outdoor ,http://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
+AFC,https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+FOX,https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
 索尼动画,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
 国家地理,https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+DWNews,https://livecdn.fptplay.net/world/dwenglish_hls.smil/chunklist_b2500000.m3u8
+FOXHD,https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
+FOXMovie,https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
+AnimaxHD,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
+Outdoor,https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 CNN International,http://93.190.139.35:8278/streams/d/cnn_antik/playlist.m3u8
-BBC World News,http://93.190.139.35:8278/streams/d/bbcworldnews_antik/playlist.m3u8
 BBC 1,http://93.190.139.35:8278/streams/d/bbc1_antik/playlist.m3u8
 BBC 2,http://93.190.139.35:8278/streams/d/bbc2_antik/playlist.m3u8
-HBOHD,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-Sony One50,http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
-KBS World50,http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
-SKYnews,https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/05.m3u8
-国家地理野生频道,http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+WarnerTV HD,https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
+HISTORY HD,https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
+H2 HD,https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
+Golf HD,https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
+Fox Sport3,https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+Fox Sport2,https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
+Fox Sport1,https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+DiscoveryHDWorld,https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
+AnimalPlanet,https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
+Baby TV Eng,http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
+Kids TV,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
+Disney Channel,http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
+Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 动物星球,http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 SPORT,#genre#
 Arena,http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
@@ -673,16 +679,14 @@ Disney Channel,vjms://14.102.154.164:8500/live/cid=361
 HBO HD,vjms://14.102.154.164:8500/live/cid=261
 Nat Geo,vjms://14.102.154.164:8500/live/cid=115
 Nat Geo Wild,vjms://14.102.154.164:8500/live/cid=263
-FOX HD,http://198.16.106.62:8278/streams/d/foxhd_zero/playlist.m3u8
-FOX動作電影,http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
-FOX家庭電影,http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
-FOX犯罪電影,http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
+HBO台1,http://107.167.5.66:80/mylive/102/2065/index.m3u8
+HBO台2,http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
+纬来电影,rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910c8c?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+龍祥時代,rtmp://202.39.64.233/channel/60c2474a961593122ebaf7b5?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+FOX电影,rtmp://202.39.64.233/channel/60c2d575961593122ebaf8bf?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 FOX Life,http://198.16.106.62:8278/streams/d/Foxlife/playlist.m3u8
 HBO,http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
 HBO原創電影,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
-FOXCRIME,http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
-FOXActionMovies,http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
-FoxFamilyMovies,http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
 淘娱乐,http://39.135.238.69:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
 淘电影,http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 淘BABY,http://39.134.134.88:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8

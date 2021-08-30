@@ -766,3 +766,14 @@ HBO原創電影,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m
 48,https://qq-qy-yk-mg-bl-1905.jjyl12349.com/20210829/9pu1U7XP/index.m3u8
 49,https://qq-qy-yk-mg-bl-1905.jjyl12349.com/20210829/2N2J0abs/index.m3u8
 50,https://qq-qy-yk-mg-bl-1905.jjyl12349.com/20210829/ksTm2B22/index.m3u8
+恐怖甜蜜家园,#genre#
+1,https://fangao.stboda.com/concat/20201218/311a2daa04c04e2692f041c614fc56fc/cloudv-transfer/555555551q7q68r8555612650111p202_0c3157e6bc174218b420dfbb358b164b_0_3.m3u8
+2,https://fangao.stboda.com/concat/20201218/2cf45d805efc48ad8d8f13b0993d0c60/cloudv-transfer/55555555712855s4555612654nq4p202_a91fdb3af1c646c59525690079c5ec89_0_3.m3u8
+3,https://fangao.stboda.com/concat/20201218/8fa0449cc85c4fbeb6a19cc9067b6d26/cloudv-transfer/55555555q8580s51555612653639p202_6f2092442b4a4f5b90d8b60aac18180f_0_3.m3u8
+4,https://fangao.stboda.com/concat/20201218/b4f584149cc64b949d498bbed787ef3d/cloudv-transfer/5555555598n618pp555612653811p202_f7a36f3a89474a898acc51ac26ee2a99_0_3.m3u8
+5,https://fangao.stboda.com/concat/20201218/df8a9e0ad5434d0f83af0f7ef0be0f47/cloudv-transfer/5555555512rq252o555612657s51p202_7c362f2669484660aaea681431150862_0_3.m3u8
+6,https://fangao.stboda.com/concat/20201218/07fac98f113e4a49b7179684bc6f3a2f/cloudv-transfer/555555550qq53rps5556126547r9p202_5b65ef35d0db47dc8b930edcc7c0ce30_0_3.m3u8
+7,https://fangao.stboda.com/concat/20201218/b4e9bca13a094aa2ba71900301ad0337/cloudv-transfer/555555556739p164555612654ro9p202_62ed45e46bbf4d0d9050fd65b17b3701_0_3.m3u8
+8,https://fangao.stboda.com/concat/20201218/3d5fc6afd93945b1a3ff22e41b2db453/cloudv-transfer/555555552ro4291755561265qqr9p202_916fe2b4750e43bba25d2a644a69afbe_0_3.m3u8
+9,https://fangao.stboda.com/concat/20201218/545f74098ffa42a091df7133b128880f/cloudv-transfer/55555555so1q4rn95556126596s1p202_95685623832a49e6912d48bc0678afbc_0_3.m3u8
+10,https://fangao.stboda.com/concat/20201218/b50b676106af4ab282cae6d1cee766a9/cloudv-transfer/555555559360n8no5556126559o9p202_af78c2e72a914f82ac89a7db10055f92_0_3.m3u8

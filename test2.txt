@@ -760,3 +760,9 @@ HBO原創電影,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m
 42,https://qq-qy-yk-mg-bl-1905.jjyl12349.com/20210828/MaGBwHEb/index.m3u8
 43,https://qq-qy-yk-mg-bl-1905.jjyl12349.com/20210828/2j2Bev9d/index.m3u8
 44,https://qq-qy-yk-mg-bl-1905.jjyl12349.com/20210828/qoUNzBRE/index.m3u8
+45,https://qq-qy-yk-mg-bl-1905.jjyl12349.com/20210829/XqKmqfFo/index.m3u8
+46,https://qq-qy-yk-mg-bl-1905.jjyl12349.com/20210829/PMlDLyEd/index.m3u8
+47,https://qq-qy-yk-mg-bl-1905.jjyl12349.com/20210829/QjMfA0Yc/index.m3u8
+48,https://qq-qy-yk-mg-bl-1905.jjyl12349.com/20210829/9pu1U7XP/index.m3u8
+49,https://qq-qy-yk-mg-bl-1905.jjyl12349.com/20210829/2N2J0abs/index.m3u8
+50,https://qq-qy-yk-mg-bl-1905.jjyl12349.com/20210829/ksTm2B22/index.m3u8

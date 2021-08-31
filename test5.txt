@@ -1,3 +1,4 @@
+$c_startASIAN$c_end
 FTV ①,http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 HD Fashion,http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
 MTV now-breakfast-club,http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8

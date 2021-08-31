@@ -1,5 +1,25 @@
 $c_startASIAN$c_end
-FTV ①,http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+Ceria,http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+Citra,http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+Awani,http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+Drama Sangat,http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
+TV3,http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+Bernama TV,http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+NTV 7,http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
+TV2,http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+TV9,http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+Prima,http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+Travel,https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+Awani,https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+Awani,https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream04/streamPlaylist.m3u8
+Oasis,http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+Celestial Classic 天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+AOD,http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
+HBO原创电影,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
+HBO,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+HBO Family,https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+HBO Hits,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+HBO Signature,https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 HD Fashion,http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
 MTV now-breakfast-club,http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 Bloomberg TV Asia,https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
@@ -22,27 +42,6 @@ HBO,http://198.16.106.62:8278//streams/d/sundance_twn/playlist.m3u8
 HGTV,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 NatGeo Wild HD,http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 Asiancrush,https://ac-samsung.samsung.wurl.com/manifest/playlist.m3u8
-Ceria,http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
-Citra,http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-Awani,http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
-Drama Sangat,http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
-TV3,http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
-Bernama TV,http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
-NTV 7,http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
-TV2,http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
-TV9,http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
-Prima,http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
-Travel,https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-Awani,https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
-Awani,https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream04/streamPlaylist.m3u8
-Oasis,http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
-Celestial Classic 天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-AOD,http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
-HBO原创电影,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
-HBO,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-HBO Family,https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-HBO Hits,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-HBO Signature,https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 Red by HBO,https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 CBeebies,http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/823.m3u8
 Da Vinci,https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8

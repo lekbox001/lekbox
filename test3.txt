@@ -1115,3 +1115,9 @@ $c_start战争片$c_end
 美国叛徒,https://vod3.bdzybf3.com/20210606/3ZvE60y4/index.m3u8
 浴血无名川,https://vod3.bdzybf3.com/20210402/cB2smV4B/index.m3u8
 幸存者1937,https://mgtv-iqiy-yk-variety.jjyl12349.com/20210807/UQvDlCFb/index.m3u8
+$c_start中国好声音$c_end
+1,https://vod7.wenshibaowenbei.com/20210731/ZGsTU5pU/index.m3u8
+2,https://vod7.wenshibaowenbei.com/20210807/sH6XxfC4/index.m3u8
+3,https://vod10.bdzybf.com/20210813/12gnokRQ/index.m3u8
+4,https://vod10.bdzybf.com/20210821/Zn95eTaB/index.m3u8
+5,https://vod10.bdzybf.com/20210828/g9OS7HGD/index.m3u8

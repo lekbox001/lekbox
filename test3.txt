@@ -1093,6 +1093,11 @@ $c_start喜剧片$c_end
 $c_start科幻片$c_end
 X特遣队,https://youku-com.jjyl12349.com/20210811/aiF0bKnm/index.m3u8
 缉魂,https://sf1-ttcdn-tos.pstatp.com/obj/tos-cn-o-0004/4bf5dbbd25ba4ccfa5c10e66360cf603?.mp4
+黑夜传说1,https://vod1.bdzybf1.com/20200829/a21FUVX3/index.m3u8
+黑夜传说2,https://vod1.bdzybf1.com/20200829/CJ0RmWaU/index.m3u8
+黑夜传说3,https://vod1.bdzybf1.com/20200829/RAaH5ZRC/index.m3u8
+黑夜传说4,https://vod1.bdzybf1.com/20200829/3HgqHsgy/index.m3u8
+黑夜传说5,https://vod1.bdzybf1.com/20200829/YL0n3M0f/index.m3u8
 $c_start悬疑片$c_end
 猎心之骨证,https://sod.bunediy.com/20210809/dIfedaKJ/index.m3u8
 复身犯,https://vod3.bdzybf3.com/20210616/vf8diyMu/index.m3u8

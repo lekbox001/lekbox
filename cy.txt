@@ -1,4 +1,5 @@
 点播：
+极品,https://www.jpysvip.net/api.php/provide/vod/at/xml,解析
 独播,http://api.dbyunzy.com/api.php/provide/vod/at/xml,解析
 天空,https://caiji.tiankongapi.com/inc/api.php,解析
 神马,http://www.zitv.cc/api.php/provide/vod/at/xml,解析

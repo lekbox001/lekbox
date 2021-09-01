@@ -699,7 +699,7 @@ Kids TV,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
 Disney Channel,http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 动物星球,http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
-$c_start🍌泰國🍌$c_end
+$c_startTHAI$c_end
 泰01,https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
 泰02,http://news1.live14.com/stream/news1_hi.m3u8
 泰03,https://tc-live1.sanook.com/live/22302_ch5.m3u8

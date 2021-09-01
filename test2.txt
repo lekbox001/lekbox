@@ -63,15 +63,6 @@ NatGeo Wild HD,http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 Arena,http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 Sukan,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 RTM Sports,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
-SuperSport,http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
-SuperSport 2,http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
-SuperSport 3,http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
-SuperSport 4,http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
-ASSP 1,http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
-ASSP 2,http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
-ASSP 2,http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
-ASSP 3,http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
-ASSP 4,http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 CRICKET,http://50.7.161.82:8278/streams/d/astrocricket_pye/playlist.m3u8
 RTM Sports HD,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 Go Shop GAAYA,http://50.7.161.82:8278/streams/d/goshop2_pye/playlist.m3u8
@@ -874,3 +865,50 @@ HBO原創電影,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m
 5,https://v7.dious.cc/20210518/dqF9QZuG/1000kb/hls/index.m3u8
 6,https://v7.dious.cc/20210524/GVbYJpBL/1000kb/hls/index.m3u8
 7,https://v7.dious.cc/20210531/R8yblTUj/1000kb/hls/index.m3u8
+粤语片,#genre#
+喜玛拉雅星,https://iqiyi-qq-comic.jjyl12349.com/20210727/yPsKGR8L/index.m3u8
+武林怪兽,https://iqiyi-qq-comic.jjyl12349.com/20210716/in6QPa5Z/index.m3u8
+新喜剧之王,https://iqiyi-qq-comic.jjyl12349.com/20210716/OD6usQb1/index.m3u8
+叶问外传,https://iqiyi-qq-comic.jjyl12349.com/20210716/EBAhKdSx/index.m3u8
+感动她77次,https://iqiyi-qq-comic.jjyl12349.com/20210716/nT5Op6To/index.m3u8
+黄金兄弟,https://iqiyi-qq-comic.jjyl12349.com/20210716/RxBgQxgT/index.m3u8
+廉政风云,https://iqiyi-qq-comic.jjyl12349.com/20210716/cHrXxEyJ/index.m3u8
+你咪理我爱你,https://iqiyi-qq-comic.jjyl12349.com/20210716/CTbdcmVt/index.m3u8
+泄密者,https://iqiyi-qq-comic.jjyl12349.com/20210716/Pe3o1j2q/index.m3u8
+功夫,https://iqiyi-qq-comic.jjyl12349.com/20210716/BXjAcLY6/index.m3u8
+动作片,#genre#
+守城,https://mgtv-iqiy-yk-variety.jjyl12349.com/20210804/1hqIWjc6/1000kb/hls/index.m3u8
+扫黑英雄,https://sf1-ttcdn-tos.pstatp.com/obj/tos-cn-o-0004/5f9f9f59fbd145e18a6482ec4e353598?.mp4
+特种兵之战狼归来,https://vod1.bdzybf1.com/20200912/ADm4URh1/index.m3u8
+特种兵归来1,https://qq-com.jjyl12349.com/20210502/EpYlny9L/index.m3u8
+特种兵归来2,https://qq-com.jjyl12349.com/20210502/oPqOmTro/index.m3u8
+特种兵归来3,https://qq-com.jjyl12349.com/20210502/GkWUf7Eu/index.m3u8
+特种兵归来4,https://sf1-ttcdn-tos.pstatp.com/obj/tos-cn-o-0004/08dedc99594e4b30a8652ccfe7a81597?.mp4
+西游记之再世妖王,https://sod.bunediy.com/20210823/0f3bJZMm/index.m3u8
+喜剧片,#genre#
+非常保镖,https://vod3.bdzybf3.com/20210523/jNmIj0vA/index.m3u8
+十四天之暖春来,https://vod3.bdzybf3.com/20210529/kUXNIE33/index.m3u8
+了不起的老爸,https://mgtv-iqiy-yk-variety.jjyl12349.com/20210730/bSdAle0K/index.m3u8
+寻汉计,https://vod3.bdzybf3.com/20210515/ellYanUA/index.m3u8
+我们的故事之沉默的年代1,https://wy.bigmao.top/api/GetDownUrlTt/33ecf636f7c2429c8d9c2b10defdb26a/3b9c9af7979b4e5c88b5de25928585fb.mp4
+我们的故事之沉默的年代2,https://wy.bigmao.top/api/GetDownUrlTt/33ecf636f7c2429c8d9c2b10defdb26a/0b3ef49b50b34496a4b06bbb8f9cbc57.mp4
+科幻片,#genre#
+X特遣队,https://youku-com.jjyl12349.com/20210811/aiF0bKnm/index.m3u8
+缉魂,https://sf1-ttcdn-tos.pstatp.com/obj/tos-cn-o-0004/4bf5dbbd25ba4ccfa5c10e66360cf603?.mp4
+悬疑片,#genre#
+猎心之骨证,https://sod.bunediy.com/20210809/dIfedaKJ/index.m3u8
+复身犯,https://vod3.bdzybf3.com/20210616/vf8diyMu/index.m3u8
+神秘博士2015,https://vod3.bdzybf3.com/20210411/Zr9X7AdS/index.m3u8
+神秘博士2016,https://vod1.bdzybf1.com/20200921/jpIhZruu/index.m3u8
+神秘博士2019,https://vod2.bdzybf2.com/20210131/olI2kTWw/index.m3u8
+恐怖片,#genre#
+北方的阿信,https://youku-com.jjyl12349.com/20210724/L4dsRiFr/index.m3u8
+恐惧街3,https://vod3.bdzybf3.com/20210717/wPnCwvZJ/index.m3u8
+谤法在此矣,https://vod6.wenshibaowenbei.com/20210816/2CDUTtge/index.m3u8
+招魂3,https://vod3.bdzybf3.com/20210605/2bfxOLUq/index.m3u8
+猛鬼实验室,https://vod3.bdzybf3.com/20210527/0nS0kERU/index.m3u8
+潜伏4,https://vod3.bdzybf3.com/20210117/FSn9DWFV/index.m3u8
+战争片,#genre#
+美国叛徒,https://vod3.bdzybf3.com/20210606/3ZvE60y4/index.m3u8
+浴血无名川,https://vod3.bdzybf3.com/20210402/cB2smV4B/index.m3u8
+幸存者1937,https://mgtv-iqiy-yk-variety.jjyl12349.com/20210807/UQvDlCFb/index.m3u8

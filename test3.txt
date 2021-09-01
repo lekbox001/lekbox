@@ -16,6 +16,10 @@ AEC,http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
 全佳,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 天映频道,http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
 天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+AEC2,http://198.16.106.62:8278/streams/d/Aec1511/playlist.m3u8
+華麗臺,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
+歡喜臺,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
+愛奇藝,http://198.16.106.62:8278/streams/d/Qiyi1511/playlist.m3u8
 Awani2,https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 GO SHOP Ch,http://50.7.161.82:8278/streams/d/Goshopch/playlist.m3u8
 GO SHOP Ch2,http://50.7.161.82:8278/streams/d/goshopch_pye/playlist.m3u8
@@ -695,6 +699,51 @@ Kids TV,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
 Disney Channel,http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 动物星球,http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+$c_start🍌泰國🍌$c_end
+泰01,https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
+泰02,http://news1.live14.com/stream/news1_hi.m3u8
+泰03,https://tc-live1.sanook.com/live/22302_ch5.m3u8
+泰04,https://bcovlive-a.akamaihd.net/2d37038b355f4ea6a6b0d46993dc285c/ap-southeast-1/5282994675001/profile_0/chunklist.m3u8
+泰05,http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
+泰06,https://dltv-live-edge.catcdn.cloud/dltv01_720p/index.m3u8
+泰07,https://dltv-live-edge.catcdn.cloud/dltv02_720p/index.m3u8
+泰08,https://dltv-live-edge.catcdn.cloud/dltv03_720p/index.m3u8
+泰09,https://dltv-live-edge.catcdn.cloud/dltv04_720p/index.m3u8
+泰10,https://dltv-live-edge.catcdn.cloud/dltv05_720p/index.m3u8
+泰11,https://dltv-live-edge.catcdn.cloud/dltv06_720p/index.m3u8
+泰12,https://dltv-live-edge.catcdn.cloud/dltv07_720p/index.m3u8
+泰13,https://dltv-live-edge.catcdn.cloud/dltv08_720p/index.m3u8
+泰14,https://dltv-live-edge.catcdn.cloud/dltv09_720p/index.m3u8
+泰15,https://dltv-live-edge.catcdn.cloud/dltv10_720p/index.m3u8
+泰16,https://dltv-live-edge.catcdn.cloud/dltv11_720p/index.m3u8
+泰17,https://dltv-live-edge.catcdn.cloud/dltv12_720p/index.m3u8
+泰18,https://dltv-live-edge.catcdn.cloud/dltv13_720p/index.m3u8
+泰19,https://dltv-live-edge.catcdn.cloud/dltv14_720p/index.m3u8
+泰20,https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
+泰21,https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
+泰22,https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
+泰23,http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
+泰24,http://news1.live14.com/stream/news1.m3u8
+泰25,http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
+泰26,https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
+泰27,https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+泰28,https://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
+泰29,https://live.thairath.co.th/trtv2/playlist.m3u8
+泰30,http://49.231.66.85:1935/live/tptv/playlist.m3u8
+泰31,https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+泰32,https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+泰33,https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+泰34,https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+泰35,https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
+泰36,https://www.livedoomovie.com/02_sport5_480p/chunklist.m3u8
+泰37,https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
+泰38,https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+泰39,https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+泰40,https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+泰41,https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
+泰42,https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
+泰43,http://vip2.liveanywhere.asia:1935/tvmuslim/tvmuslim/playlist.m3u8
+泰45,http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 $c_startSPORT$c_end
 Arena,http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 Sukan,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
@@ -996,6 +1045,21 @@ HBO原創電影,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m
 星光影视,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 绍兴影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 凤凰电影,rtmp://58.200.131.2:1935/livetv/fhdy
+$c_start探索$c_end
+BBC Earth,http://198.16.106.62:8278/streams/d/bbcearthhd_zero/playlist.m3u8
+緯來日本,rtmp://161.202.204.248:1935/sat/tv521#rtmp://161.202.204.248/sat/tv522
+亞洲旅游,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
+探索亞洲,https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
+國家地理野生,http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+TCL,http://60.251.59.179:8504/http/192.168.77.7:8088/hls/104/startwest89.m3u8
+TCL,http://60.251.59.179:8504/xoxo.m3u8
+國家地理,https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+NHK世界,https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
+法國24,https://livecdn.fptplay.net/world/france24_hls.smil/chunklist_b2500000.m3u8
+BBC Earth Lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
+Animal Planet,http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+亞洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
+National Geographic Wild HD,https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 $c_start粤语片$c_end
 喜玛拉雅星,https://iqiyi-qq-comic.jjyl12349.com/20210727/yPsKGR8L/index.m3u8
 武林怪兽,https://iqiyi-qq-comic.jjyl12349.com/20210716/in6QPa5Z/index.m3u8
@@ -1016,6 +1080,9 @@ $c_start动作片$c_end
 特种兵归来3,https://qq-com.jjyl12349.com/20210502/GkWUf7Eu/index.m3u8
 特种兵归来4,https://sf1-ttcdn-tos.pstatp.com/obj/tos-cn-o-0004/08dedc99594e4b30a8652ccfe7a81597?.mp4
 西游记之再世妖王,https://sod.bunediy.com/20210823/0f3bJZMm/index.m3u8
+自殺突擊隊：集結,https://youku-com.jjyl12349.com/20210811/aiF0bKnm/index.m3u8
+叢林奇航,https://vod7.wenshibaowenbei.com/20210801/jgcoCaWr/index.m3u8
+玩命關頭9,https://cdn.605-zy.com/20210730/tWm3EQcW/index.m3u8
 $c_start喜剧片$c_end
 非常保镖,https://vod3.bdzybf3.com/20210523/jNmIj0vA/index.m3u8
 十四天之暖春来,https://vod3.bdzybf3.com/20210529/kUXNIE33/index.m3u8

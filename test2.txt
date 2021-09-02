@@ -926,6 +926,7 @@ HBO原創電影,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m
 泄密者,https://iqiyi-qq-comic.jjyl12349.com/20210716/Pe3o1j2q/index.m3u8
 功夫,https://iqiyi-qq-comic.jjyl12349.com/20210716/BXjAcLY6/index.m3u8
 动作片,#genre#
+静水城,https://vod6.wenshibaowenbei.com/20210830/v8vILwDL/index.m3u8
 守城,https://mgtv-iqiy-yk-variety.jjyl12349.com/20210804/1hqIWjc6/1000kb/hls/index.m3u8
 扫黑英雄,https://sf1-ttcdn-tos.pstatp.com/obj/tos-cn-o-0004/5f9f9f59fbd145e18a6482ec4e353598?.mp4
 特种兵之战狼归来,https://vod1.bdzybf1.com/20200912/ADm4URh1/index.m3u8
@@ -938,6 +939,7 @@ HBO原創電影,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m
 叢林奇航,https://vod7.wenshibaowenbei.com/20210801/jgcoCaWr/index.m3u8
 玩命關頭9,https://cdn.605-zy.com/20210730/tWm3EQcW/index.m3u8
 喜剧片,#genre#
+贝肯熊2,https://vod10.bdzybf.com/20210831/zMLprNDY/index.m3u8
 非常保镖,https://vod3.bdzybf3.com/20210523/jNmIj0vA/index.m3u8
 十四天之暖春来,https://vod3.bdzybf3.com/20210529/kUXNIE33/index.m3u8
 了不起的老爸,https://mgtv-iqiy-yk-variety.jjyl12349.com/20210730/bSdAle0K/index.m3u8
@@ -945,6 +947,7 @@ HBO原創電影,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m
 我们的故事之沉默的年代1,https://wy.bigmao.top/api/GetDownUrlTt/33ecf636f7c2429c8d9c2b10defdb26a/3b9c9af7979b4e5c88b5de25928585fb.mp4
 我们的故事之沉默的年代2,https://wy.bigmao.top/api/GetDownUrlTt/33ecf636f7c2429c8d9c2b10defdb26a/0b3ef49b50b34496a4b06bbb8f9cbc57.mp4
 科幻片,#genre#
+火星异变,https://vod6.wenshibaowenbei.com/20210830/O5UgJcvh/index.m3u8
 X特遣队,https://youku-com.jjyl12349.com/20210811/aiF0bKnm/index.m3u8
 缉魂,https://sf1-ttcdn-tos.pstatp.com/obj/tos-cn-o-0004/4bf5dbbd25ba4ccfa5c10e66360cf603?.mp4
 黑夜传说1,https://vod1.bdzybf1.com/20200829/a21FUVX3/index.m3u8

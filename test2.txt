@@ -488,11 +488,16 @@ sport81,rtmp://59.124.75.153/sat/us081
 271号,rtmp://59.124.75.153/sat/us271
 281号,rtmp://59.124.75.153/sat/us281
 电影系列,#genre#
+粤语1,http://vip.usa7.345123.xyz/douyu.php?id=6566671
+粤语2,http://vip.usa7.345123.xyz/douyu.php?id=2466104 
+粤语3,http://vip.usa7.345123.xyz/douyu.php?id=1226741
+埋堆堆04,http://121.12.115.162/txdirect.hls.huya.com/src/1199563459241-1199563459241-5444230351759081472-2399127041938-10057-A-0-1.m3u8 
+埋堆堆45,http://121.12.115.162/txdirect.hls.huya.com/src/1199561277686-1199561277686-5434860644379656192-2399122678828-10057-A-0-1.m3u8 
+埋堆堆53,http://121.12.115.162/txdirect.hls.huya.com/src/1199564067003-1199564067003-5446840669672833024-2399128257462-10057-A-0-1.m3u8 
 干饭人,http://vip.usa7.345123.xyz/douyu.php?id=104984
 大漠叔叔在线普法,http://vip.usa7.345123.xyz/douyu.php?id=1109218
 星爷.华语.经典.电影.神乐,http://vip.usa7.345123.xyz/douyu.php?id=122402
 带你看遍奇葩老电影,http://vip.usa7.345123.xyz/douyu.php?id=1224356
-粤语经典,http://vip.usa7.345123.xyz/douyu.php?id=1226741
 339影院,http://vip.usa7.345123.xyz/douyu.php?id=1274132
 24H欢乐不断,http://vip.usa7.345123.xyz/douyu.php?id=131977
 荒野求生,http://vip.usa7.345123.xyz/douyu.php?id=1339207
@@ -513,7 +518,6 @@ sport81,rtmp://59.124.75.153/sat/us081
 超清港剧直播间,http://vip.usa7.345123.xyz/douyu.php?id=223521
 [悬疑],http://vip.usa7.345123.xyz/douyu.php?id=2337939
 译制国语影片荟萃,http://vip.usa7.345123.xyz/douyu.php?id=2436390 
-[粤语频道]电影点播,http://vip.usa7.345123.xyz/douyu.php?id=2466104 
 经典.科幻.动作.灾难,http://vip.usa7.345123.xyz/douyu.php?id=248753 
 电视剧 电影 经典 国内外,http://vip.usa7.345123.xyz/douyu.php?id=2519292
 欧美 经典 电视剧,http://vip.usa7.345123.xyz/douyu.php?id=252536
@@ -601,7 +605,6 @@ TopGear TheGrandTour,http://vip.usa7.345123.xyz/douyu.php?id=501455
 [米娅陪看]喜剧科幻电影真人互动,http://vip.usa7.345123.xyz/douyu.php?id=6537888
 港片 刘德华 周润发 电影,http://vip.usa7.345123.xyz/douyu.php?id=6546908
 ⭐圆子⭐萌妹陪看 电视剧 电影 动漫,http://vip.usa7.345123.xyz/douyu.php?id=6566658
-粤语电影⭐周星驰林正英,http://vip.usa7.345123.xyz/douyu.php?id=6566671
 港剧 动漫 美剧,http://vip.usa7.345123.xyz/douyu.php?id=6581531
 [師落]大秦男儿 勿忘东出,http://vip.usa7.345123.xyz/douyu.php?id=6582435
 家有儿女杨紫下饭剧,http://vip.usa7.345123.xyz/douyu.php?id=6648727

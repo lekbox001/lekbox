@@ -894,6 +894,12 @@ $c_start粤语片$c_end
 泄密者,https://iqiyi-qq-comic.jjyl12349.com/20210716/Pe3o1j2q/index.m3u8
 功夫,https://iqiyi-qq-comic.jjyl12349.com/20210716/BXjAcLY6/index.m3u8
 $c_start动作片$c_end
+拳霸1,https://vod3.bdzybf3.com/20201226/onmTSA2m/index.m3u8
+拳霸2,https://vod1.bdzybf1.com/20200701/rWKQ8r6d/index.m3u8
+拳霸3,https://vod1.bdzybf1.com/20201009/ox4itk9w/index.m3u8
+女拳霸,https://vod1.bdzybf1.com/20200913/vfOiTdCs/index.m3u8
+冬荫功1,https://vod1.bdzybf1.com/20200821/r1JXWjJT/index.m3u8
+冬荫功2,https://vod3.bdzybf3.com/20210131/ac4K8P6Z/index.m3u8
 门徒,https://vod6.wenshibaowenbei.com/20210901/DksQ7IaJ/index.m3u8
 愤怒的黄牛,https://sod.bunediy.com/20210806/22qiSt9G/index.m3u8
 火线突围,https://vod10.bdzybf.com/20210902/DHgqZHdv/index.m3u8
@@ -934,6 +940,9 @@ $c_start悬疑片$c_end
 神秘博士2016,https://vod1.bdzybf1.com/20200921/jpIhZruu/index.m3u8
 神秘博士2019,https://vod2.bdzybf2.com/20210131/olI2kTWw/index.m3u8
 $c_start恐怖片$c_end
+恶魔的艺术1,https://s1.haofajz.com/20210807/vLNoI8zh/1200kb/hls/index.m3u8
+恶魔的艺术2,https://s1.haofajz.com/20210807/2N88R8gd/1200kb/hls/index.m3u8
+恶魔的艺术3,https://s1.haofajz.com/20210807/EOmgQWB1/1200kb/hls/index.m3u8
 屏住呼吸2,https://sod.bunediy.com/20210903/TIixIM00/index.m3u8
 灵幻大师,https://vod10.bdzybf.com/20210827/q5ddVlSE/index.m3u8
 北方的阿信,https://youku-com.jjyl12349.com/20210724/L4dsRiFr/index.m3u8

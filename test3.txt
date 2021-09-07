@@ -952,3 +952,5 @@ $c_start中国好声音$c_end
 3,https://vod10.bdzybf.com/20210813/12gnokRQ/index.m3u8
 4,https://vod10.bdzybf.com/20210821/Zn95eTaB/index.m3u8
 5,https://vod10.bdzybf.com/20210828/g9OS7HGD/index.m3u8
+6,https://vod10.bdzybf.com/20210903/uFj9dAy0/index.m3u8
+7,https://vod10.bdzybf.com/20210904/whWXoNep/index.m3u8

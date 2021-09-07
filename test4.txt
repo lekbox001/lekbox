@@ -329,77 +329,6 @@ Asian,#genre#
 [INDO]Hits Movies,https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 [INDO]TVKU,http://103.30.1.14:8080/hls/live.m3u8
 [INDO]One TV,https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
-[INDIA]Amrita TV (576p),http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
-[INDIA]Jaihind TV (576p),http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
-[INDIA]Zee Mundo (720p),https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
-[INDIA]Zee Music,https://f8e7y4c6.ssl.hwcdn.net/magic/playlist.m3u8
-[INDIA]Zee News MPCG,https://f8e7y4c6.ssl.hwcdn.net/newsmpcg/playlist.m3u8
-[INDIA]Zee Punjabi,https://f8e7y4c6.ssl.hwcdn.net/punjabi/playlist.m3u8
-[INDIA]Zee Rajasthan,https://f8e7y4c6.ssl.hwcdn.net/zinguk/playlist.m3u8
-[INDIA]Zee Smile USA,https://f8e7y4c6.ssl.hwcdn.net/smileusa/playlist.m3u8
-[INDIA]Jeevan TV (576p),http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
-[INDIA]Zee Talkies,https://f8e7y4c6.ssl.hwcdn.net/ztalkieshd/playlist.m3u8
-[INDIA]Anjan (720p),https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
-[INDIA]Zee TV APAC,https://f8e7y4c6.ssl.hwcdn.net/apacsea/playlist.m3u8
-[INDIA]Zee TV Canada HD,https://f8e7y4c6.ssl.hwcdn.net/canadahd/playlist.m3u8
-[INDIA]Zee TV Middle East,https://f8e7y4c6.ssl.hwcdn.net/ztvme/playlist.m3u8
-[INDIA]Jhanjar Music [Not 24/7],http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
-[INDIA]Zee TV Russia,https://f8e7y4c6.ssl.hwcdn.net/russia/playlist.m3u8
-[INDIA]Zee World,https://f8e7y4c6.ssl.hwcdn.net/world/playlist.m3u8
-[INDIA]Zee5 Originals,https://f8e7y4c6.ssl.hwcdn.net/zee5_originals/playlist.m3u8
-[INDIA]Zee5 Romance,https://f8e7y4c6.ssl.hwcdn.net/zee5_romance/playlist.m3u8
-[INDIA]Zing,https://f8e7y4c6.ssl.hwcdn.net/zing/playlist.m3u8
-[INDIA]Jonack TV (360p),https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
-[INDIA]Mangalam TV (576p),http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
-[INDIA]Manorama News (576p),http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
-[INDIA]ಕಸ್ತೂರಿ ಕನ್ನಡ Kasthuri (576p),http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
-[INDIA]Flowers TV (576p),http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
-[INDIA]ಪಬ್ಲಿಕ್ ಸಂಗೀತ Public Music (576p),http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
-[INDIA]Music India,http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
-[INDIA]Mastiii (576p),http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
-[INDIA]Mastiii,http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
-[INDIA]3 Tamil TV (720p),https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-[INDIA]Rosebowl,https://acv.asianetmobiletvplus.com/webstreams/ef22daf97d61acb4bf52376c4105ad02.smil/playlist.m3u8
-[INDIA]Kairali News (576p),http://103.199.161.254/Content/people/Live/Channel(People)/index.m3u8
-[INDIA]Kairali TV (576p),http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
-[INDIA]Kairali We (576p),http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
-[INDIA]Kalaignar (576p),http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
-[INDIA]Shemaroo Bollywood Classic,https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
-[INDIA]Shemaroo Bollywood Premier,https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
-[INDIA]Shemaroo Kids,https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_1280x720_cf.m3u8
-[INDIA]Shemaroo Kids,https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
-[INDIA]Shemaroo Punjabi TV,https://livechannel.shemaroome.com/linearplayout/punjabi-linear-channel/chunklist_1920x1080_cf.m3u8
-[INDIA]India Today,https://feeds.intoday.in/aajtak/api/master.m3u8
-[INDIA]India Today (720p),https://feeds.intoday.in/hltapps/api/master.m3u8
-[INDIA]Pratidin Time (360p),https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
-[INDIA]DD Malayalam (576p),http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8
-[INDIA]DD National (576p),http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
-[INDIA]DD Sports (576p),http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-[INDIA]DD Sports,http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
-[INDIA]Shraddha (360p),http://rtmp.smartstream.video:1935/mhoneshradha/mhoneshradha/playlist.m3u8
-[INDIA]Asianet News (576p),http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
-[INDIA]Channel Win (360p),https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
-[INDIA]Kappa TV (576p),http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
-[INDIA]Media One (576p),http://103.199.161.254/Content/mediaone/Live/Channel(MediaOne)/index.m3u8
-[INDIA]Twenty Four News (576p),http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
-[INDIA]Odisha TV,https://cdn.smartstream.video/smartstream-us/otvnewmbr/otvnewmbr.smil/playlist.m3u8
-[INDIA]Puthuyugam TV (576p),http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
-[INDIA]Naxtra News,http://wearelive.livebox.co.in/naxatratvhls/Naxatratv.m3u8
-[INDIA]7S Music (576p),http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
-[INDIA]Life Punjabi (720p),http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
-[INDIA]Swaraj Express (576p),https://live.wmncdn.net/highnews/swaraj.stream/index.m3u8
-[INDIA]R Plus News,https://cdn.smartstream.video/smartstream-us/rplus/rplus/playlist.m3u8
-[INDIA]MK Six (576p),http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
-[INDIA]MK Tunes (576p),http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
-[INDIA]MK TV (576p),http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
-[INDIA]B4U Kadak (576p),http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-[INDIA]B4U Kadak,http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
-[INDIA]Velicham (360p) [Not 24/7],https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
-[INDIA]Sada TV,http://cdn12.henico.net:8080/live/sadatv/index.m3u8
-[INDIA]Reporter TV (576p),http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8
-[INDIA]FASTWAY NEWS (720p),http://163.47.214.155:1935/fwnews/live/playlist.m3u8
-[INDIA]Zee 24,https://f8e7y4c6.ssl.hwcdn.net/kalak/playlist.m3u8
-[INDIA]Zee Action,https://f8e7y4c6.ssl.hwcdn.net/action/playlist.m3u8
 Animax HD,https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8
 AnimaxHD,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
 BBC Cbeebies,https://livecdn.fptplay.net/hda3/cbeebies_hls.smil/chunklist_b2500000.m3u8
@@ -895,6 +824,77 @@ Sunlife,http://livezer0.hjkm.info:11991/vulcan/sunlife/chunks.m3u8
 Rajdigitalplus,http://livezer0.hjkm.info:11991/vulcan/rajdigitalplus/chunks.m3u8
 Polimertv,http://livezer0.hjkm.info:11991/vulcan/polimertv/chunks.m3u8
 Kairalipeople,http://livezer0.hjkm.info:11991/vulcan/kairalipeople/chunks.m3u8
+Amrita TV (576p),http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
+Jaihind TV (576p),http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
+Zee Mundo (720p),https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
+Zee Music,https://f8e7y4c6.ssl.hwcdn.net/magic/playlist.m3u8
+Zee News MPCG,https://f8e7y4c6.ssl.hwcdn.net/newsmpcg/playlist.m3u8
+Zee Punjabi,https://f8e7y4c6.ssl.hwcdn.net/punjabi/playlist.m3u8
+Zee Rajasthan,https://f8e7y4c6.ssl.hwcdn.net/zinguk/playlist.m3u8
+Zee Smile USA,https://f8e7y4c6.ssl.hwcdn.net/smileusa/playlist.m3u8
+Jeevan TV (576p),http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
+Zee Talkies,https://f8e7y4c6.ssl.hwcdn.net/ztalkieshd/playlist.m3u8
+Anjan (720p),https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
+Zee TV APAC,https://f8e7y4c6.ssl.hwcdn.net/apacsea/playlist.m3u8
+Zee TV Canada HD,https://f8e7y4c6.ssl.hwcdn.net/canadahd/playlist.m3u8
+Zee TV Middle East,https://f8e7y4c6.ssl.hwcdn.net/ztvme/playlist.m3u8
+Jhanjar Music [Not 24/7],http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+Zee TV Russia,https://f8e7y4c6.ssl.hwcdn.net/russia/playlist.m3u8
+Zee World,https://f8e7y4c6.ssl.hwcdn.net/world/playlist.m3u8
+Zee5 Originals,https://f8e7y4c6.ssl.hwcdn.net/zee5_originals/playlist.m3u8
+Zee5 Romance,https://f8e7y4c6.ssl.hwcdn.net/zee5_romance/playlist.m3u8
+Zing,https://f8e7y4c6.ssl.hwcdn.net/zing/playlist.m3u8
+Jonack TV (360p),https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
+Mangalam TV (576p),http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
+Manorama News (576p),http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
+ಕಸ್ತೂರಿ ಕನ್ನಡ Kasthuri (576p),http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
+Flowers TV (576p),http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
+ಪಬ್ಲಿಕ್ ಸಂಗೀತ Public Music (576p),http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
+Music India,http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
+Mastiii (576p),http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+Mastiii,http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
+3 Tamil TV (720p),https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+Rosebowl,https://acv.asianetmobiletvplus.com/webstreams/ef22daf97d61acb4bf52376c4105ad02.smil/playlist.m3u8
+Kairali News (576p),http://103.199.161.254/Content/people/Live/Channel(People)/index.m3u8
+Kairali TV (576p),http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
+Kairali We (576p),http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
+Kalaignar (576p),http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
+Shemaroo Bollywood Classic,https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
+Shemaroo Bollywood Premier,https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
+Shemaroo Kids,https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_1280x720_cf.m3u8
+Shemaroo Kids,https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
+Shemaroo Punjabi TV,https://livechannel.shemaroome.com/linearplayout/punjabi-linear-channel/chunklist_1920x1080_cf.m3u8
+India Today,https://feeds.intoday.in/aajtak/api/master.m3u8
+India Today (720p),https://feeds.intoday.in/hltapps/api/master.m3u8
+Pratidin Time (360p),https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
+DD Malayalam (576p),http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8
+DD National (576p),http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
+DD Sports (576p),http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+DD Sports,http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+Shraddha (360p),http://rtmp.smartstream.video:1935/mhoneshradha/mhoneshradha/playlist.m3u8
+Asianet News (576p),http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
+Channel Win (360p),https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
+Kappa TV (576p),http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
+Media One (576p),http://103.199.161.254/Content/mediaone/Live/Channel(MediaOne)/index.m3u8
+Twenty Four News (576p),http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
+Odisha TV,https://cdn.smartstream.video/smartstream-us/otvnewmbr/otvnewmbr.smil/playlist.m3u8
+Puthuyugam TV (576p),http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
+Naxtra News,http://wearelive.livebox.co.in/naxatratvhls/Naxatratv.m3u8
+7S Music (576p),http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+Life Punjabi (720p),http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
+Swaraj Express (576p),https://live.wmncdn.net/highnews/swaraj.stream/index.m3u8
+R Plus News,https://cdn.smartstream.video/smartstream-us/rplus/rplus/playlist.m3u8
+MK Six (576p),http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+MK Tunes (576p),http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
+MK TV (576p),http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
+B4U Kadak (576p),http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+B4U Kadak,http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
+Velicham (360p) [Not 24/7],https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
+Sada TV,http://cdn12.henico.net:8080/live/sadatv/index.m3u8
+Reporter TV (576p),http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8
+FASTWAY NEWS (720p),http://163.47.214.155:1935/fwnews/live/playlist.m3u8
+Zee 24,https://f8e7y4c6.ssl.hwcdn.net/kalak/playlist.m3u8
+Zee Action,https://f8e7y4c6.ssl.hwcdn.net/action/playlist.m3u8
 5aab TV,http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 7S Music,http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 7X Music,http://skystar.livebox.co.in/7xtvChannelhls/7xtv7973090372.m3u8

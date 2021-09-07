@@ -1,10 +1,11 @@
 点播：
 极品,https://www.jpysvip.net/api.php/provide/vod/at/xml,解析
-独播,http://api.dbyunzy.com/api.php/provide/vod/at/xml,解析
+影派,https://v.dtjos.com/api.php/provide/vod/at/xml,解析
 天空,https://caiji.tiankongapi.com/inc/api.php,解析
 神马,http://www.zitv.cc/api.php/provide/vod/at/xml,解析
-饭团,http://fantuan.wkfile.com/api.php/provide/vod/at/xml,解析
-北斗星,https://api.bdxzyapi.com/api.php/provide/vod/at/xml,解析
+速影,https://xn--128-zm3fr26s.xyz/inc/api.php,解析
+北斗,https://api.bdxzyapi.com/api.php/provide/vod/at/xml,解析
+泰剧迷,https://www.taijumi.cc/api.php/provide/vod/at/xml,解析
 结束
 解析：
 解析,https://jx.7kjx.com/?url=

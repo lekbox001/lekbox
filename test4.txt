@@ -802,28 +802,6 @@ Quốc Hội,http://113.164.225.140:1935/live/quochoitvlive.stream_720p/playlist
 Tien Giang,http://thtg.vn:8001/thtg.m3u8
 VITV,http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 INDIA,#genre#
-Flowerstv,http://livezer0.hjkm.info:11991/vulcan/flowerstv/chunks.m3u8
-Asianettv,http://livezer0.hjkm.info:11991/vulcan/asianettv/chunks.m3u8
-Geminimovies,http://livezer0.hjkm.info:11991/vulcan/geminimovies/chunks.m3u8
-Geminitv,http://livezer0.hjkm.info:11991/vulcan/geminitv/chunks.m3u8
-Geminitvhd,http://livezer0.hjkm.info:11991/vulcan/geminitvhd/chunks.m3u8
-KTV,http://livezer0.hjkm.info:11991/vulcan/ktv/chunks.m3u8
-KTVHD,http://livezer0.hjkm.info:11991/vulcan/ktvhd/chunks.m3u8
-MaaMovie,http://livezer0.hjkm.info:11991/vulcan/maamovies/chunks.m3u8
-MaaTV,http://livezer0.hjkm.info:11991/vulcan/maatv/chunks.m3u8
-Suryatv,http://livezer0.hjkm.info:11991/vulcan/suryatv/chunks.m3u8
-Starvijay,http://livezer0.hjkm.info:11991/vulcan/starvijay/chunks.m3u8
-SunTV,http://livezer0.hjkm.info:11991/vulcan/suntv/chunks.m3u8
-SunTVHD,http://livezer0.hjkm.info:11991/vulcan/suntvhd/chunks.m3u8
-Suryahd,http://livezer0.hjkm.info:11991/vulcan/suryahd/chunks.m3u8
-Udayahd,http://livezer0.hjkm.info:11991/vulcan/udayahd/chunks.m3u8
-Zeetamil,http://livezer0.hjkm.info:11991/vulcan/zeetamil/chunks.m3u8
-Sirippoli,http://livezer0.hjkm.info:11991/vulcan/sirippoli/chunks.m3u8
-Safaritv,http://livezer0.hjkm.info:11991/vulcan/safaritv/chunks.m3u8
-Sunlife,http://livezer0.hjkm.info:11991/vulcan/sunlife/chunks.m3u8
-Rajdigitalplus,http://livezer0.hjkm.info:11991/vulcan/rajdigitalplus/chunks.m3u8
-Polimertv,http://livezer0.hjkm.info:11991/vulcan/polimertv/chunks.m3u8
-Kairalipeople,http://livezer0.hjkm.info:11991/vulcan/kairalipeople/chunks.m3u8
 Amrita TV (576p),http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
 Jaihind TV (576p),http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
 Zee Mundo (720p),https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8

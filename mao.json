@@ -253,10 +253,10 @@
       ]
     },
     {
-      "key": "百度云",
-      "name": "百度云",
+      "key": "速影",
+      "name": "速影",
       "type": 0,
-      "api": "https://m3u8.apibdzy.com/api.php/provide/vod/at/xml",
+      "api": "https://xn--128-zm3fr26s.xyz/inc/api.php",
       "playUrl": "",
       "categories": [
         "大陆综艺",

@@ -4,7 +4,7 @@
     {
       "key": "LEKBOX",
       "name": "LEKBOX",
-      "type": 2,
+      "type": 0,
       "api": "http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml",
       "playUrl": "",
       "categories": [
@@ -132,7 +132,7 @@
     {
       "key": "天空",
       "name": "天空",
-      "type": 2,
+      "type": 0,
       "api": "http://api.tiankongapi.com/api.php/provide/vod/at/xml",
       "playUrl": "",
       "categories": [
@@ -179,7 +179,7 @@
     {
       "key": "饭团",
       "name": "饭团",
-      "type": 2,
+      "type": 0,
       "api": "http://fantuan.wkfile.com/api.php/provide/vod/at/xml",
       "playUrl": "",
       "categories": [
@@ -215,7 +215,7 @@
     {
       "key": "八戒",
       "name": "八戒",
-      "type": 2,
+      "type": 0,
       "api": "http://cj.bajiecaiji.com/inc/api.php",
       "playUrl": "",
       "categories": [
@@ -253,10 +253,10 @@
       ]
     },
     {
-      "key": "极品",
-      "name": "极品",
-      "type": 2,
-      "api": "https://www.jpysvip.net/api.php/provide/vod/at/xml",
+      "key": "百度云",
+      "name": "百度云",
+      "type": 0,
+      "api": "https://m3u8.apibdzy.com/api.php/provide/vod/at/xml",
       "playUrl": "",
       "categories": [
         "大陆综艺",
@@ -296,7 +296,7 @@
     {
       "key": "明日资源",
       "name": "明日资源",
-      "type": 2,
+      "type": 0,
       "api": "http://api.dbyunzy.com/api.php/provide/vod/at/xml",
       "playUrl": "",
       "categories": [
@@ -343,7 +343,7 @@
     {
       "key": "88云",
       "name": "88云",
-      "type": 2,
+      "type": 0,
       "api": "http://www.88zyw.net/inc/m3u8.php",
       "playUrl": "",
       "categories": [
@@ -390,7 +390,7 @@
     {
       "key": "影派",
       "name": "影派",
-      "type": 2,
+      "type": 0,
       "api": "https://v.dtjos.com/api.php/provide/vod/at/xml",
       "playUrl": "",
       "categories": [
@@ -436,7 +436,7 @@
     {
       "key": "追剧吧",
       "name": "追剧吧",
-      "type": 2,
+      "type": 0,
       "api": "http://www.huaxiab.com/api.php/provide/vod/at/xml",
       "playUrl": "",
       "categories": [
@@ -494,8 +494,7 @@
         "欧美综艺",
         "香港综艺",
         "国产动漫",
-        "日本动漫",
-        "伦理片"
+        "日本动漫"
       ]
     }
   ],

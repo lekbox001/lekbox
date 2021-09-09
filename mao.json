@@ -253,10 +253,10 @@
       ]
     },
     {
-      "key": "百度云",
-      "name": "百度云",
+      "key": "极品",
+      "name": "极品",
       "type": 1,
-      "api": "https://m3u8.apibdzy.com/api.php/provide/vod/at/xml",
+      "api": "https://www.jpysvip.net/api.php/provide/vod/at/xml",
       "playUrl": "",
       "categories": [
         "大陆综艺",
@@ -440,6 +440,25 @@
       "api": "http://www.huaxiab.com/api.php/provide/vod/at/xml",
       "playUrl": "",
       "categories": [
+        "电影",
+        "综艺",
+        "动漫",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "国产剧",
+        "港台剧",
+        "日韩剧",
+        "欧美剧",
+        "悬疑片",
+        "灾难片",
+        "犯罪片",
+        "其他片",
+        "泰国剧",
         "动作片",
         "喜剧片",
         "爱情片",
@@ -476,7 +495,7 @@
         "香港综艺",
         "国产动漫",
         "日本动漫",
-        "欧美动漫"
+        "伦理片"
       ]
     }
   ],

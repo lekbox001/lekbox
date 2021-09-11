@@ -838,3 +838,4 @@ X特遣队,https://youku-com.jjyl12349.com/20210811/aiF0bKnm/index.m3u8
 5,https://vod10.bdzybf.com/20210828/g9OS7HGD/index.m3u8
 6,https://vod10.bdzybf.com/20210903/uFj9dAy0/index.m3u8
 7,https://vod10.bdzybf.com/20210904/whWXoNep/index.m3u8
+8,https://vod10.bdzybf.com/20210908/rtgrb4XW/index.m3u8

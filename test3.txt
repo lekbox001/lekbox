@@ -964,3 +964,4 @@ $c_start中国好声音$c_end
 6,https://vod10.bdzybf.com/20210903/uFj9dAy0/index.m3u8
 7,https://vod10.bdzybf.com/20210904/whWXoNep/index.m3u8
 8,https://vod10.bdzybf.com/20210908/rtgrb4XW/index.m3u8
+9,https://vod10.bdzybf.com/20210910/8vGEpM1j/index.m3u8

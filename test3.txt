@@ -17,9 +17,12 @@ AEC,http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
 天映频道,http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
 天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 AEC2,http://198.16.106.62:8278/streams/d/Aec1511/playlist.m3u8
-華麗臺,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
-歡喜臺,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
-愛奇藝,http://198.16.106.62:8278/streams/d/Qiyi1511/playlist.m3u8
+AOD2,http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
+华丽台2,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
+爱奇艺2,http://198.16.106.62:8278/streams/d/Qiyi1511/playlist.m3u8
+欢喜台2,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
+Ria,http://198.16.106.62:8278/streams/d/Ria/playlist.m3u8
+TV3,http://198.16.106.62:8278/streams/d/TV3/playlist.m3u8
 Awani2,https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 GO SHOP Ch,http://50.7.161.82:8278/streams/d/Goshopch/playlist.m3u8
 GO SHOP Ch2,http://50.7.161.82:8278/streams/d/goshopch_pye/playlist.m3u8
@@ -79,14 +82,10 @@ TV9b,http://50.7.161.82:8278/streams/d/tv9_pye/playlist.m3u8
 Kids TV,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
 Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 $c_startMY2$c_end
-ASSP,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/148
-ASSP (B),http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/233
+ASSP1,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/148
 ASSP2,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/149
-ASSP2 (B),http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/234
-ASSP3,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/150
-ASSP3 (B),http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/232
-ASSP4,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/151
-ASSP4 (B),http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/249
+ASSP3,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/232
+ASSP4,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/249
 AEC,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/43
 AOD,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/44
 華麗台,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/45
@@ -241,133 +240,76 @@ TVS,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/214
 Okey,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/12
 Drama Sangat,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/13
 $c_startMY8$c_end
-AEC,p8p://0198.02686.cc:16871/5ebce360000578b04d059fff4c2e3e3b.ts
-AOD,p8p://0198.02686.cc:16871/5f2c09ae00029cc4147efda7dcc27dfc.ts
-翡翠台,p8p://0198.02686.cc:16871/5ecfb36000001d6396821ea0563496d9.ts
-欢喜,p8p://0198.02686.cc:16871/5f34c9c00007f8c936ad45568b5ad1ef.ts
-双星,p8p://0198.02686.cc:16871/5f34c7a80001412a36a515dec131429c.ts
-双星2,p8p://0198.02686.cc:16871/5f38d8fd000caa6e4688ccd211ea705f.ts
-欢喜台,p8p://0198.02686.cc:16871/5ecfb90800040601969837e0aa1efa5c.ts
-SUPERSPORT 2,p8p://0198.02686.cc:16871/5ecfb8a5000633be9696b5b754f59677.ts
-SUPERSPORT 3,p8p://0198.02686.cc:16871/5ecfb8cd000aead19697532ccd7047f1.ts
-SUPERSPORT 4,p8p://0198.02686.cc:16871/5ecfb8eb000e05559697c928d4828974.ts
-HBO malay,p8p://0198.02686.cc:16871/5f4a68260001b22e2a90844a684e3ae6.ts
-HBO HITSm,p8p://0198.02686.cc:16871/5f660e21000c4b82585a391b42fb8539.ts
-SONY ONEm,p8p://0198.02686.cc:16871/5f38dd2d000db2b34699289669b0f014.ts
-ARENA,p8p://0198.02686.cc:16871/5f65d6c4000c7f635781f5e049ff7a42.ts
-OASIS,p8p://0198.02686.cc:16871/5f65e3990009593057b4151a86c9b165.ts
-Prima,p8p://0198.02686.cc:16871/5f38dadf0007ff034690267038e14f22.ts
-Ria,p8p://0198.02686.cc:16871/5f38da5a000597f0468e1e4b36907bc0.ts
-Animax,p8p://0198.02686.cc:16871/5f38db6700036d2e46923885d5fec1d8.ts
-Channel 8,p8p://0198.02686.cc:16871/5f48bcef000819da240bb715c294ee99.ts
-中视,p8p://0198.02686.cc:16871/5f3656bb000a656c3cbbfa6d262e3d24.ts
-台视,p8p://0198.02686.cc:16871/5f2e53b0000e6e031d70187e387dbafc.ts
-中天新聞,p8p://0198.02686.cc:16871/5f2f9178000c4ec022496d33f280ef95.ts
-八大綜合台,p8p://0198.02686.cc:16871/5f2e5a5b0000b78e1d8a20f34de5f2ac.ts
-緯來體育,p8p://0198.02686.cc:16871/5f380f20000a96e143744502c1b95f9e.ts
-緯來综合,p8p://0198.02686.cc:16871/5f2e576a000315281d7ea426671c8418.ts
-緯來戲劇,p8p://0198.02686.cc:16871/5e0f37bd00040a5217930a9af969bce1.ts
-國家地理悠人,p8p://0198.02686.cc:16871/5f37d0fb00088f51428183f5a24c108a.ts
-韓國娛樂台,p8p://0198.02686.cc:16871/5f37e3320006cbf642c8aa594b534295.ts
-龍華戲劇,p8p://0198.02686.cc:16871/5f380947000effbb435d6e7b21bc4ac1.ts
-華納影視,p8p://0198.02686.cc:16871/5f38036c000adb5e43468df4826231f4.ts
-FOXS2,p8p://0198.02686.cc:16871/5f2fad7f0006356c22b6e6fb18281642.ts
-CRIME INVESTIGATION,p8p://0198.02686.cc:16871/5f37c7ab0006a300425d22f785b390d0.ts
-K+,p8p://0198.02686.cc:16871/5f380ea60005e9564372673f4fa697fd
-KBS,p8p://0198.02686.cc:16871/5f37f2a20009457c4304f87c69928719.ts
-WBTV,p8p://0198.02686.cc:16871/5f38036c000adb5e43468df4826231f4.ts
-Ria HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6730
-Prima HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6727
-Warna HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6740
-Citra HD (subtitle),http://iptv.tvmalaysia.cc:80/penang172/penang172/7267
-Naura HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6724
-Oasis HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6725
-Aura HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6713
-Rania HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6729
-Awani HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6714
-Ceria HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6715
-Asian Food Network HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6693
-Al-Jazzera HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6694
-Adithya,http://iptv.tvmalaysia.cc:80/penang172/penang172/6700
-AOD 351 HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6702
-AOD 352 HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6703
-AOD 353 HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6704
-AOD 354 HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6705
-AOD 355 HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6706
-Colors Tamil,http://iptv.tvmalaysia.cc:80/penang172/penang172/6716
-Zee Tamil HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6742
-Vinmeen HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6739
-Vaanavil HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6738
-Makkal TV,http://iptv.tvmalaysia.cc:80/penang172/penang172/6806
-Sun TV HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6733
-Star Vijay HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6732
-Chutti TV,http://iptv.tvmalaysia.cc:80/penang172/penang172/6762
-Bernama News,http://iptv.tvmalaysia.cc:80/penang172/penang172/6750
-BollyOne HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6754
-Discovery Asia,http://iptv.tvmalaysia.cc:80/penang172/penang172/6772
-Colors HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6769
-Warner TV,http://iptv.tvmalaysia.cc:80/penang172/penang172/6848
-TV SARAWAK,http://iptv.tvmalaysia.cc:80/penang172/penang172/6846
-tvN Movies,http://iptv.tvmalaysia.cc:80/penang172/penang172/6845
-TVBS Asia HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6843
-TVB Xing He HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6842
-TVB E-News,http://iptv.tvmalaysia.cc:80/penang172/penang172/6840
-TV-AlHijrah,http://iptv.tvmalaysia.cc:80/penang172/penang172/6834
-Travel Channel HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6833
-Sun Music,http://iptv.tvmalaysia.cc:80/penang172/penang172/6831
-Sky News HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6826
-One HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6817
-Nick Jr,http://iptv.tvmalaysia.cc:80/penang172/penang172/6813
-Hits HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6800
-History HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6799
-HGTV HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6798
-HBO HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6797
-TV 1,http://iptv.tvmalaysia.cc:80/penang172/penang172/7177
-TV 2,http://iptv.tvmalaysia.cc:80/penang172/penang172/7178
-TV 3,http://iptv.tvmalaysia.cc:80/penang172/penang172/7266
-TV 3 HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/8750
-TV 9,http://iptv.tvmalaysia.cc:80/penang172/penang172/7185
-BERNAMA,http://iptv.tvmalaysia.cc:80/penang172/penang172/7190
-Fox Movies Premium,http://iptv.tvmalaysia.cc:80/penang172/penang172/8838
-Fox Action Movies,http://iptv.tvmalaysia.cc:80/penang172/penang172/8839
-HBO FHD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7067
-Cinemax FHD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7062
-HBO Hits FHD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7068
-HBO Signature FHD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7069
-HBO Family FHD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7070
-Warner TV HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7072
-tVN movies HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7074
-National Geographic HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7075
-Nat Geo Wild HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7081
-Nat Geo People HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7080
-History FHD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7079
-Discovery Channel HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7078
-Animal Planet,http://iptv.tvmalaysia.cc:80/penang172/penang172/7077
-HGTV,http://iptv.tvmalaysia.cc:80/penang172/penang172/7076
-Era FM,http://iptv.tvmalaysia.cc:80/penang172/penang172/7169
-Hitz FM,http://iptv.tvmalaysia.cc:80/penang172/penang172/7171
-Sinar FM,http://iptv.tvmalaysia.cc:80/penang172/penang172/7172
-THR GEGAR,http://iptv.tvmalaysia.cc:80/penang172/penang172/7174
-Cinema World,http://iptv.tvmalaysia.cc:80/penang172/penang172/7219
-AXN,http://iptv.tvmalaysia.cc:80/penang172/penang172/7223
-Fox Crime,http://iptv.tvmalaysia.cc:80/penang172/penang172/7225
-Fox Life,http://iptv.tvmalaysia.cc:80/penang172/penang172/7228
-Celestial Classic Movies.,http://iptv.tvmalaysia.cc:80/penang172/penang172/7222
-Celestial Movies,http://iptv.tvmalaysia.cc:80/penang172/penang172/7235
-Asia Food Network,http://iptv.tvmalaysia.cc:80/penang172/penang172/8857
-Crime & Investigation,http://iptv.tvmalaysia.cc:80/penang172/penang172/8858
-Blue Ant Entertainment,http://iptv.tvmalaysia.cc:80/penang172/penang172/8860
-Blue Ant Extreme,http://iptv.tvmalaysia.cc:80/penang172/penang172/8861
-Sony One,http://iptv.tvmalaysia.cc:80/penang172/penang172/8863
-Sony Gem,http://iptv.tvmalaysia.cc:80/penang172/penang172/8864
-TvN,http://iptv.tvmalaysia.cc:80/penang172/penang172/8865
-Disney Channel HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7196
-Arena HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6707
-SUPERSPORT HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6708
-SUPERSPORT 3 HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6711
-SUPERSPORT 4 HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6712
-FOX Sports 3 HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6792
-WWE Network,http://iptv.tvmalaysia.cc:80/penang172/penang172/6849
+ASSP,http://tigerfights.xyz:80/anh/123/2599208.ts
+ASSP2,http://tigerfights.xyz:80/anh/123/2599210.ts
+ASSP3,http://tigerfights.xyz:80/anh/123/2599211.ts
+ASSP4,http://tigerfights.xyz:80/anh/123/2599212.ts
+ABOS,http://tigerfights.xyz:80/anh/123/2599378.ts
+AEC,http://tigerfights.xyz:80/anh/123/2599201.ts
+AOD 351,http://tigerfights.xyz:80/anh/123/2599202.ts
+AOD 352,http://tigerfights.xyz:80/anh/123/2599203.ts
+AOD 353,http://tigerfights.xyz:80/anh/123/2599204.ts
+AOD 354,http://tigerfights.xyz:80/anh/123/2599205.ts
+AOD 355,http://tigerfights.xyz:80/anh/123/2599206.ts
+翡翠台,http://tigerfights.xyz:80/anh/123/2599313.ts
+全佳,http://tigerfights.xyz:80/anh/123/2599228.ts
+双星,http://tigerfights.xyz:80/anh/123/2599231.ts
+欢喜台,http://tigerfights.xyz:80/anh/123/2599222.ts
+爱奇艺,http://tigerfights.xyz:80/anh/123/2599223.ts
+小太阳,http://tigerfights.xyz:80/anh/123/2599241.ts
+TVBS亞洲台,http://tigerfights.xyz:80/anh/123/2599315.ts
+鳳凰中文台,http://tigerfights.xyz:80/anh/123/2599198.ts
+CCTV4,http://tigerfights.xyz:80/anh/123/2599256.ts
+东方卫视,http://tigerfights.xyz:80/anh/123/1109876.ts
+星空衛视,http://tigerfights.xyz:80/anh/123/1109875.ts
+衛視中文台,http://tigerfights.xyz:80/anh/123/2599353.ts
+衛視電影台,http://tigerfights.xyz:80/anh/123/2599348.ts
+衛視卡式台,http://tigerfights.xyz:80/anh/123/2599347.ts
+三立國際台,http://tigerfights.xyz:80/anh/123/2599349.ts
+TVB經典台,http://tigerfights.xyz:80/anh/123/2599311.ts
+TVB星河,http://tigerfights.xyz:80/anh/123/2599314.ts
+天映頻道,http://tigerfights.xyz:80/anh/123/2599257.ts
+天映经典,http://tigerfights.xyz:80/anh/123/2599255.ts
+Animax,http://tigerfights.xyz:80/anh/123/2599196.ts
+Aniplus,http://tigerfights.xyz:80/anh/123/2599197.ts
+AXN,http://tigerfights.xyz:80/anh/123/2599243.ts
+beIN MAX,http://tigerfights.xyz:80/anh/123/2599248.ts
+beIN Sports,http://tigerfights.xyz:80/anh/123/2599249.ts
+BOO,http://tigerfights.xyz:80/anh/123/2599322.ts
+Cinema World,http://tigerfights.xyz:80/anh/123/2599333.ts
+Cinemax,http://tigerfights.xyz:80/anh/123/2599260.ts
+FAM MOVIES,http://tigerfights.xyz:80/anh/123/2599199.ts
+FOX Action Movies,http://tigerfights.xyz:80/anh/123/2599327.ts
+FOX Family Movies,http://tigerfights.xyz:80/anh/123/2599329.ts
+FOX Life,http://tigerfights.xyz:80/anh/123/2599337.ts
+FOX Movies,http://tigerfights.xyz:80/anh/123/2599338.ts
+FOX Sports 2,http://tigerfights.xyz:80/anh/123/2599279.ts
+FOX Sports 3,http://tigerfights.xyz:80/anh/123/2599280.ts
+FOX Sports,http://tigerfights.xyz:80/anh/123/2599281.ts
+FOX,http://tigerfights.xyz:80/anh/123/2599328.ts
+FX Cinema,http://tigerfights.xyz:80/anh/123/2599339.ts
+HBO Family,http://tigerfights.xyz:80/anh/123/2599371.ts
+HBO Hits,http://tigerfights.xyz:80/anh/123/2599370.ts
+HBO Signature,http://tigerfights.xyz:80/anh/123/2599372.ts
+HBO,http://tigerfights.xyz:80/anh/123/2599284.ts
+HGTV,http://tigerfights.xyz:80/anh/123/2599285.ts
+History,http://tigerfights.xyz:80/anh/123/2599286.ts
+Hits Movies,http://tigerfights.xyz:80/anh/123/2599288.ts
+Hits,http://tigerfights.xyz:80/anh/123/2599287.ts
+KBS World,http://tigerfights.xyz:80/anh/123/2599289.ts
+Kix,http://tigerfights.xyz:80/anh/123/2599290.ts
+KPlus,http://tigerfights.xyz:80/anh/123/2599291.ts
+MY Eurosport,http://tigerfights.xyz:80/anh/123/2599277.ts
+MY:Euronews,http://tigerfights.xyz:80/anh/123/2599369.ts
+Oh!K,http://tigerfights.xyz:80/anh/123/2599226.ts
+One,http://tigerfights.xyz:80/anh/123/2599300.ts
+Paramount Channel,http://tigerfights.xyz:80/anh/123/2599344.ts
+ROCK Entertainment,http://tigerfights.xyz:80/anh/123/2599330.ts
+ROCK Extreme,http://tigerfights.xyz:80/anh/123/2599331.ts
+tvN Movies,http://tigerfights.xyz:80/anh/123/2599317.ts
+tvN,http://tigerfights.xyz:80/anh/123/2599316.ts
+Warner TV,http://tigerfights.xyz:80/anh/123/2599319.ts
+WWE Network,http://tigerfights.xyz:80/anh/123/2599320.ts
 $c_start空中课堂$c_end
 1年级,http://liveplay-kk.rtxapp.com/live/program/live/kkyinj/1300000/mnf.m3u8
 2年级,http://liveplay-kk.rtxapp.com/live/program/live/kkernj/1300000/mnf.m3u8
@@ -600,9 +542,142 @@ $c_start电影系列$c_end
 粤语1,http://vip.usa7.345123.xyz/douyu.php?id=6566671
 粤语2,http://vip.usa7.345123.xyz/douyu.php?id=2466104 
 粤语3,http://vip.usa7.345123.xyz/douyu.php?id=1226741
+粤语4,http://vip.usa7.345123.xyz/bili.php?id=136843
+粤语5,http://vip.usa7.345123.xyz/bili.php?id=21515763
+粤语6,http://vip.usa7.345123.xyz/bili.php?id=3568283
+粤语7,http://vip.usa7.345123.xyz/bili.php?id=563929
+粤语8,http://vip.usa7.345123.xyz/bili.php?id=8613737
+我和僵尸有个约会三部曲(粤语),http://vip.usa7.345123.xyz/bili.php?id=428247
 埋堆堆04,http://121.12.115.162/txdirect.hls.huya.com/src/1199563459241-1199563459241-5444230351759081472-2399127041938-10057-A-0-1.m3u8 
 埋堆堆45,http://121.12.115.162/txdirect.hls.huya.com/src/1199561277686-1199561277686-5434860644379656192-2399122678828-10057-A-0-1.m3u8 
 埋堆堆53,http://121.12.115.162/txdirect.hls.huya.com/src/1199564067003-1199564067003-5446840669672833024-2399128257462-10057-A-0-1.m3u8 
+AXN,p8p://45.92.126.18:9906/6044d92d0004949903033b6f41d556d0.ts
+BOOMERANG,p8p://45.92.126.18:9906/60447a4a00022e630190941a11afdf8e.ts
+CCTV13,p8p://45.92.126.18:9906/60693d0e000cf43215b666ef7701d76e.ts
+CinemaWorld,p8p://45.92.126.18:9906/604415aa00054259000783e434297e54.ts
+Cinemax,p8p://45.92.126.18:9906/6044da6a0001a688030810f78cca6d6c.ts	
+Eleven運動台1,p8p://45.92.126.18:9906/60446a54000b4ef801523d80af6dda12.ts
+FOX 頻道,p8p://45.92.126.18:9906/60440eb10006690c09cc32777254e90a.ts
+FOX優質電影台,p8p://45.92.126.18:9906/60441060000dae1309d2c7eb236de319.ts
+Fox家庭電影台,p8p://45.92.126.18:9906/6044114c0004d19e09d65f86a75bad6b.ts
+Fox家庭電影台2,p8p://45.92.126.18:9906/60442b6d000654ae005c85e289945252.ts
+HBO-HD,p8p://45.92.126.18:9906/604338a40001163206880e5297cc95ab.ts
+HBO,p8p://45.92.126.18:9906/604340b2000af04c06a787875d674b81.ts
+NHK World HD,p8p://45.92.126.18:9906/6044741d0000e8b9017873ff81c638cb.ts
+鳳凰衛視中文台,p8p://45.92.126.18:9906/60447d38000deb8b019c08cb6ec7c4d9.ts
+KIX電影台,p8p://45.92.126.18:9906/6044145c000e8fb900026d95dbb7683a.ts	
+thrill電影台,p8p://45.92.126.18:9906/604413240002c04b09dd92bffd4adc1b.ts	
+八大娛樂台,p8p://45.92.126.18:9906/6044d70900008dea02faddc78bf8a126.ts
+國家地理,p8p://45.92.126.18:9906/6043ffe3000c6f3709925f52585be323.ts
+國家地理TW,p8p://45.92.126.18:9906/6043485f000c065106c583978afda437.ts
+國家野生,p8p://45.92.126.18:9906/604401050005fe790996ca7b4ed24991.ts
+天映電影,p8p://45.92.126.18:9906/60441c660009af940021d366383a86ea.ts
+好萊塢電影,p8p://45.92.126.18:9906/6044d78800021f9602fcce46b541cf65.ts	
+愛放動漫,p8p://45.92.126.18:9906/60447b1e000e9a430193d36877b2a95b.ts
+愛爾達影劇台,p8p://45.92.126.18:9906/6044382f0001bdea008e5a851f8cf009.ts
+愛爾達體育1台,p8p://45.92.126.18:9906/60689fa0000c9dae134f712965a8f823.ts
+愛爾達體育1台,p8p://45.92.126.18:9906/604421d400072b6600370871d6641107.ts
+愛爾達體育2台,p8p://45.92.126.18:9906/60443b320005c061009a1f44d1793932.ts
+探索亞洲频道,p8p://45.92.126.18:9906/60433ee00002fb7906a0692e6558cb55.ts
+探索動力 DMAX,p8p://45.92.126.18:9906/6043467c000301e806be22909a147731.ts
+探索家庭 EVE,p8p://45.92.126.18:9906/60689d110008d7a31345719a76b95329.ts
+探索科學,p8p://45.92.126.18:9906/6043456f00065dec06ba08a499663c96.ts
+星衛娛樂台,p8p://45.92.126.18:9906/6044229300000d0a0039f0b6a59d1511.ts
+星衛電影台,p8p://45.92.126.18:9906/6044d33b0006a70302ec02a7d10a2600.ts
+曼迪日本台,p8p://45.92.126.18:9906/6068a12900029e3a13556dc2ad58c3d5.ts
+東森電影台,p8p://45.92.126.18:9906/60449ece0009c6ea021f39ac30bce072.ts
+罪案偵緝頻道,p8p://45.92.126.18:9906/604947cc00047a751453588132b90a12.ts
+華納Warner TV,p8p://45.92.126.18:9906/604414f400055b780004bcfa6ee82d22.ts
+衛視西片,p8p://45.92.126.18:9906/604416620003377d000a521e160e3141.ts
+衛視電影台,p8p://45.92.126.18:9906/607318ce000ef9a107a827d158704e10.ts	
+采昌影劇,p8p://45.92.126.18:9906/604411ec0004d59109d8d087e9645ce6.ts
+龍祥電影台,p8p://45.92.126.18:9906/6045bb31000469b906761b04cfa6bdb1.ts	
+龍華偶像,p8p://45.92.126.18:9906/60442ac30006b54f0059edebe8733672.ts
+龍華影劇,p8p://45.92.126.18:9906/604347a3000cc1fe06c2a567b371c0d6.ts
+龍華影劇,p8p://45.92.126.18:9906/60441771000d4807000e774ad2f62e16.ts
+龍華戲劇,p8p://45.92.126.18:9906/60442a110002751300573584bb335a71.ts
+龍華洋片,p8p://45.92.126.18:9906/6044287d000e2bb500510e64fec426ab.ts
+龍華電影,p8p://45.92.126.18:9906/604426fa000c13eb004b26236e73affa.ts
+历史频道,p8p://45.92.126.18:9906/6049468f0008dae6144e835756f6d068.ts
+历史频道H2,p8p://45.92.126.18:9906/6049473c0005320614512630bb45841f.ts
+亚旅卫视,https://jc-qlive-play.jingchangkan.cn/live/3473_200508855_xR9m.m3u8
+亚洲影院,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228365/42613673.smil/index.m3u8?fmt=ts2hls
+欧美影院,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228384/42613784.smil/index.m3u8?fmt=ts2hls
+四驱兄弟(台版) WGP MAX,http://vip.usa7.345123.xyz/bili.php?id=10544270
+大秦帝国,http://vip.usa7.345123.xyz/bili.php?id=11259274
+地大物博怎么能少了吃法,http://vip.usa7.345123.xyz/bili.php?id=11709851
+阿梅-大片经典 24小时,http://vip.usa7.345123.xyz/bili.php?id=127343
+tbb电影动画综艺or吃吃吃吃粤语,http://vip.usa7.345123.xyz/bili.php?id=136843
+还珠格格大陆过场倚天屠龙张5G少年包青天,http://vip.usa7.345123.xyz/bili.php?id=14262592
+炊事班的故事1,2部-清凉一夏,http://vip.usa7.345123.xyz/bili.php?id=14457148
+微笑百事达+恶作剧之吻,http://vip.usa7.345123.xyz/bili.php?id=15083950
+刘德华电影,http://vip.usa7.345123.xyz/bili.php?id=15131066
+名侦探柯南 日语,http://vip.usa7.345123.xyz/bili.php?id=181453
+柯南主线剧集-弹幕聊天,http://vip.usa7.345123.xyz/bili.php?id=1895574
+林正英鬼片,http://vip.usa7.345123.xyz/bili.php?id=193
+赌片,http://vip.usa7.345123.xyz/bili.php?id=21045809
+医馆笑传.全集-经典搞笑,http://vip.usa7.345123.xyz/bili.php?id=21070400
+高画质/恶作剧之吻1-2部,http://vip.usa7.345123.xyz/bili.php?id=21298611
+炊事班的故事,http://vip.usa7.345123.xyz/bili.php?id=21354981
+小肥肥西片,http://vip.usa7.345123.xyz/bili.php?id=21377115
+周星驰电影,http://vip.usa7.345123.xyz/bili.php?id=21448296
+天地争霸美猴王,http://vip.usa7.345123.xyz/bili.php?id=21657651
+高分大片,http://vip.usa7.345123.xyz/bili.php?id=21680912
+怎么又是我呢-炊事班的故事,http://vip.usa7.345123.xyz/bili.php?id=21684683
+最高画质 命中注定我爱你,http://vip.usa7.345123.xyz/bili.php?id=21694925
+194集猫和老鼠,http://vip.usa7.345123.xyz/bili.php?id=2171135
+功夫台,http://vip.usa7.345123.xyz/bili.php?id=21715386
+经典番剧/动漫/剧场版,http://vip.usa7.345123.xyz/bili.php?id=21751462
+邵氏影院-经典武侠 动作 老电影,http://vip.usa7.345123.xyz/bili.php?id=21759196
+怀旧经典剧 武侠 神话 神断案,http://vip.usa7.345123.xyz/bili.php?id=21763462
+齐天大圣孙悟空-古典神话系列,http://vip.usa7.345123.xyz/bili.php?id=21791019
+老高的奇幻世界,http://vip.usa7.345123.xyz/bili.php?id=21882327
+今典还珠格格1,2部,http://vip.usa7.345123.xyz/bili.php?id=21974731
+郭德纲理论,http://vip.usa7.345123.xyz/bili.php?id=21996402
+七十二家房客,http://vip.usa7.345123.xyz/bili.php?id=22013050
+赛文奥特曼OV,http://vip.usa7.345123.xyz/bili.php?id=22054619
+聊斋志异+聊斋奇女子,http://vip.usa7.345123.xyz/bili.php?id=22128694
+德云社-郭德纲,http://vip.usa7.345123.xyz/bili.php?id=22239221
+终极一班,http://vip.usa7.345123.xyz/bili.php?id=22587179
+铁齿铜牙纪晓岚 神探狄仁杰 人间正道,http://vip.usa7.345123.xyz/bili.php?id=22665698
+放羊的星星24h,http://vip.usa7.345123.xyz/bili.php?id=22776783
+闲人马大姐-当年的下饭神剧,http://vip.usa7.345123.xyz/bili.php?id=22786199
+尤夜叉,http://vip.usa7.345123.xyz/bili.php?id=23089518
+少年包青天高清123神雕侠侣雕英雄传,http://vip.usa7.345123.xyz/bili.php?id=23145747
+4K耀祖哥1,http://vip.usa7.345123.xyz/bili.php?id=23150921
+重案六组,http://vip.usa7.345123.xyz/bili.php?id=23196976
+少年包青天-水月洞天,http://vip.usa7.345123.xyz/bili.php?id=23220264
+鬼片,http://vip.usa7.345123.xyz/bili.php?id=23221712
+一起来追呀,http://vip.usa7.345123.xyz/bili.php?id=23229305
+4K耀祖哥2,http://vip.usa7.345123.xyz/bili.php?id=23398113
+港语港台剧,http://vip.usa7.345123.xyz/bili.php?id=2504003
+少年包青天-三部全,http://vip.usa7.345123.xyz/bili.php?id=2803563
+经典电影,http://vip.usa7.345123.xyz/bili.php?id=2982619
+德云社-郭德纲于谦,http://vip.usa7.345123.xyz/bili.php?id=308438
+早安-地球(挂机看剧.神位纷争),http://vip.usa7.345123.xyz/bili.php?id=3202651
+王子变青蛙,http://vip.usa7.345123.xyz/bili.php?id=3712061
+动作电影,http://vip.usa7.345123.xyz/bili.php?id=47917
+少年包青天 暴雨梨花针 开封包黑炭,http://vip.usa7.345123.xyz/bili.php?id=4928767
+龙门快递,http://vip.usa7.345123.xyz/bili.php?id=5111549
+红楼梦,http://vip.usa7.345123.xyz/bili.php?id=5568482
+又开播了 都市男女,http://vip.usa7.345123.xyz/bili.php?id=5613036
+经典粤语剧精选大合集,http://vip.usa7.345123.xyz/bili.php?id=563929
+郭德纲,http://vip.usa7.345123.xyz/bili.php?id=5854051
+百变小樱 翼年代记,http://vip.usa7.345123.xyz/bili.php?id=58833
+新白娘子传奇,http://vip.usa7.345123.xyz/bili.php?id=5960549
+樱桃小丸子,http://vip.usa7.345123.xyz/bili.php?id=6554860
+铁齿铜牙纪晓岚,http://vip.usa7.345123.xyz/bili.php?id=6694373
+松鼠精选-动作片专场,http://vip.usa7.345123.xyz/bili.php?id=6827037
+动作 悬疑 高能 鬼片,http://vip.usa7.345123.xyz/bili.php?id=6837959
+还珠格格.24小时轮播中,http://vip.usa7.345123.xyz/bili.php?id=7041847
+胡歌(神话)电视剧-聊斋,http://vip.usa7.345123.xyz/bili.php?id=7251976
+三国演义,http://vip.usa7.345123.xyz/bili.php?id=7675780
+扎导版《龙门镖局》,http://vip.usa7.345123.xyz/bili.php?id=81789
+鬼名模,http://vip.usa7.345123.xyz/bili.php?id=82997
+红楼梦,http://vip.usa7.345123.xyz/bili.php?id=8412120
+少年包青天1,http://vip.usa7.345123.xyz/bili.php?id=8566972
+加菲猫/大盗贼,http://vip.usa7.345123.xyz/bili.php?id=906034
+外来媳妇本地郎,http://vip.usa7.345123.xyz/bili.php?id=995289
 干饭人,http://vip.usa7.345123.xyz/douyu.php?id=104984
 大漠叔叔在线普法,http://vip.usa7.345123.xyz/douyu.php?id=1109218
 星爷.华语.经典.电影.神乐,http://vip.usa7.345123.xyz/douyu.php?id=122402

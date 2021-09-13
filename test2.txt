@@ -91,6 +91,13 @@ Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 高一,http://liveplay-kk.rtxapp.com/live/program/live/kkgaoyinj/1300000/mnf.m3u8
 高二,http://liveplay-kk.rtxapp.com/live/program/live/kkgaoernj/1300000/mnf.m3u8
 高三,http://liveplay-kk.rtxapp.com/live/program/live/kkgaosannj/1300000/mnf.m3u8
+CETV-1,http://223.110.241.136:6610/gitv/live1/G_CETV-1/
+CETV-2,http://223.110.241.136:6610/gitv/live1/G_CETV-2/
+CETV-3,http://223.110.241.136:6610/gitv/live1/G_CETV-3/
+CETV-4,http://223.110.241.136:6610/gitv/live1/G_CETV-4/
+中国教育1,http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226417/1.m3u8
+中国教育2,http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226537/1.m3u8
+中国教育4,http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226557/1.m3u8
 HK,#genre#
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 TVB星河频道,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8

@@ -678,6 +678,17 @@ HBO原創電影,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m
 星光影视,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 绍兴影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 凤凰电影,rtmp://58.200.131.2:1935/livetv/fhdy
+中国医生,#genre#
+1,https://m1905-com.jjyl12349.com/20210511/HIdKg3Ge/index.m3u8
+2,https://m1905-com.jjyl12349.com/20210511/YFlzexKa/index.m3u8
+3,https://m1905-com.jjyl12349.com/20210511/xVmPgFAv/index.m3u8
+4,https://m1905-com.jjyl12349.com/20210511/XfnH7i4s/index.m3u8
+5,https://m1905-com.jjyl12349.com/20210511/xGdmpqQW/index.m3u8
+6,https://m1905-com.jjyl12349.com/20210511/sW3zGrT0/index.m3u8
+7,https://m1905-com.jjyl12349.com/20210511/5CWra4XQ/index.m3u8
+8,https://m1905-com.jjyl12349.com/20210511/0Mf4dbjM/index.m3u8
+9,https://m1905-com.jjyl12349.com/20210511/Z0YH8vKZ/index.m3u8
+10,https://m1905-com.jjyl12349.com/20210511/90geg4KL/index.m3u8
 憨豆警局,#genre#
 1,https://vod6.wenshibaowenbei.com/20210318/XEQhrOoT/index.m3u8
 2,https://vod6.wenshibaowenbei.com/20210318/plCEaIuZ/index.m3u8

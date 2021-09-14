@@ -997,7 +997,13 @@ $c_start动作片$c_end
 自殺突擊隊：集結,https://youku-com.jjyl12349.com/20210811/aiF0bKnm/index.m3u8
 叢林奇航,https://vod7.wenshibaowenbei.com/20210801/jgcoCaWr/index.m3u8
 玩命關頭9,https://cdn.605-zy.com/20210730/tWm3EQcW/index.m3u8
+$c_start剧情片$c_end
+绿里奇迹,https://qq-com.jjyl12349.com/20210521/rhiTbrqH/1000kb/hls/index.m3u8
+七磅,https://vod2.bdzybf2.com/20201218/XpSExLDq/index.m3u8
 $c_start喜剧片$c_end
+幸运钥匙,https://vod1.bdzybf1.com/20200901/EBwqomO1/index.m3u8
+憨豆的黄金周,https://vod1.bdzybf1.com/20201006/VuDL1Du6/index.m3u8
+憨豆先生的大灾难,https://vod1.bdzybf1.com/20200821/5OAxh40x/index.m3u8
 贝肯熊2,https://vod10.bdzybf.com/20210831/zMLprNDY/index.m3u8
 非常保镖,https://vod3.bdzybf3.com/20210523/jNmIj0vA/index.m3u8
 十四天之暖春来,https://vod3.bdzybf3.com/20210529/kUXNIE33/index.m3u8
@@ -1015,6 +1021,11 @@ X特遣队,https://youku-com.jjyl12349.com/20210811/aiF0bKnm/index.m3u8
 黑夜传说3,https://vod1.bdzybf1.com/20200829/RAaH5ZRC/index.m3u8
 黑夜传说4,https://vod1.bdzybf1.com/20200829/3HgqHsgy/index.m3u8
 黑夜传说5,https://vod1.bdzybf1.com/20200829/YL0n3M0f/index.m3u8
+$c_start奇幻片$c_end
+西游记之再世妖王,https://vod10.bdzybf.com/20210823/d1FpNOXZ/index.m3u8
+狼之噩梦,https://vod6.wenshibaowenbei.com/20210823/8N5M3yTq/index.m3u8
+森林之子毛克利,https://vod3.bdzybf3.com/20210110/8Tg70SIo/index.m3u8
+少年斯派维的奇异旅行,https://vod1.bdzybf1.com/20200813/JopPj20X/index.m3u8
 $c_start悬疑片$c_end
 猎心之骨证,https://sod.bunediy.com/20210809/dIfedaKJ/index.m3u8
 复身犯,https://vod3.bdzybf3.com/20210616/vf8diyMu/index.m3u8
@@ -1022,6 +1033,7 @@ $c_start悬疑片$c_end
 神秘博士2016,https://vod1.bdzybf1.com/20200921/jpIhZruu/index.m3u8
 神秘博士2019,https://vod2.bdzybf2.com/20210131/olI2kTWw/index.m3u8
 $c_start恐怖片$c_end
+驚夢49天,https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/4338955585001/a9f0f00c-989a-4f3a-8c97-ff77998b4246/10s/master.m3u8?fastly_token=NjE0MDYxM2VfYzU4ZmM3OWI5ZGQzNDRlMjk4ZWU3NzFkYWNlMGQ1MWEzNGVkYjI2YWY5NTNmYTY5OTJjY2RkNzFhMTMyNDI5Mw%3D%3D
 恶魔的艺术1,https://s1.haofajz.com/20210807/vLNoI8zh/1200kb/hls/index.m3u8
 恶魔的艺术2,https://s1.haofajz.com/20210807/2N88R8gd/1200kb/hls/index.m3u8
 恶魔的艺术3,https://s1.haofajz.com/20210807/EOmgQWB1/1200kb/hls/index.m3u8

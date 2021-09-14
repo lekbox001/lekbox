@@ -859,6 +859,10 @@ HBO原創電影,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m
 自殺突擊隊：集結,https://youku-com.jjyl12349.com/20210811/aiF0bKnm/index.m3u8
 叢林奇航,https://vod7.wenshibaowenbei.com/20210801/jgcoCaWr/index.m3u8
 玩命關頭9,https://cdn.605-zy.com/20210730/tWm3EQcW/index.m3u8
+剧情片,#genre#
+导盲犬小Q,https://vod1.bdzybf1.com/20200919/C15B5c6X/index.m3u8
+绿里奇迹,https://qq-com.jjyl12349.com/20210521/rhiTbrqH/1000kb/hls/index.m3u8
+七磅,https://vod2.bdzybf2.com/20201218/XpSExLDq/index.m3u8
 喜剧片,#genre#
 幸运钥匙,https://vod1.bdzybf1.com/20200901/EBwqomO1/index.m3u8
 憨豆的黄金周,https://vod1.bdzybf1.com/20201006/VuDL1Du6/index.m3u8

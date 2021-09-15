@@ -1057,6 +1057,17 @@ $c_start恐怖片$c_end
 招魂3,https://vod3.bdzybf3.com/20210605/2bfxOLUq/index.m3u8
 猛鬼实验室,https://vod3.bdzybf3.com/20210527/0nS0kERU/index.m3u8
 潜伏4,https://vod3.bdzybf3.com/20210117/FSn9DWFV/index.m3u8
+$c_start灾难片$c_end
+不惧风暴,https://vod1.bdzybf1.com/20200921/jbNqbTpJ/index.m3u8
+世界之战,https://vod3.bdzybf3.com/20201217/igQKZMRD/index.m3u8
+生死倒数,https://vod1.bdzybf1.com/20200831/SpvlzXvH/index.m3u8
+科洛弗档案,https://vod1.bdzybf1.com/20200919/UNi7ZHne/index.m3u8
+完美风暴,https://vod1.bdzybf1.com/20200908/8mcHJsgc/index.m3u8
+一切尽失,https://vod1.bdzybf1.com/20200831/WGUwOMgL/index.m3u8
+2012,https://v2.dious.cc/20200901/5hqkOHTa/1000kb/hls/index.m3u8
+地心引力,https://vod3.bdzybf3.com/20210526/sABB418o/index.m3u8
+萨利机长,https://sf1-ttcdn-tos.pstatp.com/obj/tos-cn-o-0004/bae93010f6ec42619ca32d05b6fc08ad?.mp4
+勇往直前,https://vod1.bdzybf1.com/20200912/VgOgURi3/index.m3u8
 $c_start战争片$c_end
 美国叛徒,https://vod3.bdzybf3.com/20210606/3ZvE60y4/index.m3u8
 浴血无名川,https://vod3.bdzybf3.com/20210402/cB2smV4B/index.m3u8

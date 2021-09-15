@@ -907,7 +907,6 @@ X特遣队,https://youku-com.jjyl12349.com/20210811/aiF0bKnm/index.m3u8
 神秘博士2016,https://vod1.bdzybf1.com/20200921/jpIhZruu/index.m3u8
 神秘博士2019,https://vod2.bdzybf2.com/20210131/olI2kTWw/index.m3u8
 恐怖片,#genre#
-驚夢49天,https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/4338955585001/a9f0f00c-989a-4f3a-8c97-ff77998b4246/10s/master.m3u8?fastly_token=NjE0MDYxM2VfYzU4ZmM3OWI5ZGQzNDRlMjk4ZWU3NzFkYWNlMGQ1MWEzNGVkYjI2YWY5NTNmYTY5OTJjY2RkNzFhMTMyNDI5Mw%3D%3D
 恶魔的艺术1,https://s1.haofajz.com/20210807/vLNoI8zh/1200kb/hls/index.m3u8
 恶魔的艺术2,https://s1.haofajz.com/20210807/2N88R8gd/1200kb/hls/index.m3u8
 恶魔的艺术3,https://s1.haofajz.com/20210807/EOmgQWB1/1200kb/hls/index.m3u8

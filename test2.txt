@@ -951,6 +951,15 @@ X特遣队,https://youku-com.jjyl12349.com/20210811/aiF0bKnm/index.m3u8
 就是这样,https://video.dious.cc/20200805/BNr6G0Nj/1000kb/hls/index.m3u8?skipl=1
 王菲：幻乐一场,https://vod1.bdzybf1.com/20200915/fVzulSgA/index.m3u8
 天地争霸美猴王,http://vip.usa7.345123.xyz/bili.php?id=21657651
+哈利·波特,#genre#
+魔法石,https://vod3.bdzybf3.com/20201216/pxxgBVca/index.m3u8
+密室,https://vod3.bdzybf3.com/20201216/LJ6Qk0BD/index.m3u8
+阿兹卡班的囚徒,https://vod3.bdzybf3.com/20201216/IJmuO59b/index.m3u8
+火焰杯,https://vod3.bdzybf3.com/20201216/fOvfPMuW/index.m3u8
+凤凰社,https://vod3.bdzybf3.com/20201216/e7cAlT80/index.m3u8
+混血王子,https://vod3.bdzybf3.com/20201216/C0YIwn0f/index.m3u8
+死亡圣器(上),https://vod3.bdzybf3.com/20201216/JxZkoW3Y/index.m3u8
+死亡圣器(下),https://vod3.bdzybf3.com/20201216/YcTifSFc/index.m3u8
 中国好声音,#genre#
 1,https://vod7.wenshibaowenbei.com/20210731/ZGsTU5pU/index.m3u8
 2,https://vod7.wenshibaowenbei.com/20210807/sH6XxfC4/index.m3u8

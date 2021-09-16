@@ -943,6 +943,9 @@ X特遣队,https://youku-com.jjyl12349.com/20210811/aiF0bKnm/index.m3u8
 萨利机长,https://sf1-ttcdn-tos.pstatp.com/obj/tos-cn-o-0004/bae93010f6ec42619ca32d05b6fc08ad?.mp4
 勇往直前,https://vod1.bdzybf1.com/20200912/VgOgURi3/index.m3u8
 战争片,#genre#
+特种部队1,https://vod3.bdzybf3.com/20201219/9hK0PD3Y/index.m3u8
+特种部队2,https://uf.haoyu666.top/uploads%252F20210810%252F%25E7%2589%25B9%25E7%25A7%258D%25E9%2583%25A8%25E9%2598%259F2%25E5%2585%25A8%25E9%259D%25A2%25E5%258F%258D%25E5%2587%25BB.m3u8
+特种部队3,https://uf.haoyu666.top/uploads%252F20210818%252F%25E7%2589%25B9%25E7%25A7%258D%25E9%2583%25A8%25E9%2598%259F%25EF%25BC%259A%25E8%259B%2587%25E7%259C%25BC%25E8%25B5%25B7%25E6%25BA%2590.m3u8
 美国叛徒,https://vod3.bdzybf3.com/20210606/3ZvE60y4/index.m3u8
 浴血无名川,https://vod3.bdzybf3.com/20210402/cB2smV4B/index.m3u8
 幸存者1937,https://mgtv-iqiy-yk-variety.jjyl12349.com/20210807/UQvDlCFb/index.m3u8

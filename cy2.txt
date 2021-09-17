@@ -7,6 +7,7 @@ LEKBOX,http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml,不解析
 飘花,http://www.zzrhgg.com/api.php/provide/vod/at/xml,解析
 独播,http://api.dbyunzy.com/api.php/provide/vod/at/xml,解析
 比心,http://bxin.tv/api.php/provide/vod/at/xml/,解析
+88影视,http://www.88zyw.net/inc/api.php,解析
 八八,http://www.88zy.live/inc/m3u8.php,解析
 豆瓣,http://api.dbyunzy.com/api.php/provide/vod/at/xml/,解析
 38,http://ok.888hyk.com/api.php/provide/vod/at/xml,解析

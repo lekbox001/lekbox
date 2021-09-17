@@ -92,7 +92,7 @@ TRUE LLIV,http://194.233.73.66:2082/freehitv/freehitv/39
 WWE摔角,http://194.233.73.66:2082/freehitv/freehitv/38
 IQIYI,http://194.233.73.66:2082/freehitv/freehitv/44
 Oh!K,http://194.233.73.66:2082/freehitv/freehitv/45
-$空中课堂,#genre#
+空中课堂,#genre#
 1年级,http://liveplay-kk.rtxapp.com/live/program/live/kkyinj/1300000/mnf.m3u8
 2年级,http://liveplay-kk.rtxapp.com/live/program/live/kkernj/1300000/mnf.m3u8
 3年级,http://liveplay-kk.rtxapp.com/live/program/live/kksannj/1300000/mnf.m3u8

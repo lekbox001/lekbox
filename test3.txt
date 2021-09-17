@@ -85,7 +85,6 @@ IQIYI,http://194.233.73.66:2082/freehitv/freehitv/44
 Oh!K,http://194.233.73.66:2082/freehitv/freehitv/45
 Kids TV,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
 Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
-AEC3,http://50.7.161.82:8278/streams/d/AEC/playlist.m3u8
 $c_startMY2$c_end
 ASSP1,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/148
 ASSP2,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/149

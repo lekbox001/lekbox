@@ -1,5 +1,5 @@
 点播：
-LEKBOX,https://www.jpysvip.net/api.php/provide/vod/at/xml,解析
+LEKBOX,http://www.zitv.cc/api.php/provide/vod/at/xml,解析
 KK,http://www.kkkanju.com/api.php/provide/vod/at/xml,解析
 结束
 解析：

@@ -40,6 +40,14 @@ M3U8,http://www.zycaiji.net:7788/api.php/provide/vod/at/xml//n,解析
 乐喵,https://98hyk.cn/api.php/provide/vod/at/xml,解析
 无极,http://wujiys.com/api.php/provide/vod/at/xml,解析
 老鸭18,https://api.apilyzy.com/api.php/provide/vod/at/xml,解析
+默认,https://www.dianyingn.com/api.php/provide/vod/at/xml/,解析
+好好,http://haohaozy.com/api.php/provide/vod/at/xml/,解析
+黑锋,https://www.hfys8.vip/api.php/provide/vod/at/xml,解析
+看看,http://www.kkkanju.com/api.php/provide/vod/at/xml,解析
+孤单,http://www.gudanys.com/api.php/provide/vod/at/xml,不解析
+555,http://www.zzrhgg.com/api.php/provide/vod/at/xml,不解析
+盒子,http://cms.tvbox543.com/api.php/provide/vod/at/xml,解析
+播放,https://www.bofangya.com/api.php/provide/vod/at/xml,解析
 结束
 解析：
 解析,https://jx.7kjx.com/?url=

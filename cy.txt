@@ -1,6 +1,5 @@
 点播：
-LEKBOX,https://bljiex.com/api.php/provide/vod/at/xml,解析
-KK,http://www.kkkanju.com/api.php/provide/vod/at/xml,解析
+LEKBOX,http://www.kkkanju.com/api.php/provide/vod/at/xml,不解析
 结束
 解析：
 解析1,https://jx.7kjx.com/?url=

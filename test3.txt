@@ -1147,6 +1147,7 @@ $c_start动作片$c_end
 叢林奇航,https://vod7.wenshibaowenbei.com/20210801/jgcoCaWr/index.m3u8
 玩命關頭9,https://cdn.605-zy.com/20210730/tWm3EQcW/index.m3u8
 $c_start剧情片$c_end
+遗爱,https://sod.bunediy.com/20210920/k7386hJ1/index.m3u8
 导盲犬小Q,https://vod1.bdzybf1.com/20200919/C15B5c6X/index.m3u8
 绿里奇迹,https://qq-com.jjyl12349.com/20210521/rhiTbrqH/1000kb/hls/index.m3u8
 七磅,https://vod2.bdzybf2.com/20201218/XpSExLDq/index.m3u8

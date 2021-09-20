@@ -236,77 +236,53 @@ TV9(B),http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/11
 TVS,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/214
 Okey,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/12
 Drama Sangat,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/13
-$c_startMY8$c_end
-ASSP,http://tigerfights.xyz:80/anh/123/2599208.ts
-ASSP2,http://tigerfights.xyz:80/anh/123/2599210.ts
-ASSP3,http://tigerfights.xyz:80/anh/123/2599211.ts
-ASSP4,http://tigerfights.xyz:80/anh/123/2599212.ts
-ABOS,http://tigerfights.xyz:80/anh/123/2599378.ts
-AEC,http://tigerfights.xyz:80/anh/123/2599201.ts
-AOD 351,http://tigerfights.xyz:80/anh/123/2599202.ts
-AOD 352,http://tigerfights.xyz:80/anh/123/2599203.ts
-AOD 353,http://tigerfights.xyz:80/anh/123/2599204.ts
-AOD 354,http://tigerfights.xyz:80/anh/123/2599205.ts
-AOD 355,http://tigerfights.xyz:80/anh/123/2599206.ts
-翡翠台,http://tigerfights.xyz:80/anh/123/2599313.ts
-全佳,http://tigerfights.xyz:80/anh/123/2599228.ts
-双星,http://tigerfights.xyz:80/anh/123/2599231.ts
-欢喜台,http://tigerfights.xyz:80/anh/123/2599222.ts
-爱奇艺,http://tigerfights.xyz:80/anh/123/2599223.ts
-小太阳,http://tigerfights.xyz:80/anh/123/2599241.ts
-TVBS亞洲台,http://tigerfights.xyz:80/anh/123/2599315.ts
-鳳凰中文台,http://tigerfights.xyz:80/anh/123/2599198.ts
-CCTV4,http://tigerfights.xyz:80/anh/123/2599256.ts
-东方卫视,http://tigerfights.xyz:80/anh/123/1109876.ts
-星空衛视,http://tigerfights.xyz:80/anh/123/1109875.ts
-衛視中文台,http://tigerfights.xyz:80/anh/123/2599353.ts
-衛視電影台,http://tigerfights.xyz:80/anh/123/2599348.ts
-衛視卡式台,http://tigerfights.xyz:80/anh/123/2599347.ts
-三立國際台,http://tigerfights.xyz:80/anh/123/2599349.ts
-TVB經典台,http://tigerfights.xyz:80/anh/123/2599311.ts
-TVB星河,http://tigerfights.xyz:80/anh/123/2599314.ts
-天映頻道,http://tigerfights.xyz:80/anh/123/2599257.ts
-天映经典,http://tigerfights.xyz:80/anh/123/2599255.ts
-Animax,http://tigerfights.xyz:80/anh/123/2599196.ts
-Aniplus,http://tigerfights.xyz:80/anh/123/2599197.ts
-AXN,http://tigerfights.xyz:80/anh/123/2599243.ts
-beIN MAX,http://tigerfights.xyz:80/anh/123/2599248.ts
-beIN Sports,http://tigerfights.xyz:80/anh/123/2599249.ts
-BOO,http://tigerfights.xyz:80/anh/123/2599322.ts
-Cinema World,http://tigerfights.xyz:80/anh/123/2599333.ts
-Cinemax,http://tigerfights.xyz:80/anh/123/2599260.ts
-FAM MOVIES,http://tigerfights.xyz:80/anh/123/2599199.ts
-FOX Action Movies,http://tigerfights.xyz:80/anh/123/2599327.ts
-FOX Family Movies,http://tigerfights.xyz:80/anh/123/2599329.ts
-FOX Life,http://tigerfights.xyz:80/anh/123/2599337.ts
-FOX Movies,http://tigerfights.xyz:80/anh/123/2599338.ts
-FOX Sports 2,http://tigerfights.xyz:80/anh/123/2599279.ts
-FOX Sports 3,http://tigerfights.xyz:80/anh/123/2599280.ts
-FOX Sports,http://tigerfights.xyz:80/anh/123/2599281.ts
-FOX,http://tigerfights.xyz:80/anh/123/2599328.ts
-FX Cinema,http://tigerfights.xyz:80/anh/123/2599339.ts
-HBO Family,http://tigerfights.xyz:80/anh/123/2599371.ts
-HBO Hits,http://tigerfights.xyz:80/anh/123/2599370.ts
-HBO Signature,http://tigerfights.xyz:80/anh/123/2599372.ts
-HBO,http://tigerfights.xyz:80/anh/123/2599284.ts
-HGTV,http://tigerfights.xyz:80/anh/123/2599285.ts
-History,http://tigerfights.xyz:80/anh/123/2599286.ts
-Hits Movies,http://tigerfights.xyz:80/anh/123/2599288.ts
-Hits,http://tigerfights.xyz:80/anh/123/2599287.ts
-KBS World,http://tigerfights.xyz:80/anh/123/2599289.ts
-Kix,http://tigerfights.xyz:80/anh/123/2599290.ts
-KPlus,http://tigerfights.xyz:80/anh/123/2599291.ts
-MY Eurosport,http://tigerfights.xyz:80/anh/123/2599277.ts
-MY:Euronews,http://tigerfights.xyz:80/anh/123/2599369.ts
-Oh!K,http://tigerfights.xyz:80/anh/123/2599226.ts
-One,http://tigerfights.xyz:80/anh/123/2599300.ts
-Paramount Channel,http://tigerfights.xyz:80/anh/123/2599344.ts
-ROCK Entertainment,http://tigerfights.xyz:80/anh/123/2599330.ts
-ROCK Extreme,http://tigerfights.xyz:80/anh/123/2599331.ts
-tvN Movies,http://tigerfights.xyz:80/anh/123/2599317.ts
-tvN,http://tigerfights.xyz:80/anh/123/2599316.ts
-Warner TV,http://tigerfights.xyz:80/anh/123/2599319.ts
-WWE Network,http://tigerfights.xyz:80/anh/123/2599320.ts
+$c_startMY77$c_end
+欢喜,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
+AEC,http://50.7.161.82:8277/streams/d/aec_pye/playlist.m3u8
+AOD,http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
+IQIYI,http://50.7.161.82:8277/streams/d/iqiyi_pye/playlist.m3u8
+双星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+全佳,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+Awani,http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+Drama Sangat,http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
+Ria,http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
+Prima, http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+Oasis,http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+Citra,http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+Awani,http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+Naura HD,http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+8TV,http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+Bernama TV,http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+BOO,http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+NTV 7,http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
+TV1,http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+TV2,http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+TV3,http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+TV9,http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+Oh!K hd,http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+Sony One50,http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
+HGTV,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+KBS WORLD,http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
+TVN HD,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+HBO Malaysia,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+Celestial天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+Celestial天映频道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+ANIMAL PLANET,http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+NAT GEO wild,http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+Arena,http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+Sukan,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
+RTM Sports,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
+8TV,http://194.233.73.66:2082/freehitv/freehitv/10
+8TV,http://194.233.73.66:2082/freehitv/freehitv/9
+FOXLIFE,http://194.233.73.66:2082/freehitv/freehitv/28
+WB FILM,http://194.233.73.66:2082/freehitv/freehitv/31
+GOLF,http://194.233.73.66:2082/freehitv/freehitv/34
+STAR SPORTS,http://194.233.73.66:2082/freehitv/freehitv/35
+TRUE LLIV,http://194.233.73.66:2082/freehitv/freehitv/39
+WWE摔角,http://194.233.73.66:2082/freehitv/freehitv/38
+IQIYI,http://194.233.73.66:2082/freehitv/freehitv/44
+Oh!K,http://194.233.73.66:2082/freehitv/freehitv/45
 $c_start空中课堂$c_end
 1年级,http://liveplay-kk.rtxapp.com/live/program/live/kkyinj/1300000/mnf.m3u8
 2年级,http://liveplay-kk.rtxapp.com/live/program/live/kkernj/1300000/mnf.m3u8

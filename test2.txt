@@ -625,12 +625,15 @@ sport81,rtmp://59.124.75.153/sat/us081
 粤语4,http://vip.usa7.345123.xyz/bili.php?id=136843
 粤语5,http://vip.usa7.345123.xyz/bili.php?id=21515763
 粤语6,http://vip.usa7.345123.xyz/bili.php?id=3568283
-粤语7,http://vip.usa7.345123.xyz/bili.php?id=563929
-粤语8,http://vip.usa7.345123.xyz/bili.php?id=8613737
 我和僵尸有个约会三部曲(粤语),http://vip.usa7.345123.xyz/bili.php?id=428247
 埋堆堆04,http://121.12.115.162/txdirect.hls.huya.com/src/1199563459241-1199563459241-5444230351759081472-2399127041938-10057-A-0-1.m3u8 
 埋堆堆45,http://121.12.115.162/txdirect.hls.huya.com/src/1199561277686-1199561277686-5434860644379656192-2399122678828-10057-A-0-1.m3u8 
 埋堆堆53,http://121.12.115.162/txdirect.hls.huya.com/src/1199564067003-1199564067003-5446840669672833024-2399128257462-10057-A-0-1.m3u8 
+电影一台,http://93.190.139.36:8278/streams/d/hk03_twn/playlist.m3u8
+卫视卡式台,http://93.190.139.35:8278/streams/d/Weishilegend/playlist.m3u8
+淘电影[高清],http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
+卫视电影HD,http://107.167.5.66:80/mylive/102/2061/index.m3u8
+天映电影HD,http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
 四驱兄弟(台版) WGP MAX,http://vip.usa7.345123.xyz/bili.php?id=10544270
 大秦帝国,http://vip.usa7.345123.xyz/bili.php?id=11259274
 地大物博怎么能少了吃法,http://vip.usa7.345123.xyz/bili.php?id=11709851

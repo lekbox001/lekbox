@@ -1193,6 +1193,13 @@ HBO原創電影,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m
 7,https://vod1.bdzybf1.com/20200901/nQZMraLt/index.m3u8
 8,https://vod1.bdzybf1.com/20200901/dGNDMhin/index.m3u8
 粤语片,#genre#
+歼毒先锋,https://v.88zy.site/20210729/xjBQ1TWv/index.m3u8
+重案行动之捣毒任务,https://vod2.bdzybf2.com/20210123/w7aHn3QI/index.m3u8
+好好拍电影,https://api.longtengzy.cn/play/7fa7f66c74ae9a1038c654eb5b5baf8c2dfca107220ad90423987b8269636abb8906cd43ac2695c6b88e7816d6cc5792.m3u8
+一秒拳王,https://n1.szjal.cn/20210802/YaWJO2bk/index.m3u8
+歼毒先锋,https://v.88zy.site/20210729/xjBQ1TWv/index.m3u8
+遗爱,https://sod.bunediy.com/20210920/k7386hJ1/index.m3u8
+智齿,https://v7.dious.cc/20210706/sRtNwR3f/index.m3u8
 喜玛拉雅星,https://iqiyi-qq-comic.jjyl12349.com/20210727/yPsKGR8L/index.m3u8
 武林怪兽,https://iqiyi-qq-comic.jjyl12349.com/20210716/in6QPa5Z/index.m3u8
 新喜剧之王,https://iqiyi-qq-comic.jjyl12349.com/20210716/OD6usQb1/index.m3u8
@@ -1227,7 +1234,6 @@ HBO原創電影,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m
 叢林奇航,https://vod7.wenshibaowenbei.com/20210801/jgcoCaWr/index.m3u8
 玩命關頭9,https://cdn.605-zy.com/20210730/tWm3EQcW/index.m3u8
 剧情片,#genre#
-遗爱,https://sod.bunediy.com/20210920/k7386hJ1/index.m3u8
 导盲犬小Q,https://vod1.bdzybf1.com/20200919/C15B5c6X/index.m3u8
 绿里奇迹,https://qq-com.jjyl12349.com/20210521/rhiTbrqH/1000kb/hls/index.m3u8
 七磅,https://vod2.bdzybf2.com/20201218/XpSExLDq/index.m3u8
@@ -1266,7 +1272,6 @@ X特遣队,https://youku-com.jjyl12349.com/20210811/aiF0bKnm/index.m3u8
 森林之子毛克利,https://vod3.bdzybf3.com/20210110/8Tg70SIo/index.m3u8
 少年斯派维的奇异旅行,https://vod1.bdzybf1.com/20200813/JopPj20X/index.m3u8
 悬疑片,#genre#
-智齿,https://v7.dious.cc/20210706/sRtNwR3f/index.m3u8
 密室逃生2,https://c1.monidai.com/20210908/NDCP9K5d/index.m3u8
 猎心之骨证,https://sod.bunediy.com/20210809/dIfedaKJ/index.m3u8
 复身犯,https://vod3.bdzybf3.com/20210616/vf8diyMu/index.m3u8

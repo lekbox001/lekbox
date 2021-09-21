@@ -672,6 +672,7 @@ sport81,rtmp://59.124.75.153/sat/us081
 粤语4,http://vip.usa7.345123.xyz/bili.php?id=136843
 粤语5,http://vip.usa7.345123.xyz/bili.php?id=21515763
 粤语6,http://vip.usa7.345123.xyz/bili.php?id=3568283
+经典电影,http://vip.usa7.345123.xyz/bili.php?id=2982619
 我和僵尸有个约会三部曲(粤语),http://vip.usa7.345123.xyz/bili.php?id=428247
 埋堆堆04,http://121.12.115.162/txdirect.hls.huya.com/src/1199563459241-1199563459241-5444230351759081472-2399127041938-10057-A-0-1.m3u8 
 埋堆堆45,http://121.12.115.162/txdirect.hls.huya.com/src/1199561277686-1199561277686-5434860644379656192-2399122678828-10057-A-0-1.m3u8 
@@ -686,21 +687,15 @@ sport81,rtmp://59.124.75.153/sat/us081
 地大物博怎么能少了吃法,http://vip.usa7.345123.xyz/bili.php?id=11709851
 阿梅-大片经典 24小时,http://vip.usa7.345123.xyz/bili.php?id=127343
 tbb电影动画综艺or吃吃吃吃粤语,http://vip.usa7.345123.xyz/bili.php?id=136843
-还珠格格大陆过场倚天屠龙张5G少年包青天,http://vip.usa7.345123.xyz/bili.php?id=14262592
-炊事班的故事1,2部-清凉一夏,http://vip.usa7.345123.xyz/bili.php?id=14457148
 微笑百事达+恶作剧之吻,http://vip.usa7.345123.xyz/bili.php?id=15083950
-刘德华电影,http://vip.usa7.345123.xyz/bili.php?id=15131066
 名侦探柯南 日语,http://vip.usa7.345123.xyz/bili.php?id=181453
 柯南主线剧集-弹幕聊天,http://vip.usa7.345123.xyz/bili.php?id=1895574
 林正英鬼片,http://vip.usa7.345123.xyz/bili.php?id=193
-赌片,http://vip.usa7.345123.xyz/bili.php?id=21045809
 医馆笑传.全集-经典搞笑,http://vip.usa7.345123.xyz/bili.php?id=21070400
 高画质/恶作剧之吻1-2部,http://vip.usa7.345123.xyz/bili.php?id=21298611
 炊事班的故事,http://vip.usa7.345123.xyz/bili.php?id=21354981
 小肥肥西片,http://vip.usa7.345123.xyz/bili.php?id=21377115
-周星驰电影,http://vip.usa7.345123.xyz/bili.php?id=21448296
 天地争霸美猴王,http://vip.usa7.345123.xyz/bili.php?id=21657651
-高分大片,http://vip.usa7.345123.xyz/bili.php?id=21680912
 怎么又是我呢-炊事班的故事,http://vip.usa7.345123.xyz/bili.php?id=21684683
 最高画质 命中注定我爱你,http://vip.usa7.345123.xyz/bili.php?id=21694925
 194集猫和老鼠,http://vip.usa7.345123.xyz/bili.php?id=2171135
@@ -709,13 +704,9 @@ tbb电影动画综艺or吃吃吃吃粤语,http://vip.usa7.345123.xyz/bili.php?id
 邵氏影院-经典武侠 动作 老电影,http://vip.usa7.345123.xyz/bili.php?id=21759196
 怀旧经典剧 武侠 神话 神断案,http://vip.usa7.345123.xyz/bili.php?id=21763462
 齐天大圣孙悟空-古典神话系列,http://vip.usa7.345123.xyz/bili.php?id=21791019
-老高的奇幻世界,http://vip.usa7.345123.xyz/bili.php?id=21882327
-今典还珠格格1,2部,http://vip.usa7.345123.xyz/bili.php?id=21974731
-郭德纲理论,http://vip.usa7.345123.xyz/bili.php?id=21996402
 七十二家房客,http://vip.usa7.345123.xyz/bili.php?id=22013050
 赛文奥特曼OV,http://vip.usa7.345123.xyz/bili.php?id=22054619
 聊斋志异+聊斋奇女子,http://vip.usa7.345123.xyz/bili.php?id=22128694
-德云社-郭德纲,http://vip.usa7.345123.xyz/bili.php?id=22239221
 终极一班,http://vip.usa7.345123.xyz/bili.php?id=22587179
 铁齿铜牙纪晓岚 神探狄仁杰 人间正道,http://vip.usa7.345123.xyz/bili.php?id=22665698
 放羊的星星24h,http://vip.usa7.345123.xyz/bili.php?id=22776783
@@ -723,24 +714,13 @@ tbb电影动画综艺or吃吃吃吃粤语,http://vip.usa7.345123.xyz/bili.php?id
 尤夜叉,http://vip.usa7.345123.xyz/bili.php?id=23089518
 少年包青天高清123神雕侠侣雕英雄传,http://vip.usa7.345123.xyz/bili.php?id=23145747
 4K耀祖哥1,http://vip.usa7.345123.xyz/bili.php?id=23150921
-重案六组,http://vip.usa7.345123.xyz/bili.php?id=23196976
 少年包青天-水月洞天,http://vip.usa7.345123.xyz/bili.php?id=23220264
-鬼片,http://vip.usa7.345123.xyz/bili.php?id=23221712
-一起来追呀,http://vip.usa7.345123.xyz/bili.php?id=23229305
-4K耀祖哥2,http://vip.usa7.345123.xyz/bili.php?id=23398113
-港语港台剧,http://vip.usa7.345123.xyz/bili.php?id=2504003
 少年包青天-三部全,http://vip.usa7.345123.xyz/bili.php?id=2803563
-经典电影,http://vip.usa7.345123.xyz/bili.php?id=2982619
 德云社-郭德纲于谦,http://vip.usa7.345123.xyz/bili.php?id=308438
-早安-地球(挂机看剧.神位纷争),http://vip.usa7.345123.xyz/bili.php?id=3202651
 王子变青蛙,http://vip.usa7.345123.xyz/bili.php?id=3712061
 动作电影,http://vip.usa7.345123.xyz/bili.php?id=47917
 少年包青天 暴雨梨花针 开封包黑炭,http://vip.usa7.345123.xyz/bili.php?id=4928767
-龙门快递,http://vip.usa7.345123.xyz/bili.php?id=5111549
 红楼梦,http://vip.usa7.345123.xyz/bili.php?id=5568482
-又开播了 都市男女,http://vip.usa7.345123.xyz/bili.php?id=5613036
-经典粤语剧精选大合集,http://vip.usa7.345123.xyz/bili.php?id=563929
-郭德纲,http://vip.usa7.345123.xyz/bili.php?id=5854051
 百变小樱 翼年代记,http://vip.usa7.345123.xyz/bili.php?id=58833
 新白娘子传奇,http://vip.usa7.345123.xyz/bili.php?id=5960549
 樱桃小丸子,http://vip.usa7.345123.xyz/bili.php?id=6554860
@@ -748,14 +728,10 @@ tbb电影动画综艺or吃吃吃吃粤语,http://vip.usa7.345123.xyz/bili.php?id
 松鼠精选-动作片专场,http://vip.usa7.345123.xyz/bili.php?id=6827037
 动作 悬疑 高能 鬼片,http://vip.usa7.345123.xyz/bili.php?id=6837959
 还珠格格.24小时轮播中,http://vip.usa7.345123.xyz/bili.php?id=7041847
-胡歌(神话)电视剧-聊斋,http://vip.usa7.345123.xyz/bili.php?id=7251976
-三国演义,http://vip.usa7.345123.xyz/bili.php?id=7675780
 扎导版《龙门镖局》,http://vip.usa7.345123.xyz/bili.php?id=81789
 鬼名模,http://vip.usa7.345123.xyz/bili.php?id=82997
 红楼梦,http://vip.usa7.345123.xyz/bili.php?id=8412120
 少年包青天1,http://vip.usa7.345123.xyz/bili.php?id=8566972
-加菲猫/大盗贼,http://vip.usa7.345123.xyz/bili.php?id=906034
-外来媳妇本地郎,http://vip.usa7.345123.xyz/bili.php?id=995289
 干饭人,http://vip.usa7.345123.xyz/douyu.php?id=104984
 大漠叔叔在线普法,http://vip.usa7.345123.xyz/douyu.php?id=1109218
 星爷.华语.经典.电影.神乐,http://vip.usa7.345123.xyz/douyu.php?id=122402
@@ -1211,6 +1187,7 @@ HBO原創電影,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m
 泄密者,https://iqiyi-qq-comic.jjyl12349.com/20210716/Pe3o1j2q/index.m3u8
 功夫,https://iqiyi-qq-comic.jjyl12349.com/20210716/BXjAcLY6/index.m3u8
 动作片,#genre#
+血战虎门,https://sod.bunediy.com/20210920/NGp2tsWi/index.m3u8
 神兵特攻,https://v11.tkzyapi.com/20210917/xIEdIGhP/index.m3u8
 拳霸1,https://vod3.bdzybf3.com/20201226/onmTSA2m/index.m3u8
 拳霸2,https://vod1.bdzybf1.com/20200701/rWKQ8r6d/index.m3u8
@@ -1234,10 +1211,13 @@ HBO原創電影,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m
 叢林奇航,https://vod7.wenshibaowenbei.com/20210801/jgcoCaWr/index.m3u8
 玩命關頭9,https://cdn.605-zy.com/20210730/tWm3EQcW/index.m3u8
 剧情片,#genre#
+当男人恋爱时,https://v11.tkzyapi.com/20210918/NdYzmSQf/1000kb/hls/index.m3u8
+浪流连,https://cdn.zoubuting.com/20210708/2LLjU9ks/index.m3u8
 导盲犬小Q,https://vod1.bdzybf1.com/20200919/C15B5c6X/index.m3u8
 绿里奇迹,https://qq-com.jjyl12349.com/20210521/rhiTbrqH/1000kb/hls/index.m3u8
 七磅,https://vod2.bdzybf2.com/20201218/XpSExLDq/index.m3u8
 喜剧片,#genre#
+大内密探,https://v11.tkzyapi.com/20210915/jr7QKxYQ/1000kb/hls/index.m3u8
 幸运钥匙,https://vod1.bdzybf1.com/20200901/EBwqomO1/index.m3u8
 憨豆的黄金周,https://vod1.bdzybf1.com/20201006/VuDL1Du6/index.m3u8
 憨豆先生的大灾难,https://vod1.bdzybf1.com/20200821/5OAxh40x/index.m3u8
@@ -1279,6 +1259,8 @@ X特遣队,https://youku-com.jjyl12349.com/20210811/aiF0bKnm/index.m3u8
 神秘博士2016,https://vod1.bdzybf1.com/20200921/jpIhZruu/index.m3u8
 神秘博士2019,https://vod2.bdzybf2.com/20210131/olI2kTWw/index.m3u8
 恐怖片,#genre#
+怪奇宅,https://cdn.xbqgx.com/m3u8/%E5%9B%BD%E5%A4%96%E7%94%B5%E5%BD%B1/%E6%80%AA%E5%A5%87%E5%AE%85.m3u8
+安眠实验,https://v7.dious.cc/20210717/7xlUD17g/1000kb/hls/index.m3u8
 灵媒,https://vod6.wenshibaowenbei.com/20210917/4G6FsgR7/index.m3u8
 缉魂,https://v4.dious.cc/20210226/iC7L6Ix5/index.m3u8
 恶魔的艺术1,https://s1.haofajz.com/20210807/vLNoI8zh/1200kb/hls/index.m3u8

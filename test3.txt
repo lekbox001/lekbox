@@ -1132,6 +1132,7 @@ $c_start中国医生战疫版$c_end
 11,https://qq-com.jjyl12349.com/20210622/TG9haoPN/index.m3u8
 12,https://qq-com.jjyl12349.com/20210622/q9FAOT2a/index.m3u8
 $c_start动作片$c_end
+血战虎门,https://sod.bunediy.com/20210920/NGp2tsWi/index.m3u8
 神兵特攻,https://v11.tkzyapi.com/20210917/xIEdIGhP/index.m3u8
 拳霸1,https://vod3.bdzybf3.com/20201226/onmTSA2m/index.m3u8
 拳霸2,https://vod1.bdzybf1.com/20200701/rWKQ8r6d/index.m3u8
@@ -1155,10 +1156,12 @@ $c_start动作片$c_end
 叢林奇航,https://vod7.wenshibaowenbei.com/20210801/jgcoCaWr/index.m3u8
 玩命關頭9,https://cdn.605-zy.com/20210730/tWm3EQcW/index.m3u8
 $c_start剧情片$c_end
+浪流连,https://cdn.zoubuting.com/20210708/2LLjU9ks/index.m3u8
 导盲犬小Q,https://vod1.bdzybf1.com/20200919/C15B5c6X/index.m3u8
 绿里奇迹,https://qq-com.jjyl12349.com/20210521/rhiTbrqH/1000kb/hls/index.m3u8
 七磅,https://vod2.bdzybf2.com/20201218/XpSExLDq/index.m3u8
 $c_start喜剧片$c_end
+大内密探,https://v11.tkzyapi.com/20210915/jr7QKxYQ/1000kb/hls/index.m3u8
 幸运钥匙,https://vod1.bdzybf1.com/20200901/EBwqomO1/index.m3u8
 憨豆的黄金周,https://vod1.bdzybf1.com/20201006/VuDL1Du6/index.m3u8
 憨豆先生的大灾难,https://vod1.bdzybf1.com/20200821/5OAxh40x/index.m3u8
@@ -1200,6 +1203,8 @@ $c_start悬疑片$c_end
 神秘博士2016,https://vod1.bdzybf1.com/20200921/jpIhZruu/index.m3u8
 神秘博士2019,https://vod2.bdzybf2.com/20210131/olI2kTWw/index.m3u8
 $c_start恐怖片$c_end
+怪奇宅,https://cdn.xbqgx.com/m3u8/%E5%9B%BD%E5%A4%96%E7%94%B5%E5%BD%B1/%E6%80%AA%E5%A5%87%E5%AE%85.m3u8
+安眠实验,https://v7.dious.cc/20210717/7xlUD17g/1000kb/hls/index.m3u8
 灵媒,https://vod6.wenshibaowenbei.com/20210917/4G6FsgR7/index.m3u8
 缉魂,https://v4.dious.cc/20210226/iC7L6Ix5/index.m3u8
 恶魔的艺术1,https://s1.haofajz.com/20210807/vLNoI8zh/1200kb/hls/index.m3u8

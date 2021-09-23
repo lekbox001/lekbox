@@ -691,35 +691,6 @@ CNBC,http://125.227.210.37:16415/VideoInput/play.ts
 CN卡通,http://125.227.210.37:16671/VideoInput/play.ts
 NEWS,http://125.227.210.37:18184/VideoInput/play.ts
 TLC,http://125.227.210.37:19020/VideoInput/play.ts
-海外,#genre#
-Channel V[1280*720],http://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
-Outdoor ,http://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
-AFC,https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
-FOX,https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
-索尼动画,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
-国家地理,https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-DWNews,https://livecdn.fptplay.net/world/dwenglish_hls.smil/chunklist_b2500000.m3u8
-FOXHD,https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
-FOXMovie,https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
-AnimaxHD,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
-Outdoor,https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
-CNN International,http://93.190.139.35:8278/streams/d/cnn_antik/playlist.m3u8
-BBC 1,http://93.190.139.35:8278/streams/d/bbc1_antik/playlist.m3u8
-BBC 2,http://93.190.139.35:8278/streams/d/bbc2_antik/playlist.m3u8
-WarnerTV HD,https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
-HISTORY HD,https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
-H2 HD,https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
-Golf HD,https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
-Fox Sport3,https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
-Fox Sport2,https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
-Fox Sport1,https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
-DiscoveryHDWorld,https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
-AnimalPlanet,https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
-Baby TV Eng,http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
-Kids TV,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
-Disney Channel,http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
-Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
-动物星球,http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 泰國,#genre#
 泰01,https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
 泰02,http://news1.live14.com/stream/news1_hi.m3u8

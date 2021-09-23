@@ -837,7 +837,6 @@ sport81,rtmp://59.124.75.153/sat/us081
 卫视电影HD,http://107.167.5.66:80/mylive/102/2061/index.m3u8
 天映电影HD,http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
 靳东,http://118.26.120.23:55336/tslive/c52_lb_130_600_t10/c52_lb_130_600_t10.m3u8?key=0b292c335e5837e949824f859a8b8c822
-青春剧场,,http://118.26.120.23:55336/tslive/c55_lb_147_720P_t10/c55_lb_147_720P_t10.m3u8?key=0b292c335e5837e94260cf36781e36116
 铠甲勇士,http://118.26.120.23:55336/tslive/c53_lb_82_600_t10/c53_lb_82_600_t10.m3u8?key=0b292c335e5837e94d4f473a1e011e886
 重磅综艺,http://118.26.120.23:55336/tslive/c52_lb_84_600_t10/c52_lb_84_600_t10.m3u8?key=0c4072903d08e91f9fdea2bcfb2c80641
 郭德钢,http://118.26.120.23:55336/tslive/c51_lb_111_600_t10/c51_lb_111_600_t10.m3u8?key=0b292c335e5837e94ec353b1de307a12f
@@ -936,7 +935,6 @@ tbb电影动画综艺or吃吃吃吃粤语,http://vip.usa7.345123.xyz/bili.php?id
 欧美 科幻 经典,http://vip.usa7.345123.xyz/douyu.php?id=20415 
 [动漫],http://vip.usa7.345123.xyz/douyu.php?id=206858
 电影最TOP,http://vip.usa7.345123.xyz/douyu.php?id=2164691
-[林正英],http://vip.usa7.345123.xyz/douyu.php?id=218859
 海绵与大星,http://vip.usa7.345123.xyz/douyu.php?id=2250349
 超清港剧直播间,http://vip.usa7.345123.xyz/douyu.php?id=223521
 [悬疑],http://vip.usa7.345123.xyz/douyu.php?id=2337939
@@ -964,7 +962,6 @@ N分钟带你看完大片,http://vip.usa7.345123.xyz/douyu.php?id=2758565
 24h恐怖喜剧科幻灾难,http://vip.usa7.345123.xyz/douyu.php?id=3346305
 金庸武侠-古装神剧,http://vip.usa7.345123.xyz/douyu.php?id=338759
 杀死燕双鹰.活捉狄仁杰!,http://vip.usa7.345123.xyz/douyu.php?id=3439096
-精彩科幻影视-解说连连看,http://vip.usa7.345123.xyz/douyu.php?id=3508304
 迷之动漫,http://vip.usa7.345123.xyz/douyu.php?id=35518
 2号厅.欧美.日韩.国产,http://vip.usa7.345123.xyz/douyu.php?id=36337 
 港式恐怖 经典再现,http://vip.usa7.345123.xyz/douyu.php?id=3637726
@@ -980,7 +977,6 @@ N分钟带你看完大片,http://vip.usa7.345123.xyz/douyu.php?id=2758565
 [小鸽陪看]动作 枪战 经典 科幻,http://vip.usa7.345123.xyz/douyu.php?id=3928
 你学过这个笑声吗?,http://vip.usa7.345123.xyz/douyu.php?id=4072556
 [邵氏影院]经典武侠 动作,http://vip.usa7.345123.xyz/douyu.php?id=4246519
-小片片说大片,http://vip.usa7.345123.xyz/douyu.php?id=4258555
 武侠浪子的美食分享,http://vip.usa7.345123.xyz/douyu.php?id=4262598
 晓妞动漫花园,http://vip.usa7.345123.xyz/douyu.php?id=426517
 超清1经典港剧天地,http://vip.usa7.345123.xyz/douyu.php?id=4290711
@@ -1032,7 +1028,6 @@ TopGear TheGrandTour,http://vip.usa7.345123.xyz/douyu.php?id=501455
 [師落]大秦男儿 勿忘东出,http://vip.usa7.345123.xyz/douyu.php?id=6582435
 家有儿女杨紫下饭剧,http://vip.usa7.345123.xyz/douyu.php?id=6648727
 港片 破案,http://vip.usa7.345123.xyz/douyu.php?id=6733135
-狄仁杰:想听听我的故事吗,http://vip.usa7.345123.xyz/douyu.php?id=674441
 玉儿陪看-经典电影,http://vip.usa7.345123.xyz/douyu.php?id=675072
 [高帧]成龙/动作/武侠/动作,http://vip.usa7.345123.xyz/douyu.php?id=6763930
 贾队长~原版独播,http://vip.usa7.345123.xyz/douyu.php?id=6778282
@@ -1058,8 +1053,6 @@ TopGear TheGrandTour,http://vip.usa7.345123.xyz/douyu.php?id=501455
 [冰冰]电影电视剧陪你,http://vip.usa7.345123.xyz/douyu.php?id=74374
 [蓝翔]经典电视剧,http://vip.usa7.345123.xyz/douyu.php?id=7459925
 每天不重复-好剧播不停,http://vip.usa7.345123.xyz/douyu.php?id=7476264
-[女神金]极致蓝光 刀刀陪看,http://vip.usa7.345123.xyz/douyu.php?id=747764
-[庆帝]大片片说小片,http://vip.usa7.345123.xyz/douyu.php?id=7489563
 [动漫乐园欢迎你,http://vip.usa7.345123.xyz/douyu.php?id=7493575
 经典怀旧,http://vip.usa7.345123.xyz/douyu.php?id=7495810
 妻管严 神剧,http://vip.usa7.345123.xyz/douyu.php?id=7502558
@@ -1076,60 +1069,23 @@ TopGear TheGrandTour,http://vip.usa7.345123.xyz/douyu.php?id=501455
 千部经典[电影]持续更新,http://vip.usa7.345123.xyz/douyu.php?id=7882691
 今天工作辛苦啦,http://vip.usa7.345123.xyz/douyu.php?id=7925840
 高分电影,http://vip.usa7.345123.xyz/douyu.php?id=8058642
-[果条]历史电视剧,http://vip.usa7.345123.xyz/douyu.php?id=8168353
-刘老师说电影,http://vip.usa7.345123.xyz/douyu.php?id=8317926
 [电视剧点播],http://vip.usa7.345123.xyz/douyu.php?id=8371123
-[体育]科比.乔丹.篮球明星的过去,http://vip.usa7.345123.xyz/douyu.php?id=8434598
+科比.乔丹.篮球明星的过去,http://vip.usa7.345123.xyz/douyu.php?id=8434598
 经典怀旧,动作.恐怖.科幻.经典电影,http://vip.usa7.345123.xyz/douyu.php?id=851249
 下饭剧场-马大帅,http://vip.usa7.345123.xyz/douyu.php?id=8531333
-[神乐]华语.经典.电影.刘德华.周星驰,http://vip.usa7.345123.xyz/douyu.php?id=85894
-[综艺]搞笑影视综艺解说时间到了,http://vip.usa7.345123.xyz/douyu.php?id=8657920
-[三炮]几分钟看完一部电影,http://vip.usa7.345123.xyz/douyu.php?id=8768613
-科幻战舰-科幻片解说,http://vip.usa7.345123.xyz/douyu.php?id=8772060
+华语.经典.电影.刘德华.周星驰,http://vip.usa7.345123.xyz/douyu.php?id=85894
 发现放映室,http://vip.usa7.345123.xyz/douyu.php?id=8791622
-大胡子魏的直播间,http://vip.usa7.345123.xyz/douyu.php?id=8792763
-[丸子叨叨叨]解说界的一朵奇葩,http://vip.usa7.345123.xyz/douyu.php?id=8851267
-晚晚]话多陪看女唐僧唠嗑,http://vip.usa7.345123.xyz/douyu.php?id=8861179
-虫哥说电影,http://vip.usa7.345123.xyz/douyu.php?id=8915074
-[林正英]经典 僵尸 女鬼,http://vip.usa7.345123.xyz/douyu.php?id=8921999
-[午夜消暑]伊藤润二恐怖漫画解说,http://vip.usa7.345123.xyz/douyu.php?id=8936207
 [佳佳影院],http://vip.usa7.345123.xyz/douyu.php?id=8985119
 潘金莲-武松那点事儿,http://vip.usa7.345123.xyz/douyu.php?id=8986636
-开心锤锤.开心快乐每一天,http://vip.usa7.345123.xyz/douyu.php?id=9018297
-开心嘴炮来-疯狂吐槽辣眼雷剧,http://vip.usa7.345123.xyz/douyu.php?id=9026377
-专业解说柯南直播间,http://vip.usa7.345123.xyz/douyu.php?id=9065082
 经典小品相声,http://vip.usa7.345123.xyz/douyu.php?id=9067836
 [悬疑]解说午夜惊悚乐园,http://vip.usa7.345123.xyz/douyu.php?id=9075333
 电视剧,http://vip.usa7.345123.xyz/douyu.php?id=9110905
 [悬疑]古今中外犯罪录,http://vip.usa7.345123.xyz/douyu.php?id=9171887
 山下智博来啦!绅士一分钟走起,http://vip.usa7.345123.xyz/douyu.php?id=9186596
 星爷 动作 恐怖 枪战,http://vip.usa7.345123.xyz/douyu.php?id=9193876
-万合天宜[鲜肉老师],http://vip.usa7.345123.xyz/douyu.php?id=9220456
-老邪说电影,http://vip.usa7.345123.xyz/douyu.php?id=9222870
 吐槽一下 快乐一天,http://vip.usa7.345123.xyz/douyu.php?id=9236042
-[华语厅]经典 星爷 成龙 刘德华 喜剧,http://vip.usa7.345123.xyz/douyu.php?id=925724
-[恐怖电影]林正英 僵尸 鬼片 经典,http://vip.usa7.345123.xyz/douyu.php?id=9275635
 [重案]万籁俱寂 鸦雀无声,http://vip.usa7.345123.xyz/douyu.php?id=9290734
 [笑场]喜剧电影专场,http://vip.usa7.345123.xyz/douyu.php?id=9292492
-经典电视剧,http://vip.usa7.345123.xyz/douyu.php?id=9315999
-刘老根,http://vip.usa7.345123.xyz/douyu.php?id=9356279
-刘能赵四直播专场,http://vip.usa7.345123.xyz/douyu.php?id=9356342
-果子哥哥邓先森配音,http://vip.usa7.345123.xyz/douyu.php?id=9372950
-真香动漫解说,http://vip.usa7.345123.xyz/douyu.php?id=9391292
-欢乐吐槽,大白话瞎突突,http://vip.usa7.345123.xyz/douyu.php?id=9412287
-[娜娜酱]带你一起看动漫,http://vip.usa7.345123.xyz/douyu.php?id=9445557
-可以进来嘛?好无聊啊,http://vip.usa7.345123.xyz/douyu.php?id=9450299
-[贤于葛格]最会讲电影的贤于来啦,http://vip.usa7.345123.xyz/douyu.php?id=9461990
-楠者电影-最会讲电影的人,http://vip.usa7.345123.xyz/douyu.php?id=9485398
-新治愈篇美食家 点餐美食,http://vip.usa7.345123.xyz/douyu.php?id=953193
-[成龙历险记]最详细的解说,http://vip.usa7.345123.xyz/douyu.php?id=9542834
-经典情景喜剧轮播,http://vip.usa7.345123.xyz/douyu.php?id=9560268
-经典国产电视剧,http://vip.usa7.345123.xyz/douyu.php?id=9599389
-永远致敬香港电影,http://vip.usa7.345123.xyz/douyu.php?id=9599544
-1000部悬疑电影,http://vip.usa7.345123.xyz/douyu.php?id=9601429
-[孙红雷]经典影视剧,http://vip.usa7.345123.xyz/douyu.php?id=9606577
-乱世枭雄.顶级谋士.战神武将,http://vip.usa7.345123.xyz/douyu.php?id=9639508
-经典美剧.经典电影[3说电影],http://vip.usa7.345123.xyz/douyu.php?id=9643264
 丧尸.鬼片.恐怖.惊悚.电影,http://vip.usa7.345123.xyz/douyu.php?id=96577
 科幻 战争 鬼片 恐怖,http://vip.usa7.345123.xyz/douyu.php?id=9717093
 乔巴才是海贼王,http://vip.usa7.345123.xyz/douyu.php?id=997925
@@ -1140,27 +1096,10 @@ TopGear TheGrandTour,http://vip.usa7.345123.xyz/douyu.php?id=501455
 电影18,http://dyscdnali1.douyucdn.cn/live/3928r9p0BHMDG.flv?uuid=
 电影21,http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=
 电影44,http://dyscdnali1.douyucdn.cn/live/2935323rnTpNsu74.flv?uuid=
-Discovery Asia,vjms://14.102.154.164:8500/live/cid=440
-Disney Channel,vjms://14.102.154.164:8500/live/cid=361
-HBO HD,vjms://14.102.154.164:8500/live/cid=261
-Nat Geo,vjms://14.102.154.164:8500/live/cid=115
-Nat Geo Wild,vjms://14.102.154.164:8500/live/cid=263
-HBO台1,http://107.167.5.66:80/mylive/102/2065/index.m3u8
-HBO台2,http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
-纬来电影,rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910c8c?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
-龍祥時代,rtmp://202.39.64.233/channel/60c2474a961593122ebaf7b5?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
-FOX电影,rtmp://202.39.64.233/channel/60c2d575961593122ebaf8bf?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
-FOX Life,http://198.16.106.62:8278/streams/d/Foxlife/playlist.m3u8
-HBO,http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
-HBO原創電影,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
 淘娱乐,http://39.135.238.69:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
 淘电影,http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 淘BABY,http://39.134.134.88:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8
 萌宠TV,http://39.135.238.61:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
-死神來了,http://121.12.115.15/tx.hls.huya.com/src/1423782074-1423782074-6115097444461051904-2847687604-10057-A-0-1.m3u8
-漫威宇宙,http://121.12.115.15/tx.hls.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.m3u8
-科幻电影,http://121.12.115.15/tx.hls.huya.com/src/1423782061-1423782061-6115097388626477056-2847687578-10057-A-0-1.m3u8
-蜡笔小新,http://hy.tushepy.com/pls/huya.php?id=11352970
 大健康,http://39.135.238.67:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226556/1.m3u8
 5+频道,http://39.134.39.37/PLTV/88888888/224/3221226267/index.m3u8
 6+频道,http://39.134.39.37/PLTV/88888888/224/3221226269/index.m3u8
@@ -1171,16 +1110,9 @@ HBO原創電影,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m
 相声小品,http://39.134.39.37/PLTV/88888888/224/3221226260/index.m3u8
 动漫秀场,http://39.134.39.39/PLTV/88888888/224/3221226197/index.m3u8
 极速汽车,http://39.134.39.39/PLTV/88888888/224/3221226195/index.m3u8
-极速赛车,http://39.134.39.39/PLTV/88888888/224/3221226310/index.m3u8
 欢笑剧场,http://39.134.39.39/PLTV/88888888/224/3221226203/index.m3u8
 都市剧场,http://39.134.39.39/PLTV/88888888/224/3221226176/index.m3u8
-高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 星光影视,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-绍兴影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-凤凰电影,rtmp://58.200.131.2:1935/livetv/fhdy
 中国医生,#genre#
 1,https://m1905-com.jjyl12349.com/20210511/HIdKg3Ge/index.m3u8
 2,https://m1905-com.jjyl12349.com/20210511/YFlzexKa/index.m3u8

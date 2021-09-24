@@ -14,6 +14,7 @@ LEKBOX,http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml,不解析
 泡泡影视,http://www.chinaboshan.com/api.php/provide/vod/at/xml,解析
 饭团,http://fantuan.wkfile.com/api.php/provide/vod/at/xml,解析
 百度,https://api.bdjx.vip/api.php/provide/vod/at/xml,解析
+乐奇艺,https://www.lqiyi.co/api.php/provide/vod/at/xml,解析
 U猫资源,http://umao.ml/api.php/provide/vod/at/xml,解析
 人人资源,https://www.rrzyw.cc/api.php/provide/vod/at/xml,解析
 追剧,http://www.huaxiab.com/api.php/provide/vod/at/xml,解析

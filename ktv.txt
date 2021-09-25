@@ -1,3 +1,4 @@
+KTV,#genre#
 1号,http://em.21dtv.com/songs/60110000.mkv
 2号,http://em.21dtv.com/songs/60110001.mkv
 3号,http://em.21dtv.com/songs/60110002.mkv

@@ -888,35 +888,27 @@ SPORT,#genre#
 Arena,http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 Sukan,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 RTM Sports,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
-爱尔达体育 1,rtmp://59.124.75.153/sat/md021
-爱尔达体育 2,rtmp://59.124.75.153/sat/md011
-爱尔达体育 3,rtmp://59.124.75.153/sat/md051
-爱尔达体育1台,rtmp://161.202.204.248/sat/md011
-爱尔达体育2台,rtmp://161.202.204.248/sat/md021
-爱尔达体育2台b,rtmp://161.202.204.248/sat/md031
-爱尔达体育3台,rtmp://161.202.204.248/sat/md051
-NBA,https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
-CRICKET,http://50.7.161.82:8278/streams/d/astrocricket_pye/playlist.m3u8
-CCTV5c,http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
-CCTV5d,http://39.135.32.24:6610/000000001000/1000000001000004794/index.m3u8?i
+CCTV5,http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
+CCTV5,http://39.135.32.24:6610/000000001000/1000000001000004794/index.m3u8?i
+CCTV5+HD,http://39.134.39.39/PLTV/88888888/224/3221226253/index.m3u8
+CCTV5+HD,http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
+精品体育,http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
+超级体育,http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
+劲爆体育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
+魅力足球,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
 五星体育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
-超级体育ᴴᴰ,http://39.134.155.137/PLTV/88888888/224/3221225653/index.m3u8
-超级体育,http://39.134.155.153/PLTV/88888888/224/3221225576/index.m3u8
-NBA HD,https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
-NBA TV,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/160
-RTM Sports HD2,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
-sport21,rtmp://59.124.75.153/sat/us021
-wsport,rtmp://59.124.75.153/sat/us031
-sport41,rtmp://59.124.75.153/sat/us041
-B51,rtmp://59.124.75.153/sat/us051
-FX61,rtmp://59.124.75.153/sat/us061
-cbs71,rtmp://59.124.75.153/sat/us071
-sport81,rtmp://59.124.75.153/sat/us081
-231号,rtmp://59.124.75.153/sat/us231
-251号,rtmp://59.124.75.153/sat/us251
-261号,rtmp://59.124.75.153/sat/us261
-271号,rtmp://59.124.75.153/sat/us271
-281号,rtmp://59.124.75.153/sat/us281
+新视觉,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
+极速汽车,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jsqchd/4000000/mnf.m3u8
+山东体育,http://livealone302.iqilu.com/iqilu/typd.m3u8
+弈坛春秋,http://223.110.241.149:6610/gitv/live1/G_YITANCQ/G_YITANCQ/1.m3u8
+吉林篮球,http://223.110.241.149:6610/gitv/live1/G_LANQIU/G_LANQIU/1.m3u8
+博斯运动2,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
+爱尔达体育1,rtmp://161.202.204.248/sat/md011
+eleven2,rtmp://161.202.204.248/sat/md021
+爱尔达体育1,rtmp://161.202.204.248/sat/md051
+有线18台,rtmp://161.202.204.248/sat/hk041
+ELEVEN SPORTS 1,http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+Canal+ Sport,http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
 电影系列,#genre#
 粤语1,http://vip.usa7.345123.xyz/douyu.php?id=6566671
 粤语2,http://vip.usa7.345123.xyz/douyu.php?id=2466104 

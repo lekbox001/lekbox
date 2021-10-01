@@ -1,3 +1,276 @@
+$c_startMY$c_end
+TV1a,http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+TV2a,http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+TV3a,http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+NTV7a,http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
+8TV1,http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+TV9a,http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+AEC,http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8#http://50.7.161.82:8277/streams/d/aec_pye/playlist.m3u8
+港剧台,http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8#http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
+星河,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+欢喜台,http://50.7.161.82:8278/streams/d/huanxi_pye/playlist.m3u8
+爱奇艺,http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8#http://50.7.161.82:8277/streams/d/iqiyi_pye/playlist.m3u8
+双星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+小太阳1,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+小太阳2,http://50.7.161.82:8278/streams/d/xiaotaiyang_pye/playlist.m3u8
+全佳,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+天映频道,http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
+天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+AEC2,http://198.16.106.62:8278/streams/d/Aec1511/playlist.m3u8
+AOD-HD,http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
+華麗臺,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
+歡喜臺,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
+愛奇藝,http://198.16.106.62:8278/streams/d/Qiyi1511/playlist.m3u8
+Awani2,https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+GO SHOP Ch,http://50.7.161.82:8278/streams/d/Goshopch/playlist.m3u8
+GO SHOP Ch2,http://50.7.161.82:8278/streams/d/goshopch_pye/playlist.m3u8
+CGTN,http://50.7.161.82:8278/streams/d/cgtn_pye/playlist.m3u8
+CGTN2,http://50.7.161.82:8278/streams/d/cgtn_pye/playlist.m3u8
+GOLF,http://50.7.161.82:8278/streams/d/astrogolf_pye/playlist.m3u8
+Awani,http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+Prima,http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+Animal Planet2,http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+Bernama TV,http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+Boo,http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+CGTN,http://50.7.161.82:8278/streams/d/cgtn_pye/playlist.m3u8
+Ceria,http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+Citra,http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+Drama Sangat,http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
+Drama Sangat2,http://50.7.161.82:8278/streams/d/dsangat_pye/playlist.m3u8
+GOLF,http://50.7.161.82:8278/streams/d/astrogolf_pye/playlist.m3u8
+Oasis,http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+Bernama TV,http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+Boo,http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+Oh!k,http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+Prima,http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+Prima2,http://50.7.161.82:8278/streams/d/prima_pye/playlist.m3u8
+SURIA,http://50.7.161.82:8278/streams/d/Suria/playlist.m3u8
+Hello,http://50.7.161.82:8278/streams/d/hello_pye/playlist.m3u8
+Naura,http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+Naura2,http://50.7.161.82:8278/streams/d/naura_pye/playlist.m3u8
+Warna,http://50.7.161.82:8278/streams/d/warnahd_pye/playlist.m3u8
+Sony HD,http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
+tvN,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+KBS Wolrd,http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
+KBS Wolrd,http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
+KBS Wolrd,http://50.7.161.82:8278/streams/d/kbsw_pye/playlist.m3u8
+KIX,http://50.7.161.82:8278/streams/d/kixj_pye/playlist.m3u8
+HBO,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+HBO-综合,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+TVN-亚洲,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+OHK,http://50.7.161.82:8277/streams/d/ohk_pye/playlist.m3u8
+OHK2,http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+Set One HD,http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
+Set One HD2,http://50.7.161.82:8278/streams/d/sonyhd_pye/playlist.m3u8
+WWE,http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
+HGTV,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+NatGeo Wild HD,http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+Arena,http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+Sukan,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
+RTM Sports,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
+CRICKET,http://50.7.161.82:8278/streams/d/astrocricket_pye/playlist.m3u8
+RTM Sports HD,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
+Go Shop GAAYA,http://50.7.161.82:8278/streams/d/goshop2_pye/playlist.m3u8
+TV1b,http://50.7.161.82:8278/streams/d/tv1_pye/playlist.m3u8
+TV2b,http://50.7.161.82:8278/streams/d/tv2_pye/playlist.m3u8
+TV3b,http://50.7.161.82:8278/streams/d/tv3_pye/playlist.m3u8
+NTV7b,http://50.7.161.82:8278/streams/d/ntv7_pye/playlist.m3u8
+8TV2,http://50.7.161.82:8278/streams/d/tv8_pye/playlist.m3u8
+TV9b,http://50.7.161.82:8278/streams/d/tv9_pye/playlist.m3u8
+Kids TV,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
+Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
+$c_startASIAN$c_end
+ASSP,http://foctv.xyz:25510/Amir5641/YY5641/148
+ASSP2,http://foctv.xyz:25510/Amir5641/YY5641/149
+ASSP3,http://foctv.xyz:25510/Amir5641/YY5641/232
+ASSP4,http://foctv.xyz:25510/Amir5641/YY5641/249
+AEC,http://foctv.xyz:25510/Amir5641/YY5641/43
+AOD,http://foctv.xyz:25510/Amir5641/YY5641/44
+華麗台,http://foctv.xyz:25510/Amir5641/YY5641/45
+欢喜台,http://foctv.xyz:25510/Amir5641/YY5641/46
+全佳,http://foctv.xyz:25510/Amir5641/YY5641/47
+爱奇艺,http://foctv.xyz:25510/Amir5641/YY5641/48
+天映頻道,http://foctv.xyz:25510/Amir5641/YY5641/49
+天映经典,http://foctv.xyz:25510/Amir5641/YY5641/50
+天映经典 B,http://foctv.xyz:25510/Amir5641/YY5641/51
+衛視卡式台,http://foctv.xyz:25510/Amir5641/YY5641/52
+衛視電影台,http://foctv.xyz:25510/Amir5641/YY5641/53
+8TV,http://foctv.xyz:25510/Amir5641/YY5641/9
+Animax,http://foctv.xyz:25510/Amir5641/YY5641/102
+Aniplus,http://foctv.xyz:25510/Amir5641/YY5641/103
+Arirang,http://foctv.xyz:25510/Amir5641/YY5641/137
+BOO,http://foctv.xyz:25510/Amir5641/YY5641/33
+KBS World_A,http://foctv.xyz:25510/Amir5641/YY5641/138
+KBS World_B,http://foctv.xyz:25510/Amir5641/YY5641/139
+K+,http://foctv.xyz:25510/Amir5641/YY5641/140
+Sony GEM TV,http://foctv.xyz:25510/Amir5641/YY5641/105
+Sony One,http://foctv.xyz:25510/Amir5641/YY5641/133
+tvN,http://foctv.xyz:25510/Amir5641/YY5641/135
+tvN Movies,http://foctv.xyz:25510/Amir5641/YY5641/136
+Waku Waku Japan,http://foctv.xyz:25510/Amir5641/YY5641/104
+Arena,http://foctv.xyz:25510/Amir5641/YY5641/147
+beIN Sports 1,http://foctv.xyz:25510/Amir5641/YY5641/155
+beIN Sports 2,http://foctv.xyz:25510/Amir5641/YY5641/156
+beIN SPORTS,http://foctv.xyz:25510/Amir5641/YY5641/157
+beIN SPORTS MAX,http://foctv.xyz:25510/Amir5641/YY5641/158
+eGG TV,http://foctv.xyz:25510/Amir5641/YY5641/162
+Fight Sport,http://foctv.xyz:25510/Amir5641/YY5641/161
+FOX Sport 1,http://foctv.xyz:25510/Amir5641/YY5641/152
+FOX Sport 2,http://foctv.xyz:25510/Amir5641/YY5641/153
+FOX Sport 3,http://foctv.xyz:25510/Amir5641/YY5641/154
+NBA TV,http://foctv.xyz:25510/Amir5641/YY5641/160
+NBC Golf,http://foctv.xyz:25510/Amir5641/YY5641/159
+RTM Sports,http://foctv.xyz:25510/Amir5641/YY5641/146
+SPORT TV,http://foctv.xyz:25510/Amir5641/YY5641/150
+Usee Sport 1,http://foctv.xyz:25510/Amir5641/YY5641/241
+Usee Sport 2,http://foctv.xyz:25510/Amir5641/YY5641/242
+CinemaWorld,http://foctv.xyz:25510/Amir5641/YY5641/69
+Cinemax,http://foctv.xyz:25510/Amir5641/YY5641/65
+Flik,http://foctv.xyz:25510/Amir5641/YY5641/72
+FOX Action Movies,http://foctv.xyz:25510/Amir5641/YY5641/59
+FOX Family Movies,http://foctv.xyz:25510/Amir5641/YY5641/60
+FOX Family Movies,http://foctv.xyz:25510/Amir5641/YY5641/61
+FOX Movies Premium,http://foctv.xyz:25510/Amir5641/YY5641/58
+Galaxy Premium,http://foctv.xyz:25510/Amir5641/YY5641/67
+Galaxy,http://foctv.xyz:25510/Amir5641/YY5641/66
+HBO Family,http://foctv.xyz:25510/Amir5641/YY5641/56
+HBO Hits,http://foctv.xyz:25510/Amir5641/YY5641/55
+HBO Signature,http://foctv.xyz:25510/Amir5641/YY5641/57
+HBO,http://foctv.xyz:25510/Amir5641/YY5641/54
+HITS Movies,http://foctv.xyz:25510/Amir5641/YY5641/68
+MNX,http://foctv.xyz:25510/Amir5641/YY5641/222
+SONY Pix,http://foctv.xyz:25510/Amir5641/YY5641/223
+Star Movie Select,http://foctv.xyz:25510/Amir5641/YY5641/221
+Star Movies,http://foctv.xyz:25510/Amir5641/YY5641/220
+Thrill,http://foctv.xyz:25510/Amir5641/YY5641/70
+AXN,http://foctv.xyz:25510/Amir5641/YY5641/76
+BBC Lifestyle,http://foctv.xyz:25510/Amir5641/YY5641/77
+ROCK Entertainment,http://foctv.xyz:25510/Amir5641/YY5641/81
+ROCK Extreme,http://foctv.xyz:25510/Amir5641/YY5641/82
+Channel V. Int,http://foctv.xyz:25510/Amir5641/YY5641/205
+Crime Investigation,http://foctv.xyz:25510/Amir5641/YY5641/87
+Fashion TV,http://foctv.xyz:25510/Amir5641/YY5641/88
+FOX Crime,http://foctv.xyz:25510/Amir5641/YY5641/84
+FOX Life,http://foctv.xyz:25510/Amir5641/YY5641/85
+FOX,http://foctv.xyz:25510/Amir5641/YY5641/83
+HGTV,http://foctv.xyz:25510/Amir5641/YY5641/78
+HITS,http://foctv.xyz:25510/Amir5641/YY5641/86
+KIX,http://foctv.xyz:25510/Amir5641/YY5641/74
+Lifetime,http://foctv.xyz:25510/Amir5641/YY5641/80
+MTV Live,http://foctv.xyz:25510/Amir5641/YY5641/206
+Warner TV,http://foctv.xyz:25510/Amir5641/YY5641/79
+AFC,http://foctv.xyz:25510/Amir5641/YY5641/100
+Animal Planet,http://foctv.xyz:25510/Amir5641/YY5641/96
+BBC Earth,http://foctv.xyz:25510/Amir5641/YY5641/90
+Discovery Asia,http://foctv.xyz:25510/Amir5641/YY5641/98
+Discovery Channel,http://foctv.xyz:25510/Amir5641/YY5641/97
+Discovery Science,http://foctv.xyz:25510/Amir5641/YY5641/99
+DMAX,http://foctv.xyz:25510/Amir5641/YY5641/91
+History,http://foctv.xyz:25510/Amir5641/YY5641/92
+Love Nature,http://foctv.xyz:25510/Amir5641/YY5641/89
+Nat Geo People,http://foctv.xyz:25510/Amir5641/YY5641/94
+Nat Geo Wild,http://foctv.xyz:25510/Amir5641/YY5641/95
+National Geographic,http://foctv.xyz:25510/Amir5641/YY5641/93
+TLC,http://foctv.xyz:25510/Amir5641/YY5641/101
+Disney Channel,http://foctv.xyz:25510/Amir5641/YY5641/120
+Disney Junior,http://foctv.xyz:25510/Amir5641/YY5641/122
+Cartoon Network,http://foctv.xyz:25510/Amir5641/YY5641/123
+Dreamworks,http://foctv.xyz:25510/Amir5641/YY5641/125
+Boomerang,http://foctv.xyz:25510/Amir5641/YY5641/126
+Nickelodeon,http://foctv.xyz:25510/Amir5641/YY5641/127
+Nick Jr,http://foctv.xyz:25510/Amir5641/YY5641/128
+My Kidz,http://foctv.xyz:25510/Amir5641/YY5641/131
+BabyFirst,http://foctv.xyz:25510/Amir5641/YY5641/132
+Baby TV,http://foctv.xyz:25510/Amir5641/YY5641/182
+Aura,http://foctv.xyz:25510/Amir5641/YY5641/28
+Awani,http://foctv.xyz:25510/Amir5641/YY5641/16
+Awani(B),http://foctv.xyz:25510/Amir5641/YY5641/17
+Bernama,http://foctv.xyz:25510/Amir5641/YY5641/15
+Ceria,http://foctv.xyz:25510/Amir5641/YY5641/19
+Ceria(B),http://foctv.xyz:25510/Amir5641/YY5641/20
+Citra,http://foctv.xyz:25510/Amir5641/YY5641/26
+Citra(B),http://foctv.xyz:25510/Amir5641/YY5641/27
+Hello,http://foctv.xyz:25510/Amir5641/YY5641/32
+Naura,http://foctv.xyz:25510/Amir5641/YY5641/30
+Naura(B),http://foctv.xyz:25510/Amir5641/YY5641/31
+Oasis,http://foctv.xyz:25510/Amir5641/YY5641/18
+Prima,http://foctv.xyz:25510/Amir5641/YY5641/21
+Prima(B),http://foctv.xyz:25510/Amir5641/YY5641/22
+Rania,http://foctv.xyz:25510/Amir5641/YY5641/29
+Ria,http://foctv.xyz:25510/Amir5641/YY5641/23
+Ria (B),http://foctv.xyz:25510/Amir5641/YY5641/224
+Ria (C),http://foctv.xyz:25510/Amir5641/YY5641/282
+Warna,http://foctv.xyz:25510/Amir5641/YY5641/24
+Warna(B),http://foctv.xyz:25510/Amir5641/YY5641/25
+TV1,http://foctv.xyz:25510/Amir5641/YY5641/1
+TV1 (B),http://foctv.xyz:25510/Amir5641/YY5641/2
+TV2,http://foctv.xyz:25510/Amir5641/YY5641/3
+TV2 (B),http://foctv.xyz:25510/Amir5641/YY5641/4
+TV3,http://foctv.xyz:25510/Amir5641/YY5641/5
+TV3(B),http://foctv.xyz:25510/Amir5641/YY5641/6
+TV3(C),http://foctv.xyz:25510/Amir5641/YY5641/7
+TV6,http://foctv.xyz:25510/Amir5641/YY5641/203
+NTV7,http://foctv.xyz:25510/Amir5641/YY5641/8
+TV9,http://foctv.xyz:25510/Amir5641/YY5641/10
+TV9(B),http://foctv.xyz:25510/Amir5641/YY5641/11
+TVS,http://foctv.xyz:25510/Amir5641/YY5641/214
+Okey,http://foctv.xyz:25510/Amir5641/YY5641/12
+Drama Sangat,http://foctv.xyz:25510/Amir5641/YY5641/13
+AOD,http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
+Astro欢喜,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
+Ria HD,http://iptv.tvmalaysia.cc:80/624850/624850/6730
+Prima HD,http://iptv.tvmalaysia.cc:80/624850/624850/6727
+Citra HD (subtitle),http://iptv.tvmalaysia.cc:80/624850/624850/7267
+Boo,http://iptv.tvmalaysia.cc:80/624850/624850/8872
+Naura HD,http://iptv.tvmalaysia.cc:80/624850/624850/6724
+Oasis HD,http://iptv.tvmalaysia.cc:80/624850/624850/6725
+Rania HD,http://iptv.tvmalaysia.cc:80/624850/624850/6729
+Awani HD,http://iptv.tvmalaysia.cc:80/624850/624850/6714
+Ceria HD,http://iptv.tvmalaysia.cc:80/624850/624850/6715
+Asian Food Network HD,http://iptv.tvmalaysia.cc:80/624850/624850/6693
+Al-Jazzera HD,http://iptv.tvmalaysia.cc:80/624850/624850/6694
+Adithya,http://iptv.tvmalaysia.cc:80/624850/624850/6700
+Colors Tamil,http://iptv.tvmalaysia.cc:80/624850/624850/6716
+Zee Tamil HD,http://iptv.tvmalaysia.cc:80/624850/624850/6742
+Vinmeen HD,http://iptv.tvmalaysia.cc:80/624850/624850/6739
+Vaanavil HD,http://iptv.tvmalaysia.cc:80/624850/624850/6738
+Awani,https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
+Awani,https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+Awani,https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream04/streamPlaylist.m3u8
+bolly one [HEVC],http://50.7.161.82:8278/streams/d/bollyone_pye/playlist.m3u8
+Makkah TV,http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
+Medina TV,https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
+Medina TV,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+HBO Signature FHD,https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+HBO Hits FHD,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+HBO Family FHD,https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+CINEMAX FHD,https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+CBeebies,http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
+HBO原創電影,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
+星河频道,http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
+Prima,http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+tvN Movies,https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+TVB 星河,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+Makkal TV,http://iptv.tvmalaysia.cc:80/624850/624850/6806
+Sun TV HD,http://iptv.tvmalaysia.cc:80/624850/624850/6733
+Star Vijay HD,http://iptv.tvmalaysia.cc:80/624850/624850/6732
+Jaya Max,http://iptv.tvmalaysia.cc:80/624850/624850/6802
+Chutti TV,http://iptv.tvmalaysia.cc:80/624850/624850/6762
+Bernama News,http://iptv.tvmalaysia.cc:80/624850/624850/6750
+Colors HD,http://iptv.tvmalaysia.cc:80/624850/624850/6769
+Colors Cineplex,http://iptv.tvmalaysia.cc:80/624850/624850/6768
+Sun Music,http://iptv.tvmalaysia.cc:80/624850/624850/6831
+One HD,http://iptv.tvmalaysia.cc:80/624850/624850/6817
+TV 1,http://iptv.tvmalaysia.cc:80/624850/624850/7177
+TV 2,http://iptv.tvmalaysia.cc:80/624850/624850/7178
+TV 3,http://iptv.tvmalaysia.cc:80/624850/624850/7266
+TV 9,http://iptv.tvmalaysia.cc:80/624850/624850/7185
+Fox Movies Premium,http://iptv.tvmalaysia.cc:80/624850/624850/8838
+Fox Action Movies,http://iptv.tvmalaysia.cc:80/624850/624850/8839
+Cinemax FHD,http://iptv.tvmalaysia.cc:80/624850/624850/7062
+HBO FHD,http://iptv.tvmalaysia.cc:80/624850/624850/7067
+HBO Hits FHD,http://iptv.tvmalaysia.cc:80/624850/624850/7068
+National Geographic HD,http://iptv.tvmalaysia.cc:80/624850/624850/7075
 $c_startASIAN$c_end
 AOD,http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
 Astro欢喜,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8

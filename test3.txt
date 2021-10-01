@@ -5,11 +5,11 @@ TV3a,http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 NTV7a,http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
 8TV1,http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 TV9a,http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
-AEC,http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
-港剧台,http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8
+AEC,http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8#http://50.7.161.82:8277/streams/d/aec_pye/playlist.m3u8
+港剧台,http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8#http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
 星河,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 欢喜台,http://50.7.161.82:8278/streams/d/huanxi_pye/playlist.m3u8
-爱奇艺,http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
+爱奇艺,http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8#http://50.7.161.82:8277/streams/d/iqiyi_pye/playlist.m3u8
 双星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 小太阳1,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 小太阳2,http://50.7.161.82:8278/streams/d/xiaotaiyang_pye/playlist.m3u8
@@ -17,6 +17,7 @@ AEC,http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
 天映频道,http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
 天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 AEC2,http://198.16.106.62:8278/streams/d/Aec1511/playlist.m3u8
+AOD-HD,http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
 華麗臺,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
 歡喜臺,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
 愛奇藝,http://198.16.106.62:8278/streams/d/Qiyi1511/playlist.m3u8

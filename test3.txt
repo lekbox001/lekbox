@@ -952,6 +952,9 @@ X特遣队,https://youku-com.jjyl12349.com/20210811/aiF0bKnm/index.m3u8
 黑夜传说4,https://vod1.bdzybf1.com/20200829/3HgqHsgy/index.m3u8
 黑夜传说5,https://vod1.bdzybf1.com/20200829/YL0n3M0f/index.m3u8
 $c_start奇幻片$c_end
+鬼吹灯之黄皮子坟,https://vod3.bdzybf3.com/20210605/cHhAB7c1/index.m3u8
+金山伏魔传,https://vod10.bdzybf.com/20210914/VMeFo8ms/index.m3u8
+山神,https://cnc2.88zy.live/20210929/fdNm1hgh/index.m3u8
 雨天的妖怪,https://vod3.bdzybf3.com/20210117/afrFbdPN/index.m3u8
 侍神令,https://iqiyi-com.jjyl12349.com/20210512/KHFWLgpB/1000kb/hls/index.m3u8
 麒麟幻镇,https://v3.dious.cc/20210122/6i1VrOWd/index.m3u8

@@ -45,6 +45,7 @@ M3U8,http://www.zycaiji.net:7788/api.php/provide/vod/at/xml//n,解析
 爱奇艺,http://zy.itono.cn/inc/qiyi.php,解析
 搜狐,http://zy.itono.cn/inc/sohu.php,解析
 PPTV,http://zy.itono.cn/inc/pptv.php,解析
+柚子,http://tv.aitesucai.xyz/api.php/provide/vod/at/xml,解析
 结束
 解析：
 解析1,https://jx.7kjx.com/?url=

@@ -49,7 +49,6 @@ PPTV,http://zy.itono.cn/inc/pptv.php,解析
 结束
 解析：
 解析1,https://jx.7kjx.com/?url=
-解析2,https://api.jhdyw.vip/?url=
 结束
 直播：
 【分类头】少儿频道-IHOT频道-体育频道-电影频道-台灣频道-其他频道【分类尾】

@@ -1128,3 +1128,6 @@ $c_start中国好声音$c_end
 15,https://v11.tkzyapi.com/20210927/whqn9Amo/1000kb/hls/index.m3u8
 16,https://v11.tkzyapi.com/20211002/ooU7wat8/1000kb/hls/index.m3u8
 17,https://v11.tkzyapi.com/20211003/433cOESK/1000kb/hls/index.m3u8
+18,https://v11.tkzyapi.com/20211006/PGIcvRHC/1000kb/hls/index.m3u8
+19,https://v11.tkzyapi.com/20211007/cky4cPQd/1000kb/hls/index.m3u8
+20,https://v11.tkzyapi.com/20211007/Ae1PX0qZ/1000kb/hls/index.m3u8

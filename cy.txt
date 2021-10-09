@@ -1,6 +1,5 @@
 点播：
 LEKBOX,http://www.zitv.cc/api.php/provide/vod/at/xml,解析
-电影,https://taopianzy.com/home/cjapi/c4ca4238a0b923820dcc509a6f75849b/vod/xml,解析
 结束
 解析：
 解析1,https://jx.7kjx.com/?url=

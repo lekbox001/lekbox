@@ -1,5 +1,5 @@
 $c_start需要翻墙$c_end
-必须打开QV软件,
+要打开QV软件,
 TV1a,http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 TV2a,http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 TV3a,http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
@@ -378,6 +378,66 @@ AOD,http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
 华丽台,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
 爱奇艺,http://198.16.106.62:8278/streams/d/Qiyi1511/playlist.m3u8
 $c_start港台$c_end
+凤凰卫视香港台,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
+凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
+凤凰资讯,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
+美亚电影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmydy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+翡翠台,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
+翡翠台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkjade&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
+TVB星河,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+TVB娱乐新闻台,https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745679
+TVB 明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
+TVB财经资讯,http://livetv.dnsfor.me/channel.11.m3u8
+TVB无线新闻,http://livetv.dnsfor.me/channel.10.m3u8
+ViuTVsix,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
+ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
+香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+東網直播1台,https://streamw-az-news3.on.cc/video/playlist720p.m3u8
+C+頻道,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/01.m3u8
+香港电视 RHK31,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+香港电视 RHK32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
+香港电视 RTHK33,http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
+香港電台視像新聞,https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
+Now Sports Prime(hr),http://livetv.dnsfor.me:80/channel.12.m3u8
+UTV 賽馬直擊(hr),http://gslb.cdn.hk.chinamobile.com/live/d2afb43f61464fc5a3d3b1b0a4c187a1/11a674a3cca94ceaafab4bd0e2ae634c-2.m3u8
+亞美衛視,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+民視新聞,http://seb.sason.top/sc/msxw_fhd.m3u8
+華視新聞,http://seb.sason.top/sc/hsxw_fhd.m3u8
+華視新聞資訊,http://185.207.176.189:8080/channels/tw-503/playlist.m3u8
+華視教育体育,http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
+台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8
+中視經典,http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
+中視精采,http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
+中視新聞,http://seb.sason.top/sc/zsxw_fhd.m3u8
+中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
+中天娛樂,http://125.227.210.37:15796/VideoInput/play.ts
+中天亞洲,https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745678
+東森財經,http://seb.sason.top/sc/dscjxw_fhd.m3u8
+東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8
+東森洋片,http://125.227.210.37:18685/VideoInput/play.ts
+東森電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+東森戲劇,http://125.227.210.37:17524/VideoInput/play.ts
+TVBS HD,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbs&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+三立新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
+三立財經新聞,http://seb.sason.top/sc/slinews_fhd.m3u8
+卫视电影台,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/53
+卫视电影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwsdy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+CHC高清电影,http://60.255.49.202/live/lnwsCHC-HDH265_4000.m3u8
+CHC家庭电影,http://60.255.49.202/live/jbtygqCHCjtyyH265_4000.m3u8
+CHC动作电影,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+緯來電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwldy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+亞洲旅遊,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
+博斯运动2,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
+智林體育,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
+中台灣生活網,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
+美麗人生,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
+大愛二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+大愛海外台,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
+韩国娱乐台,http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
+阿里郎電視,http://58.99.33.16:1935/liveedge17/live_158_3.stream/chunklist.m3u8
+華藏衛視,http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
 HBO FAMILY,https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
 HBO HITS,https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
 HBO SIG,https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
@@ -804,21 +864,6 @@ BBC Earth Lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playli
 Animal Planet,http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 亞洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 National Geographic Wild HD,https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
-$c_start粤语片$c_end
-重案行动之捣毒任务,https://vod2.bdzybf2.com/20210123/w7aHn3QI/index.m3u8
-遗爱,https://sod.bunediy.com/20210920/k7386hJ1/index.m3u8
-智齿,https://v7.dious.cc/20210706/sRtNwR3f/index.m3u8
-把砒霜留给自己,https://v7.dious.cc/20210313/vl8pQYNQ/1000kb/hls/index.m3u8
-喜玛拉雅星,https://iqiyi-qq-comic.jjyl12349.com/20210727/yPsKGR8L/index.m3u8
-武林怪兽,https://iqiyi-qq-comic.jjyl12349.com/20210716/in6QPa5Z/index.m3u8
-新喜剧之王,https://iqiyi-qq-comic.jjyl12349.com/20210716/OD6usQb1/index.m3u8
-叶问外传,https://iqiyi-qq-comic.jjyl12349.com/20210716/EBAhKdSx/index.m3u8
-感动她77次,https://iqiyi-qq-comic.jjyl12349.com/20210716/nT5Op6To/index.m3u8
-黄金兄弟,https://iqiyi-qq-comic.jjyl12349.com/20210716/RxBgQxgT/index.m3u8
-廉政风云,https://iqiyi-qq-comic.jjyl12349.com/20210716/cHrXxEyJ/index.m3u8
-你咪理我爱你,https://iqiyi-qq-comic.jjyl12349.com/20210716/CTbdcmVt/index.m3u8
-泄密者,https://iqiyi-qq-comic.jjyl12349.com/20210716/Pe3o1j2q/index.m3u8
-功夫,https://iqiyi-qq-comic.jjyl12349.com/20210716/BXjAcLY6/index.m3u8
 $c_start双探$c_end
 1,https://vod8.wenshibaowenbei.com/20210909/I4EUtbi5/index.m3u8
 2,https://vod8.wenshibaowenbei.com/20210909/XrI87eil/index.m3u8
@@ -915,15 +960,21 @@ $c_start痕迹$c_end
 34,https://vod1.bdzybf1.com/20200921/LTRUBf3I/index.m3u8
 35,https://vod1.bdzybf1.com/20200921/X29p96kf/index.m3u8
 36,https://vod1.bdzybf1.com/20200921/q3GrlI7O/index.m3u8
-$c_start恶魔的艺术$c_end
-1,https://vod1.bdzybf1.com/20200901/97Qo9RlP/index.m3u8
-2,https://vod1.bdzybf1.com/20200901/vkQ1pDnH/index.m3u8
-3,https://vod1.bdzybf1.com/20200901/oolCtRcg/index.m3u8
-4,https://vod1.bdzybf1.com/20200901/cnWJmuLF/index.m3u8
-5,https://vod1.bdzybf1.com/20200901/vtY8tLvA/index.m3u8
-6,https://vod1.bdzybf1.com/20200901/hTjM88Xp/index.m3u8
-7,https://vod1.bdzybf1.com/20200901/nQZMraLt/index.m3u8
-8,https://vod1.bdzybf1.com/20200901/dGNDMhin/index.m3u8
+$c_start粤语片$c_end
+重案行动之捣毒任务,https://vod2.bdzybf2.com/20210123/w7aHn3QI/index.m3u8
+遗爱,https://sod.bunediy.com/20210920/k7386hJ1/index.m3u8
+智齿,https://v7.dious.cc/20210706/sRtNwR3f/index.m3u8
+把砒霜留给自己,https://v7.dious.cc/20210313/vl8pQYNQ/1000kb/hls/index.m3u8
+喜玛拉雅星,https://iqiyi-qq-comic.jjyl12349.com/20210727/yPsKGR8L/index.m3u8
+武林怪兽,https://iqiyi-qq-comic.jjyl12349.com/20210716/in6QPa5Z/index.m3u8
+新喜剧之王,https://iqiyi-qq-comic.jjyl12349.com/20210716/OD6usQb1/index.m3u8
+叶问外传,https://iqiyi-qq-comic.jjyl12349.com/20210716/EBAhKdSx/index.m3u8
+感动她77次,https://iqiyi-qq-comic.jjyl12349.com/20210716/nT5Op6To/index.m3u8
+黄金兄弟,https://iqiyi-qq-comic.jjyl12349.com/20210716/RxBgQxgT/index.m3u8
+廉政风云,https://iqiyi-qq-comic.jjyl12349.com/20210716/cHrXxEyJ/index.m3u8
+你咪理我爱你,https://iqiyi-qq-comic.jjyl12349.com/20210716/CTbdcmVt/index.m3u8
+泄密者,https://iqiyi-qq-comic.jjyl12349.com/20210716/Pe3o1j2q/index.m3u8
+功夫,https://iqiyi-qq-comic.jjyl12349.com/20210716/BXjAcLY6/index.m3u8
 $c_start动作片$c_end
 怒火·重案,https://sod.bunediy.com/20210930/sHvNIpeN/index.m3u8
 战狼1,https://qq-com.jjyl12349.com/20210523/lBw2UQI1/index.m3u8
@@ -1059,7 +1110,6 @@ $c_start演唱会$c_end
 郭富城鼓舞动起来,https://v4.szjal.cn/20200511/Fls716CR/index.m3u8
 多莉·帕顿,https://v7.dious.cc/20210408/X2IAQCvu/1000kb/hls/index.m3u8
 王菲：幻乐一场,https://vod1.bdzybf1.com/20200915/fVzulSgA/index.m3u8
-天地争霸美猴王,http://vip.usa7.345123.xyz/bili.php?id=21657651
 $c_start中国好声音$c_end
 1,https://v8.dious.cc/20210731/3SMl4Okx/1000kb/hls/index.m3u8
 2,https://v9.dious.cc/20210807/rcfU1E8n/1000kb/hls/index.m3u8

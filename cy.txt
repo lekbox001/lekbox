@@ -1,5 +1,6 @@
 点播：
 LEKBOX,http://www.zitv.cc/api.php/provide/vod/at/xml,解析
+LEKBOX2,https://caiji.tiankongapi.com/inc/api.php,解析
 结束
 解析：
 解析1,https://jx.7kjx.com/?url=

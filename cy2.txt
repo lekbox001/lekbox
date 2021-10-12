@@ -2,6 +2,7 @@
 LEKBOX,http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml,不解析
 天空资源,http://api.tiankongapi.com/api.php/provide/vod/at/xml,解析
 神马,http://www.zitv.cc/api.php/provide/vod/at/xml,解析
+星辰,http://www.kuaibocaiji.com/api.php/provide/vod/from/kbm3u8/at/xml/,解析
 天空,https://caiji.tiankongapi.com/inc/api.php,解析
 极品影视,https://www.jpysvip.net/api.php/provide/vod/at/xml,解析
 飘花,http://www.zzrhgg.com/api.php/provide/vod/at/xml,解析

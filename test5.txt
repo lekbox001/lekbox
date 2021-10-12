@@ -79,7 +79,7 @@ NTV7b,http://50.7.161.82:8278/streams/d/ntv7_pye/playlist.m3u8
 TV9b,http://50.7.161.82:8278/streams/d/tv9_pye/playlist.m3u8
 Kids TV,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
 Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
-$c_startASIAN$c_end
+$c_startUSINDO$c_end
 [US]PeopleTVHD,https://peopletv-oo.akamaized.net/playlist720p.m3u8
 [US]SantaandtheThreeBears(480p)[656*480][656*480],https://cloudfront.tubi.video/21df8036-fa23-49ff-9877-8af983546d2b/elw3phlf/stream.m3u8
 [US]WFTVChannel9-Florida-Orlando,https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wftve2-hls-v3/live.m3u8

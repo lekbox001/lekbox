@@ -5,6 +5,7 @@ LEKBOX,http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml,不解析
 星辰,http://www.kuaibocaiji.com/api.php/provide/vod/from/kbm3u8/at/xml/,解析
 天空,https://caiji.tiankongapi.com/inc/api.php,解析
 极品影视,https://www.jpysvip.net/api.php/provide/vod/at/xml,解析
+北斗,https://api.bdxzyapi.com/api.php/Seacms/vod/,解析
 飘花,http://www.zzrhgg.com/api.php/provide/vod/at/xml,解析
 独播,http://api.dbyunzy.com/api.php/provide/vod/at/xml,解析
 比心,http://bxin.tv/api.php/provide/vod/at/xml/,解析
@@ -130,11 +131,6 @@ CNTV完美游戏,http://183.207.249.7/PLTV/3/224/3221225539/index.m3u8
 影视4,http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226754/index.m3u8
 影视5,http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226736/index.m3u8
 影视6,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226692/index.m3u8
-精彩电影1,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226708/index.m3u8
-精彩电影2,http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226712/index.m3u8
-精彩电影3,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226736/index.m3u8
-精彩电影4,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226692/index.m3u8
-邵氏电影1,http://cn-sdjn2-cu-live-01.bilivideo.com/live-bvc/501160/live_97065163_17925468_1500.m3u8
 邵氏电影2,http://42.56.91.136/live-bvc/164219/live_97065163_17925468.m3u8
 【电影频道尾】
 【港澳频道头】
@@ -142,74 +138,8 @@ CNTV完美游戏,http://183.207.249.7/PLTV/3/224/3221225539/index.m3u8
 翡翠台,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/313
 明珠台,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/2
 明珠台,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/314
-无线新闻,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/3
-有线新闻,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/4
-NOW新闻,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/5
-Viutv,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/6
-Viutv 6,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/7
-无线财经,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/8
-J 2,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/9
-港台31,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/10
-港台32,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/11
-有线财经,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/12
-有线603,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/13
-18台,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/14
-赛马直播,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/15
-香港开电视,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/16
-鳳凰香港,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/17
-鳳凰衛視,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/18
-鳳凰資訊,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/19
-澳视澳门,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/20
-澳门资讯,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/21
-澳視葡語,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/22
-澳門Macau,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/23
-澳视体育,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/24
-澳视卫星,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/25
-爆谷台,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/26
-C+,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/27
-TVB 星河,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/28
-TVB经典,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/29
-天映经典,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/30
-天映频道,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/31
-TW卡式台,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/32
-无线新闻台,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/315
-有线新闻台,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/316
-ViuTV,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/317
-ViuTV six,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/318
-J2,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/319
-无线财经资讯台,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/320
-有线18台,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/321
-有线电影台,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/323
-凤凰资讯,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/324
-凤凰香港,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/325
-凤凰中文,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/326
 【港澳频道尾】
 【台灣频道头】
-民视,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/91
-民视,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/344
-华视,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/92
-华视,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/347
-中视,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/93
-中视,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/346
-台视,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/94
-台视,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/345
-三立新闻,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/327
-台视新闻台,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/329
-台视财经台,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/330
-华视新闻台,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/331
-中视新闻台,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/332
-东森新闻,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/333
-寰宇新闻,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/334
-民视新闻HD,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/335
-TVBS新闻HD,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/336
-TVBS HD,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/337
-东森财经,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/338
-非凡新闻,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/339
-三立INEWS,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/340
-壹新闻,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/341
-年代新闻,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/342
-CNN,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/343
-东森电影,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/393
 中天新闻台,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/328
 民视戏剧台,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/95
 民视综艺台,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/96
@@ -226,77 +156,9 @@ CNN,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/343
 民视台湾,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/350
 公视台语台,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/351
 台视综合,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/352
-纬来综合,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/353
-八大第一台,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/354
-八大综合,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/355
-三立台湾,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/356
-三立都会,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/357
-东森综合,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/358
-东森超视,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/359
-高点综合,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/360
-JET综合,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/361
-ELAT综合,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/362
-壹综合HD,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/363
-TW中文台,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/364
-八大娱乐,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/365
-纬来育乐,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/366
-中天综合,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/367
-东风37,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/368
-年代MUCH,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/369
-中天娱乐,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/370
-momo综合,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/371
-纬来日本,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/372
-大爱电视台,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/373
-好消息,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/375
-原住民,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/376
-客家电视,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/377
-霹雳台湾台,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/378
-人间TW,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/379
-TLC,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/380
-CN卡通,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/381
-迪士尼卡通,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/382
-MOMO亲子,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/383
-东森YOYO,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/384
-东森戏剧,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/385
-八大戏剧,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/386
-TVBS欢乐,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/387
-纬来戏剧,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/388
-纬来精彩HD,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/389
-靖洋戏剧台,http://crtv.crtv2.ml:8080/lyt655165/EN2LrxLRps/151
 靖天戲劇台,http://gt.njdly.top/gttv.php?id=13178&cid=13329
 【台灣频道尾】
 【其他频道头】
-31台] 港台電視31,https://cdn.hkdtmb.com/hls/31/index.m3u8
-[31台] 港台電視32,https://cdn.hkdtmb.com/hls/32/index.m3u8
-[31台] 港台電視33,https://cdn.hkdtmb.com/hls/33/index.m3u8
-[81台] 翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
-[81台] 翡翠台 (簡體中文字幕),https://cdn.hkdtmb.com/hls/81b/index.m3u8
-[82台] J2台,https://cdn.hkdtmb.com/hls/82/index.m3u8
-[84台] 明珠台,https://cdn.hkdtmb.com/hls/84/index.m3u8
-[84台] 明珠台 (粵語聲道),https://cdn.hkdtmb.com/hls/84b/index.m3u8
-[83台] 無綫新聞台,https://cdn.hkdtmb.com/hls/83/index.m3u8
-[99台] ViuTV,https://cdn.hkdtmb.com/hls/99/index.m3u8
-[96台] ViuTV Six,https://cdn.hkdtmb.com/hls/96/index.m3u8
-[77台]香港開電視,https://cdn.hkdtmb.com/hls/77/index.m3u8
-[76台] 香港國際財經台,https://cdn.hkdtmb.com/hls/76/index.m3u8
-HKanime Song,https://cdn.hkdtmb.com/hls/hkanime_song/index.m3u8
-精彩电影1,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226708/index.m3u8
-精彩电影2,http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226712/index.m3u8
-精彩电影3,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226736/index.m3u8
-精彩电影4,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226692/index.m3u8
-港台電視31,https://cdn.hkdtmb.com/hls/31/index.m3u8
-港台電視32,https://cdn.hkdtmb.com/hls/32/index.m3u8
-港台電視33,https://cdn.hkdtmb.com/hls/33/index.m3u8
-翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
-翡翠台 (簡體中文字幕),https://cdn.hkdtmb.com/hls/81b/index.m3u8
-J2台,https://cdn.hkdtmb.com/hls/82/index.m3u8
-明珠台,https://cdn.hkdtmb.com/hls/84/index.m3u8
-明珠台 (粵語聲道),https://cdn.hkdtmb.com/hls/84b/index.m3u8
-無綫新聞台,https://cdn.hkdtmb.com/hls/83/index.m3u8
-ViuTV,https://cdn.hkdtmb.com/hls/99/index.m3u8
-ViuTV Six,https://cdn.hkdtmb.com/hls/96/index.m3u8
-香港開電視,https://cdn.hkdtmb.com/hls/77/index.m3u8
-香港國際財經台,https://cdn.hkdtmb.com/hls/76/index.m3u8
 SiTV动漫秀场 1080,http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8
 SiTV游戏风云 1080,http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8
 SiTV欢笑剧场 1080,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8

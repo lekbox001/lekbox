@@ -326,6 +326,9 @@ tvb星河,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 星空卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=233&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 有線奧運604,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8?sd=10&rebase=on
 泰国,#genre#
+MONO29 HD,https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8
+MCOT HD 30,https://tc-live1.sanook.com/live/22302_ch9.m3u8
+Thairath 32,http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 WORKPOINT,http://live-hw-test.sky-cdn.com/workpoint-test/workpoint.stream/chunklist_w2111259910.m3u8
 ONE31,http://live-hw-test.sky-cdn.com/one-test/one.stream/chunklist_w1441605638.m3u8
 GMM,http://live-hw-test.sky-cdn.com/gmm-test/gmm.stream/chunklist_w1709295956.m3u8

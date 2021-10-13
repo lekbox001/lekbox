@@ -80,6 +80,9 @@ TV9b,http://50.7.161.82:8278/streams/d/tv9_pye/playlist.m3u8
 Kids TV,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
 Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 THAI,#genre#
+MONO29 HD,https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8
+MCOT HD 30,https://tc-live1.sanook.com/live/22302_ch9.m3u8
+Thairath 32,http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 ALTV,https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
 ASTV News 1,http://news1.live14.com/stream/news1_hi.m3u8
 Channel 5 (240p),https://tc-live1.sanook.com/live/22302_ch5.m3u8
@@ -314,6 +317,28 @@ Euronews _USEETV,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd6
 my kids _USEETV,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=5737c6ec2e0716f3d8a7a5c4e0de0d9af93fb3c9879684db94f7af38b446022a
 Stadium UFC,https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 INDIA,#genre#
+India Today,https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
+ABP NEWS,https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
+AAJ TAK TEZ,https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+SONY SAB,https://feed.play.mv/live/1009/LdG80WcrbS/master.m3u8
+Zee5 Originals,https://f8e7y4c6.ssl.hwcdn.net/zee5_originals/playlist.m3u8
+Sony Entertainment,https://feed.play.mv/live/10005200/7Lc21Ikj4q/master.m3u8
+Bollywood,https://f8e7y4c6.ssl.hwcdn.net/classic/playlist.m3u8
+Utsav PlusHD,http://208.115.215.42/Utsav_Plus_HD/playlist.m3u8
+Zee Cinema UK,https://f8e7y4c6.ssl.hwcdn.net/cinemauk/playlist.m3u8
+Zee Magic,https://f8e7y4c6.ssl.hwcdn.net/magic/playlist.m3u8
+Zee5 Romance,https://f8e7y4c6.ssl.hwcdn.net/zee5_romance/playlist.m3u8
+Zing TV,https://f8e7y4c6.ssl.hwcdn.net/zing/playlist.m3u8
+ZEE Tv,https://f8e7y4c6.ssl.hwcdn.net/apacsea/playlist.m3u8
+ZEE Actions,https://f8e7y4c6.ssl.hwcdn.net/action/playlist.m3u8
+Pictures HD,https://f8e7y4c6.ssl.hwcdn.net/andpicssd/playlist.m3u8
+Flix HD,https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
+&privé HD,https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
+Fashion TV,http://entertainment.ashttp9.visionip.tv/live/visiontvuk-entertainment-edgytv-hsslive-25f-16x9-SD/chunklist.m3u8
+FASHION & LIFESTYLE,http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+ViuTV9,https://cdn.hkdtmb.com/hls/99/index.m3u8
+ViuTVsix,https://cdn.hkdtmb.com/hls/96/index.m3u8
+Design Network,https://thedesignnetwork-tdn-1.samsung.wurl.com/manifest/playlist.m3u8
 Amrita TV (576p),http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
 Jaihind TV (576p),http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
 Zee Mundo (720p),https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8

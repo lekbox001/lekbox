@@ -374,6 +374,21 @@ Sony One,http://iptv.tvmalaysia.cc:80/624850/624850/8863
 Sony Gem,http://iptv.tvmalaysia.cc:80/624850/624850/8864
 TvN,http://iptv.tvmalaysia.cc:80/624850/624850/8865
 Disney Channel HD,http://iptv.tvmalaysia.cc:80/624850/624850/7196
+$c_startTEST$c_end
+8TV,http://95.216.221.22:5080/WebRTCApp/streams/tv88.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
+ARENA,http://95.216.221.22:5080/WebRTCApp/streams/arena.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
+ARENA2,http://95.216.221.22:5080/WebRTCApp/streams/arena2.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
+tv3,http://95.216.221.22:5080/WebRTCApp/streams/tv33.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
+DidikTV,http://95.216.221.22:5080/WebRTCApp/streams/didiktv.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
+HBO,http://95.216.221.22:5080/WebRTCApp/streams/hboo.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
+tv9,http://95.216.221.22:5080/WebRTCApp/streams/tv99.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
+AWANI,https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+Warna,http://95.216.221.22:5080/WebRTCApp/streams/warna.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
+Prima,http://95.216.221.22:5080/WebRTCApp/streams/prima.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
+Oasis,http://95.216.221.22:5080/WebRTCApp/streams/oasis.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
+Ceria,http://95.216.221.22:5080/WebRTCApp/streams/ceria.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
+Naura,http://95.216.221.22:5080/WebRTCApp/streams/naura.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
+Alhijrah,http://95.216.221.22:5080/WebRTCApp/streams/alhijrah.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
 $c_startMOVIES$c_end
 The Dragon Tamer,https://www.googleapis.com/drive/v3/files/1yeTtmh_2_BkApmdQl2xH6qz2_9Rj5uik?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 Chinese Ghost Story 3: The Enchanting Phantom (2020),http://srv32.nf21.net/files/15-2020-05-13-6b781445273bd09f944915f9e2faad2a.mp4

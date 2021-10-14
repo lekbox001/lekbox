@@ -767,13 +767,13 @@ thrill電影台,p8p://45.92.126.18:9906/604413240002c04b09dd92bffd4adc1b.ts
 龍華電影,p8p://45.92.126.18:9906/604426fa000c13eb004b26236e73affa.ts
 历史频道,p8p://45.92.126.18:9906/6049468f0008dae6144e835756f6d068.ts
 历史频道H2,p8p://45.92.126.18:9906/6049473c0005320614512630bb45841f.ts
-粤语1,http://vip.usa7.345123.xyz/douyu.php?id=6566671
-粤语2,http://vip.usa7.345123.xyz/douyu.php?id=2466104 
-粤语3,http://vip.usa7.345123.xyz/douyu.php?id=1226741
-粤语4,http://vip.usa7.345123.xyz/bili.php?id=136843
-粤语5,http://vip.usa7.345123.xyz/bili.php?id=21515763
-粤语6,http://vip.usa7.345123.xyz/bili.php?id=3568283
-粤语7,http://vip.usa7.345123.xyz/douyu.php?id=5033502
+粤语1,http://cloudplay.tk/api/douyu.php?id=6566671
+粤语2,http://cloudplay.tk/api/douyu.php?id=2466104 
+粤语3,http://cloudplay.tk/api/douyu.php?id=1226741
+粤语4,http://103.140.229.13/BOBO/bibi.php?id=136843
+粤语5,http://103.140.229.13/BOBO/bibi.php?id=21515763
+粤语6,http://103.140.229.13/BOBO/bibi.php?id=3568283
+粤语7,http://cloudplay.tk/api/douyu.php?id=5033502
 美亚电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmydy
 卫视电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwsdy
 东森电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy
@@ -833,8 +833,8 @@ U武侠剧场,http://117.148.179.160/PLTV/88888888/224/3221231763/index.m3u8
 包青天,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5100179054/75/index.m3u8?ProgramID=&encrypt=
 天龙八部集,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r2/virtuallive/5100180869/75/index.m3u8?ProgramID=&encrypt=
 盗墓方法论,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5100179159/75/index.m3u8?ProgramID=&encrypt=
-经典电影,http://vip.usa7.345123.xyz/bili.php?id=2982619
-我和僵尸有个约会三部曲(粤语),http://vip.usa7.345123.xyz/bili.php?id=428247
+经典电影,http://103.140.229.13/BOBO/bibi.php?id=2982619
+我和僵尸有个约会三部曲(粤语),http://103.140.229.13/BOBO/bibi.php?id=428247
 埋堆堆04,http://121.12.115.162/txdirect.hls.huya.com/src/1199563459241-1199563459241-5444230351759081472-2399127041938-10057-A-0-1.m3u8 
 埋堆堆45,http://121.12.115.162/txdirect.hls.huya.com/src/1199561277686-1199561277686-5434860644379656192-2399122678828-10057-A-0-1.m3u8 
 埋堆堆53,http://121.12.115.162/txdirect.hls.huya.com/src/1199564067003-1199564067003-5446840669672833024-2399128257462-10057-A-0-1.m3u8 
@@ -873,49 +873,49 @@ U武侠剧场,http://117.148.179.160/PLTV/88888888/224/3221231763/index.m3u8
 周末影院,http://118.26.120.28:55336/tslive/c52_lb_64_600_t10/c52_lb_64_600_t10.m3u8?key=0f2a06793124310bc9f925de0619e275a
 动作电影,http://118.26.120.23:55336/tslive/c52_lb_61_720P_t10/c52_lb_61_720P_t10.m3u8?key=0f2a06793124310bc542dae4db6856743
 办公室故事,http://118.26.120.23:55336/tslive/c54_lb_159_720P_t10/c54_lb_159_720P_t10.m3u8?key=0b292c335e5837e94a4ade7969f57e4b3
-阿梅-大片经典 24小时,http://vip.usa7.345123.xyz/bili.php?id=127343
-tbb电影动画综艺or吃吃吃吃粤语,http://vip.usa7.345123.xyz/bili.php?id=136843
-小肥肥西片,http://vip.usa7.345123.xyz/bili.php?id=21377115
-七十二家房客,http://vip.usa7.345123.xyz/bili.php?id=22013050
-少年包青天高清123神雕侠侣雕英雄传,http://vip.usa7.345123.xyz/bili.php?id=23145747
-少年包青天-水月洞天,http://vip.usa7.345123.xyz/bili.php?id=23220264
-少年包青天-三部全,http://vip.usa7.345123.xyz/bili.php?id=2803563
-动作电影,http://vip.usa7.345123.xyz/bili.php?id=47917
-少年包青天 暴雨梨花针 开封包黑炭,http://vip.usa7.345123.xyz/bili.php?id=4928767
-动作 悬疑 高能 鬼片,http://vip.usa7.345123.xyz/bili.php?id=6837959
-少年包青天1,http://vip.usa7.345123.xyz/bili.php?id=8566972
-339影院,http://vip.usa7.345123.xyz/douyu.php?id=1274132
-24H欢乐不断,http://vip.usa7.345123.xyz/douyu.php?id=131977
-荒野求生,http://vip.usa7.345123.xyz/douyu.php?id=1339207
-经典.动作.惊悚.悬疑.连续剧,http://vip.usa7.345123.xyz/douyu.php?id=1504768
-经典 影视,http://vip.usa7.345123.xyz/douyu.php?id=1735337
-欧美 科幻 经典,http://vip.usa7.345123.xyz/douyu.php?id=20415 
-[动漫],http://vip.usa7.345123.xyz/douyu.php?id=206858
-电影最TOP,http://vip.usa7.345123.xyz/douyu.php?id=2164691
-海绵与大星,http://vip.usa7.345123.xyz/douyu.php?id=2250349
-译制国语影片荟萃,http://vip.usa7.345123.xyz/douyu.php?id=2436390 
-经典.科幻.动作.灾难,http://vip.usa7.345123.xyz/douyu.php?id=248753 
-经典.科幻.动作.灾难.巨兽,http://vip.usa7.345123.xyz/douyu.php?id=252802
-恐怖 丧尸 鬼片 灾难,http://vip.usa7.345123.xyz/douyu.php?id=263824
-欧美大片,http://vip.usa7.345123.xyz/douyu.php?id=2793084
-科幻 动作 灾难喜剧 电影,http://vip.usa7.345123.xyz/douyu.php?id=323876
-2号厅.欧美.日韩.国产,http://vip.usa7.345123.xyz/douyu.php?id=36337 
-刘老根,http://vip.usa7.345123.xyz/douyu.php?id=3789245
-科幻 动作 经典 喜剧,http://vip.usa7.345123.xyz/douyu.php?id=4332
-科幻 喜剧 惊悚 恐怖,http://vip.usa7.345123.xyz/douyu.php?id=434971
-动物自然24h,http://vip.usa7.345123.xyz/douyu.php?id=4360438
-贝尔求生,http://vip.usa7.345123.xyz/douyu.php?id=454867
-[大片]科幻.动作.魔幻.喜剧,http://vip.usa7.345123.xyz/douyu.php?id=562225
-经典.科幻.动作.灾难,http://vip.usa7.345123.xyz/douyu.php?id=5655535
-[米娅陪看]喜剧科幻电影真人互动,http://vip.usa7.345123.xyz/douyu.php?id=6537888
-五月的天,http://vip.usa7.345123.xyz/douyu.php?id=7136517
-[Liz]陪看电影,http://vip.usa7.345123.xyz/douyu.php?id=7254536
-每天不重复-好剧播不停,http://vip.usa7.345123.xyz/douyu.php?id=7476264
-[动漫乐园欢迎你,http://vip.usa7.345123.xyz/douyu.php?id=7493575
-千部经典[电影]持续更新,http://vip.usa7.345123.xyz/douyu.php?id=7882691
-科比.乔丹.篮球明星的过去,http://vip.usa7.345123.xyz/douyu.php?id=8434598
-发现放映室,http://vip.usa7.345123.xyz/douyu.php?id=8791622
-丧尸.鬼片.恐怖.惊悚.电影,http://vip.usa7.345123.xyz/douyu.php?id=96577
+阿梅-大片经典 24小时,http://103.140.229.13/BOBO/bibi.php?id=127343
+tbb电影动画综艺or吃吃吃吃粤语,http://103.140.229.13/BOBO/bibi.php?id=136843
+小肥肥西片,http://103.140.229.13/BOBO/bibi.php?id=21377115
+七十二家房客,http://103.140.229.13/BOBO/bibi.php?id=22013050
+少年包青天高清123神雕侠侣雕英雄传,http://103.140.229.13/BOBO/bibi.php?id=23145747
+少年包青天-水月洞天,http://103.140.229.13/BOBO/bibi.php?id=23220264
+少年包青天-三部全,http://103.140.229.13/BOBO/bibi.php?id=2803563
+动作电影,http://103.140.229.13/BOBO/bibi.php?id=47917
+少年包青天 暴雨梨花针 开封包黑炭,http://103.140.229.13/BOBO/bibi.php?id=4928767
+动作 悬疑 高能 鬼片,http://103.140.229.13/BOBO/bibi.php?id=6837959
+少年包青天1,http://103.140.229.13/BOBO/bibi.php?id=8566972
+339影院,http://cloudplay.tk/api/douyu.php?id=1274132
+24H欢乐不断,http://cloudplay.tk/api/douyu.php?id=131977
+荒野求生,http://cloudplay.tk/api/douyu.php?id=1339207
+经典.动作.惊悚.悬疑.连续剧,http://cloudplay.tk/api/douyu.php?id=1504768
+经典 影视,http://cloudplay.tk/api/douyu.php?id=1735337
+欧美 科幻 经典,http://cloudplay.tk/api/douyu.php?id=20415 
+[动漫],http://cloudplay.tk/api/douyu.php?id=206858
+电影最TOP,http://cloudplay.tk/api/douyu.php?id=2164691
+海绵与大星,http://cloudplay.tk/api/douyu.php?id=2250349
+译制国语影片荟萃,http://cloudplay.tk/api/douyu.php?id=2436390 
+经典.科幻.动作.灾难,http://cloudplay.tk/api/douyu.php?id=248753 
+经典.科幻.动作.灾难.巨兽,http://cloudplay.tk/api/douyu.php?id=252802
+恐怖 丧尸 鬼片 灾难,http://cloudplay.tk/api/douyu.php?id=263824
+欧美大片,http://cloudplay.tk/api/douyu.php?id=2793084
+科幻 动作 灾难喜剧 电影,http://cloudplay.tk/api/douyu.php?id=323876
+2号厅.欧美.日韩.国产,http://cloudplay.tk/api/douyu.php?id=36337 
+刘老根,http://cloudplay.tk/api/douyu.php?id=3789245
+科幻 动作 经典 喜剧,http://cloudplay.tk/api/douyu.php?id=4332
+科幻 喜剧 惊悚 恐怖,http://cloudplay.tk/api/douyu.php?id=434971
+动物自然24h,http://cloudplay.tk/api/douyu.php?id=4360438
+贝尔求生,http://cloudplay.tk/api/douyu.php?id=454867
+[大片]科幻.动作.魔幻.喜剧,http://cloudplay.tk/api/douyu.php?id=562225
+经典.科幻.动作.灾难,http://cloudplay.tk/api/douyu.php?id=5655535
+[米娅陪看]喜剧科幻电影真人互动,http://cloudplay.tk/api/douyu.php?id=6537888
+五月的天,http://cloudplay.tk/api/douyu.php?id=7136517
+[Liz]陪看电影,http://cloudplay.tk/api/douyu.php?id=7254536
+每天不重复-好剧播不停,http://cloudplay.tk/api/douyu.php?id=7476264
+[动漫乐园欢迎你,http://cloudplay.tk/api/douyu.php?id=7493575
+千部经典[电影]持续更新,http://cloudplay.tk/api/douyu.php?id=7882691
+科比.乔丹.篮球明星的过去,http://cloudplay.tk/api/douyu.php?id=8434598
+发现放映室,http://cloudplay.tk/api/douyu.php?id=8791622
+丧尸.鬼片.恐怖.惊悚.电影,http://cloudplay.tk/api/douyu.php?id=96577
 影视5,http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
 影视6,http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
 影视8,http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv?uuid=

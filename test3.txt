@@ -693,14 +693,13 @@ $c_start少儿$c_end
 亲子启蒙,http://118.26.120.23:55336/tslive/c57_lb_213_600_t10/c57_lb_213_600_t10.m3u8?key=0f2a06793124310bc21adebc9f02a9735
 $c_startSPORT$c_end
 PP体育,http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8#http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r2/virtuallive/tysy201903/75/index.m3u8?&encrypt=
-CCTV5,http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226469/1.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226146/index.m3u8
-CCTV5,http://117.148.179.165/PLTV/88888888/224/3221231702/index.m3u8
-CCTV5+,http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226458/1.m3u8
-CCTV5+,http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8
+CTV5,http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226469/1.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226146/index.m3u8
+CTV5,http://117.148.179.165/PLTV/88888888/224/3221231702/index.m3u8
+CTV5+,http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226458/1.m3u8
+CTV5+,http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8
 IPTV5+,http://39.134.39.39/PLTV/88888888/224/3221226273/index.m3u8
-CCTV风云足球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls
-CCTV高尔夫球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225674/1/index.m3u8?fmt=ts2hls
-北京冬奥纪实,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/btv/btv6/3000/index.m3u8?ProgramID=&encrypt=
+风云足球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls
+高尔夫球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225674/1/index.m3u8?fmt=ts2hls
 四海钓鱼,http://117.148.179.159/PLTV/88888888/224/3221231718/index.m3u8#http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r4/peoplecn/shdiaoyu/1200/index.m3u8?ProgramID=&encrypt=
 快乐垂钓,http://39.134.135.125/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226549/index.m3u8
 广东体育,http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=8&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8#http://player.ioioz.com/1691/gd/itouch.php?id=gdty
@@ -960,8 +959,6 @@ DC-漫威电影,http://111.6.232.36/txpcdn.liveplay.egame.qq.com/3954_616645877.
 国外经典电影,http://111.6.232.36/txpcdn.liveplay.egame.qq.com/live/3954_382971876.m3u8
 经典电影放映厅,http://111.6.232.36/txpcdn.liveplay.egame.qq.com/live/3954_795906542.m3u8
 $c_start高清$c_end
-4K UHD,http://223.110.246.80/ott.js.chinamobile.com/PLTV/4/224/3221227896/index.m3u8
-4K体育赛事 UHD,http://39.134.39.31/PLTV/88888888/224/3221226227/index.m3u8
 冬奥纪实HDR4K,http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226563/1.m3u8
 淘电影,http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 淘电影,http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
@@ -972,7 +969,7 @@ $c_start高清$c_end
 萌龙TV,http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
 淘BABY,http://39.134.134.88:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8
 大建康,http://39.135.238.67:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226556/1.m3u8
-CCTV-9纪录,http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226465/1.m3u8
+CTV-9纪录,http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226465/1.m3u8
 中国教育1,http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226417/1.m3u8
 中国教育2,http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226537/1.m3u8
 中国教育4,http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226557/1.m3u8

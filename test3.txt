@@ -776,7 +776,7 @@ thrill電影台,p8p://45.92.126.18:9906/604413240002c04b09dd92bffd4adc1b.ts
 粤语7,http://cloudplay.tk/api/douyu.php?id=5033502
 美亚电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmydy
 卫视电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwsdy
-东森电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy
+东森电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy#https://flv3948069e.live.126.net/live/d6c90b1303b8ed3c2c7d3e7d5679f96a.flv
 龙翔时代,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlxdy
 玮来电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwldy
 U喜剧联盟,http://117.148.179.154/PLTV/88888888/224/3221231621/index.m3u8 

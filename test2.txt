@@ -618,8 +618,6 @@ DC-漫威电影,http://111.6.232.36/txpcdn.liveplay.egame.qq.com/3954_616645877.
 国外经典电影,http://111.6.232.36/txpcdn.liveplay.egame.qq.com/live/3954_382971876.m3u8
 经典电影放映厅,http://111.6.232.36/txpcdn.liveplay.egame.qq.com/live/3954_795906542.m3u8
 高清,#genre#
-4K UHD,http://223.110.246.80/ott.js.chinamobile.com/PLTV/4/224/3221227896/index.m3u8
-4K体育赛事 UHD,http://39.134.39.31/PLTV/88888888/224/3221226227/index.m3u8
 冬奥纪实HDR4K,http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226563/1.m3u8
 淘电影,http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 淘电影,http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8

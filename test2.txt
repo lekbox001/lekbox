@@ -401,10 +401,10 @@ White Channel,http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m
 亲子启蒙,http://118.26.120.23:55336/tslive/c57_lb_213_600_t10/c57_lb_213_600_t10.m3u8?key=0f2a06793124310bc21adebc9f02a9735
 SPORT,#genre#
 PP体育,http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8#http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r2/virtuallive/tysy201903/75/index.m3u8?&encrypt=
-CCTV5,http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226469/1.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226146/index.m3u8
-CCTV5,http://117.148.179.165/PLTV/88888888/224/3221231702/index.m3u8
-CCTV5+,http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226458/1.m3u8
-CCTV5+,http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8
+CTV5,http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226469/1.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226146/index.m3u8
+CTV5,http://117.148.179.165/PLTV/88888888/224/3221231702/index.m3u8
+CTV5+,http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226458/1.m3u8
+CTV5+,http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8
 IPTV5+,http://39.134.39.39/PLTV/88888888/224/3221226273/index.m3u8
 风云足球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls
 高尔夫球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225674/1/index.m3u8?fmt=ts2hls

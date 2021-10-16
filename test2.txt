@@ -969,3 +969,6 @@ PT-218的叛军,https://s1.haofajz.com/20210817/t0z2kclV/index.m3u8
 18,https://v11.tkzyapi.com/20211006/PGIcvRHC/1000kb/hls/index.m3u8
 19,https://v11.tkzyapi.com/20211007/cky4cPQd/1000kb/hls/index.m3u8
 20,https://v11.tkzyapi.com/20211007/Ae1PX0qZ/1000kb/hls/index.m3u8
+21,https://new.iskcd.com/20211009/Dt6PfZLA/1400kb/hls/index.m3u8
+22,https://new.iskcd.com/20211011/UEOjCxZM/1400kb/hls/index.m3u8
+23,https://new.iskcd.com/20211016/9JAmI6FE/1400kb/hls/index.m3u8

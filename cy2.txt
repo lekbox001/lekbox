@@ -19,6 +19,7 @@ LEKBOX,http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml,不解析
 1717云,http://zy.itono.cn/inc/api.php,解析
 无名,http://tv.aitesucai.xyz/api.php/provide/vod/at/xml,解析
 明日资源,http://zy.zcocc.com/api.php/provide/vod/at/xml,解析
+任我云,https://www.renwoyun.cn/api.php/provide/vod/at/xml,解析
 KK,http://www.kkkanju.com/api.php/provide/vod/at/xml,解析
 淘片,https://taopianzy.com/home/cjapi/c4ca4238a0b923820dcc509a6f75849b/vod/xml,解析
 电影牛,https://www.dianyingn.com/api.php/provide/vod/at/xml/,解析

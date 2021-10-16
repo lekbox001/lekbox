@@ -948,6 +948,11 @@ PT-218的叛军,https://s1.haofajz.com/20210817/t0z2kclV/index.m3u8
 美国叛徒,https://vod3.bdzybf3.com/20210606/3ZvE60y4/index.m3u8
 浴血无名川,https://vod3.bdzybf3.com/20210402/cB2smV4B/index.m3u8
 幸存者1937,https://mgtv-iqiy-yk-variety.jjyl12349.com/20210807/UQvDlCFb/index.m3u8
+饥饿游戏,#genre#
+1,https://video.dious.cc/20200621/sii65y3i/1000kb/hls/index.m3u8
+2,https://iqiyi-qq-comic.jjyl12349.com/20210920/4Zv188dw/1000kb/hls/index.m3u8
+3,https://v5.szjal.cn/20201227/wLjnL4OL/index.m3u8
+4,https://iqiyi-com.jjyl12349.com/20210604/5yryvaZi/1000kb/hls/index.m3u8
 中国好声音,#genre#
 1,https://v8.dious.cc/20210731/3SMl4Okx/1000kb/hls/index.m3u8
 2,https://v9.dious.cc/20210807/rcfU1E8n/1000kb/hls/index.m3u8

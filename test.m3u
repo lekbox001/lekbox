@@ -785,22 +785,20 @@ http://118.26.120.23:55336/tslive/c56_lb_178_600_t10/c56_lb_178_600_t10.m3u8?key
 http://118.26.120.23:55336/tslive/c57_lb_213_600_t10/c57_lb_213_600_t10.m3u8?key=0f2a06793124310bc21adebc9f02a9735
 #EXTINF:-1 group-title="SPORT,#genre#",PP体育
 http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8#http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r2/virtuallive/tysy201903/75/index.m3u8?&encrypt=
-#EXTINF:-1 group-title="SPORT,#genre#",CCTV5
+#EXTINF:-1 group-title="SPORT,#genre#",CTV5
 http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226469/1.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226146/index.m3u8
-#EXTINF:-1 group-title="SPORT,#genre#",CCTV5
+#EXTINF:-1 group-title="SPORT,#genre#",CTV5
 http://117.148.179.165/PLTV/88888888/224/3221231702/index.m3u8
-#EXTINF:-1 group-title="SPORT,#genre#",CCTV5+
+#EXTINF:-1 group-title="SPORT,#genre#",CTV5+
 http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226458/1.m3u8
-#EXTINF:-1 group-title="SPORT,#genre#",CCTV5+
+#EXTINF:-1 group-title="SPORT,#genre#",CTV5+
 http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8
 #EXTINF:-1 group-title="SPORT,#genre#",IPTV5+
 http://39.134.39.39/PLTV/88888888/224/3221226273/index.m3u8
-#EXTINF:-1 group-title="SPORT,#genre#",CCTV风云足球
+#EXTINF:-1 group-title="SPORT,#genre#",风云足球
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="SPORT,#genre#",CCTV高尔夫球
+#EXTINF:-1 group-title="SPORT,#genre#",高尔夫球
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225674/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="SPORT,#genre#",北京冬奥纪实
-http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/btv/btv6/3000/index.m3u8?ProgramID=&encrypt=
 #EXTINF:-1 group-title="SPORT,#genre#",四海钓鱼
 http://117.148.179.159/PLTV/88888888/224/3221231718/index.m3u8#http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r4/peoplecn/shdiaoyu/1200/index.m3u8?ProgramID=&encrypt=
 #EXTINF:-1 group-title="SPORT,#genre#",快乐垂钓
@@ -836,25 +834,25 @@ rtmp://59.124.75.136:1935/sat/tv731
 #EXTINF:-1 group-title="SPORT,#genre#",ELEVEN体育二台
 rtmp://59.124.75.136:1935/sat/tv741
 #EXTINF:-1 group-title="电影系列,#genre#",粤语1
-http://vip.usa7.345123.xyz/douyu.php?id=6566671
+http://cloudplay.tk/api/douyu.php?id=6566671
 #EXTINF:-1 group-title="电影系列,#genre#",粤语2
-http://vip.usa7.345123.xyz/douyu.php?id=2466104
+http://cloudplay.tk/api/douyu.php?id=2466104
 #EXTINF:-1 group-title="电影系列,#genre#",粤语3
-http://vip.usa7.345123.xyz/douyu.php?id=1226741
+http://cloudplay.tk/api/douyu.php?id=1226741
 #EXTINF:-1 group-title="电影系列,#genre#",粤语4
-http://vip.usa7.345123.xyz/bili.php?id=136843
+http://103.140.229.13/BOBO/bibi.php?id=136843
 #EXTINF:-1 group-title="电影系列,#genre#",粤语5
-http://vip.usa7.345123.xyz/bili.php?id=21515763
+http://103.140.229.13/BOBO/bibi.php?id=21515763
 #EXTINF:-1 group-title="电影系列,#genre#",粤语6
-http://vip.usa7.345123.xyz/bili.php?id=3568283
+http://103.140.229.13/BOBO/bibi.php?id=3568283
 #EXTINF:-1 group-title="电影系列,#genre#",粤语7
-http://vip.usa7.345123.xyz/douyu.php?id=5033502
+http://cloudplay.tk/api/douyu.php?id=5033502
 #EXTINF:-1 group-title="电影系列,#genre#",美亚电影
 https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmydy
 #EXTINF:-1 group-title="电影系列,#genre#",卫视电影
 https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwsdy
 #EXTINF:-1 group-title="电影系列,#genre#",东森电影
-https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy#https://flv3948069e.live.126.net/live/d6c90b1303b8ed3c2c7d3e7d5679f96a.flv
 #EXTINF:-1 group-title="电影系列,#genre#",龙翔时代
 https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlxdy
 #EXTINF:-1 group-title="电影系列,#genre#",玮来电影
@@ -968,9 +966,9 @@ http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r2/virtuallive/5100180869/75/i
 #EXTINF:-1 group-title="电影系列,#genre#",盗墓方法论
 http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5100179159/75/index.m3u8?ProgramID=&encrypt=
 #EXTINF:-1 group-title="电影系列,#genre#",经典电影
-http://vip.usa7.345123.xyz/bili.php?id=2982619
+http://103.140.229.13/BOBO/bibi.php?id=2982619
 #EXTINF:-1 group-title="电影系列,#genre#",我和僵尸有个约会三部曲(粤语)
-http://vip.usa7.345123.xyz/bili.php?id=428247
+http://103.140.229.13/BOBO/bibi.php?id=428247
 #EXTINF:-1 group-title="电影系列,#genre#",埋堆堆04
 http://121.12.115.162/txdirect.hls.huya.com/src/1199563459241-1199563459241-5444230351759081472-2399127041938-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="电影系列,#genre#",埋堆堆45
@@ -1048,91 +1046,91 @@ http://118.26.120.23:55336/tslive/c52_lb_61_720P_t10/c52_lb_61_720P_t10.m3u8?key
 #EXTINF:-1 group-title="电影系列,#genre#",办公室故事
 http://118.26.120.23:55336/tslive/c54_lb_159_720P_t10/c54_lb_159_720P_t10.m3u8?key=0b292c335e5837e94a4ade7969f57e4b3
 #EXTINF:-1 group-title="电影系列,#genre#",阿梅-大片经典 24小时
-http://vip.usa7.345123.xyz/bili.php?id=127343
+http://103.140.229.13/BOBO/bibi.php?id=127343
 #EXTINF:-1 group-title="电影系列,#genre#",tbb电影动画综艺or吃吃吃吃粤语
-http://vip.usa7.345123.xyz/bili.php?id=136843
+http://103.140.229.13/BOBO/bibi.php?id=136843
 #EXTINF:-1 group-title="电影系列,#genre#",小肥肥西片
-http://vip.usa7.345123.xyz/bili.php?id=21377115
+http://103.140.229.13/BOBO/bibi.php?id=21377115
 #EXTINF:-1 group-title="电影系列,#genre#",七十二家房客
-http://vip.usa7.345123.xyz/bili.php?id=22013050
+http://103.140.229.13/BOBO/bibi.php?id=22013050
 #EXTINF:-1 group-title="电影系列,#genre#",少年包青天高清123神雕侠侣雕英雄传
-http://vip.usa7.345123.xyz/bili.php?id=23145747
+http://103.140.229.13/BOBO/bibi.php?id=23145747
 #EXTINF:-1 group-title="电影系列,#genre#",少年包青天-水月洞天
-http://vip.usa7.345123.xyz/bili.php?id=23220264
+http://103.140.229.13/BOBO/bibi.php?id=23220264
 #EXTINF:-1 group-title="电影系列,#genre#",少年包青天-三部全
-http://vip.usa7.345123.xyz/bili.php?id=2803563
+http://103.140.229.13/BOBO/bibi.php?id=2803563
 #EXTINF:-1 group-title="电影系列,#genre#",动作电影
-http://vip.usa7.345123.xyz/bili.php?id=47917
+http://103.140.229.13/BOBO/bibi.php?id=47917
 #EXTINF:-1 group-title="电影系列,#genre#",少年包青天 暴雨梨花针 开封包黑炭
-http://vip.usa7.345123.xyz/bili.php?id=4928767
+http://103.140.229.13/BOBO/bibi.php?id=4928767
 #EXTINF:-1 group-title="电影系列,#genre#",动作 悬疑 高能 鬼片
-http://vip.usa7.345123.xyz/bili.php?id=6837959
+http://103.140.229.13/BOBO/bibi.php?id=6837959
 #EXTINF:-1 group-title="电影系列,#genre#",少年包青天1
-http://vip.usa7.345123.xyz/bili.php?id=8566972
+http://103.140.229.13/BOBO/bibi.php?id=8566972
 #EXTINF:-1 group-title="电影系列,#genre#",339影院
-http://vip.usa7.345123.xyz/douyu.php?id=1274132
+http://cloudplay.tk/api/douyu.php?id=1274132
 #EXTINF:-1 group-title="电影系列,#genre#",24H欢乐不断
-http://vip.usa7.345123.xyz/douyu.php?id=131977
+http://cloudplay.tk/api/douyu.php?id=131977
 #EXTINF:-1 group-title="电影系列,#genre#",荒野求生
-http://vip.usa7.345123.xyz/douyu.php?id=1339207
+http://cloudplay.tk/api/douyu.php?id=1339207
 #EXTINF:-1 group-title="电影系列,#genre#",经典.动作.惊悚.悬疑.连续剧
-http://vip.usa7.345123.xyz/douyu.php?id=1504768
+http://cloudplay.tk/api/douyu.php?id=1504768
 #EXTINF:-1 group-title="电影系列,#genre#",经典 影视
-http://vip.usa7.345123.xyz/douyu.php?id=1735337
+http://cloudplay.tk/api/douyu.php?id=1735337
 #EXTINF:-1 group-title="电影系列,#genre#",欧美 科幻 经典
-http://vip.usa7.345123.xyz/douyu.php?id=20415
+http://cloudplay.tk/api/douyu.php?id=20415
 #EXTINF:-1 group-title="电影系列,#genre#",[动漫]
-http://vip.usa7.345123.xyz/douyu.php?id=206858
+http://cloudplay.tk/api/douyu.php?id=206858
 #EXTINF:-1 group-title="电影系列,#genre#",电影最TOP
-http://vip.usa7.345123.xyz/douyu.php?id=2164691
+http://cloudplay.tk/api/douyu.php?id=2164691
 #EXTINF:-1 group-title="电影系列,#genre#",海绵与大星
-http://vip.usa7.345123.xyz/douyu.php?id=2250349
+http://cloudplay.tk/api/douyu.php?id=2250349
 #EXTINF:-1 group-title="电影系列,#genre#",译制国语影片荟萃
-http://vip.usa7.345123.xyz/douyu.php?id=2436390
+http://cloudplay.tk/api/douyu.php?id=2436390
 #EXTINF:-1 group-title="电影系列,#genre#",经典.科幻.动作.灾难
-http://vip.usa7.345123.xyz/douyu.php?id=248753
+http://cloudplay.tk/api/douyu.php?id=248753
 #EXTINF:-1 group-title="电影系列,#genre#",经典.科幻.动作.灾难.巨兽
-http://vip.usa7.345123.xyz/douyu.php?id=252802
+http://cloudplay.tk/api/douyu.php?id=252802
 #EXTINF:-1 group-title="电影系列,#genre#",恐怖 丧尸 鬼片 灾难
-http://vip.usa7.345123.xyz/douyu.php?id=263824
+http://cloudplay.tk/api/douyu.php?id=263824
 #EXTINF:-1 group-title="电影系列,#genre#",欧美大片
-http://vip.usa7.345123.xyz/douyu.php?id=2793084
+http://cloudplay.tk/api/douyu.php?id=2793084
 #EXTINF:-1 group-title="电影系列,#genre#",科幻 动作 灾难喜剧 电影
-http://vip.usa7.345123.xyz/douyu.php?id=323876
+http://cloudplay.tk/api/douyu.php?id=323876
 #EXTINF:-1 group-title="电影系列,#genre#",2号厅.欧美.日韩.国产
-http://vip.usa7.345123.xyz/douyu.php?id=36337
+http://cloudplay.tk/api/douyu.php?id=36337
 #EXTINF:-1 group-title="电影系列,#genre#",刘老根
-http://vip.usa7.345123.xyz/douyu.php?id=3789245
+http://cloudplay.tk/api/douyu.php?id=3789245
 #EXTINF:-1 group-title="电影系列,#genre#",科幻 动作 经典 喜剧
-http://vip.usa7.345123.xyz/douyu.php?id=4332
+http://cloudplay.tk/api/douyu.php?id=4332
 #EXTINF:-1 group-title="电影系列,#genre#",科幻 喜剧 惊悚 恐怖
-http://vip.usa7.345123.xyz/douyu.php?id=434971
+http://cloudplay.tk/api/douyu.php?id=434971
 #EXTINF:-1 group-title="电影系列,#genre#",动物自然24h
-http://vip.usa7.345123.xyz/douyu.php?id=4360438
+http://cloudplay.tk/api/douyu.php?id=4360438
 #EXTINF:-1 group-title="电影系列,#genre#",贝尔求生
-http://vip.usa7.345123.xyz/douyu.php?id=454867
+http://cloudplay.tk/api/douyu.php?id=454867
 #EXTINF:-1 group-title="电影系列,#genre#",[大片]科幻.动作.魔幻.喜剧
-http://vip.usa7.345123.xyz/douyu.php?id=562225
+http://cloudplay.tk/api/douyu.php?id=562225
 #EXTINF:-1 group-title="电影系列,#genre#",经典.科幻.动作.灾难
-http://vip.usa7.345123.xyz/douyu.php?id=5655535
+http://cloudplay.tk/api/douyu.php?id=5655535
 #EXTINF:-1 group-title="电影系列,#genre#",[米娅陪看]喜剧科幻电影真人互动
-http://vip.usa7.345123.xyz/douyu.php?id=6537888
+http://cloudplay.tk/api/douyu.php?id=6537888
 #EXTINF:-1 group-title="电影系列,#genre#",五月的天
-http://vip.usa7.345123.xyz/douyu.php?id=7136517
+http://cloudplay.tk/api/douyu.php?id=7136517
 #EXTINF:-1 group-title="电影系列,#genre#",[Liz]陪看电影
-http://vip.usa7.345123.xyz/douyu.php?id=7254536
+http://cloudplay.tk/api/douyu.php?id=7254536
 #EXTINF:-1 group-title="电影系列,#genre#",每天不重复-好剧播不停
-http://vip.usa7.345123.xyz/douyu.php?id=7476264
+http://cloudplay.tk/api/douyu.php?id=7476264
 #EXTINF:-1 group-title="电影系列,#genre#",[动漫乐园欢迎你
-http://vip.usa7.345123.xyz/douyu.php?id=7493575
+http://cloudplay.tk/api/douyu.php?id=7493575
 #EXTINF:-1 group-title="电影系列,#genre#",千部经典[电影]持续更新
-http://vip.usa7.345123.xyz/douyu.php?id=7882691
+http://cloudplay.tk/api/douyu.php?id=7882691
 #EXTINF:-1 group-title="电影系列,#genre#",科比.乔丹.篮球明星的过去
-http://vip.usa7.345123.xyz/douyu.php?id=8434598
+http://cloudplay.tk/api/douyu.php?id=8434598
 #EXTINF:-1 group-title="电影系列,#genre#",发现放映室
-http://vip.usa7.345123.xyz/douyu.php?id=8791622
+http://cloudplay.tk/api/douyu.php?id=8791622
 #EXTINF:-1 group-title="电影系列,#genre#",丧尸.鬼片.恐怖.惊悚.电影
-http://vip.usa7.345123.xyz/douyu.php?id=96577
+http://cloudplay.tk/api/douyu.php?id=96577
 #EXTINF:-1 group-title="电影系列,#genre#",影视5
 http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
 #EXTINF:-1 group-title="电影系列,#genre#",影视6
@@ -1217,10 +1215,6 @@ http://111.6.232.36/txpcdn.liveplay.egame.qq.com/3954_306723212.m3u8
 http://111.6.232.36/txpcdn.liveplay.egame.qq.com/live/3954_382971876.m3u8
 #EXTINF:-1 group-title="电影系列,#genre#",经典电影放映厅
 http://111.6.232.36/txpcdn.liveplay.egame.qq.com/live/3954_795906542.m3u8
-#EXTINF:-1 group-title="高清,#genre#",4K UHD
-http://223.110.246.80/ott.js.chinamobile.com/PLTV/4/224/3221227896/index.m3u8
-#EXTINF:-1 group-title="高清,#genre#",4K体育赛事 UHD
-http://39.134.39.31/PLTV/88888888/224/3221226227/index.m3u8
 #EXTINF:-1 group-title="高清,#genre#",冬奥纪实HDR4K
 http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226563/1.m3u8
 #EXTINF:-1 group-title="高清,#genre#",淘电影
@@ -1307,46 +1301,222 @@ http://39.134.39.22:80/PLTV/88888888/224/3221226256/index.m3u8
 http://39.134.39.37/PLTV/88888888/224/3221226260/index.m3u8
 #EXTINF:-1 group-title="高清,#genre#",相声小品
 http://39.134.39.12:80/PLTV/88888888/224/3221226260/index.m3u8
-#EXTINF:-1 group-title="高清,#genre#",SiTV动漫秀场
+#EXTINF:-1 group-title="高清,#genre#",S动漫秀场
 http://39.134.39.39/PLTV/88888888/224/3221226197/index.m3u8
-#EXTINF:-1 group-title="高清,#genre#",SiTV动漫秀场
+#EXTINF:-1 group-title="高清,#genre#",S动漫秀场
 http://39.134.39.28:80/PLTV/88888888/224/3221226197/index.m3u8
-#EXTINF:-1 group-title="高清,#genre#",SiTV动漫秀场
+#EXTINF:-1 group-title="高清,#genre#",S动漫秀场
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/dmxchd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="高清,#genre#",SiTV劲爆体育
+#EXTINF:-1 group-title="高清,#genre#",S劲爆体育
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="高清,#genre#",SiTV极速汽车
+#EXTINF:-1 group-title="高清,#genre#",S极速汽车
 http://39.134.39.39/PLTV/88888888/224/3221226195/index.m3u8
-#EXTINF:-1 group-title="高清,#genre#",SiTV极速汽车
+#EXTINF:-1 group-title="高清,#genre#",S极速汽车
 http://39.134.39.25:80/PLTV/88888888/224/3221226195/index.m3u8
-#EXTINF:-1 group-title="高清,#genre#",SiTV极速汽车
+#EXTINF:-1 group-title="高清,#genre#",S极速汽车
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jsqchd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="高清,#genre#",SiTV欢笑剧场
+#EXTINF:-1 group-title="高清,#genre#",S欢笑剧场
 http://39.134.39.39/PLTV/88888888/224/3221226203/index.m3u8
-#EXTINF:-1 group-title="高清,#genre#",SiTV欢笑剧场
+#EXTINF:-1 group-title="高清,#genre#",S欢笑剧场
 http://39.134.39.28:80/PLTV/88888888/224/3221226203/index.m3u8
-#EXTINF:-1 group-title="高清,#genre#",SiTV欢笑剧场
+#EXTINF:-1 group-title="高清,#genre#",S欢笑剧场
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/hxjchd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="高清,#genre#",SiTV游戏风云
+#EXTINF:-1 group-title="高清,#genre#",S游戏风云
 http://39.134.39.39/PLTV/88888888/224/3221226187/index.m3u8
-#EXTINF:-1 group-title="高清,#genre#",SiTV游戏风云
+#EXTINF:-1 group-title="高清,#genre#",S游戏风云
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/yxfyhd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="高清,#genre#",SiTV都市剧场
+#EXTINF:-1 group-title="高清,#genre#",S都市剧场
 http://39.134.39.39/PLTV/88888888/224/3221226176/index.m3u8
-#EXTINF:-1 group-title="高清,#genre#",SiTV都市剧场
+#EXTINF:-1 group-title="高清,#genre#",S都市剧场
 http://39.134.39.10:80/PLTV/88888888/224/3221226176/index.m3u8
-#EXTINF:-1 group-title="高清,#genre#",SiTV都市剧场
+#EXTINF:-1 group-title="高清,#genre#",S都市剧场
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/dsjchd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="高清,#genre#",SiTV新视觉
+#EXTINF:-1 group-title="高清,#genre#",S新视觉
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="高清,#genre#",SiTV魅力足球
+#EXTINF:-1 group-title="高清,#genre#",S魅力足球
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="高清,#genre#",SiTV生活时尚
+#EXTINF:-1 group-title="高清,#genre#",S生活时尚
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/shsshd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="高清,#genre#",SiTV全纪实
+#EXTINF:-1 group-title="高清,#genre#",S全纪实
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/qjshd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="高清,#genre#",SiTV幸福彩
+#EXTINF:-1 group-title="高清,#genre#",S幸福彩
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/xfchd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="高清,#genre#",N潮妈辣婆
+http://117.148.179.43/PLTV/88888888/224/3221229725/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",N潮妈辣婆
+http://117.148.179.16/PLTV/88888888/224/3221229031/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",N动作电影
+http://117.148.179.15/PLTV/88888888/224/3221229034/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",N动作电影
+http://117.148.179.44/PLTV/88888888/224/3221229672/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",N古装剧场
+http://112.15.230.59/PLTV/88888888/224/3221229710/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",N古装剧场
+http://117.148.179.51/PLTV/88888888/224/3221229011/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",N怡伴健康
+http://117.148.179.32/PLTV/88888888/224/3221229016/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",N怡伴健康
+http://117.148.179.37/PLTV/88888888/224/3221229692/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",N军旅剧场
+http://117.148.179.52/PLTV/88888888/224/3221229004/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",N军旅剧场
+http://117.148.179.37/PLTV/88888888/224/3221229698/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",N精品大剧
+http://117.148.179.37/PLTV/88888888/224/3221229713/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",N精品大剧
+http://117.148.179.49/PLTV/88888888/224/3221229017/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",N精品纪录
+http://117.148.179.43/PLTV/88888888/224/3221229707/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",N精品纪录
+http://117.148.179.21/PLTV/88888888/224/3221229013/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",N精品体育
+http://117.148.179.37/PLTV/88888888/224/3221229719/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",N精品体育
+http://117.148.179.47/PLTV/88888888/224/3221229026/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",N金牌综艺
+http://117.148.179.40/PLTV/88888888/224/3221229704/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",N金牌综艺
+http://117.148.179.35/PLTV/88888888/224/3221229002/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",N军事评论
+http://117.148.179.43/PLTV/88888888/224/3221229716/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",N军事评论
+http://117.148.179.51/PLTV/88888888/224/3221229008/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",N惊悚悬疑
+http://117.148.179.43/PLTV/88888888/224/3221229701/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",N惊悚悬疑
+http://117.148.179.51/PLTV/88888888/224/3221229001/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",N家庭剧场
+http://117.148.179.52/PLTV/88888888/224/3221229007/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",N家庭剧场
+http://117.148.179.37/PLTV/88888888/224/3221229695/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",N农业致富
+http://117.148.179.45/PLTV/88888888/224/3221229029/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",N农业致富
+http://117.148.179.24/PLTV/88888888/224/3221229666/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",N武搏世界
+http://112.15.230.38/PLTV/88888888/224/3221229722/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",N武搏世界
+http://117.148.179.16/PLTV/88888888/224/3221229041/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",N炫舞未来
+http://117.148.179.45/PLTV/88888888/224/3221229155/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",N炫舞未来
+http://117.148.179.37/PLTV/88888888/224/3221229669/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",N中国功夫
+http://117.148.179.47/PLTV/88888888/224/3221229019/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",N中国功夫
+http://117.148.179.37/PLTV/88888888/224/3221229663/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",N爱情喜剧
+http://112.15.230.34/PLTV/88888888/224/3221229731/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",N爱情喜剧
+http://117.148.179.45/PLTV/88888888/224/3221229014/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",N精品综合
+http://117.148.179.40/PLTV/88888888/224/3221229005/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",N精品综合
+http://117.148.179.37/PLTV/88888888/224/3221229660/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",N热播精选
+http://117.148.179.15/PLTV/88888888/224/3221229062/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",N热播精选
+http://117.148.179.37/PLTV/88888888/224/3221229654/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",H爱猎奇
+http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230097/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",H爱娱乐
+http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230077/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",H爱幼教
+http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230086/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",H爱电竞
+http://117.148.179.31/PLTV/88888888/224/3221230029/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",H爱电竞
+http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230029/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",H爱动漫
+http://117.148.179.36/PLTV/88888888/224/3221230136/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",H爱动漫
+http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230136/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",H爱都市
+http://117.148.179.13/PLTV/88888888/224/3221230104/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",H爱都市
+http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230104/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",H爱谍战
+http://117.148.179.13/PLTV/88888888/224/3221230092/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",H爱谍战
+http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",H爱怀旧
+http://117.148.179.41/PLTV/88888888/224/3221230049/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",H爱怀旧
+http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230049/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",H爱经典
+http://117.148.179.34/PLTV/88888888/224/3221230101/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",H爱经典
+http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230101/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",H爱江湖
+http://117.148.179.37/PLTV/88888888/224/3221230074/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",H爱江湖
+http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230074/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",H爱解密
+http://117.148.179.37/PLTV/88888888/224/3221230080/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",H爱解密
+http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230080/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",H爱家庭
+http://117.148.179.34/PLTV/88888888/224/3221230118/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",H爱家庭
+http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230118/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",H爱军武
+http://117.148.179.37/PLTV/88888888/224/3221230083/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",H爱军武
+http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230083/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",H爱科学
+http://117.148.179.27/PLTV/88888888/224/3221230106/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",H爱科学
+http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230106/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",H爱历史
+http://117.148.179.28/PLTV/88888888/224/3221230100/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",H爱历史
+http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230100/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",H爱旅行
+http://117.148.179.34/PLTV/88888888/224/3221230052/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",H爱旅行
+http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",H爱美食
+http://117.148.179.39/PLTV/88888888/224/3221230115/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",H爱美食
+http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230115/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",H爱青春
+http://117.148.179.35/PLTV/88888888/224/3221230130/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",H爱青春
+http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230130/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",H爱奇谈
+http://117.148.179.31/PLTV/88888888/224/3221230023/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",H爱奇谈
+http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230023/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",H爱赛车
+http://117.148.179.36/PLTV/88888888/224/3221230032/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",H爱赛车
+http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",H爱世界
+http://117.148.179.34/PLTV/88888888/224/3221230046/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",H爱世界
+http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230046/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",H爱时尚
+http://117.148.179.24/PLTV/88888888/224/3221230109/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",H爱时尚
+http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230109/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",H爱探索
+http://117.148.179.39/PLTV/88888888/224/3221230112/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",H爱探索
+http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230112/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",H爱体育
+http://117.148.179.41/PLTV/88888888/224/3221230034/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",H爱体育
+http://117.148.179.27/PLTV/88888888/224/3221230103/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",H爱体育
+http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230034/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",H爱玩具
+http://117.148.179.31/PLTV/88888888/224/3221230026/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",H爱玩具
+http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230026/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",H爱悬疑
+http://117.148.179.41/PLTV/88888888/224/3221230098/index.m3u8
+#EXTINF:-1 group-title="高清,#genre#",H爱悬疑
+http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230098/index.m3u8
 #EXTINF:-1 group-title="探索,#genre#",ANIMAL PLANET
 vjms://14.102.154.164:8500/live/cid=3
 #EXTINF:-1 group-title="探索,#genre#",ANIMAL PLANET
@@ -1723,3 +1893,9 @@ https://v11.tkzyapi.com/20211006/PGIcvRHC/1000kb/hls/index.m3u8
 https://v11.tkzyapi.com/20211007/cky4cPQd/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="中国好声音,#genre#",20
 https://v11.tkzyapi.com/20211007/Ae1PX0qZ/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="中国好声音,#genre#",21
+https://new.iskcd.com/20211009/Dt6PfZLA/1400kb/hls/index.m3u8
+#EXTINF:-1 group-title="中国好声音,#genre#",22
+https://new.iskcd.com/20211011/UEOjCxZM/1400kb/hls/index.m3u8
+#EXTINF:-1 group-title="中国好声音,#genre#",23
+https://new.iskcd.com/20211016/9JAmI6FE/1400kb/hls/index.m3u8

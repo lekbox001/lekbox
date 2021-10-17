@@ -818,7 +818,6 @@ National Geographic Wild HD,https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 功夫,https://iqiyi-qq-comic.jjyl12349.com/20210716/BXjAcLY6/index.m3u8
 动作片,#genre#
 鳄口逃生,https://sod.bunediy.com/20211016/G8eUUhay/index.m3u8
-中国救援·绝境36天,https://sod.bunediy.com/20211016/F5qPyZVj/index.m3u8
 戏法师,https://sod.bunediy.com/20211014/13KauVjl/index.m3u8
 终极代码,https://sod.bunediy.com/20211011/OxUt34Vj/index.m3u8
 幸存危机,https://sod.bunediy.com/20211012/f5IRGzkR/index.m3u8
@@ -922,6 +921,7 @@ National Geographic Wild HD,https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 诡屋惊魂,https://sod.bunediy.com/20210929/Vkle4iOY/index.m3u8
 糖果人,https://sod.bunediy.com/20210920/dWznzdly/index.m3u8
 灾难片,#genre#
+中国救援·绝境36天,https://sod.bunediy.com/20211016/F5qPyZVj/index.m3u8
 中国医生,https://new.iskcd.com/20210918/X02GkWLw/index.m3u8
 地陷,https://sod.bunediy.com/20210918/ww5muni5/index.m3u8
 狂鳄海啸,https://v10.dious.cc/20210716/4Hdcw52p/index.m3u8

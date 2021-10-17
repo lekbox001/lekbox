@@ -79,6 +79,21 @@ NTV7b,http://50.7.161.82:8278/streams/d/ntv7_pye/playlist.m3u8
 TV9b,http://50.7.161.82:8278/streams/d/tv9_pye/playlist.m3u8
 Kids TV,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
 Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
+TEST,#genre#
+8TV,http://95.216.221.22:5080/WebRTCApp/streams/tv88.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
+ARENA,http://95.216.221.22:5080/WebRTCApp/streams/arena.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
+ARENA2,http://95.216.221.22:5080/WebRTCApp/streams/arena2.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
+tv3,http://95.216.221.22:5080/WebRTCApp/streams/tv33.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
+DidikTV,http://95.216.221.22:5080/WebRTCApp/streams/didiktv.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
+HBO,http://95.216.221.22:5080/WebRTCApp/streams/hboo.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
+tv9,http://95.216.221.22:5080/WebRTCApp/streams/tv99.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
+AWANI,https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+Warna,http://95.216.221.22:5080/WebRTCApp/streams/warna.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
+Prima,http://95.216.221.22:5080/WebRTCApp/streams/prima.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
+Oasis,http://95.216.221.22:5080/WebRTCApp/streams/oasis.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
+Ceria,http://95.216.221.22:5080/WebRTCApp/streams/ceria.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
+Naura,http://95.216.221.22:5080/WebRTCApp/streams/naura.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
+Alhijrah,http://95.216.221.22:5080/WebRTCApp/streams/alhijrah.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
 THAI,#genre#
 MONO29 HD,https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8
 MCOT HD 30,https://tc-live1.sanook.com/live/22302_ch9.m3u8

@@ -1,3 +1,4 @@
+###
 {
   "sites": [
     {
@@ -5,7 +6,13 @@
       "name": "LEKBOX",
       "type": 0,
       "api": "http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml",
+      "playUrl": "",
       "categories": [
+        "国产剧",
+        "港台剧",
+        "日韩剧",
+        "欧美剧",
+        "泰剧",
         "综艺",
         "动漫",
         "动作片",
@@ -15,25 +22,15 @@
         "恐怖片",
         "剧情片",
         "战争片",
-        "国产剧",
-        "港台剧",
-        "日韩剧",
-        "欧美剧",
-        "泰剧",
         "纪录片"
       ]
-      },
-    {
-      "key": "北斗星",
-      "name": "北斗星",
-      "type": 0,
-      "api": "https://api.bdxzyapi.com/api.php/Seacms/vod/"
     },
     {
-      "key": "柚子",
-      "name": "柚子",
+      "key": "柚子资源",
+      "name": "柚子资源",
       "type": 0,
       "api": "http://tv.aitesucai.xyz/api.php/provide/vod/at/xml",
+      "playUrl": "",
       "categories": [
         "综艺",
         "动漫",
@@ -54,12 +51,13 @@
         "蓝光电视剧",
         "蓝光动漫"
       ]
-      },
+    },
     {
       "key": "追剧吧",
       "name": "追剧吧",
       "type": 0,
       "api": "http://www.huaxiab.com/api.php/provide/vod/at/xml",
+      "playUrl": "",
       "categories": [
         "电影",
         "综艺",
@@ -80,11 +78,10 @@
         "犯罪片",
         "其他片",
         "泰国剧",
-        "伦理片"
+        "论理片"
       ]
-      }
-   
-    ],
+    }
+  ],
   "lives": [
     {
       "group": "自定义",
@@ -500,30 +497,6 @@
           ]
         },
         {
-          "name": "西藏卫视",
-          "urls": [
-            "http://183.207.248.71:80/cntv/live1/n-xizangstv/n-xizangstv"
-          ]
-        },
-        {
-          "name": "香港卫视",
-          "urls": [
-            "http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8"
-          ]
-        },
-        {
-          "name": "新疆兵团卫视",
-          "urls": [
-            "http://39.134.24.24/PLTV/88888888/224/3221225869/index.m3u8"
-          ]
-        },
-        {
-          "name": "新疆卫视",
-          "urls": [
-            "http://39.134.24.24/PLTV/88888888/224/3221225790/index.m3u8"
-          ]
-        },
-        {
           "name": "云南卫视",
           "urls": [
             "http://183.207.248.71:80/cntv/live1/n-yntv1/n-yntv1",
@@ -646,102 +619,37 @@
       ]
     }
   ],
+  "flags": [
+    "youku",
+    "qq",
+    "iqiyi",
+    "qiyi",
+    "letv",
+    "sohu",
+    "tudou",
+    "pptv",
+    "mgtv",
+    "wasu",
+    "bilibili"
+  ],
   "parses": [
     {
       "name": "解析",
       "url": "https://jx.7kjx.com/?url="
     },
     {
-      "name": "挚爱云",
-      "url": "http://jx2.zhiaiyy.top/?url="
+      "name": "Parwix解析",
+      "url": "https://vip.parwix.com:4433/player/?url="
     },
     {
-      "name": "有料TV",
-      "url": "https://blog.ee7p.com/vip/8090/?url="
+      "name": "Json.M3u8",
+      "url": "https://json.m3u8.tv:7788/json.php?url=",
+      "type": 1
     },
     {
-      "name": "亿通云",
-      "url": "https://ytyyy.top/m3u8/?url="
-    },
-    {
-      "name": "我乐云",
-      "url": "https://svip.56tvs.com/?url="
-    },
-    {
-      "name": "百度解析",
-      "url": "https://jsap.88wuma.com/?url="
-    }, 
-    {
-      "name": "H51080",
-      "url": "https://www.zao60.com/?url="
-    },
-    {
-      "name": "OK云1080",
-      "url": "https://okjx.superchen.top/?url="
-    },
-    {
-      "name": "逐梦云",
-      "url": "https://jk.xwkj.site/?url="
-    },
-    {
-      "name": "迪奥",
-      "url": "https://123.1dior.cn/?url="
-    },
-    {
-      "name": "蓝海蓝光",
-      "url": "https://j.sviplan.cn/?url="
-    },
-    {
-      "name": "H52",
-      "url": "https://82.156.204.15/?url="
-    },
-    {
-      "name": "JJ解析",
-      "url": "http://www.jjxx.me/?url="
-    },
-    {
-      "name": "M3U8",
-      "url": "https://jx.m3u8.tv/jiexi/?url="
-    },
-    {
-      "name": "58高清",
-      "url": "https://kkbia.com/?url="
-    },
-    {
-      "name": "星云1080",
-      "url": "https://api.xingc.top/?url="
-    },
-    {
-      "name": "人人影视1080",
-      "url": "https://jx.err.cc/?url="
-    },
-    {
-      "name": "人人高清",
-      "url": "https://jx.renrenmi.cc/?url="
-    },
-    {
-      "name": "游艺蓝光",
-      "url": "https://132.226.20.98/?url="
-    },
-    {
-      "name": "KC2",
-      "url": "https://www.murl.us/?url="
-    },
-    {
-      "name": "YL影视",
-      "url": "https://vip.ylys.cc/?url="
-    },
-    {
-      "name": "喵解析",
-      "url": "https://lecurl.cn/?url="
-    },
-    {
-      "name": "KCVOD",
-      "url": "https://154.23.128.35/?url="
-    },
-    {
-      "name": "清源解析",
-      "url": "http://jx.linqingyuan.top/?url="
+      "name": "Json.VodJX",
+      "url": "https://www.vodjx.top/api/?key=XSQzk8KFK1I7FfPK5X&url=",
+      "type": 1
     },
     {
       "name": "纯净解析",
@@ -752,10 +660,6 @@
       "url": "https://jsap.attakids.com/?url="
     },
     {
-      "name": "B站解析1",
-      "url": "https://vip.parwix.com:4433/player/?url="
-    },
-    {
       "name": "B站解析2",
       "url": "https://www.cuan.la/m3u8.php?url="
     },
@@ -764,16 +668,20 @@
       "url": "https://jx.xmflv.com/?url="
     },
     {
+      "name": "Ckplayer",
+      "url": "https://www.ckplayer.vip/jiexi/?url="
+    },
+    {
       "name": "BL",
       "url": "https://vip.bljiex.com/?v="
     },
     {
-      "name": "乐多资源",
-      "url": "https://api.leduotv.com/wp-api/ifr.php?isDp=1&vid="
-    },
-    {
       "name": "ccyjjd",
       "url": "https://ckmov.ccyjjd.com/ckmov/?url="
+    },
+    {
+      "name": "M3U8",
+      "url": "https://jx.m3u8.tv/jiexi/?url="
     },
     {
       "name": "老板",
@@ -802,6 +710,10 @@
     {
       "name": "ckmov",
       "url": "https://www.ckmov.vip/api.php?url="
+    },
+    {
+      "name": "迪奥",
+      "url": "https://123.1dior.cn/?url="
     },
     {
       "name": "福星",
@@ -838,6 +750,10 @@
     {
       "name": "MUTV",
       "url": "https://jiexi.janan.net/jiexi/?url="
+    },
+    {
+      "name": "明日",
+      "url": "https://jx.yingxiangbao.cn/vip.php?url="
     },
     {
       "name": "磨菇",
@@ -907,3 +823,96 @@
       "name": "8090",
       "url": "https://www.8090g.cn/?url="
     }
+  ],
+  "ijk": [
+    {
+      "group": "软解码",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "max-buffer-size",
+          "value": "5242880"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "group": "硬解码",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name

@@ -46,6 +46,7 @@ PPTV,http://zy.itono.cn/inc/pptv.php,解析
 融兴,https://www.rongxingvr.com/api.php/provide/vod/at/xml,解析
 X8,https://www.x8x8-vip-1.ru/api.php/provide/vod/at/xml/,解析
 红牛,https://www.hongniuzy1.com/inc/seacms.php,解析
+紅牛2,https://www.hongniuzy.com/inc/api.php,解析
 蘑菇,http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml,解析
 片库,https://pianku.wang/api.php/provide/vod/at/xml,解析
 番茄,http://api.fqzy.cc/api.php/provide/vod/at/xml/?ac=list,解析
@@ -55,6 +56,8 @@ X8,https://www.x8x8-vip-1.ru/api.php/provide/vod/at/xml/,解析
 无尽,https://wuzy9.com/api.php/provide/vod/at/xml,解析
 韩国,http://www.hanjuzy.com/inc/api.php,解析
 酷点,https://kudian8.com/api.php/provide/vod?ac=list,解析
+三零,http://api.000zy.com/provide/vod/at/xml/,解析
+ZY,https://zy.zcocc.com/api.php/provide/vod/at/xml,解析
 结束
 解析：
 解析1,https://jx.7kjx.com/?url=

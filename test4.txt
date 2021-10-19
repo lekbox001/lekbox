@@ -79,7 +79,7 @@ NTV7b,http://50.7.161.82:8278/streams/d/ntv7_pye/playlist.m3u8
 TV9b,http://50.7.161.82:8278/streams/d/tv9_pye/playlist.m3u8
 Kids TV,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
 Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
-TEST,#genre#
+MY3,#genre#
 8TV,http://95.216.221.22:5080/WebRTCApp/streams/tv88.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
 ARENA,http://95.216.221.22:5080/WebRTCApp/streams/arena.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
 ARENA2,http://95.216.221.22:5080/WebRTCApp/streams/arena2.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
@@ -89,6 +89,7 @@ HBO,http://95.216.221.22:5080/WebRTCApp/streams/hboo.m3u8?token=undefined&subscr
 tv9,http://95.216.221.22:5080/WebRTCApp/streams/tv99.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
 AWANI,https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 Warna,http://95.216.221.22:5080/WebRTCApp/streams/warna.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
+RIA,http://95.216.221.22:5080/WebRTCApp/streams/riaa.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
 Prima,http://95.216.221.22:5080/WebRTCApp/streams/prima.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
 Oasis,http://95.216.221.22:5080/WebRTCApp/streams/oasis.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
 Ceria,http://95.216.221.22:5080/WebRTCApp/streams/ceria.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined

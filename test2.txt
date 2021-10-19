@@ -80,7 +80,7 @@ NTV7b,http://50.7.161.82:8278/streams/d/ntv7_pye/playlist.m3u8
 TV9b,http://50.7.161.82:8278/streams/d/tv9_pye/playlist.m3u8
 Kids TV,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
 Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
-TEST,#genre#
+MY2,#genre#
 8TV,http://95.216.221.22:5080/WebRTCApp/streams/tv88.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
 ARENA,http://95.216.221.22:5080/WebRTCApp/streams/arena.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
 ARENA2,http://95.216.221.22:5080/WebRTCApp/streams/arena2.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
@@ -161,29 +161,6 @@ TVBS新闻,http://v3948069e.live.126.net/live/eyisbshx78425035/46.flv
 TVBS新闻,http://v3948069e.live.126.net/live/eyisbshx78425035/46.flv
 中天新闻,http://v3948069e.live.126.net/live/myewtdtq55241913/40.flv
 AXN电影,http://v3948069e.live.126.net/live/lgdhdhqt88784905/85.flv
-鳳凰衛視中文台,http://iptv2.phoves.com.cn/iptv/api/proxy.php?vid=xg&id=197
-鳳凰衛視资讯台,http://iptv2.phoves.com.cn/iptv/api/proxy.php?vid=xg&id=198
-鳳凰衛視香港台,http://iptv2.phoves.com.cn/iptv/api/proxy.php?vid=xg&id=199
-翡翠台,http://iptv2.phoves.com.cn/iptv/api/proxy.php?vid=xg&id=200
-翡翠台,http://anan.jxin122.top/jj.php?id=78&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-J2,http://iptv2.phoves.com.cn/iptv/api/proxy.php?vid=xg&id=204
-明珠台,http://iptv2.phoves.com.cn/iptv/api/proxy.php?vid=xg&id=202
-無綫新聞台,http://iptv2.phoves.com.cn/iptv/api/proxy.php?vid=xg&id=210
-無綫財經資訊台,http://iptv2.phoves.com.cn/iptv/api/proxy.php?vid=xg&id=212
-有線603台,http://iptv2.phoves.com.cn/iptv/api/proxy.php?vid=xg&id=222
-有線18台,http://iptv2.phoves.com.cn/iptv/api/proxy.php?vid=xg&id=224
-港版美亞電視台,http://iptv2.phoves.com.cn/iptv/api/proxy.php?vid=xg&id=246
-ViuTV,http://iptv2.phoves.com.cn/iptv/api/proxy.php?vid=xg&id=230
-ViuTV 6,http://iptv2.phoves.com.cn/iptv/api/proxy.php?vid=xg&id=232
-RTHK31,http://iptv2.phoves.com.cn/iptv/api/proxy.php?vid=xg&id=234
-RTHK32,http://iptv2.phoves.com.cn/iptv/api/proxy.php?vid=xg&id=236
-Now新聞台,http://iptv2.phoves.com.cn/iptv/api/proxy.php?vid=xg&id=238
-C+,http://iptv2.phoves.com.cn/iptv/api/proxy.php?vid=xg&id=244
-翡翠台,http://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkjade
-J2台,http://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkj22
-无线财经,http://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkj52
-凤凰中文,http://www.chaojidianshi.net/nzbtv/ldlive.php?id=fhzw
-凤凰资讯,http://www.chaojidianshi.net/nzbtv/ldlive.php?id=fhzx
 天映频道,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hktypd
 TVBS HD,http://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbs
 TVBS新闻,http://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbsxw
@@ -942,6 +919,7 @@ National Geographic Wild HD,https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 叢林奇航,https://vod7.wenshibaowenbei.com/20210801/jgcoCaWr/index.m3u8
 玩命關頭9,https://cdn.605-zy.com/20210730/tWm3EQcW/index.m3u8
 剧情片,#genre#
+王牌父女,https://sod.bunediy.com/20211018/oy1GzXL9/index.m3u8
 摩加迪沙,https://sod.bunediy.com/20211013/FPKGtPVN/index.m3u8
 营救距离,https://sod.bunediy.com/20211013/ax93CSoC/index.m3u8
 妈妈的神奇小子,https://sod.bunediy.com/20211012/XaSNi8UB/index.m3u8
@@ -965,6 +943,7 @@ National Geographic Wild HD,https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 二哥来了怎么办,https://sod.bunediy.com/20210816/hz46PPOU/index.m3u8
 遇见喵星人,https://sod.bunediy.com/20210815/wiPHzYAY/index.m3u8
 科幻片,#genre#
+沙丘2021,https://sod.bunediy.com/20211018/fLKSTlKK/index.m3u8
 2067,https://sod.bunediy.com/20211006/Io9gMCzV/index.m3u8
 失控玩家,https://sod.bunediy.com/20210924/SrK5aGi4/index.m3u8
 莫斯科陷落2,https://sod.bunediy.com/20210929/S4gNc5xo/index.m3u8
@@ -974,6 +953,8 @@ National Geographic Wild HD,https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 太空群落,https://sod.bunediy.com/20210901/P8KxZKUo/index.m3u8
 丛林奇航,https://vod.bunediy.com/20210731/htf0kjSn/index.m3u8
 奇幻片,#genre#
+齐天大圣·无双,https://sod.bunediy.com/20211018/48TDub3y/index.m3u8
+封神·托塔天王,https://sod.bunediy.com/20211017/COhZWnVO/index.m3u8
 茅山,https://v4.dious.cc/20210128/YlR3RurU/1000kb/hls/index.m3u8
 上升,https://sod.bunediy.com/20211012/CqQ2vaEy/index.m3u8
 麒麟幻镇,https://v4.dious.cc/20210122/6i1VrOWd/1000kb/hls/index.m3u8
@@ -1000,14 +981,8 @@ National Geographic Wild HD,https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 狼之噩梦,https://vod6.wenshibaowenbei.com/20210823/8N5M3yTq/index.m3u8
 森林之子毛克利,https://vod3.bdzybf3.com/20210110/8Tg70SIo/index.m3u8
 少年斯派维的奇异旅行,https://vod1.bdzybf1.com/20200813/JopPj20X/index.m3u8
-悬疑片,#genre#
-密室逃生2,https://c1.monidai.com/20210908/NDCP9K5d/index.m3u8
-猎心之骨证,https://sod.bunediy.com/20210809/dIfedaKJ/index.m3u8
-复身犯,https://vod3.bdzybf3.com/20210616/vf8diyMu/index.m3u8
-神秘博士2015,https://vod3.bdzybf3.com/20210411/Zr9X7AdS/index.m3u8
-神秘博士2016,https://vod1.bdzybf1.com/20200921/jpIhZruu/index.m3u8
-神秘博士2019,https://vod2.bdzybf2.com/20210131/olI2kTWw/index.m3u8
 恐怖片,#genre#
+死亡来临,https://sod.bunediy.com/20211018/0xUKGzsy/index.m3u8
 在糟糕的日子里,https://sod.bunediy.com/20211015/zA9hD6yH/index.m3u8
 养老庄园,https://sod.bunediy.com/20211008/6EGAW1LW/index.m3u8
 人母诅咒,https://sod.bunediy.com/20211008/9NB2OH9D/index.m3u8

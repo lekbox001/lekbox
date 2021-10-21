@@ -58,7 +58,7 @@ X8,https://www.x8x8-vip-1.ru/api.php/provide/vod/at/xml/,解析
 酷点,https://kudian8.com/api.php/provide/vod?ac=list,解析
 三零,http://api.000zy.com/provide/vod/at/xml/,解析
 ZY,https://zy.zcocc.com/api.php/provide/vod/at/xml,解析
-唐人街,https://www.tangrenjie.tv/index.php,解析
+唐人街,https://www.tangrenjie.tv/api.php/provide/vod/at/xml,解析
 结束
 解析：
 解析1,https://jx.7kjx.com/?url=

@@ -61,6 +61,10 @@ ZY,https://zy.zcocc.com/api.php/provide/vod/at/xml,解析
 追剧达人,http://vipmv.tv/api.php/Kdtv/vod/at/xml/,解析
 百度资源2,https://api.apibdzy.com/api.php/Seacms/vod/,解析
 天空2,https://api.tiankongapi.com/api.php/provide/vod/at/xml/from/tkm3u8/,解析
+苍天18,http://cj.cangtiancj.com/api.php/Seacms/vod/,解析
+乐播18,https://lbapi9.com/api.php/provide/vod/at/xml/,解析
+大地18,https://dadiapi.com/api.php,解析
+辣椒18,https://apihjzy.com/api.php/Seacms/vod/,解析
 结束
 解析：
 解析1,https://jx.7kjx.com/?url=

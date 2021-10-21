@@ -154,6 +154,14 @@ Now新聞332台,http://livetv.dnsfor.me:80/channel.4.m3u8
 開電視,http://livetv.dnsfor.me:80/channel.9.m3u8
 VIU TV,http://livetv.dnsfor.me:80/channel.20.m3u8
 TW,#genre#
+民视,rtmp://59.124.75.136/sat/tv051
+台视,rtmp://59.124.75.136/sat/tv071
+中视,rtmp://59.124.75.136/sat/tv091
+華视,rtmp://59.124.75.136/sat/tv111
+TVBS新聞台,rtmp://59.124.75.136/sat/tv551
+TVBS歡樂台,rtmp://59.124.75.136/sat/tv421
+東森财经新聞,rtmp://59.124.75.136/sat/tv571
+東森超視,rtmp://59.124.75.136/sat/tv771
 东森新闻,http://v3948069e.live.126.net/live/chljmwfc26030164/42.flv
 TVBS新闻,http://v3948069e.live.126.net/live/eyisbshx78425035/46.flv
 民视新闻,http://v3948069e.live.126.net/live/cmcfizof46736198/36.flv

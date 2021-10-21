@@ -7,8 +7,7 @@ LEKBOX,http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml,不解析
 北斗,https://api.bdxzyapi.com/api.php/Seacms/vod/,解析
 飘花,http://www.zzrhgg.com/api.php/provide/vod/at/xml,解析
 独播,http://api.dbyunzy.com/api.php/provide/vod/at/xml,解析
-饭团,http://fantuan.wkfile.com/api.php/provide/vod/at/xml,解析
-饭团资源,http://television.wkfile.com/api.php/provide/vod/at/xml,解析
+饭团,http://television.wkfile.com/api.php/provide/vod/at/xml,解析
 百度,https://api.bdjx.vip/api.php/provide/vod/at/xml,解析
 人人资源,https://www.rrzyw.cc/api.php/provide/vod/at/xml,解析
 追剧,http://www.huaxiab.com/api.php/provide/vod/at/xml,解析
@@ -60,9 +59,12 @@ X8,https://www.x8x8-vip-1.ru/api.php/provide/vod/at/xml/,解析
 ZY,https://zy.zcocc.com/api.php/provide/vod/at/xml,解析
 唐人街,https://www.tangrenjie.tv/api.php/provide/vod/at/xml,解析
 追剧达人,http://vipmv.tv/api.php/Kdtv/vod/at/xml/,解析
+百度资源2,https://api.apibdzy.com/api.php/Seacms/vod/,解析
+天空2,https://api.tiankongapi.com/api.php/provide/vod/at/xml/from/tkm3u8/,解析
 结束
 解析：
 解析1,https://jx.7kjx.com/?url=
+天空,https://jx.huishij.com/yun/?url=
 秒开,https://jx.ppflv.com/?url=
 BL,https://vip.bljiex.com/?v=
 明日,https://www.qianyicp.com/jiexi/index.php?url=

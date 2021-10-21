@@ -8,7 +8,7 @@ LEKBOX,http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml,不解析
 飘花,http://www.zzrhgg.com/api.php/provide/vod/at/xml,解析
 独播,http://api.dbyunzy.com/api.php/provide/vod/at/xml,解析
 饭团,http://fantuan.wkfile.com/api.php/provide/vod/at/xml,解析
-饭团资源,http://fantuan.wkfile.com/api.php/provide/vod/at/xml/\n,解析
+饭团资源,http://television.wkfile.com/api.php/provide/vod/at/xml,解析
 百度,https://api.bdjx.vip/api.php/provide/vod/at/xml,解析
 人人资源,https://www.rrzyw.cc/api.php/provide/vod/at/xml,解析
 追剧,http://www.huaxiab.com/api.php/provide/vod/at/xml,解析

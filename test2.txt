@@ -962,6 +962,9 @@ National Geographic Wild HD,https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 太空群落,https://sod.bunediy.com/20210901/P8KxZKUo/index.m3u8
 丛林奇航,https://vod.bunediy.com/20210731/htf0kjSn/index.m3u8
 奇幻片,#genre#
+初级特工,https://sod.bunediy.com/20211019/TiJMoncZ/index.m3u8
+西游记红孩儿,https://sod.bunediy.com/20211020/kluMWRTQ/index.m3u8
+屠魔·王者征途,https://sod.bunediy.com/20211019/oQu7884O/index.m3u8
 齐天大圣·无双,https://sod.bunediy.com/20211018/48TDub3y/index.m3u8
 封神·托塔天王,https://sod.bunediy.com/20211017/COhZWnVO/index.m3u8
 茅山,https://v4.dious.cc/20210128/YlR3RurU/1000kb/hls/index.m3u8

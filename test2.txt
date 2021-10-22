@@ -431,7 +431,7 @@ ONE31,http://live-hw-test.sky-cdn.com/one-test/one.stream/chunklist_w938916868.m
 GMM,http://live-hw-test.sky-cdn.com/gmm-test/gmm.stream/playlist.m3u8#http://live-hw-test.sky-cdn.com/gmm-test/gmm.stream/chunklist_w1709295956.m3u8
 3,http://live-hw-test.sky-cdn.com/3hd-test/3hd.stream/chunklist_w485008249.m3u8
 7,http://live-hw-test.sky-cdn.com/7hd-test/7hd.stream/playlist.m3u8
-8,http://psilive1.sky-cdn.com:1935/ch8/psi-ch8.stream/playlist.m3u8
+8,http://live-hw-test.sky-cdn.com/8hd-test/8hd.stream/playlist.m3u8
 ALTV,https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
 ASTV News 1,http://news1.live14.com/stream/news1_hi.m3u8
 Channel 5 (240p),https://tc-live1.sanook.com/live/22302_ch5.m3u8

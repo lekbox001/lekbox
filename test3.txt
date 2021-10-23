@@ -1003,6 +1003,7 @@ Animal Planet,http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 亞洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 National Geographic Wild HD,https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 $c_start粤语片$c_end
+女人街再见了,https://sod.bunediy.com/20211022/JpK4tmEV/index.m3u8
 重案行动之捣毒任务,https://vod2.bdzybf2.com/20210123/w7aHn3QI/index.m3u8
 遗爱,https://sod.bunediy.com/20210920/k7386hJ1/index.m3u8
 智齿,https://v7.dious.cc/20210706/sRtNwR3f/index.m3u8

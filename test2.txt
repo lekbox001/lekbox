@@ -154,14 +154,6 @@ Now新聞332台,http://livetv.dnsfor.me:80/channel.4.m3u8
 開電視,http://livetv.dnsfor.me:80/channel.9.m3u8
 VIU TV,http://livetv.dnsfor.me:80/channel.20.m3u8
 TW,#genre#
-民视,rtmp://59.124.75.136/sat/tv051
-台视,rtmp://59.124.75.136/sat/tv071
-中视,rtmp://59.124.75.136/sat/tv091
-華视,rtmp://59.124.75.136/sat/tv111
-TVBS新聞台,rtmp://59.124.75.136/sat/tv551
-TVBS歡樂台,rtmp://59.124.75.136/sat/tv421
-東森财经新聞,rtmp://59.124.75.136/sat/tv571
-東森超視,rtmp://59.124.75.136/sat/tv771
 东森新闻,http://v3948069e.live.126.net/live/chljmwfc26030164/42.flv
 TVBS新闻,http://v3948069e.live.126.net/live/eyisbshx78425035/46.flv
 民视新闻,http://v3948069e.live.126.net/live/cmcfizof46736198/36.flv
@@ -193,39 +185,6 @@ TVBS新闻,http://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbsxw
 澳視體育,http://61.244.22.4/ch4/sport_ch4.live/playlist.m3u8
 澳視資訊,http://61.244.22.4/ch5/info_ch5.live/playlist.m3u8
 澳視綜藝,http://61.244.22.4/ch6/hd_ch6.live/playlist.m3u8
-radio m20,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-Fashion TV,http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-Fashion TV,http://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
-Fashion TV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
-Channel News Asia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-CGTN,http://live.cgtn.com/500/prog_index.m3u8
-RACING.COM,http://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
-MTV WMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
-MTV Spankin\' New,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
-MTV Block Party,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-Sexy Kpop TV,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-V2BEAT,https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
-HD Music TV,http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
-俄HD FASHION,http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-俄音乐电视,http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
-俄MTVmixUfa,http://81.30.182.82:18092/hls/live.m3u8
-NHK華語視界,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
-NHK華語視界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-NHK·国际频道,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8 
-Bloomberg US,https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-Hit Fm北部107.7,https://www.youtube.com/watch?v=Ptg8ErmPjxM
-XX 西洋流行音樂電台,https://www.youtube.com/watch?v=W4n1S4zyxlQ
-CNA,https://www.youtube.com/watch?v=XWq5kBlakcQ
-XX FRANCE 24 English,https://www.youtube.com/watch?v=aHh8rA0hks8
-XX CCTV中文国际,https://www.youtube.com/watch?v=vCDDYb_M2B4
-中天新聞,https://www.youtube.com/watch?v=lu_BJKxqGnk
-TVBS新聞55頻道,https://www.youtube.com/watch?v=V0WxUakDV7M
-東森新聞,https://www.youtube.com/watch?v=R2iMq5LKXco
-民視新聞,https://www.youtube.com/watch?v=XxJKnDLYZz4
-三立LIVE新聞直播,https://www.youtube.com/watch?v=pJ0VgJloR9E
-台視新聞台,https://www.youtube.com/watch?v=xL0ch83RAK8
-華視新聞,https://www.youtube.com/watch?v=5q091O69Ut4
 AXN,http://50.7.61.148:30080/Entry/axn
 HBO,http://50.7.61.148:30080/Entry/hbo
 JET综合,http://50.7.61.147:30080/Entry/jet
@@ -243,45 +202,6 @@ TVBS新闻,http://50.7.61.148:30080/Entry/tvbsnews
 民视新闻,http://50.7.61.148:30080/Entry/ftvnews
 纬来日本,http://50.7.61.147:30080/Entry/vljp
 非凡商业 HD,http://50.7.61.147:30080/Entry/ubnbus
-三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
-三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
-三立Live新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
-三立iNews,http://seb.sason.top/sc/slinews_fhd.m3u8
-民視,http://seb.sason.top/ptv/ftv.php?id=ms
-民视,http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-民视新聞台,http://seb.sason.top/sc/msxw_fhd.m3u8
-民視第一台,http://seb.sason.top/ptv/ftv.php?id=dy
-民視台灣台,http://seb.sason.top/ptv/ftv.php?id=tw
-民視影劇台,http://seb.sason.top/ptv/ftv.php?id=yj
-民視綜藝台,http://seb.sason.top/ptv/ftv.php?id=zy
-民視旅遊台,http://seb.sason.top/ptv/ftv.php?id=ly
-台视新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8
-華视新聞資訊,http://seb.sason.top/sc/hsxw_fhd.m3u8
-中视新聞,http://seb.sason.top/sc/zsxw_fhd.m3u8
-TVBS新聞台,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
-東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8
-東森財經新聞,http://seb.sason.top/sc/dscjxw_fhd.m3u8
-民视,rtmp://59.124.75.136/sat/tv051
-台视,rtmp://59.124.75.136/sat/tv071
-中视,rtmp://59.124.75.136/sat/tv091
-華视,rtmp://59.124.75.136/sat/tv111
-TVBS新聞台,rtmp://59.124.75.136/sat/tv551
-TVBS歡樂台,rtmp://59.124.75.136/sat/tv421
-東森财经新聞,rtmp://59.124.75.136/sat/tv571
-東森超視,rtmp://59.124.75.136/sat/tv771
-緯來育樂,rtmp://59.124.75.136/sat/tv701
-緯來體育,rtmp://59.124.75.136/sat/tv721
-緯來日本,rtmp://59.124.75.136/sat/tv521
-momo综合台,rtmp://59.124.75.136/sat/tv761
-ELTA體育1台/ELEVEN 2,rtmp://59.124.75.136/sat/md021
-ELTA體育2台/博斯網球,rtmp://59.124.75.136/sat/md011
-Nat Geo / ELEVEN 2,rtmp://59.124.75.136/sat/md041
-博斯魅力/博斯運動 II,rtmp://59.124.75.136/sat/md031
-博斯運動 II,rtmp://59.124.75.136/sat/md051
-CCTV-5体育,rtmp://59.124.75.136/sat/cn021
-CCTV-5+体育,rtmp://59.124.75.136/sat/cn051
-有线18台,rtmp://59.124.75.136/sat/hk041
 港台,#genre#
 凤凰卫视香港台,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8

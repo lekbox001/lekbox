@@ -1114,6 +1114,11 @@ $c_start奇幻片$c_end
 森林之子毛克利,https://vod3.bdzybf3.com/20210110/8Tg70SIo/index.m3u8
 少年斯派维的奇异旅行,https://vod1.bdzybf1.com/20200813/JopPj20X/index.m3u8
 $c_start恐怖片$c_end
+暗夜獠牙,https://sod.bunediy.com/20211020/ye9O5ZMg/index.m3u8
+致命录像带94,https://sod.bunediy.com/20211007/gbk7sZNg/index.m3u8
+阴阳先生之阴阳中间站,https://sod.bunediy.com/20210923/6UKAkpfs/index.m3u8
+鬼门,https://sod.bunediy.com/20210909/DVCAuXRB/index.m3u8
+怪奇宅,https://cdn.zoubuting.com/20210712/6oB2KmZP/index.m3u8
 死亡来临,https://sod.bunediy.com/20211018/0xUKGzsy/index.m3u8
 在糟糕的日子里,https://sod.bunediy.com/20211015/zA9hD6yH/index.m3u8
 养老庄园,https://sod.bunediy.com/20211008/6EGAW1LW/index.m3u8

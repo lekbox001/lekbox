@@ -767,6 +767,7 @@ H爱玩具,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/2
 H爱悬疑,http://117.148.179.41/PLTV/88888888/224/3221230098/index.m3u8
 H爱悬疑,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230098/index.m3u8
 粤语片,#genre#
+女人街再见了,https://sod.bunediy.com/20211022/JpK4tmEV/index.m3u8
 重案行动之捣毒任务,https://vod2.bdzybf2.com/20210123/w7aHn3QI/index.m3u8
 遗爱,https://sod.bunediy.com/20210920/k7386hJ1/index.m3u8
 智齿,https://v7.dious.cc/20210706/sRtNwR3f/index.m3u8

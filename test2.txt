@@ -343,44 +343,99 @@ tvb星河,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 星空卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=233&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 有線奧運604,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8?sd=10&rebase=on
 泰国,#genre#
+CH3 HD,https://ilike.livedoomovie.com/02_3HD_720p/chunklist.m3u8
+CH3,http://live-hw-test.sky-cdn.com/3hd-test/3hd.stream/chunklist_w485008249.m3u8
+CH5 HD,https://ilike.livedoomovie.com/02_5HD_720p/chunklist.m3u8
+Channel 5,https://tc-live1.sanook.com/live/22302_ch5.m3u8
+CH5HD,https://ilike.livedoomovie.com/02_WORKPOINT_720p/chunklist.m3u8
+CH7 HD,https://ilike.livedoomovie.com/02_7HD_720p/chunklist.m3u8
+CH7,http://live-hw-test.sky-cdn.com/7hd-test/7hd.stream/playlist.m3u8
+CH8,http://psilive2.sky-cdn.com:1935/ch8/psi-ch8.stream/chunklist_w1810488995_tkZG9vc3RyZWFtc3RhcnR0aW1lPTE2MzQ5MDA2ODUmZG9vc3RyZWFtZW5kdGltZT0xNjM0OTA0Mjg1JmRvb3N0cmVhbUN1c3RvbVBhcmFtZXRlcj1wc2lmaXhpdCZkb29zdHJlYW1oYXNoPWRIYUdadzRSdjRqdnJycmFGR3lVTU5ZdGZ5Mlg5bThpcWpaNnJtR3d6YUU9.m3u8
+Channel 8,http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
 MONO29 HD,https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8
 MCOT HD 30,https://tc-live1.sanook.com/live/22302_ch9.m3u8
 Thairath 32,http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 WORKPOINT,http://live-hw-test.sky-cdn.com/workpoint-test/workpoint.stream/playlist.m3u8#http://live-hw-test.sky-cdn.com/workpoint-test/workpoint.stream/chunklist_w2111259910.m3u8
 ONE31,http://live-hw-test.sky-cdn.com/one-test/one.stream/chunklist_w938916868.m3u8#http://live-hw-test.sky-cdn.com/one-test/one.stream/chunklist_w1441605638.m3u8
 GMM,http://live-hw-test.sky-cdn.com/gmm-test/gmm.stream/playlist.m3u8#http://live-hw-test.sky-cdn.com/gmm-test/gmm.stream/chunklist_w1709295956.m3u8
-3,http://live-hw-test.sky-cdn.com/3hd-test/3hd.stream/chunklist_w485008249.m3u8
-7,http://live-hw-test.sky-cdn.com/7hd-test/7hd.stream/playlist.m3u8
-8,http://psilive2.sky-cdn.com:1935/ch8/psi-ch8.stream/chunklist_w1810488995_tkZG9vc3RyZWFtc3RhcnR0aW1lPTE2MzQ5MDA2ODUmZG9vc3RyZWFtZW5kdGltZT0xNjM0OTA0Mjg1JmRvb3N0cmVhbUN1c3RvbVBhcmFtZXRlcj1wc2lmaXhpdCZkb29zdHJlYW1oYXNoPWRIYUdadzRSdjRqdnJycmFGR3lVTU5ZdGZ5Mlg5bThpcWpaNnJtR3d6YUU9.m3u8
 ALTV,https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
 ASTV News 1,http://news1.live14.com/stream/news1_hi.m3u8
-Channel 5 (240p),https://tc-live1.sanook.com/live/22302_ch5.m3u8
-Channel 7 (240p),https://bcovlive-a.akamaihd.net/2d37038b355f4ea6a6b0d46993dc285c/ap-southeast-1/5282994675001/profile_0/chunklist.m3u8
-Channel 8,http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
-Golf Channel Thailand HD (720p) [Not 24/7],https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
-Mono 29,https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
+Golf Channel Thailand HD ,https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
 NBT Bangkok [Not 24/7],http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
 News1,http://news1.live14.com/stream/news1.m3u8
 Thai PBS (Opt-4),http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
-Thai PBS 3 (1080p),https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
 Thai PBS 3,https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 Thai PBS 3,https://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
-Thairath TV 32 (720p),https://live.thairath.co.th/trtv2/playlist.m3u8
-TPTV (286p),http://49.231.66.85:1935/live/tptv/playlist.m3u8
-True Premier Football HD 1 (720p) [Not 24/7],https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
-True Premier Football HD 2 (720p) [Not 24/7],https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
-True Premier Football HD 3 (720p) [Not 24/7],https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
-True Premier Football HD 4 (720p) [Not 24/7],https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
-True Premier Football HD 5 (720p) [Not 24/7],https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
-True Sports 5 (480p Scaled) [Not 24/7],https://www.livedoomovie.com/02_sport5_480p/chunklist.m3u8
-True Sports 7 (480p Scaled) [Not 24/7],https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
-True Sports HD 1 (720p) [Not 24/7],https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
-True Sports HD 2 (720p) [Not 24/7],https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
-True Sports HD 3 (720p) [Not 24/7],https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
-True Sports HD 4 (720p) [Not 24/7],https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
-True Tennis HD (720p) [Not 24/7],https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
-TV Muslim (1080p) [Not 24/7],http://vip2.liveanywhere.asia:1935/tvmuslim/tvmuslim/playlist.m3u8
+True Premier Football HD 1 ,https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+True Premier Football HD 2 ,https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+True Premier Football HD 3 ,https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+True Premier Football HD 4 ,https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+True Premier Football HD 5 ,https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
+True Sports 5 ,https://www.livedoomovie.com/02_sport5_480p/chunklist.m3u8
+True Sports 7 ,https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
+True Sports HD 1 ,https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+True Sports HD 2 ,https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+True Sports HD 3 ,https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+True Sports HD 4 ,https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
+True Tennis HD ,https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
+TV Muslim ,http://vip2.liveanywhere.asia:1935/tvmuslim/tvmuslim/playlist.m3u8
 White Channel,http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
+NBT HD,https://thainews.prd.go.th/lv/live/ch1_L.sdp/chunklist_w525823488.m3u8
+ThaiPBS HD,https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+ALTV HD,https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+TPTV,http://live.parliament.go.th/livestream/encoder3/playlist.m3u8
+MONO 29,https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1021782105.m3u8
+MCOT HD,http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist_w534518664_b3000000.m3u8
+Thairath TV HD,https://live.thairath.co.th/trtv2/playlist.m3u8
+DLTV 1,https://dltv-live-edge.catcdn.cloud/dltv01_720p/index.m3u8
+DLTV 2,https://dltv-live-edge.catcdn.cloud/dltv02_720p/index.m3u8
+DLTV 3,https://dltv-live-edge.catcdn.cloud/dltv03_720p/index.m3u8
+DLTV 4,https://dltv-live-edge.catcdn.cloud/dltv04_720p/index.m3u8
+DLTV 5,https://dltv-live-edge.catcdn.cloud/dltv05_720p/index.m3u8
+DLTV 6,https://dltv-live-edge.catcdn.cloud/dltv06_720p/index.m3u8
+DLTV 7,https://dltv-live-edge.catcdn.cloud/dltv07_720p/index.m3u8
+DLTV 8,https://dltv-live-edge.catcdn.cloud/dltv08_720p/index.m3u8
+DLTV 9,https://dltv-live-edge.catcdn.cloud/dltv09_720p/index.m3u8
+DLTV 10,https://dltv-live-edge.catcdn.cloud/dltv10_720p/index.m3u8
+DLTV 11,https://dltv-live-edge.catcdn.cloud/dltv11_720p/index.m3u8
+DLTV 12,https://dltv-live-edge.catcdn.cloud/dltv12_720p/index.m3u8
+DLTV 13,https://dltv-live-edge.catcdn.cloud/dltv13_720p/index.m3u8
+DLTV 14,https://dltv-live-edge.catcdn.cloud/dltv14_720p/index.m3u8
+DLTV 15,https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
+ETV,http://150.95.66.20:1935/live/livestream/playlist.m3u8
+TOP NEWS,https://live.topnews.co.th/hls/topnews.m3u8
+Voice TV,https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
+RTAF Channel (Test OnAir),http://rec-stream.rtaf.live/edge-1552452909/smil:live-1553149908.stream.smil/chunklist_w230032706_b978000.m3u8
+White Channel,http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
+M CHANNEL,http://www.m-channel.com:1935/live/my_stream.sdp/chunklist_w1568234806.m3u8
+Mix Major Channel,https://edge6a.v2h-cdn.com/appt7/Mix_major.stream_720p/chunklist.m3u8
+CTB TV,http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+TVB Thai,https://edge6a.v2h-cdn.com/appt7/TDramaTV.stream_720p/chunklist_w1540067969.m3u8
+Siam Channel,https://edge6a.v2h-cdn.com/v2h/V2H12.stream_360p/playlist.m3u8
+Lido Channel,https://edge6a.v2h-cdn.com/v2h/V2H13.stream_360p/chunklist.m3u8
+Scarla Channel,https://edge6a.v2h-cdn.com/v2h/V2H14.stream_360p/chunklist.m3u8
+Rama Channel,https://edge6a.v2h-cdn.com/v2h/V2H15.stream_360p/chunklist.m3u8
+V2H 2,https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/chunklist_w2102816919.m3u8
+V2H 3,https://edge6a.v2h-cdn.com/appt7/Sanook.stream_360p/chunklist_w1630170924.m3u8
+Thai Ban TV,https://edge6a.v2h-cdn.com/appt3/Thaiban.stream_360p/chunklist_w1528521804.m3u8
+HAPPY TV,https://edge6a.v2h-cdn.com/appt3/Happy.stream_360p/chunklist_w1567931962.m3u8
+BanTerng 100,https://edge6a.v2h-cdn.com/appt7/BANTERG.stream_720p/chunklist_w1359728839.m3u8
+MediaOnline Tv,https://edge6a.v2h-cdn.com/appt7/MediaOnline.stream_360p/chunklist_w441190934.m3u8
+V2H 8,https://edge6a.v2h-cdn.com/appt3/v2h8.stream_360p/chunklist_w70549678.m3u8
+V2H 11,https://edge6a.v2h-cdn.com/v2h/V2H11.stream_360p/chunklist.m3u8
+TVD 2,https://edge6a.v2h-cdn.com/appt7/TVD3.stream_360p/chunklist_w1362298715.m3u8
+TVD 8,https://edge6a.v2h-cdn.com/appt3/DoChannel.stream_360p/chunklist_w207109005.m3u8
+MVTV Series,https://edge6a.v2h-cdn.com/appt3/MV_Series.stream_720p/chunklist_w1680196792.m3u8
+MVTV FIVE,https://edge6a.v2h-cdn.com/appt4/MVTV75.stream_720p/chunklist_w943212395.m3u8
+LookThoong TV HD,https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
+MCOT HD,http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist.m3u8
+ONE HD,https://ilike.livedoomovie.com/02_GMMONE_720p/chunklist.m3u8
+Amarin TV HD,https://ilike.livedoomovie.com/02_THAIRATH_720p/chunklist.m3u8
+PPTV HD,https://ilike.livedoomovie.com/02_PPTVHD_720p/chunklist.m3u8
+Thairath TV HD,http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
+ThaiPBS,https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+NBT,http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8
+Mono29,https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1021782105.m3u8
 少儿,#genre#
 英文儿歌,http://118.26.120.23:55336/tslive/c55_lb_128_600_t10/c55_lb_128_600_t10.m3u8?key=0b292c335e5837e94dd521635e537be73
 童年经典,http://118.26.120.23:55336/tslive/c57_lb_211_600_t10/c57_lb_211_600_t10.m3u8?key=0f2a06793124310bce6ba95fc0ac76131

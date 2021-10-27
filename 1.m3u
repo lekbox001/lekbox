@@ -33,15 +33,3 @@ http://95.216.221.22:5080/WebRTCApp/streams/oasis.m3u8
 http://95.216.221.22:5080/WebRTCApp/streams/naura.m3u8
 #EXTINF:-1,IKIM
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
-#EXTINF:-1,TV1
-https://rtmlive01.secureswiftcontent.com/rtmchannel/01-1080.m3u8
-#EXTINF:-1,TV2
-https://rtmlive05.secureswiftcontent.com/rtmchannel/05-1080.m3u8
-#EXTINF:-1,BERITA
-https://rtmlive03.secureswiftcontent.com/rtmchannel/03-1080.m3u8
-#EXTINF:-1,SUKAN
-https://rtmlive06.secureswiftcontent.com/rtmchannel/06-1080.m3u8
-#EXTINF:-1,TV6
-https://rtmlive07.secureswiftcontent.com/rtmchannel/07-1080.m3u8
-#EXTINF:-1,OKEY
-https://rtmlive02.secureswiftcontent.com/rtmchannel/02-1080.m3u8

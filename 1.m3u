@@ -15,8 +15,6 @@ http://95.216.221.22:5080/WebRTCApp/streams/alhijrah.m3u8
 http://95.216.221.22:5080/WebRTCApp/streams/arena.m3u8
 #EXTINF:-1,ARENA2
 http://95.216.221.22:5080/WebRTCApp/streams/arena2.m3u8
-#EXTINF:-1,BERITARTM
-https://rtmlive03.secureswiftcontent.com/rtmchannel/03-1080.m3u8
 #EXTINF:-1,CITRA
 http://95.216.221.22:5080/WebRTCApp/streams/citra.m3u8
 #EXTINF:-1,Ceria

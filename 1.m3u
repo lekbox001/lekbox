@@ -1,12 +1,6 @@
 #EXTM3U
-#EXTINF:-1,TV1
-https://rtmlive01.secureswiftcontent.com/rtmchannel/01-1080.m3u8
-#EXTINF:-1,TV2
-https://rtmlive05.secureswiftcontent.com/rtmchannel/05-1080.m3u8
 #EXTINF:-1,TV3
 http://95.216.221.22:5080/WebRTCApp/streams/tv33.m3u8
-#EXTINF:-1,TV6
-https://rtmlive07.secureswiftcontent.com/rtmchannel/07-1080.m3u8
 #EXTINF:-1,NTV7
 https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHV_7jSvx9e7u-rG6UbuEx-Q)/dm/3/x6qp6ou/s/live-4.m3u8
 #EXTINF:-1,8TV

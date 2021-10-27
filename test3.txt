@@ -510,7 +510,6 @@ Channel 5,https://tc-live1.sanook.com/live/22302_ch5.m3u8
 CH5HD,https://ilike.livedoomovie.com/02_WORKPOINT_720p/chunklist.m3u8
 CH7 HD,https://ilike.livedoomovie.com/02_7HD_720p/chunklist.m3u8
 CH7,http://live-hw-test.sky-cdn.com/7hd-test/7hd.stream/playlist.m3u8
-CH8,http://psilive2.sky-cdn.com:1935/ch8/psi-ch8.stream/chunklist_w1810488995_tkZG9vc3RyZWFtc3RhcnR0aW1lPTE2MzQ5MDA2ODUmZG9vc3RyZWFtZW5kdGltZT0xNjM0OTA0Mjg1JmRvb3N0cmVhbUN1c3RvbVBhcmFtZXRlcj1wc2lmaXhpdCZkb29zdHJlYW1oYXNoPWRIYUdadzRSdjRqdnJycmFGR3lVTU5ZdGZ5Mlg5bThpcWpaNnJtR3d6YUU9.m3u8
 Channel 8,http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
 MONO29 HD,https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8
 MCOT HD 30,https://tc-live1.sanook.com/live/22302_ch9.m3u8

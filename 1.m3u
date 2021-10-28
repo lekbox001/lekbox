@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="tv3.my" tvg-name="TV 3 HD" tvg-logo="http://tvmalaysia.cc:80/images/d2e7bd5a77dd8889b8723fb17c2e8bc7.png" group-title="MY",TV3
+#EXTINF:-1 group-title="MY",TV3
 http://95.216.221.22:5080/WebRTCApp/streams/tv33.m3u8
 #EXTINF:-1 group-title="MY",NTV7
 https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHV_7jSvx9e7u-rG6UbuEx-Q)/dm/3/x6qp6ou/s/live-4.m3u8

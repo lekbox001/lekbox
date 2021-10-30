@@ -874,6 +874,9 @@ H爱悬疑,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/2
 萨利机长,https://sf1-ttcdn-tos.pstatp.com/obj/tos-cn-o-0004/bae93010f6ec42619ca32d05b6fc08ad?.mp4
 勇往直前,https://vod1.bdzybf1.com/20200912/VgOgURi3/index.m3u8
 战争片,#genre#
+美国叛徒,https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/a0ba49ba-87b8-41b4-8ad3-50b8fc26ffd8/21886/8718db64-b071-4351-9d28-c8514ad76a37/SD/playlist.m3u8
+PT-218的叛军,https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/09e075a8-2f53-49d9-bb94-aae2cd0e1c73/19130/315602be-9313-4618-8451-2e1e549557f0/SD/playlist.m3u8
+400发子弹,https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/cd7c4dd9-44ab-49e9-aa54-f35ef0295da8/19804/11737bb9-1a46-4c5d-bb4c-b6747af6ee24/SD/playlist.m3u8
 苍狼之特战突击,https://sod.bunediy.com/20211025/M2G0vHYr/index.m3u8
 浴火鸟,https://sod.bunediy.com/20211024/L0dmckcj/index.m3u8
 猎毒之闪狙行动,https://sod.bunediy.com/20211028/NiQKyltL/index.m3u8

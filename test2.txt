@@ -916,7 +916,7 @@ PT-218的叛军,https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-4532
 18,https://v11.tkzyapi.com/20211006/PGIcvRHC/1000kb/hls/index.m3u8
 19,https://v11.tkzyapi.com/20211007/cky4cPQd/1000kb/hls/index.m3u8
 20,https://v11.tkzyapi.com/20211007/Ae1PX0qZ/1000kb/hls/index.m3u8
-21,https://new.iskcd.com/20211009/Dt6PfZLA/1400kb/hls/index.m3u8
-22,https://new.iskcd.com/20211011/UEOjCxZM/1400kb/hls/index.m3u8
-23,https://new.iskcd.com/20211016/9JAmI6FE/1400kb/hls/index.m3u8
-24,https://new.iskcd.com/20211018/v2yGFmFN/1400kb/hls/index.m3u8
+21,https://v11.tkzyapi.com/20211008/n9oqkZiT/index.m3u8
+22,https://v11.tkzyapi.com/20211010/uI2NfHEC/index.m3u8
+23,https://v11.tkzyapi.com/20211015/sYvPMFaY/index.m3u8
+24,https://v11.tkzyapi.com/20211017/oxSGbfp2/index.m3u8

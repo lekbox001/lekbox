@@ -80,6 +80,76 @@ NTV7b,http://50.7.161.82:8278/streams/d/ntv7_pye/playlist.m3u8
 TV9b,http://50.7.161.82:8278/streams/d/tv9_pye/playlist.m3u8
 Kids TV,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
 Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
+TEST,#genre#
+ASSP1HD,http://vtech.ayproviders.xyz:80/SAccMnYoPb/G7dqTFo3SG/139276
+ASSP2HD,http://vtech.ayproviders.xyz:80/SAccMnYoPb/G7dqTFo3SG/139277
+ASSP3HD,http://vtech.ayproviders.xyz:80/SAccMnYoPb/G7dqTFo3SG/139278
+ASSP4HD,http://vtech.ayproviders.xyz:80/SAccMnYoPb/G7dqTFo3SG/139279
+SS 1,http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52859.m3u8
+SS 2,http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52860.m3u8
+SS 3,http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52861.m3u8
+SS 4,http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52862.m3u8
+SS Action,http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52300.ts
+SS Blitz,http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52301.ts
+SS Cricket,http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52293.ts
+SS Golf,http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52298.ts
+SS Grandstand,http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52290.ts
+SS LaLiga,http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52294.ts
+SS Maximo 1,http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53021.ts
+SS Motorsport,http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52295.ts
+SS PSL,http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52291.ts
+SS Premier League,http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52299.ts
+SS RUGBY,http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53022.ts
+SS Variety 1,http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52871.ts
+SS Variety 2,http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52872.ts
+SS Variety 3,http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52292.ts
+SS Variety 4,http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52873.ts
+SS football,http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52874.ts
+SSPORT 1,http://iptv.tvmalaysia.cc:80/321456/321456/6708
+SSPORT 1b,http://iptv.tvmalaysia.cc:80/321456/321456/9024
+SSPORT 2,http://iptv.tvmalaysia.cc:80/321456/321456/6710
+SSPORT 2b,http://iptv.tvmalaysia.cc:80/321456/321456/9025
+SSPORT 3,http://iptv.tvmalaysia.cc:80/321456/321456/6711
+SSPORT 3b,http://iptv.tvmalaysia.cc:80/321456/321456/9020
+SSPORT 4,http://iptv.tvmalaysia.cc:80/321456/321456/6712
+SSPORT 4b,http://iptv.tvmalaysia.cc:80/321456/321456/9026
+beIN Sports,http://iptv.tvmalaysia.cc:80/321456/321456/6749
+EPL LIVE 1,http://iptv.tvmalaysia.cc:80/321456/321456/9022
+EPL LIVE 2,http://iptv.tvmalaysia.cc:80/321456/321456/9023
+AEC HD,http://iptv.tvmalaysia.cc:80/321456/321456/6701
+AOD 351 HD,http://iptv.tvmalaysia.cc:80/321456/321456/6702
+AOD 352 HD,http://iptv.tvmalaysia.cc:80/321456/321456/6703
+AOD 353 HD,http://iptv.tvmalaysia.cc:80/321456/321456/6704
+AOD 354 HD,http://iptv.tvmalaysia.cc:80/321456/321456/6705
+AOD 355 HD,http://iptv.tvmalaysia.cc:80/321456/321456/6706
+TVBS亞洲台,http://iptv.tvmalaysia.cc:80/321456/321456/6843
+天映頻道,http://iptv.tvmalaysia.cc:80/321456/321456/7235
+天映经典.,http://iptv.tvmalaysia.cc:80/321456/321456/7222
+Animal Planet,http://iptv.tvmalaysia.cc:80/321456/321456/7077
+AXN,http://iptv.tvmalaysia.cc:80/321456/321456/7223
+BBC Earth,http://iptv.tvmalaysia.cc:80/321456/321456/7233
+Boomerang,http://iptv.tvmalaysia.cc:80/321456/321456/7199
+Cinema World,http://iptv.tvmalaysia.cc:80/321456/321456/7219
+Crime & Investigation.,http://iptv.tvmalaysia.cc:80/321456/321456/9009
+Fox Movies Premium,http://iptv.tvmalaysia.cc:80/321456/321456/8838
+HBO HD,http://iptv.tvmalaysia.cc:80/321456/321456/6797
+HBO Hits,http://iptv.tvmalaysia.cc:80/321456/321456/7068
+HBO Signature,http://iptv.tvmalaysia.cc:80/321456/321456/7069
+HGTV,http://iptv.tvmalaysia.cc:80/321456/321456/7076
+History,http://iptv.tvmalaysia.cc:80/321456/321456/7079
+Hits Movies,http://iptv.tvmalaysia.cc:80/321456/321456/7066
+Nat Geo HD,http://iptv.tvmalaysia.cc:80/321456/321456/7075
+Nat Geo People HD,http://iptv.tvmalaysia.cc:80/321456/321456/7080
+Nat Geo Wild HD,http://iptv.tvmalaysia.cc:80/321456/321456/7081
+Nickelodeon HD,http://iptv.tvmalaysia.cc:80/321456/321456/6814
+Oh!K HD,http://iptv.tvmalaysia.cc:80/321456/321456/6726
+PRIMEtime,http://iptv.tvmalaysia.cc:80/321456/321456/7227
+Red By HBO HD,http://iptv.tvmalaysia.cc:80/321456/321456/7071
+ROCK Extreme,http://iptv.tvmalaysia.cc:80/321456/321456/8861
+Sony One,http://iptv.tvmalaysia.cc:80/321456/321456/8863
+TvN MOVIES,http://iptv.tvmalaysia.cc:80/321456/321456/8865
+Universal Kids,http://iptv.tvmalaysia.cc:80/321456/321456/7205
+Warner TV HD,http://iptv.tvmalaysia.cc:80/321456/321456/7072
 MY2,#genre#
 TV3,http://95.216.221.22:5080/WebRTCApp/streams/tv33.m3u8
 NTV7,https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHV_7jSvx9e7u-rG6UbuEx-Q)/dm/3/x6qp6ou/s/live-4.m3u8

@@ -763,3 +763,108 @@ Alice Fades Away,https://cdn3ii.diebutx.com/own2hls/2020/cfc8d36c9e6095bbb5e21b1
 Faceless,https://cdn3ii.diebutx.com/own2hls/2020/3cd77976b7511174e3740cad01c58796/540p/index.m3u8
 I Portrait,https://cdn2ii.diebutx.com/own2hls/2020/3b1be98c530c5040950e21f479d95599/540p/index.m3u8
 Paradise Cove,https://cdn3ii.diebutx.com/own2hls/2020/34f988677a4e4a1e48640c9931868f03/540p/index.m3u8
+Other,#genre#
+Chinese Ghost Story 3: The Enchanting Phantom (2020),http://srv32.nf21.net/files/15-2020-05-13-6b781445273bd09f944915f9e2faad2a.mp4
+The Patriot (2000),http://srv9.nf21.net/files/14-2018-06-25-b7a6f626f774070c8a902c0cba4b7196.mp4
+Vanquish (2021),https://cdn3ii.diebutx.com/own2hls/2020/7f50438d6f69f10b7a8dae9fa285befb/540p/index.m3u8
+Nobody (2021),https://cdn3ii.diebutx.com/own2hls/2020/6e13167f4c5fb6e47d9dd7380b3776b5/360p/index.m3u8
+Thunder Force (2021),https://cdn3ii.diebutx.com/own2hls/2020/769174d6904c3acda2034ecedd2179dd/540p/index.m3u8
+The Yin Yang Master (2021),https://cdn3ii.diebutx.com/own2hls/2020/60a4e83ee154b971dd8daf9ec9146b66/540p/index.m3u8
+ARMAGEDDON TALES (2021),https://cdn3ii.diebutx.com/own2hls/2020/3ca9a047ea086321136a11b7181cfc2a/540p/index.m3u8
+Twist (2021),https://cdn3ii.diebutx.com/own2hls/2020/2664a17549df570378bdffd02aa1702c/540p/index.m3u8
+Space Sweepers (2021),https://cdn3ii.diebutx.com/own2hls/2020/b1add098cb4ac360e177435105e4ef75/540p/index.m3u8
+Master (2021),https://cdn3ii.diebutx.com/own2hls/2020/005bddd2e2c6a83d922ac5e942fb5473/540p/index.m3u8
+Just Noise (2021),https://cdn3ii.diebutx.com/own2hls/2020/b21d35731cf5adc8fb7baa80c1f1f967/540p/index.m3u8
+Insight (2021),https://cdn3ii.diebutx.com/own2hls/2020/55ce55eabcd4cb440dc36d2f7eb1f0a2/540p/index.m3u8
+Cosmic Sin (2021),https://cdn3ii.diebutx.com/own2hls/2020/ccfc9657a73148af93b0de19f35c11a1/540p/index.m3u8
+Counterattack (2021),https://cdn3ii.diebutx.com/own2hls/2020/c1a7b7f8ea60843fea649a2d0bc119ab/540p/index.m3u8
+400 Bullets (2021),https://cdn3ii.diebutx.com/own2hls/2020/bb1a2651013184c22adc299ebc25ef6b/540p/index.m3u8
+En Passant Pcho: Les Carottes Sont Cuites (2021),https://cdn3ii.diebutx.com/own2hls/2020/07986d6aaa9632efaaa549f693ba2dfd/540p/index.m3u8
+Heroes Return (2021),https://cdn3ii.diebutx.com/own2hls/2020/12c134f002d2bc4948795126b1c4e9b4/540p/index.m3u8
+Teddy (2021),https://cdn3ii.diebutx.com/own2hls/2020/401410ed0d350461833d4b8a058212c9/540p/index.m3u8
+Triassic Hunt (2021),https://cdn3ii.diebutx.com/own2hls/2020/8c38d7d33f136369e5c0eca7804a1f0c/540p/index.m3u8
+The Pond (2021),https://cdn3ii.diebutx.com/own2hls/2020/54e51c6ce7265017fbb12bccb7a41554/540p/index.m3u8
+The White Tiger (2021),https://cdn3ii.diebutx.com/own2hls/2020/5b80bd6b1e549a7baebe25b2de0a579a/540p/index.m3u8
+Batman: Soul of the Dragon (2021),https://cdn3ii.diebutx.com/own2hls/2020/1694a92b5d221c8e456f1e2022cdee98/540p/index.m3u8
+Goodbye Butterfly (2021),https://cdn3ii.diebutx.com/own2hls/2020/8dab3c63a76016415e475ed180c00a83/540p/index.m3u8
+Dead in the Water (2021),https://cdn3ii.diebutx.com/own2hls/2020/c60333d65ea8d34b5ff0533c1a83961d/540p/index.m3u8
+Butchers (2021),https://cdn3ii.diebutx.com/own2hls/2020/01e0a35bd2450f3152d8bd0f86b86d85/540p/index.m3u8
+Battle in Space: The Armada Attacks (2021),https://cdn3ii.diebutx.com/own2hls/2020/2bf8a120078b6f73c84319135c01fa93/540p/index.m3u8
+Battle in Space: The Armada Attacks (2021),IPTV DUBAI KING, [28.09.21 09:27]
+Hunted (2021),https://cdn3ii.diebutx.com/own2hls/2020/163ab27b9848d1ae9ee7b6d8bccf07ba/540p/index.m3u8
+Norm of the North: Family Vacation (2021),https://cdn3ii.diebutx.com/own2hls/2020/b726c3c74fddd43b3d217ed17fe72f4f/540p/index.m3u8
+American Dream (2021),https://cdn3ii.diebutx.com/own2hls/2020/2669184a15ad557b92c61a36df56ed9f/540p/index.m3u8
+The Minimalists: Less Is Now (2021),https://cdn3ii.diebutx.com/own2hls/2020/9b45a4d1f070048b8158394ce13e3dca/540p/index.m3u8
+Finding \'Ohana (2021),https://cdn3ii.diebutx.com/own2hls/2020/d169147a60484e39fedcb7f3481f6f0e/540p/index.m3u8
+Redemption Day (2021),https://cdn3ii.diebutx.com/own2hls/2020/d3ea522820faa6d92f51ac15d0bf0a3c/540p/index.m3u8
+Penguin Bloom (2021),https://cdn3ii.diebutx.com/own2hls/2020/ce86aaaef93576f14395690ca2c24944/540p/index.m3u8
+Palmer (2021),https://cdn3ii.diebutx.com/own2hls/2020/3670dbd46fdcfe5fb815ef5532350036/540p/index.m3u8
+A Hellkat (2021),https://cdn3ii.diebutx.com/own2hls/2020/9b2b1c8362e55234cff9ca547951d6cb/540p/index.m3u8
+Kill Cavalry (2021),https://cdn3ii.diebutx.com/own2hls/2020/539f72ad9e0453c13c7d5c1137caaafb/540p/index.m3u8
+The Power (2021),https://cdn3ii.diebutx.com/own2hls/2020/c6863cb6dd663ac179aef272b60fee7b/540p/index.m3u8
+Crisis (2021),https://cdn3ii.diebutx.com/own2hls/2020/e396a48d24cbda9d7ebda7d9ae76d0ce/540p/index.m3u8
+The College Admissions Scandal (2021),https://cdn3ii.diebutx.com/own2hls/2020/ed01b097fb58b0e5f7bd3be172a88fe2/540p/index.m3u8
+Road to Damascus (2021),https://cdn3ii.diebutx.com/own2hls/2020/7589b0dc36d3a71a45f8e2f734b305ff/540p/index.m3u8
+The Wife (2021),https://cdn3ii.diebutx.com/own2hls/2020/c0893cdc465d6f9891ae981e356bc59b/540p/index.m3u8
+Girl in the Basement (2021),https://cdn3ii.diebutx.com/own2hls/2020/8a3b2b70fdb0b47e0bce326d95e0e605/540p/index.m3u8
+The Dead of Night (2021),https://cdn3ii.diebutx.com/own2hls/2020/132ffb3304451d5f948002ecba8c9b62/540p/index.m3u8
+Cherry (2021),https://cdn3ii.diebutx.com/own2hls/2020/5818591fff4b0d06469111a2daff8a5e/540p/index.m3u8
+The Girl on the Train (2021),https://cdn3ii.diebutx.com/own2hls/2020/ea5a8116dfa1df8d71575260459d4aa2/540p/index.m3u8
+Silk Road (2021),https://cdn3ii.diebutx.com/own2hls/2020/7b666d2d6de4b9e2a6c3b712c3944f56/540p/index.m3u8
+Alice Fades Away (2021),https://cdn3ii.diebutx.com/own2hls/2020/cfc8d36c9e6095bbb5e21b1b9dc0c6e4/540p/index.m3u8
+Paradise Cove (2021),https://cdn3ii.diebutx.com/own2hls/2020/34f988677a4e4a1e48640c9931868f03/540p/index.m3u8
+Faceless (2021),https://cdn3ii.diebutx.com/own2hls/2020/3cd77976b7511174e3740cad01c58796/540p/index.m3u8
+Doors (2021),https://cdn3ii.diebutx.com/own2hls/2020/2afc40deb56b17c21874022bc419fa46/540p/index.m3u8
+Expiry (2021),https://cdn3ii.diebutx.com/own2hls/2020/3f7bb4f0aadea5388c06e8fbdc171b21/540p/index.m3u8
+Judas and the Black Messiah (2021),https://cdn3ii.diebutx.com/own2hls/2020/f7e247296deba30029c2fcc3323389f3/540p/index.m3u8
+Phobias (2021),https://cdn3ii.diebutx.com/own2hls/2020/8eff084ddb2ae8f6c2056ceb4e3fe594/540p/index.m3u8
+60 Seconds to Di3) 2021),https://cdn3ii.diebutx.com/own2hls/2020/5038692d826f121309e29ad49c107ae8/540p/index.m3u8
+Dreamcatcher (2021),https://cdn3ii.diebutx.com/own2hls/2020/2ef94737b5792d42c458235771e4a88f/540p/index.m3u8
+Stay Out of the F**king Attic (2021),https://cdn3ii.diebutx.com/own2hls/2020/1f47020e198f853bfc111e2da3aa5e91/540p/index.m3u8
+Come True(2021),https://cdn3ii.diebutx.com/own2hls/2020/86c6f1faf0d246563bedb2f53223ca1f/540p/index.m3u8
+The Toll (2021),https://cdn3ii.diebutx.com/own2hls/2020/7d78072209cbbf5b11783145e5ba86cb/540p/index.m3u8
+The Seventh Day (2021),https://cdn3ii.diebutx.com/own2hls/2020/ce5f0c2ae334178277dec43638706378/540p/index.m3u8
+American Liar (2021),https://cdn3ii.diebutx.com/own2hls/2020/167f6a2fe5cea631ff46c0deb9704ad5/540p/index.m3u8
+Held (2021),https://cdn3ii.diebutx.com/own2hls/2020/3524d392bd8a2d5d8e6a5ae401c03d6b/540p/index.m3u8
+Dawn of the Beast (2021),https://cdn3ii.diebutx.com/own2hls/2020/dbd2e455c06d645639621c3188255832/540p/index.m3u8
+Wrong Turn (2021),https://cdn3ii.diebutx.com/own2hls/2020/f175bb157bed3140504f9422f14d06c7/540p/index.m3u8
+Sator (2021),https://cdn3ii.diebutx.com/own2hls/2020/c49070879371d648e2541f76acf1fa51/540p/index.m3u8
+The Canyonlands (2021),https://cdn3ii.diebutx.com/own2hls/2020/93c0518243c11ccd997d582ff44ea700/540p/index.m3u8
+The Red Nightmare (2021),https://cdn3ii.diebutx.com/own2hls/2020/b1115353573bdc23a489a1c6653be9d4/540p/index.m3u8
+Shook (2021),https://cdn3ii.diebutx.com/own2hls/2020/aed51414b1d9787359892c18c64fef61/540p/index.m3u8
+Blood Brothers (2021),https://cdn3ii.diebutx.com/own2hls/2020/0e7bc1b5824943fc967747d65baed688/540p/index.m3u8
+Trust(2021),https://cdn3ii.diebutx.com/own2hls/2020/c7f6fcbf0961a1ad754bd1a4d45e2584/540p/index.m3u8
+Drama  Wildcat (2021),https://cdn3ii.diebutx.com/own2hls/2020/2676bc525bdd072c5ad6800571d35e9f/540p/index.m3u8
+The Arbors (2021),https://cdn3ii.diebutx.com/own2hls/2020/41f907567a35e8da06f821d48407336a/360p/index.m3u8
+Payback (2021),https://cdn3ii.diebutx.com/own2hls/2020/8a687087286b2a6438af5f5763b5f2e9/540p/index.m3u8
+Bliss (2021),https://cdn3ii.diebutx.com/own2hls/2020/10555182f5ce9ad5dd2f2219972151d9/540p/index.m3u8
+Red Dot (2021),https://cdn3ii.diebutx.com/own2hls/2020/ce5a6a0bd2749698f7d023f2648afae1/540p/index.m3u8
+Drishyam 2 (2021),https://cdn3ii.diebutx.com/own2hls/2020/c7ba58ccbaf864a200536abd8396dfdb/540p/index.m3u8
+Dream About Face-Change Comes True (2021),https://cdn3ii.diebutx.com/own2hls/2020/4f3b36b967a44e7db4c0ec8760a1e598/540p/index.m3u8
+HILO 2 (2021),https://cdn3ii.diebutx.com/own2hls/2020/87002b78d6977e7cede234e1c442bca9/540p/index.m3u8
+Land (2021),https://cdn3ii.diebutx.com/own2hls/2020/db3b50eea11629b38a726701757f12a1/540p/index.m3u8
+The Mauritanian (2021),https://cdn3ii.diebutx.com/own2hls/2020/d216527646bd705d1956dd2fe2b502f2/540p/index.m3u8
+Moxie (2021),https://cdn3ii.diebutx.com/own2hls/2020/9d065092bc6f35eb6108c49c6c2f1606/540p/index.m3u8
+Squared Love (2021),https://cdn3ii.diebutx.com/own2hls/2020/4657e7b8e5dd26c505e3099345d4f7cd/540p/index.m3u8
+Barb and Star Go to Vista Del Mar (2021),https://cdn3ii.diebutx.com/own2hls/2020/5d20ce252956a2a808bd83e149fc08e7/540p/index.m3u8
+Agent Revelation,https://cdn3ii.diebutx.com/own2hls/2020/d0adfce9414c05dc3f5fde984012a1c7/540p/index.m3u8
+American Dream,https://cdn3ii.diebutx.com/own2hls/2020/2669184a15ad557b92c61a36df56ed9f/540p/index.m3u8
+Batman: Soul of the Dragon,https://cdn3ii.diebutx.com/own2hls/2020/1694a92b5d221c8e456f1e2022cdee98/540p/index.m3u8
+Battle in Space: The Armada Attacks,https://cdn3ii.diebutx.com/own2hls/2020/2bf8a120078b6f73c84319135c01fa93/540p/index.m3u8
+Biography: Judas and the Black Messiah,https://cdn3ii.diebutx.com/own2hls/2020/f7e247296deba30029c2fcc3323389f3/540p/index.m3u8
+Butchers,https://cdn3ii.diebutx.com/own2hls/2020/01e0a35bd2450f3152d8bd0f86b86d85/540p/index.m3u8
+Finding 'Ohana,https://cdn3ii.diebutx.com/own2hls/2020/d169147a60484e39fedcb7f3481f6f0e/540p/index.m3u8
+Goodbye Butterfly,https://cdn3ii.diebutx.com/own2hls/2020/8dab3c63a76016415e475ed180c00a83/540p/index.m3u8
+Hellkat,https://cdn3ii.diebutx.com/own2hls/2020/9b2b1c8362e55234cff9ca547951d6cb/540p/index.m3u8
+Hunted,https://cdn3ii.diebutx.com/own2hls/2020/163ab27b9848d1ae9ee7b6d8bccf07ba/540p/index.m3u8
+Kill Cavalry,https://cdn3ii.diebutx.com/own2hls/2020/539f72ad9e0453c13c7d5c1137caaafb/540p/index.m3u8
+Mistery: Blood Brothers,https://cdn3ii.diebutx.com/own2hls/2020/0e7bc1b5824943fc967747d65baed688/540p/index.m3u8
+Norm of the North: Family Vacation,https://cdn3ii.diebutx.com/own2hls/2020/b726c3c74fddd43b3d217ed17fe72f4f/540p/index.m3u8
+Palmer,https://cdn3ii.diebutx.com/own2hls/2020/3670dbd46fdcfe5fb815ef5532350036/540p/index.m3u8
+Penguin Bloom,https://cdn3ii.diebutx.com/own2hls/2020/ce86aaaef93576f14395690ca2c24944/540p/index.m3u8
+Redemption Day,https://cdn3ii.diebutx.com/own2hls/2020/d3ea522820faa6d92f51ac15d0bf0a3c/540p/index.m3u8
+The Minimalists: Less Is Now,https://cdn3ii.diebutx.com/own2hls/2020/9b45a4d1f070048b8158394ce13e3dca/540p/index.m3u8
+The Pond,https://cdn3ii.diebutx.com/own2hls/2020/54e51c6ce7265017fbb12bccb7a41554/540p/index.m3u8
+The Power,https://cdn3ii.diebutx.com/own2hls/2020/c6863cb6dd663ac179aef272b60fee7b/540p/index.m3u8
+The White Tiger,https://cdn3ii.diebutx.com/own2hls/2020/5b80bd6b1e549a7baebe25b2de0a579a/540p/index.m3u8
+

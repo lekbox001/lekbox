@@ -218,6 +218,37 @@ Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
 经典功夫台,http://103.140.229.13/BOBO/bibi.php?id=21715386
 经典功夫台,http://ftp9524803.host166.gotoip4.cn/bilibili.php?id=21715386
 TW,#genre#
+民视,rtmp://59.124.75.138/sat/tv051
+台视,rtmp://59.124.75.138/sat/tv071
+中视,rtmp://59.124.75.138/sat/tv091
+華视,rtmp://59.124.75.138/sat/tv111
+TVBS新聞台,rtmp://59.124.75.138/sat/tv551
+TVBS歡樂台,rtmp://59.124.75.138/sat/tv421
+東森财经新聞,rtmp://59.124.75.138/sat/tv571
+東森超視,rtmp://59.124.75.138/sat/tv771
+緯來育樂,rtmp://59.124.75.138/sat/tv701
+緯來體育,rtmp://59.124.75.138/sat/tv721
+緯來日本,rtmp://59.124.75.138/sat/tv521
+momo综合台,rtmp://59.124.75.138/sat/tv761
+ELTA體育1台/ELEVEN 2,rtmp://59.124.75.138/sat/md021
+ELTA體育2台/博斯網球,rtmp://59.124.75.138/sat/md011
+ELEVEN +,rtmp://59.124.75.138/sat/md041
+博斯魅力/博斯運動 II,rtmp://59.124.75.138/sat/md031
+博斯運動 II,rtmp://59.124.75.138/sat/md051
+CCTV-5体育,rtmp://59.124.75.138/sat/cn021
+CCTV-5+体育,rtmp://59.124.75.138/sat/cn051
+有线18台,rtmp://59.124.75.138/sat/hk041
+民视(备),rtmp://59.124.75.157/sat/tv051
+台视(备),rtmp://59.124.75.157/sat/tv071
+中视(备),rtmp://59.124.75.157/sat/tv091
+華视(备),rtmp://59.124.75.157/sat/tv111
+TVBS新聞台(备),rtmp://59.124.75.157/sat/tv551
+TVBS歡樂台(备),rtmp://59.124.75.157/sat/tv421
+東森财经新聞(备),rtmp://59.124.75.157/sat/tv571
+東森超視(备),rtmp://59.124.75.157/sat/tv771
+緯來育樂(备),rtmp://59.124.75.157/sat/tv701
+緯來體育(备),rtmp://59.124.75.157/sat/tv721
+momo综合台(备),rtmp://59.124.75.157/sat/tv761
 东森新闻,http://50.7.61.147:30080/Entry/etnews
 HBO,http://50.7.61.148:30080/Entry/hbo
 纬来日本,http://50.7.61.147:30080/Entry/vljp
@@ -259,6 +290,121 @@ TV5monde,http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8
 三立台湾,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
 三立都会,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
 好消息,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+TW3,#genre#
+民视台湾台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv001
+民视,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv002
+民视第一台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv003
+民视综艺,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv004
+猪哥亮歌厅秀,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv006
+中天新闻,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv009
+非凡新闻,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv010
+影迷数位电影,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv011
+Cnex,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv013
+时尚运动,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv014
+韩国娱乐,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv016
+达文西,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv018
+八大精彩,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv034
+八大综合台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv039
+中视,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv040
+华视,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv041
+公视戏剧,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv042
+客家电视,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv043
+靖天卡通台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv044
+靖洋戏剧台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv045
+靖天综合台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv046
+靖天日本台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv047
+非凡商业,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv048
+采昌,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv049
+台视新闻,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv051
+华视新闻资讯,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv052
+Ginx Esports,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv053
+靖天欢乐台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv054
+靖天映画台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv055
+台视财经,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv056
+靖洋卡通,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv057
+靖天戏剧,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv058
+CLASSICA 古典乐,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv059
+靖天电影台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv061
+靖天育乐台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv062
+靖天国际台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv063
+中视精彩,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv064
+靖天资讯台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv065
+台视,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv066
+TVBS精彩,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv067
+TVBS欢乐,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv068
+爱尔达娱乐,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv070
+TVBS新闻,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv072
+TVBS直播,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv073
+中视新闻,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv074
+Catch Play,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv076
+Trace Sports,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv077
+Arirang,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv079
+中视经典,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv080
+Trace Urban,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv082
+Mezzo Live HD,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv083
+国会频道1,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv084
+国会频道2,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv085
+智林体育,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv101
+东森购物1,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv102
+东森购物2,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv103
+财经频道,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv104
+中天亚洲,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv109
+V0A美國之音,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv03
+民視旅遊,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv07
+民視影劇,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv09
+半島國際新聞,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv10
+民視新聞台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv13
+愛放i-Fun動漫台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv15
+好消息,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv16
+好消息2,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv17
+龍華卡通,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn01
+BabyFirst,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn02
+龍華電影,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn03
+博斯魅力,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn04
+博斯高球1,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn05
+博斯高球2,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn06
+博斯運動1,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn07
+博斯運動2,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn08
+博斯網球,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn09
+博斯無限,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn10
+龍華日韓,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn11
+龍華偶像,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn12
+博斯無限2,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn13
+寰宇新闻台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn14
+寰宇新聞台湾台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn15
+梅蒂斯藝術,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn16
+亞洲旅遊,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn17
+龍華戲劇,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn18
+FashionOne,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn19
+ELTV英語,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn20
+龍華經典,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn21
+台视综合,https://flv3948069e.live.126.net/live/sytv_a3230bb77e846899c6cdded52e7732f3.flv
+华视教育,https://flv3948069e.live.126.net/live/sytv_91030b1dae846205fdcdded56e773477.flv
+公视,https://flv3948069e.live.126.net/live/sytv_9dd30b5c8e846938c26dde70be773545.flv
+公视台语台,https://flv3948069e.live.126.net/live/sytv_b2c30b53ae84670a8b8dde5c2e7733db.flv
+公视3,https://flv3948069e.live.126.net/live/sytv_f8630b6a5e8461aca04dde1d5e773c81.flv
+民视,http://v3948069e.live.126.net/live/nteimwyu30134860/28.flv
+民視第一台,http://v3948069e.live.126.net/live/epreliwi80996113/29.flv
+民視台湾台,http://v3948069e.live.126.net/live/htdndniz25866884/30.flv
+民視綜藝,http://v3948069e.live.126.net/live/lsvtdgwt69296670/31.flv
+民視旅游,http://v3948069e.live.126.net/live/dyjmdzws81670834/32.flv
+民视新闻台,http://v3948069e.live.126.net/live/cmcfizof46736198/36.flv
+中视新闻台,http://v3948069e.live.126.net/live/dscspbkh98253248/37.flv
+中天新聞,http://v3948069e.live.126.net/live/myewtdtq55241913/40.flv
+东森新闻,http://v3948069e.live.126.net/live/chljmwfc26030164/42.flv
+东森财经,http://v3948069e.live.126.net/live/xttzgmzd89254972/43.flv
+华视新闻,http://v3948069e.live.126.net/live/faynljtw39421227/45.flv
+TVBS新闻台,http://v3948069e.live.126.net/live/eyisbshx78425035/46.flv
+三立iNEWS,http://v3948069e.live.126.net/live/syiygqgw23248264/47.flv
+三立Live新闻,http://v3948069e.live.126.net/live/tizinjzv54935020/48.flv
+壹新闻,http://v3948069e.live.126.net/live/xtxndaws57833801/50.flv
+BBCNews,http://v3948069e.live.126.net/live/cakbruve46655165/51.flv
+ABCnews,http://v3948069e.live.126.net/live/wbrbruqn78846690/52.flv
+CNN,http://v3948069e.live.126.net/live/vhyiolar25209544/54.flv
+NHK World,http://v3948069e.live.126.net/live/uxoeaxnk44941053/55.flv
+CNA,http://v3948069e.live.126.net/live/xyptvspr68769369/56.flv
+JET综合,http://v3948069e.live.126.net/live/wakudnpz00430412/57.flv
+AXN,http://v3948069e.live.126.net/live/lgdhdhqt88784905/85.flv
 港台,#genre#
 凤凰卫视香港台,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
@@ -304,17 +450,6 @@ TVBS HD,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbs&tonken=32d1adfd
 TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 三立新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
 三立財經新聞,http://seb.sason.top/sc/slinews_fhd.m3u8
-卫视电影台,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/53
-卫视电影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwsdy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
-CHC高清电影,http://60.255.49.202/live/lnwsCHC-HDH265_4000.m3u8
-CHC家庭电影,http://60.255.49.202/live/jbtygqCHCjtyyH265_4000.m3u8
-CHC动作电影,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
-緯來電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwldy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
-亞洲旅遊,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
-博斯运动2,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
-智林體育,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
-中台灣生活網,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
-美麗人生,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
 大愛二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 大愛海外台,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
 韩国娱乐台,http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
@@ -382,17 +517,6 @@ TVBS新聞,rtmp://161.202.204.248/sat/tv551
 东森财经新闻,rtmp://161.202.204.248:1935/sat/tv571
 东森超视,rtmp://59.124.75.153/sat/tv771
 东森超视,rtmp://59.124.75.153:1935/sat/tv771
-凤凰资讯,http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
-凤凰卫视,http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
-凤凰卫视,http://117.169.120.138:8080/live/fhchinese/index.m3u8
-凤凰香港,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
-凤凰香港,http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
-凤凰资讯 10M1080,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
-凤凰香港 10M1080,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
-CNC英文,http://39.134.115.163:8080/PLTV/88888910/224/3221225693/index.m3u8
-CNC中文,http://39.134.115.163:8080/PLTV/88888910/224/3221225694/index.m3u8
-凤凰中文1080,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
-凤凰中文,https://zb.ios.ifeng.com/live/05QGCOB3T34/index.m3u8
 tvb星河,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 有線電影,http://93.190.139.36:8278/streams/d/hk03_twn/playlist.m3u8
 海外翡翠台,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
@@ -422,24 +546,6 @@ News1,http://news1.live14.com/stream/news1.m3u8
 Thai PBS (Opt-4),http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
 Thai PBS 3,https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 Thai PBS 3,https://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
-True Premier Football HD 1 ,https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
-True Premier Football HD 2 ,https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
-True Premier Football HD 3 ,https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
-True Premier Football HD 4 ,https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
-True Premier Football HD 5 ,https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
-True Sports 5 ,https://www.livedoomovie.com/02_sport5_480p/chunklist.m3u8
-True Sports 7 ,https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
-True Sports HD 1 ,https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
-True Sports HD 2 ,https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
-True Sports HD 3 ,https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
-True Sports HD 4 ,https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
-True Tennis HD ,https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
-TV Muslim ,http://vip2.liveanywhere.asia:1935/tvmuslim/tvmuslim/playlist.m3u8
-White Channel,http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
-NBT HD,https://thainews.prd.go.th/lv/live/ch1_L.sdp/chunklist_w525823488.m3u8
-ThaiPBS HD,https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-ALTV HD,https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
-TPTV,http://live.parliament.go.th/livestream/encoder3/playlist.m3u8
 MONO 29,https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1021782105.m3u8
 MCOT HD,http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist_w534518664_b3000000.m3u8
 Thairath TV HD,https://live.thairath.co.th/trtv2/playlist.m3u8
@@ -514,6 +620,14 @@ Mono29,https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream
 亲子小游戏,http://118.26.120.23:55336/tslive/c56_lb_178_600_t10/c56_lb_178_600_t10.m3u8?key=0b292c335e5837e94ffc1113a2140b54
 亲子启蒙,http://118.26.120.23:55336/tslive/c57_lb_213_600_t10/c57_lb_213_600_t10.m3u8?key=0f2a06793124310bc21adebc9f02a9735
 SPORT,#genre#
+ELTA體育1台/ELEVEN 2(备),rtmp://59.124.75.157/sat/md021
+ELTA體育2台/博斯網球(备),rtmp://59.124.75.157/sat/md011
+ELEVEN +(备),rtmp://59.124.75.157/sat/md041
+博斯魅力/博斯運動 II(备),rtmp://59.124.75.157/sat/md031
+博斯運動 II(备),rtmp://59.124.75.157/sat/md051
+CCTV-5体育(备),rtmp://59.124.75.157/sat/cn021
+CCTV-5+体育(备),rtmp://59.124.75.157/sat/cn051
+有线18台(备),rtmp://59.124.75.157/sat/hk041
 CCTV5,http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
 CCTV5,http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
 CCTV5,http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
@@ -551,7 +665,7 @@ BISP1 HD TR,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/15719
 BISP2 HD TR,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/15943
 BISP3 FHD TR,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/17741
 BISP4 FHD TR,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/19038
-BISPMAX 1 HD TR,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/15723
+BISPMAX 1 HD TR,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/15723
 BISP4 HD US,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/9013
 BISPHD US,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/15002
 BISPGLOBAL HD QA,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/21926
@@ -666,6 +780,7 @@ DC-漫威电影,http://111.6.232.36/txpcdn.liveplay.egame.qq.com/3954_616645877.
 医院故事,http://118.26.120.37:55336/tslive/c51_lb_122_600_t10/c51_lb_122_600_t10.m3u8?key=0f2a06793124310bc42165f6f50f54ebb
 动作电影,http://118.26.120.23:55336/tslive/c52_lb_61_720P_t10/c52_lb_61_720P_t10.m3u8?key=0f2a06793124310bc542dae4db6856743
 高清,#genre#
+冬奥纪实HDR4K,http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226563/1.m3u8
 淘电影,http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 淘电影,http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 淘娱乐,http://39.135.238.69:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
@@ -842,22 +957,69 @@ H爱玩具,http://117.148.179.31/PLTV/88888888/224/3221230026/index.m3u8
 H爱玩具,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230026/index.m3u8
 H爱悬疑,http://117.148.179.41/PLTV/88888888/224/3221230098/index.m3u8
 H爱悬疑,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230098/index.m3u8
-粤语片,#genre#
-女人街再见了,https://sod.bunediy.com/20211022/JpK4tmEV/index.m3u8
-重案行动之捣毒任务,https://vod2.bdzybf2.com/20210123/w7aHn3QI/index.m3u8
-遗爱,https://sod.bunediy.com/20210920/k7386hJ1/index.m3u8
-智齿,https://v7.dious.cc/20210706/sRtNwR3f/index.m3u8
-喜玛拉雅星,https://iqiyi-qq-comic.jjyl12349.com/20210727/yPsKGR8L/index.m3u8
-武林怪兽,https://iqiyi-qq-comic.jjyl12349.com/20210716/in6QPa5Z/index.m3u8
-新喜剧之王,https://iqiyi-qq-comic.jjyl12349.com/20210716/OD6usQb1/index.m3u8
-叶问外传,https://iqiyi-qq-comic.jjyl12349.com/20210716/EBAhKdSx/index.m3u8
-感动她77次,https://iqiyi-qq-comic.jjyl12349.com/20210716/nT5Op6To/index.m3u8
-黄金兄弟,https://iqiyi-qq-comic.jjyl12349.com/20210716/RxBgQxgT/index.m3u8
-廉政风云,https://iqiyi-qq-comic.jjyl12349.com/20210716/cHrXxEyJ/index.m3u8
-你咪理我爱你,https://iqiyi-qq-comic.jjyl12349.com/20210716/CTbdcmVt/index.m3u8
-泄密者,https://iqiyi-qq-comic.jjyl12349.com/20210716/Pe3o1j2q/index.m3u8
-功夫,https://iqiyi-qq-comic.jjyl12349.com/20210716/BXjAcLY6/index.m3u8
+探索,#genre#
+动物世界,http://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/3ade8e846e1f43c99c2726d34e5adb83/1200.m3u8
+动物世界2,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/43ea5e51856e4cb69855fd60eee490a1/1200.m3u8
+人以自然,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/265ea80680434a5fbfdfea5ec17c3fd7/1200.m3u8
+自然传奇,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/981dc4f288654a8993fe65b386d36808/1200.m3u8
+自然传奇2,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a40fd25b2844490d8e5881a79abdc15b/1200.m3u8
+地理中国,http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/cbc0c4ae87ac40b7bb856fac8974fd90/1200.m3u8
+美丽中国说,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/71b4a51f3b4c48a1894ca40cacca866e/4000.m3u8
+乘火车看中国,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/3eba856d8c6f4e1d9553ba1334cd4d76/4000.m3u8
+美丽中国自然,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/b151b8072ea540918a152b3f1449e2d9/4000.m3u8
+如果国宝会说话,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/e5720e094f5944fbb0f81bcd1b084901/4000.m3u8
+航拍中国第一季,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/1199803974fe4361980f8e764d94c607/4000.m3u8
+航拍中国第二季,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/cc46d0edb5974d9bb744a009edc9c01a/4000.m3u8
+航拍中国第三季,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/73c437874a0c447dbfe6d7467d4a6e64/1200.m3u8
+舌尖上的中国第一季,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2dedfb9d85084287a02246bd2e012851/1200.m3u8
+舌尖上的中国第二季,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/affc07df0a2a45d9847a7dd3cce8f06f/1200.m3u8
+舌尖上的中国第三季,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ac775a6725274dcdb1fa9bbe90747bf4/1200.m3u8
+传承第二季,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/0bedf421f3aa4beb9d78836d945d1b48/4000.m3u8
+传承第三季,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/80d867b1a5de42e6992e5a4248baee38/4000.m3u8
+记住乡愁第四季,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/0319d0e0fac045c1ba667545c6a68e3e/4000.m3u8
+记住乡愁第五季,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/4a12d623df424a4b9af1575699d29098/4000.m3u8
+记住乡愁第六季,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/448dd1adefe34cac8576ebd7c72660da/4000.m3u8
+生命眿动第一季,http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c481b5826ffc4e99a92e01704c862dbc/850.m3u8
+地球眿动第一季,http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/7a3423af02284c3db48b854ab646993f/850.m3u8
+梵凈山,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/6d2dfa90551e4045949ba6bae32daf66/4000.m3u8
+攻渡之战,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b041563ffd46462c8073619e4cbf045d/1200.m3u8
+国家榮光,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/ad6e4df937034345b9a8e63d10b54fe6/4000.m3u8
+中国村庄,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/b0f864245bd0461e989e4f1ea5290c60/4000.m3u8
+远方的家,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/658bc975f40d4d779ebd4f2be500e7ff/4000.m3u8
+大太平洋,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/d74cd84bb3b740f6973e27c0bfa0153f/4000.m3u8
+飞向月球,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/72ea230607c8498a961ccc44c085d2ba/4000.m3u8
+篮球少年,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d3b790a3ab58467fbe5ab75f94b31425/1200.m3u8
+人生第一次,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e6ad8f7e5b8e4eef988d50e1a6df8911/1200.m3u8
+跑者的世界,http://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/d976a875eea6474680eb0e1972ed9430/1200.m3u8
+故乡的风景,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9e7f3b1c174c427e91ad457e9c135925/1200.m3u8
+中国的宝藏,http://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/4d8a605e97764590ba6c91855452e5ca/1200.m3u8
+三国的世界,http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/c8b9afe612014590a33815b69c99beb4/1200.m3u8
+不朽的马克司,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/e80dd34664d841fe834e2a4f816d8862/4000.m3u8
+小岗人家四十年,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/c48a7d0d2a4e4d78aa60882dc0c25332/4000.m3u8
+我们一起走过,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/f025abea81484772af563055be685ec9/4000.m3u8
+ANIMAL PLANET,vjms://14.102.154.164:8500/live/cid=3
+ANIMAL PLANET,vjms://122.155.180.8:8500/live/cid=3
+Discovery Asia,vjms://14.102.154.164:8500/live/cid=440
+Disney Channel,vjms://14.102.154.164:8500/live/cid=361
+Disney Channel,vjms://122.155.180.8:8500/live/cid=361
+HBO HD,vjms://14.102.154.164:8500/live/cid=261
+HBO HD,vjms://122.155.180.8:8500/live/cid=261
+Nat Geo,vjms://14.102.154.164:8500/live/cid=115
+Nat Geo,vjms://122.155.180.8:8500/live/cid=115
+Nat Geo Wild,vjms://14.102.154.164:8500/live/cid=263
+Nat Geo Wild,vjms://122.155.180.8:8500/live/cid=263
+TV5MONDE,vjms://14.102.154.164:8500/live/cid=396
+TV5MONDE,vjms://122.155.180.8:8500/live/cid=396
+BBC WORLD NEWS,vjms://14.102.154.164:8500/live/cid=418
+CNBC,vjms://14.102.154.164:8500/live/cid=98
+CNBC,vjms://122.155.180.8:8500/live/cid=98
+CNN,vjms://14.102.154.164:8500/live/cid=428
+CINEMA 洋片,vjms://14.102.154.164:8500/live/cid=209
+BBC Earth,http://198.16.106.62:8278/streams/d/bbcearthhd_zero/playlist.m3u8
+亞洲旅游,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
 动作片,#genre#
+重案行动之捣毒任务,https://vod2.bdzybf2.com/20210123/w7aHn3QI/index.m3u8
+智齿,https://v7.dious.cc/20210706/sRtNwR3f/index.m3u8
 神偷军团,https://sod.bunediy.com/20211029/cEz9LaeH/index.m3u8
 冥海禁地,https://sod.bunediy.com/20211026/2mXpww6u/index.m3u8
 搜索者,https://sod.bunediy.com/20211025/pqDq8UIA/index.m3u8
@@ -892,6 +1054,8 @@ H爱悬疑,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/2
 叢林奇航,https://vod7.wenshibaowenbei.com/20210801/jgcoCaWr/index.m3u8
 玩命關頭9,https://cdn.605-zy.com/20210730/tWm3EQcW/index.m3u8
 剧情片,#genre#
+遗爱,https://sod.bunediy.com/20210920/k7386hJ1/index.m3u8
+女人街再见了,https://sod.bunediy.com/20211022/JpK4tmEV/index.m3u8
 盛夏光年,https://sod.bunediy.com/20211022/kVwyLeKP/index.m3u8
 王牌父女,https://sod.bunediy.com/20211018/oy1GzXL9/index.m3u8
 摩加迪沙,https://sod.bunediy.com/20211013/FPKGtPVN/index.m3u8
@@ -933,6 +1097,7 @@ H爱悬疑,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/2
 太空群落,https://sod.bunediy.com/20210901/P8KxZKUo/index.m3u8
 丛林奇航,https://vod.bunediy.com/20210731/htf0kjSn/index.m3u8
 奇幻片,#genre#
+武林怪兽,https://iqiyi-qq-comic.jjyl12349.com/20210716/in6QPa5Z/index.m3u8
 大耳朵图图之霸王龙在行动,https://sod.bunediy.com/20211027/kWs9XeTn/index.m3u8
 北海屠龙记,https://sod.bunediy.com/20211026/NwFNcuYi/index.m3u8
 初级特工,https://sod.bunediy.com/20211019/TiJMoncZ/index.m3u8
@@ -981,7 +1146,6 @@ H爱悬疑,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/2
 在糟糕的日子里,https://sod.bunediy.com/20211015/zA9hD6yH/index.m3u8
 养老庄园,https://sod.bunediy.com/20211008/6EGAW1LW/index.m3u8
 人母诅咒,https://sod.bunediy.com/20211008/9NB2OH9D/index.m3u8
-致命录像带94,https://sod.bunediy.com/20211007/gbk7sZNg/index.m3u8
 你房里有人,https://sod.bunediy.com/20211006/cRgbtEtJ/index.m3u8
 夜间小屋,https://sod.bunediy.com/20211007/XLQJqyg1/index.m3u8
 诡屋惊魂,https://sod.bunediy.com/20210929/Vkle4iOY/index.m3u8
@@ -1020,11 +1184,6 @@ PT-218的叛军,https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-4532
 幸存者1937,https://vod.bunediy.com/20210701/E775n0Ox/index.m3u8
 破晓之战,https://vod.bunediy.com/20210629/eLUmDW4t/index.m3u8
 地雷险区,https://vod.bunediy.com/20210606/4qbvKnid/index.m3u8
-饥饿游戏,#genre#
-1,https://video.dious.cc/20200621/sii65y3i/1000kb/hls/index.m3u8
-2,https://iqiyi-qq-comic.jjyl12349.com/20210920/4Zv188dw/1000kb/hls/index.m3u8
-3,https://v.kdcdn.net/20210905/vYdOJHDZ/1000kb/hls/index.m3u8
-4,https://iqiyi-com.jjyl12349.com/20210604/5yryvaZi/1000kb/hls/index.m3u8
 中国好声音,#genre#
 1,https://v8.dious.cc/20210731/3SMl4Okx/1000kb/hls/index.m3u8
 2,https://v9.dious.cc/20210807/rcfU1E8n/1000kb/hls/index.m3u8

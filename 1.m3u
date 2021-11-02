@@ -1,36 +1,44 @@
 #EXTM3U
+#EXTINF:-1 group-title="MY",TV3b
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQniq4EvIg7f8Svoe-KLs6I)/dm/3/x6qp375/d/live-1.m3u8
+#EXTINF:-1 group-title="MY",NTV7b
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHdU6ixTQkcCYEN7G2r3j8PI)/dm/3/x6qp6ou/s/live-3.m3u8
+#EXTINF:-1 group-title="MY",8TVb
+https://stream-02.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08k_1UbYbqSxiXR3JiCOt6LA)/dm/3/x7a7ru1/s/live-2.m3u8
+#EXTINF:-1 group-title="MY",TV9b
+https://stream-03.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08jc3mrzjonI5zJKqguhPbbY)/dm/3/x7a7rf7/s/live-3.m3u8
+#EXTINF:-1 group-title="MY",DRAMASG
+https://stream-03.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0g3vsSVn5s0iPAB9M2JMVwA)/dm/3/x6zvnex/s/live-1.m3u8
 #EXTINF:-1 group-title="MY",TV3
-http://95.216.221.22:5080/WebRTCApp/streams/tv33.m3u8
+http://116.203.238.252:5080/WebRTCApp/streams/tv33.m3u8
 #EXTINF:-1 group-title="MY",NTV7
-https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHV_7jSvx9e7u-rG6UbuEx-Q)/dm/3/x6qp6ou/s/live-4.m3u8
+http://116.203.238.252:5080/WebRTCApp/streams/didiktv.m3u8
 #EXTINF:-1 group-title="MY",8TV
-http://95.216.221.22:5080/WebRTCApp/streams/tv88.m3u8
+http://116.203.238.252:5080/WebRTCApp/streams/tv88.m3u8
 #EXTINF:-1 group-title="MY",TV9
-http://95.216.221.22:5080/WebRTCApp/streams/tv99.m3u8
+http://116.203.238.252:5080/WebRTCApp/streams/tv99.m3u8
 #EXTINF:-1 group-title="MY",AWANI
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:-1 group-title="MY",Alhijrah
-http://95.216.221.22:5080/WebRTCApp/streams/alhijrah.m3u8
+http://116.203.238.252:5080/WebRTCApp/streams/alhijrah.m3u8
 #EXTINF:-1 group-title="MY",ARENA
-http://95.216.221.22:5080/WebRTCApp/streams/arena.m3u8
+http://116.203.238.252:5080/WebRTCApp/streams/arena.m3u8
 #EXTINF:-1 group-title="MY",ARENA2
-http://95.216.221.22:5080/WebRTCApp/streams/arena2.m3u8
+http://116.203.238.252:5080/WebRTCApp/streams/arena2.m3u8
 #EXTINF:-1 group-title="MY",CITRA
-http://95.216.221.22:5080/WebRTCApp/streams/citra.m3u8
+http://116.203.238.252:5080/WebRTCApp/streams/citra.m3u8
 #EXTINF:-1 group-title="MY",Ceria
-http://95.216.221.22:5080/WebRTCApp/streams/ceria.m3u8
-#EXTINF:-1 group-title="MY",DidikTV
-http://95.216.221.22:5080/WebRTCApp/streams/didiktv.m3u8
+http://116.203.238.252:5080/WebRTCApp/streams/ceria.m3u8
 #EXTINF:-1 group-title="MY",Warna
-http://95.216.221.22:5080/WebRTCApp/streams/warna.m3u8
+http://116.203.238.252:5080/WebRTCApp/streams/warna.m3u8
 #EXTINF:-1 group-title="MY",RIA
-http://95.216.221.22:5080/WebRTCApp/streams/riaa.m3u8
+http://116.203.238.252:5080/WebRTCApp/streams/riaa.m3u8
 #EXTINF:-1 group-title="MY",Prima
-http://95.216.221.22:5080/WebRTCApp/streams/prima.m3u8
+http://116.203.238.252:5080/WebRTCApp/streams/prima.m3u8
 #EXTINF:-1 group-title="MY",Oasis
-http://95.216.221.22:5080/WebRTCApp/streams/oasis.m3u8
+http://116.203.238.252:5080/WebRTCApp/streams/oasis.m3u8
 #EXTINF:-1 group-title="MY",Naura
-http://95.216.221.22:5080/WebRTCApp/streams/naura.m3u8
+http://116.203.238.252:5080/WebRTCApp/streams/naura.m3u8
 #EXTINF:-1 group-title="MY",IKIM
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 #EXTINF:-1 group-title="MY2",AOD351
@@ -397,6 +405,10 @@ http://iptv.tvmalaysia.cc:80/321456/321456/8865
 http://iptv.tvmalaysia.cc:80/321456/321456/7205
 #EXTINF:-1 group-title="MY3",Warner TV HD
 http://iptv.tvmalaysia.cc:80/321456/321456/7072
+#EXTINF:-1 group-title="INDO",MOVIESINEMA EROTIK 2 HD
+http://5f.niobzca.cf:8080/live/Joao/123/99491.m3u8
+#EXTINF:-1 group-title="INDO",MOVIESINEMA EROTIK 3 HD
+http://5f.niobzca.cf:8080/live/Joao/123/99492.m3u8
 #EXTINF:-1 group-title="INDO",ADiTV
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 #EXTINF:-1 group-title="INDO",ATV
@@ -1699,5 +1711,3 @@ https://cdn3ii.diebutx.com/own2hls/2020/cfc8d36c9e6095bbb5e21b1b9dc0c6e4/540p/in
 https://cdn3ii.diebutx.com/own2hls/2020/3cd77976b7511174e3740cad01c58796/540p/index.m3u8
 #EXTINF:-1 group-title="MOVIE",Thriller: Paradise Cove
 https://cdn3ii.diebutx.com/own2hls/2020/34f988677a4e4a1e48640c9931868f03/540p/index.m3u8
-#EXTINF:-1 group-title="MOVIE",22
-https://saas-data.video.iqiyi.com/videos/saas-sg/20211021/7329088538353154/33/9e/a38846f90cbbf498d456e13705c6181c.m4s?qd_uid=0&qd_vip=0&qd_src=01014011010011030000&qd_tm=1635587780770&qd_ip=-&qd_p=-&qdv=1&dis_hbr=1&ve=0&qd_tvid=2874661586986300&qd_sc=1209c3a6a22f9355368a21af696acf83&pv=0.1&cross-domain=1&mss=1&stauto=0

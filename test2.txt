@@ -676,66 +676,21 @@ CCTV5+HD,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
 超级体育,http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
 山东体育,http://livealone302.iqilu.com/iqilu/typd.m3u8
 ELEVEN SPORTS 2,http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
-BISP1 4K QA,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/24697
-BISP1 FHD QA,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/22157
-BISP1 HD QA,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/14980
-BISP2 4K QA,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/24696
-BISP2 SD QA,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/14983
-BISP3 FHD QA,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/22159
-BISP4 FHD QA,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/22160
-BISP4 HD QA,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/14986
-BISP5 SD QA,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/14989
-BISP6 4K QA,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/24692
-BISP6 HD QA,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/14990
-BISP6 SD QA,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/14991
-BISP7 FHD QA,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/22163
-BISP7 HD QA,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/14992
-BISP7 SD QA,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/14993
-BISP1 English HD QA,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/15000
-BISP2 English HD QA,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/15001
-BISP1 FR,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/5522
-BISPMAX 5 FR,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/18219
-BISPMAX 8 FHD FR,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/18222
-BISPMAX 10 FHD FR,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/18224
-BISP1 HD TR,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/15719
-BISP2 HD TR,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/15943
-BISP3 FHD TR,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/17741
-BISP4 FHD TR,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/19038
-BISPMAX 1 HD TR,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/15723
-BISP4 HD US,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/9013
-BISPHD US,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/15002
-BISPGLOBAL HD QA,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/21926
-BISPMAX 3 FHD QA,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/27394
-BISPHD QA,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/29604
-BISP6 HD US,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/32749
-BISPPremium 2 FHD QA,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/75534
-BISPPremium 3 HD QA,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/91338
-BISPPremium 3 QA,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/91339
-Eurosport 1 FHD DE,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/3435
-SKYNews FHD DE,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/7337
-SKYF1 FHD DE,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/74989
-SKY1 FHD DE,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/7326
-SKY2 FHD DE,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/7327
-SPORT1 DE,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/9552
-Motorvision TV DE,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/9564
-Eurosport Player 1 DE,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/19813
-Eurosport Player 2 DE,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/19814
-MySPFHD CH,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/17483
-MySP1 FHD CH,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/17484
-MySP2 FHD [Multi] CH,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/17485
-MySP3 FHD [Multi] CH,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/17486
-MySP6 FHD [Multi] CH,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/17489
-MySP7 FHD [Multi] CH,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/18811
-MySP8 FHD [Multi] CH,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/18812
-MySP9 FHD [Multi] CH,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/18813
-Blue Sport 1 CH,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/11660
-Teleclub SKY1 CH,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/28579
-Teleclub SKY1 FHD CH,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/28580
-Teleclub SKY2 CH,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/28581
-Teleclub SKY2 FHD CH,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/28582
-MySPFHD French CH,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/17490
-MySP1 FHD French CH,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/17491
-Blue Sport Event 1 FHD CH,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/75528
+ASSP1HD,http://vtech.ayproviders.xyz:80/SAccMnYoPb/G7dqTFo3SG/139276
+ASSP2HD,http://vtech.ayproviders.xyz:80/SAccMnYoPb/G7dqTFo3SG/139277
+ASSP3HD,http://vtech.ayproviders.xyz:80/SAccMnYoPb/G7dqTFo3SG/139278
+ASSP4HD,http://vtech.ayproviders.xyz:80/SAccMnYoPb/G7dqTFo3SG/139279
+SSPORT 1,http://iptv.tvmalaysia.cc:80/321456/321456/6708
+SSPORT 1b,http://iptv.tvmalaysia.cc:80/321456/321456/9024
+SSPORT 2,http://iptv.tvmalaysia.cc:80/321456/321456/6710
+SSPORT 2b,http://iptv.tvmalaysia.cc:80/321456/321456/9025
+SSPORT 3,http://iptv.tvmalaysia.cc:80/321456/321456/6711
+SSPORT 3b,http://iptv.tvmalaysia.cc:80/321456/321456/9020
+SSPORT 4,http://iptv.tvmalaysia.cc:80/321456/321456/6712
+SSPORT 4b,http://iptv.tvmalaysia.cc:80/321456/321456/9026
+ASSP,http://50.7.234.146:8278/Assp1/playlist.m3u8?tid=m020000000015774327&ct=18586&tsum=540009a22dc698e4c187a714934cf93b
+ASSP4,http://50.7.234.146:8278/Assp4/playlist.m3u8?tid=m020000000000710721123&ct=18913&tsum=01fcd42c46847ec5a29683ebd48ed5c3
+ASSP5,http://50.7.234.146:8278/Assp5/playlist.m3u8?tid=MAAA9861804798618047&ct=18921&tsum=97ac2e7873e1e6928e744f1475977e9f
 电影系列,#genre#
 粤语1,http://cloudplay.tk/api/douyu.php?id=6566671
 粤语2,http://cloudplay.tk/api/douyu.php?id=2466104 

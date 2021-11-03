@@ -1303,204 +1303,40 @@ http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
 http://livealone302.iqilu.com/iqilu/typd.m3u8
 #EXTINF:-1 group-title="SPORT",ELEVEN SPORTS 2
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORT",BISP1 4K QA
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/24697
-#EXTINF:-1 group-title="SPORT",BISP1 FHD QA
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/22157
-#EXTINF:-1 group-title="SPORT",BISP1 HD QA
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/14980
-#EXTINF:-1 group-title="SPORT",BISP2 4K QA
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/24696
-#EXTINF:-1 group-title="SPORT",BISP2 SD QA
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/14983
-#EXTINF:-1 group-title="SPORT",BISP3 FHD QA
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/22159
-#EXTINF:-1 group-title="SPORT",BISP4 FHD QA
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/22160
-#EXTINF:-1 group-title="SPORT",BISP4 HD QA
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/14986
-#EXTINF:-1 group-title="SPORT",BISP5 SD QA
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/14989
-#EXTINF:-1 group-title="SPORT",BISP6 4K QA
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/24692
-#EXTINF:-1 group-title="SPORT",BISP6 HD QA
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/14990
-#EXTINF:-1 group-title="SPORT",BISP6 SD QA
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/14991
-#EXTINF:-1 group-title="SPORT",BISP7 FHD QA
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/22163
-#EXTINF:-1 group-title="SPORT",BISP7 HD QA
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/14992
-#EXTINF:-1 group-title="SPORT",BISP7 SD QA
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/14993
-#EXTINF:-1 group-title="SPORT",BISP1 English HD QA
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/15000
-#EXTINF:-1 group-title="SPORT",BISP2 English HD QA
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/15001
-#EXTINF:-1 group-title="SPORT",BISP1 FR
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/5522
-#EXTINF:-1 group-title="SPORT",BISPMAX 5 FR
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/18219
-#EXTINF:-1 group-title="SPORT",BISPMAX 8 FHD FR
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/18222
-#EXTINF:-1 group-title="SPORT",BISPMAX 10 FHD FR
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/18224
-#EXTINF:-1 group-title="SPORT",BISP1 HD TR
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/15719
-#EXTINF:-1 group-title="SPORT",BISP2 HD TR
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/15943
-#EXTINF:-1 group-title="SPORT",BISP3 FHD TR
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/17741
-#EXTINF:-1 group-title="SPORT",BISP4 FHD TR
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/19038
-#EXTINF:-1 group-title="SPORT",BISPMAX 1 HD TR
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/15723
-#EXTINF:-1 group-title="SPORT",BISP4 HD US
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/9013
-#EXTINF:-1 group-title="SPORT",BISPHD US
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/15002
-#EXTINF:-1 group-title="SPORT",BISPGLOBAL HD QA
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/21926
-#EXTINF:-1 group-title="SPORT",BISPMAX 3 FHD QA
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/27394
-#EXTINF:-1 group-title="SPORT",BISPHD QA
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/29604
-#EXTINF:-1 group-title="SPORT",BISP6 HD US
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/32749
-#EXTINF:-1 group-title="SPORT",BISPPremium 2 FHD QA
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/75534
-#EXTINF:-1 group-title="SPORT",BISPPremium 3 HD QA
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/91338
-#EXTINF:-1 group-title="SPORT",BISPPremium 3 QA
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/91339
-#EXTINF:-1 group-title="SPORT",Eurosport 1 FHD DE
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/3435
-#EXTINF:-1 group-title="SPORT",SKYNews FHD DE
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/7337
-#EXTINF:-1 group-title="SPORT",SKYF1 FHD DE
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/74989
-#EXTINF:-1 group-title="SPORT",SKY1 FHD DE
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/7326
-#EXTINF:-1 group-title="SPORT",SKY2 FHD DE
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/7327
-#EXTINF:-1 group-title="SPORT",SPORT1 DE
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/9552
-#EXTINF:-1 group-title="SPORT",Motorvision TV DE
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/9564
-#EXTINF:-1 group-title="SPORT",Eurosport Player 1 DE
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/19813
-#EXTINF:-1 group-title="SPORT",Eurosport Player 2 DE
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/19814
-#EXTINF:-1 group-title="SPORT",MySPFHD CH
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/17483
-#EXTINF:-1 group-title="SPORT",MySP1 FHD CH
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/17484
-#EXTINF:-1 group-title="SPORT",MySP2 FHD [Multi] CH
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/17485
-#EXTINF:-1 group-title="SPORT",MySP3 FHD [Multi] CH
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/17486
-#EXTINF:-1 group-title="SPORT",MySP6 FHD [Multi] CH
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/17489
-#EXTINF:-1 group-title="SPORT",MySP7 FHD [Multi] CH
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/18811
-#EXTINF:-1 group-title="SPORT",MySP8 FHD [Multi] CH
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/18812
-#EXTINF:-1 group-title="SPORT",MySP9 FHD [Multi] CH
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/18813
-#EXTINF:-1 group-title="SPORT",Blue Sport 1 CH
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/11660
-#EXTINF:-1 group-title="SPORT",Teleclub SKY1 CH
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/28579
-#EXTINF:-1 group-title="SPORT",Teleclub SKY1 FHD CH
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/28580
-#EXTINF:-1 group-title="SPORT",Teleclub SKY2 CH
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/28581
-#EXTINF:-1 group-title="SPORT",Teleclub SKY2 FHD CH
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/28582
-#EXTINF:-1 group-title="SPORT",MySPFHD French CH
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/17490
-#EXTINF:-1 group-title="SPORT",MySP1 FHD French CH
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/17491
-#EXTINF:-1 group-title="SPORT",Blue Sport Event 1 FHD CH
-http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/75528
-#EXTINF:-1 group-title="OTHER",动物世界
-http://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/3ade8e846e1f43c99c2726d34e5adb83/1200.m3u8
-#EXTINF:-1 group-title="OTHER",动物世界2
-http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/43ea5e51856e4cb69855fd60eee490a1/1200.m3u8
-#EXTINF:-1 group-title="OTHER",人以自然
-http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/265ea80680434a5fbfdfea5ec17c3fd7/1200.m3u8
-#EXTINF:-1 group-title="OTHER",自然传奇
-http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/981dc4f288654a8993fe65b386d36808/1200.m3u8
-#EXTINF:-1 group-title="OTHER",自然传奇2
-http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a40fd25b2844490d8e5881a79abdc15b/1200.m3u8
-#EXTINF:-1 group-title="OTHER",地理中国
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/cbc0c4ae87ac40b7bb856fac8974fd90/1200.m3u8
-#EXTINF:-1 group-title="OTHER",美丽中国说
-http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/71b4a51f3b4c48a1894ca40cacca866e/4000.m3u8
-#EXTINF:-1 group-title="OTHER",乘火车看中国
-http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/3eba856d8c6f4e1d9553ba1334cd4d76/4000.m3u8
-#EXTINF:-1 group-title="OTHER",美丽中国自然
-http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/b151b8072ea540918a152b3f1449e2d9/4000.m3u8
-#EXTINF:-1 group-title="OTHER",如果国宝会说话
-http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/e5720e094f5944fbb0f81bcd1b084901/4000.m3u8
-#EXTINF:-1 group-title="OTHER",航拍中国第一季
-http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/1199803974fe4361980f8e764d94c607/4000.m3u8
-#EXTINF:-1 group-title="OTHER",航拍中国第二季
-http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/cc46d0edb5974d9bb744a009edc9c01a/4000.m3u8
-#EXTINF:-1 group-title="OTHER",航拍中国第三季
-http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/73c437874a0c447dbfe6d7467d4a6e64/1200.m3u8
-#EXTINF:-1 group-title="OTHER",舌尖上的中国第一季
-http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2dedfb9d85084287a02246bd2e012851/1200.m3u8
-#EXTINF:-1 group-title="OTHER",舌尖上的中国第二季
-http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/affc07df0a2a45d9847a7dd3cce8f06f/1200.m3u8
-#EXTINF:-1 group-title="OTHER",舌尖上的中国第三季
-http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ac775a6725274dcdb1fa9bbe90747bf4/1200.m3u8
-#EXTINF:-1 group-title="OTHER",传承第二季
-http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/0bedf421f3aa4beb9d78836d945d1b48/4000.m3u8
-#EXTINF:-1 group-title="OTHER",传承第三季
-http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/80d867b1a5de42e6992e5a4248baee38/4000.m3u8
-#EXTINF:-1 group-title="OTHER",记住乡愁第四季
-http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/0319d0e0fac045c1ba667545c6a68e3e/4000.m3u8
-#EXTINF:-1 group-title="OTHER",记住乡愁第五季
-http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/4a12d623df424a4b9af1575699d29098/4000.m3u8
-#EXTINF:-1 group-title="OTHER",记住乡愁第六季
-http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/448dd1adefe34cac8576ebd7c72660da/4000.m3u8
-#EXTINF:-1 group-title="OTHER",生命眿动第一季
-http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c481b5826ffc4e99a92e01704c862dbc/850.m3u8
-#EXTINF:-1 group-title="OTHER",地球眿动第一季
-http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/7a3423af02284c3db48b854ab646993f/850.m3u8
-#EXTINF:-1 group-title="OTHER",梵凈山
-http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/6d2dfa90551e4045949ba6bae32daf66/4000.m3u8
-#EXTINF:-1 group-title="OTHER",攻渡之战
-http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b041563ffd46462c8073619e4cbf045d/1200.m3u8
-#EXTINF:-1 group-title="OTHER",国家榮光
-http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/ad6e4df937034345b9a8e63d10b54fe6/4000.m3u8
-#EXTINF:-1 group-title="OTHER",中国村庄
-http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/b0f864245bd0461e989e4f1ea5290c60/4000.m3u8
-#EXTINF:-1 group-title="OTHER",远方的家
-http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/658bc975f40d4d779ebd4f2be500e7ff/4000.m3u8
-#EXTINF:-1 group-title="OTHER",大太平洋
-http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/d74cd84bb3b740f6973e27c0bfa0153f/4000.m3u8
-#EXTINF:-1 group-title="OTHER",飞向月球
-http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/72ea230607c8498a961ccc44c085d2ba/4000.m3u8
-#EXTINF:-1 group-title="OTHER",篮球少年
-http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d3b790a3ab58467fbe5ab75f94b31425/1200.m3u8
-#EXTINF:-1 group-title="OTHER",人生第一次
-http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e6ad8f7e5b8e4eef988d50e1a6df8911/1200.m3u8
-#EXTINF:-1 group-title="OTHER",跑者的世界
-http://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/d976a875eea6474680eb0e1972ed9430/1200.m3u8
-#EXTINF:-1 group-title="OTHER",故乡的风景
-http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9e7f3b1c174c427e91ad457e9c135925/1200.m3u8
-#EXTINF:-1 group-title="OTHER",中国的宝藏
-http://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/4d8a605e97764590ba6c91855452e5ca/1200.m3u8
-#EXTINF:-1 group-title="OTHER",三国的世界
-http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/c8b9afe612014590a33815b69c99beb4/1200.m3u8
-#EXTINF:-1 group-title="OTHER",不朽的马克司
-http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/e80dd34664d841fe834e2a4f816d8862/4000.m3u8
-#EXTINF:-1 group-title="OTHER",小岗人家四十年
-http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/c48a7d0d2a4e4d78aa60882dc0c25332/4000.m3u8
-#EXTINF:-1 group-title="OTHER",我们一起走过
-http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/f025abea81484772af563055be685ec9/4000.m3u8
+#EXTINF:-1 group-title="SPORT",ARENA
+http://116.203.238.252:5080/WebRTCApp/streams/arena.m3u8
+#EXTINF:-1 group-title="SPORT",ARENA2
+http://116.203.238.252:5080/WebRTCApp/streams/arena2.m3u8
+#EXTINF:-1 group-title="SPORT",ASSP1HD
+http://vtech.ayproviders.xyz:80/SAccMnYoPb/G7dqTFo3SG/139276
+#EXTINF:-1 group-title="SPORT",ASSP2HD
+http://vtech.ayproviders.xyz:80/SAccMnYoPb/G7dqTFo3SG/139277
+#EXTINF:-1 group-title="SPORT",ASSP3HD
+http://vtech.ayproviders.xyz:80/SAccMnYoPb/G7dqTFo3SG/139278
+#EXTINF:-1 group-title="SPORT",ASSP4HD
+http://vtech.ayproviders.xyz:80/SAccMnYoPb/G7dqTFo3SG/139279
+#EXTINF:-1 group-title="SPORT",SSPORT 1
+http://iptv.tvmalaysia.cc:80/321456/321456/6708
+#EXTINF:-1 group-title="SPORT",SSPORT 1b
+http://iptv.tvmalaysia.cc:80/321456/321456/9024
+#EXTINF:-1 group-title="SPORT",SSPORT 2
+http://iptv.tvmalaysia.cc:80/321456/321456/6710
+#EXTINF:-1 group-title="SPORT",SSPORT 2b
+http://iptv.tvmalaysia.cc:80/321456/321456/9025
+#EXTINF:-1 group-title="SPORT",SSPORT 3
+http://iptv.tvmalaysia.cc:80/321456/321456/6711
+#EXTINF:-1 group-title="SPORT",SSPORT 3b
+http://iptv.tvmalaysia.cc:80/321456/321456/9020
+#EXTINF:-1 group-title="SPORT",SSPORT 4
+http://iptv.tvmalaysia.cc:80/321456/321456/6712
+#EXTINF:-1 group-title="SPORT",SSPORT 4b
+http://iptv.tvmalaysia.cc:80/321456/321456/9026
+#EXTINF:-1 group-title="SPORT",ASSP
+http://50.7.234.146:8278/Assp1/playlist.m3u8?tid=m020000000015774327&ct=18586&tsum=540009a22dc698e4c187a714934cf93b
+#EXTINF:-1 group-title="SPORT",ASSP4
+http://50.7.234.146:8278/Assp4/playlist.m3u8?tid=m020000000000710721123&ct=18913&tsum=01fcd42c46847ec5a29683ebd48ed5c3
+#EXTINF:-1 group-title="SPORT",ASSP5
+http://50.7.234.146:8278/Assp5/playlist.m3u8?tid=MAAA9861804798618047&ct=18921&tsum=97ac2e7873e1e6928e744f1475977e9f
 #EXTINF:-1 group-title="OTHER",ANIMAL PLANET
 vjms://14.102.154.164:8500/live/cid=3
 #EXTINF:-1 group-title="OTHER",ANIMAL PLANET

@@ -676,6 +676,8 @@ CCTV5+HD,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
 超级体育,http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
 山东体育,http://livealone302.iqilu.com/iqilu/typd.m3u8
 ELEVEN SPORTS 2,http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
+ARENA,http://116.203.238.252:5080/WebRTCApp/streams/arena.m3u8
+ARENA2,http://116.203.238.252:5080/WebRTCApp/streams/arena2.m3u8
 ASSP1HD,http://vtech.ayproviders.xyz:80/SAccMnYoPb/G7dqTFo3SG/139276
 ASSP2HD,http://vtech.ayproviders.xyz:80/SAccMnYoPb/G7dqTFo3SG/139277
 ASSP3HD,http://vtech.ayproviders.xyz:80/SAccMnYoPb/G7dqTFo3SG/139278

@@ -10,35 +10,35 @@ https://stream-03.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08jc3mrzjonI5zJKqgu
 #EXTINF:-1 group-title="MY",DRAMASG
 https://stream-03.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0g3vsSVn5s0iPAB9M2JMVwA)/dm/3/x6zvnex/s/live-1.m3u8
 #EXTINF:-1 group-title="MY",TV3
-http://116.203.238.252:5080/WebRTCApp/streams/tv33.m3u8
+http://5.161.45.72:5080/WebRTCApp/streams/tv33.m3u8
 #EXTINF:-1 group-title="MY",NTV7
-http://116.203.238.252:5080/WebRTCApp/streams/didiktv.m3u8
+http://5.161.45.72:5080/WebRTCApp/streams/didiktv.m3u8
 #EXTINF:-1 group-title="MY",8TV
-http://116.203.238.252:5080/WebRTCApp/streams/tv88.m3u8
+http://5.161.45.72:5080/WebRTCApp/streams/tv88.m3u8
 #EXTINF:-1 group-title="MY",TV9
-http://116.203.238.252:5080/WebRTCApp/streams/tv99.m3u8
+http://5.161.45.72:5080/WebRTCApp/streams/tv99.m3u8
 #EXTINF:-1 group-title="MY",AWANI
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:-1 group-title="MY",Alhijrah
-http://116.203.238.252:5080/WebRTCApp/streams/alhijrah.m3u8
+http://5.161.45.72:5080/WebRTCApp/streams/alhijrah.m3u8
 #EXTINF:-1 group-title="MY",ARENA
-http://116.203.238.252:5080/WebRTCApp/streams/arena.m3u8
+http://5.161.45.72:5080/WebRTCApp/streams/arena.m3u8
 #EXTINF:-1 group-title="MY",ARENA2
-http://116.203.238.252:5080/WebRTCApp/streams/arena2.m3u8
+http://5.161.45.72:5080/WebRTCApp/streams/arena2.m3u8
 #EXTINF:-1 group-title="MY",CITRA
-http://116.203.238.252:5080/WebRTCApp/streams/citra.m3u8
+http://5.161.45.72:5080/WebRTCApp/streams/citra.m3u8
 #EXTINF:-1 group-title="MY",Ceria
-http://116.203.238.252:5080/WebRTCApp/streams/ceria.m3u8
+http://5.161.45.72:5080/WebRTCApp/streams/ceria.m3u8
 #EXTINF:-1 group-title="MY",Warna
-http://116.203.238.252:5080/WebRTCApp/streams/warna.m3u8
+http://5.161.45.72:5080/WebRTCApp/streams/warna.m3u8
 #EXTINF:-1 group-title="MY",RIA
-http://116.203.238.252:5080/WebRTCApp/streams/riaa.m3u8
+http://5.161.45.72:5080/WebRTCApp/streams/riaa.m3u8
 #EXTINF:-1 group-title="MY",Prima
-http://116.203.238.252:5080/WebRTCApp/streams/prima.m3u8
+http://5.161.45.72:5080/WebRTCApp/streams/prima.m3u8
 #EXTINF:-1 group-title="MY",Oasis
-http://116.203.238.252:5080/WebRTCApp/streams/oasis.m3u8
+http://5.161.45.72:5080/WebRTCApp/streams/oasis.m3u8
 #EXTINF:-1 group-title="MY",Naura
-http://116.203.238.252:5080/WebRTCApp/streams/naura.m3u8
+http://5.161.45.72:5080/WebRTCApp/streams/naura.m3u8
 #EXTINF:-1 group-title="MY",IKIM
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 #EXTINF:-1 group-title="MY2",AOD351
@@ -1304,9 +1304,9 @@ http://livealone302.iqilu.com/iqilu/typd.m3u8
 #EXTINF:-1 group-title="SPORT",ELEVEN SPORTS 2
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORT",ARENA
-http://116.203.238.252:5080/WebRTCApp/streams/arena.m3u8
+http://5.161.45.72:5080/WebRTCApp/streams/arena.m3u8
 #EXTINF:-1 group-title="SPORT",ARENA2
-http://116.203.238.252:5080/WebRTCApp/streams/arena2.m3u8
+http://5.161.45.72:5080/WebRTCApp/streams/arena2.m3u8
 #EXTINF:-1 group-title="SPORT",ASSP1HD
 http://vtech.ayproviders.xyz:80/SAccMnYoPb/G7dqTFo3SG/139276
 #EXTINF:-1 group-title="SPORT",ASSP2HD

@@ -53,11 +53,12 @@ X8,https://www.x8x8-vip-1.ru/api.php/provide/vod/at/xml/,解析
 三零,http://api.000zy.com/provide/vod/at/xml/,解析
 ZY,https://zy.zcocc.com/api.php/provide/vod/at/xml,解析
 唐人街,https://www.tangrenjie.tv/api.php/provide/vod/at/xml,解析
-追剧达人,http://vipmv.tv/api.php/provide/vod/at/xml/,解析
 百度资源2,https://api.apibdzy.com/api.php/Seacms/vod/,解析
 天空2,https://api.tiankongapi.com/api.php/provide/vod/at/xml/from/tkm3u8/,解析
 i酷,http://tv.kudian6.com/api.php/provide/vod/at/xml,解析
 MBO,http://mbomovie.com/api.php/provide/vod/at/xml,解析
+阿里,https://bljiex.com/api.php/provide/vod/at/xml/,解析
+萌果,http://api.appearoo.top/api.php/provide/vod/at/xml/,解析
 秒播,http://zy.zcocc.com/api.php/provide/vod/at/xml,解析
 苍天18,http://cj.cangtiancj.com/api.php/Seacms/vod/,解析
 乐播18,https://lbapi9.com/api.php/provide/vod/at/xml/,解析

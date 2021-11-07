@@ -858,7 +858,6 @@ H爱玩具,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/2
 H爱悬疑,http://117.148.179.41/PLTV/88888888/224/3221230098/index.m3u8
 H爱悬疑,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230098/index.m3u8
 动作片,#genre#
-警察局,https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/09e075a8-2f53-49d9-bb94-aae2cd0e1c73/23481/b5aa1a07-2ea6-4ae5-a4c6-866ca090d25b/SD/playlist.m3u8
 猎毒之闪狙行动,https://v10.dious.cc/20211029/GsPilzob/index.m3u8
 英雄年代之九龙密钥,https://v10.dious.cc/20211031/iz5szSZg/index.m3u8
 蛇头,https://sod.bunediy.com/20211102/bcwlkfF7/index.m3u8

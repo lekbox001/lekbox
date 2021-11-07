@@ -5,7 +5,6 @@ TV3,http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8#http://50.7.161.82:8278/
 NTV7,http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8#,http://50.7.161.82:8278/streams/d/ntv7_pye/playlist.m3u8
 8TV,http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8#http://50.7.161.82:8278/streams/d/tv8_pye/playlist.m3u8
 TV9,http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8#,http://50.7.161.82:8278/streams/d/tv9_pye/playlist.m3u8
-AEC,http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8#http://50.7.161.82:8277/streams/d/aec_pye/playlist.m3u8
 AOD,http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8#http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
 华丽台,http://50.7.161.82:8278/streams/d/hualee_pye/playlist.m3u8
 全佳,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
@@ -998,6 +997,7 @@ H爱玩具,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/2
 H爱悬疑,http://117.148.179.41/PLTV/88888888/224/3221230098/index.m3u8
 H爱悬疑,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230098/index.m3u8
 $c_start动作片$c_end
+警察局,https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/09e075a8-2f53-49d9-bb94-aae2cd0e1c73/23481/b5aa1a07-2ea6-4ae5-a4c6-866ca090d25b/SD/playlist.m3u8
 猎毒之闪狙行动,https://v10.dious.cc/20211029/GsPilzob/index.m3u8
 英雄年代之九龙密钥,https://v10.dious.cc/20211031/iz5szSZg/index.m3u8
 蛇头,https://sod.bunediy.com/20211102/bcwlkfF7/index.m3u8
@@ -1056,6 +1056,9 @@ $c_start喜剧片$c_end
 二哥来了怎么办,https://sod.bunediy.com/20210816/hz46PPOU/index.m3u8
 遇见喵星人,https://sod.bunediy.com/20210815/wiPHzYAY/index.m3u8
 $c_start科幻片$c_end
+毒液1,https://video.dious.cc/20200731/2y8PGhR2/2000kb/hls/index.m3u8
+毒液2,https://new.iskcd.com/20211106/n7OqmNgv/1400kb/hls/index.m3u8
+芬奇,https://new.iskcd.com/20211105/eKBYW2Rb/1400kb/hls/index.m3u8
 时栈中的指针,https://sod.bunediy.com/20211015/X5BBi0l0/index.m3u8
 沙丘2021,https://sod.bunediy.com/20211018/fLKSTlKK/index.m3u8
 2067,https://sod.bunediy.com/20211006/Io9gMCzV/index.m3u8
@@ -1067,6 +1070,7 @@ $c_start科幻片$c_end
 太空群落,https://sod.bunediy.com/20210901/P8KxZKUo/index.m3u8
 丛林奇航,https://vod.bunediy.com/20210731/htf0kjSn/index.m3u8
 $c_start奇幻片$c_end
+冥海禁地,https://v10.dious.cc/20211026/bKPHAss4/1000kb/hls/index.m3u8
 蛇之女2021,https://v7.dious.cc/20210617/BDjqdFSB/index.m3u8
 射雕英雄传之降龙十八掌,https://v3.dious.cc/20210612/0I4srYfJ/index.m3u8
 半狼传说,https://v7.dious.cc/20210611/DiveQp5F/index.m3u8
@@ -1082,6 +1086,8 @@ $c_start奇幻片$c_end
 上升,https://sod.bunediy.com/20211012/CqQ2vaEy/index.m3u8
 出招吧看不剑,https://sod.bunediy.com/20210803/Quo5onWY/index.m3u8
 $c_start恐怖片$c_end
+无尽的月,https://v4.cdtlas.com/20211031/ybTu4nOn/1200kb/hls/index.m3u8
+验收测试,https://c1.monidai.com/20211107/O3Am1HNK/index.m3u8
 红衣小女孩,https://v2.dious.cc/20200911/0OsoqYPQ/1000kb/hls/index.m3u8
 红衣小女孩2,https://v4.dious.cc/20201219/EU9LIKFp/1000kb/hls/index.m3u8
 红衣小女孩外传,https://cdn.zoubuting.com/20210715/zpO3XB2L/1200kb/hls/index.m3u8

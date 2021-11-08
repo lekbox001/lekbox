@@ -602,13 +602,22 @@ C+频道,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8#http:
 亚洲ATV,https://juyunlive.juyun.tv/live/24950198.m3u8
 $c_start泰国$c_end
 Ch3,http://psilive2.sky-cdn.com:1935/ch3hd/psi-ch3hd.stream/chunklist_w1950249332_tkZG9vc3RyZWFtc3RhcnR0aW1lPTE2MzYzMzczMTImZG9vc3RyZWFtZW5kdGltZT0xNjM2MzQwOTEyJmRvb3N0cmVhbUN1c3RvbVBhcmFtZXRlcj1wc2lmaXhpdCZkb29zdHJlYW1oYXNoPWtZTmFFVTBkTEJ1Tkp5YVRGYkJmd0NPU2hfNnEzOUliSFNDSG9IdDBxVW89.m3u8
-Ch5,http://psilive1.sky-cdn.com:1935/edgelive1/5HD.stream_360p/chunklist_w228459876_tkZG9vc3RyZWFtc3RhcnR0aW1lPTE2MzYzMzU4NjkmZG9vc3RyZWFtZW5kdGltZT0xNjM2MzM5NDY5JmRvb3N0cmVhbUN1c3RvbVBhcmFtZXRlcj1wc2lmaXhpdCZkb29zdHJlYW1oYXNoPW41dUZVSEp1R0psX3BuSE5XOWdvUFk1VzFleTRkSnNsc2RLazQ0QnJQSG89.m3u8
-Ch7,http://psilive1.sky-cdn.com:1935/edgelive1/7HD.stream_360p/chunklist_w1661309208_tkZG9vc3RyZWFtc3RhcnR0aW1lPTE2MzYzMzQ5MjImZG9vc3RyZWFtZW5kdGltZT0xNjM2MzM4NTIyJmRvb3N0cmVhbUN1c3RvbVBhcmFtZXRlcj1wc2lmaXhpdCZkb29zdHJlYW1oYXNoPWRSOVlUNGFXczU4T3RHU05NT0Z3aGlmVG9lTFB1Q3RkbjR4TVotaFN1WGc9.m3u8
-Ch8,http://psilive2.sky-cdn.com:1935/ch8/psi-ch8.stream/chunklist_w1147650567_tkZG9vc3RyZWFtc3RhcnR0aW1lPTE2MzYzMzU3NzAmZG9vc3RyZWFtZW5kdGltZT0xNjM2MzM5MzcwJmRvb3N0cmVhbUN1c3RvbVBhcmFtZXRlcj1wc2lmaXhpdCZkb29zdHJlYW1oYXNoPWJYN2c0SmpZNk1CcmFveHlLQ194UGIzb1JLTmtIUXNFU3JzeGExY1dGSzQ9.m3u8
-Ch9,http://psilive1.sky-cdn.com:1935/mcot/psi-mcot.stream/chunklist_w793377692_tkZG9vc3RyZWFtc3RhcnR0aW1lPTE2MzYzMzQ5NjEmZG9vc3RyZWFtZW5kdGltZT0xNjM2MzM4NTYxJmRvb3N0cmVhbUN1c3RvbVBhcmFtZXRlcj1wc2lmaXhpdCZkb29zdHJlYW1oYXNoPXlOUjNrQ1cxbWpJVEpVeHdaUTJLN3Nua2ZVR29FaDZNWHZEWmtqQjNQTEk9.m3u8
-Workpoint,http://psilive1.sky-cdn.com:1935/workpoint/psi-workpoint.stream/chunklist_w323882743_tkZG9vc3RyZWFtc3RhcnR0aW1lPTE2MzYzMzUzMzEmZG9vc3RyZWFtZW5kdGltZT0xNjM2MzM4OTMxJmRvb3N0cmVhbUN1c3RvbVBhcmFtZXRlcj1wc2lmaXhpdCZkb29zdHJlYW1oYXNoPWFRd0lxNHVXdVVtdUpnLVdVb2dfM2h2aDFjMTZ0ZncxUHRib3ROMklzLW89.m3u8
 One31,http://psilive1.sky-cdn.com:1935/one31/psi-one31.stream/chunklist_w1538819330_tkZG9vc3RyZWFtc3RhcnR0aW1lPTE2MzYzMzY2MjcmZG9vc3RyZWFtZW5kdGltZT0xNjM2MzQwMjI3JmRvb3N0cmVhbUN1c3RvbVBhcmFtZXRlcj1wc2lmaXhpdCZkb29zdHJlYW1oYXNoPXVmVlZicmhmZG8ydXh2dWVwVmlkeGJfV1lfM1Mxa3JRQ2NFMkxmdWFBMlk9.m3u8
-Channel 5,https://tc-live1.sanook.com/live/22302_ch5.m3u8
+ASTV News 1 (1080p),http://news1.live14.com/stream/news1.m3u8
+Channel 5 (240p),https://tc-live1.sanook.com/live/22302_ch5.m3u8
+Channel 8 (720p) [Not 24/7],http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
+True Premier Football HD 1 (720p) [Not 24/7],https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+True Premier Football HD 2 (720p) [Not 24/7],https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+True Premier Football HD 3 (720p) [Not 24/7],https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+True Premier Football HD 4 (720p) [Not 24/7],https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+True Premier Football HD 5 (720p) [Not 24/7],https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
+True Sport 5 (480p Scaled) [Not 24/7],https://www.livedoomovie.com/02_sport5_480p/chunklist.m3u8
+True Sport 7 (480p Scaled) [Not 24/7],https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
+True Sport HD 1 (720p) [Not 24/7],https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+True Sport HD 2 (720p) [Not 24/7],https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+True Sport HD 3 (720p) [Not 24/7],https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+True Sport HD 4 (720p) [Not 24/7],https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
+True Tennis HD (720p) [Not 24/7],https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
 MONO29 HD,https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8
 MCOT HD 30,https://tc-live1.sanook.com/live/22302_ch9.m3u8
 Thairath 32,http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8

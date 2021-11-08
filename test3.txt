@@ -742,23 +742,6 @@ CCTV5+HD,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
 超级体育,http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
 山东体育,http://livealone302.iqilu.com/iqilu/typd.m3u8
 ELEVEN SPORTS 2,http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
-ARENA,http://116.203.238.252:5080/WebRTCApp/streams/arena.m3u8
-ARENA2,http://116.203.238.252:5080/WebRTCApp/streams/arena2.m3u8
-ASSP1HD,http://vtech.ayproviders.xyz:80/SAccMnYoPb/G7dqTFo3SG/139276
-ASSP2HD,http://vtech.ayproviders.xyz:80/SAccMnYoPb/G7dqTFo3SG/139277
-ASSP3HD,http://vtech.ayproviders.xyz:80/SAccMnYoPb/G7dqTFo3SG/139278
-ASSP4HD,http://vtech.ayproviders.xyz:80/SAccMnYoPb/G7dqTFo3SG/139279
-SSPORT 1,http://iptv.tvmalaysia.cc:80/321456/321456/6708
-SSPORT 1b,http://iptv.tvmalaysia.cc:80/321456/321456/9024
-SSPORT 2,http://iptv.tvmalaysia.cc:80/321456/321456/6710
-SSPORT 2b,http://iptv.tvmalaysia.cc:80/321456/321456/9025
-SSPORT 3,http://iptv.tvmalaysia.cc:80/321456/321456/6711
-SSPORT 3b,http://iptv.tvmalaysia.cc:80/321456/321456/9020
-SSPORT 4,http://iptv.tvmalaysia.cc:80/321456/321456/6712
-SSPORT 4b,http://iptv.tvmalaysia.cc:80/321456/321456/9026
-ASSP,http://50.7.234.146:8278/Assp1/playlist.m3u8?tid=m020000000015774327&ct=18586&tsum=540009a22dc698e4c187a714934cf93b
-ASSP4,http://50.7.234.146:8278/Assp4/playlist.m3u8?tid=m020000000000710721123&ct=18913&tsum=01fcd42c46847ec5a29683ebd48ed5c3
-ASSP5,http://50.7.234.146:8278/Assp5/playlist.m3u8?tid=MAAA9861804798618047&ct=18921&tsum=97ac2e7873e1e6928e744f1475977e9f
 $c_start电影系列$c_end
 粤语1,http://cloudplay.tk/api/douyu.php?id=6566671
 粤语2,http://cloudplay.tk/api/douyu.php?id=2466104 

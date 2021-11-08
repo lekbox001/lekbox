@@ -458,6 +458,25 @@ C+,http://43.128.9.168/jjtv.php?id=23
 C+频道,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8#http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8#http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8#http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8#http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8#http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8#http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
 亚洲ATV,https://juyunlive.juyun.tv/live/24950198.m3u8
 泰国,#genre#
+TV5 HD,http://916309128f3e.sn.mynetname.net:1935/aslive/5hd/ompronlist.m3u8
+NBT HD,http://916309128f3e.sn.mynetname.net:1935/aslive/nbthd/ompronlist.m3u8
+Thai PBS HD,https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+JKN18,http://916309128f3e.sn.mynetname.net:1935/aslive/newtv/ompronlist.m3u8
+Workpoint TV,http://916309128f3e.sn.mynetname.net:1935/aslive/workpoint/ompronlist.m3u8
+True4U,http://916309128f3e.sn.mynetname.net:1935/aslive/true4u/ompronlist.m3u8
+GMM25,http://916309128f3e.sn.mynetname.net:1935/aslive/gmm25/ompronlist.m3u8
+MCOT HD,http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist.m3u8
+ONE HD,http://916309128f3e.sn.mynetname.net:1935/aslive/onehd/ompronlist.m3u8
+Thairath TV HD,http://916309128f3e.sn.mynetname.net:1935/aslive/thairath/ompronlist.m3u8
+CH3 HD,http://916309128f3e.sn.mynetname.net:1935/aslive/3hd/ompronlist.m3u8
+Amarin TV HD,http://916309128f3e.sn.mynetname.net:1935/aslive/amarintv/ompronlist.m3u8
+CH7 HD,http://916309128f3e.sn.mynetname.net:1935/aslive/7hd/ompronlist.m3u8
+PPTV HD,http://916309128f3e.sn.mynetname.net:1935/aslive/pptvhd/ompronlist.m3u8
+Lakorn Thai,https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
+mixmajor,https://edge6a.v2h-cdn.com/appt7/Mix_major.stream_720p/playlist.m3u8
+CTB,http://vip.login.in.th:1935/CTB/CTB/chunklist.m3u8
+TVB Thai HD,https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
+MV Laos,https://edge6a.v2h-cdn.com/appt7/MVLAO.stream_720p/playlist.m3u8
 Ch3,http://psilive2.sky-cdn.com:1935/ch3hd/psi-ch3hd.stream/chunklist_w1950249332_tkZG9vc3RyZWFtc3RhcnR0aW1lPTE2MzYzMzczMTImZG9vc3RyZWFtZW5kdGltZT0xNjM2MzQwOTEyJmRvb3N0cmVhbUN1c3RvbVBhcmFtZXRlcj1wc2lmaXhpdCZkb29zdHJlYW1oYXNoPWtZTmFFVTBkTEJ1Tkp5YVRGYkJmd0NPU2hfNnEzOUliSFNDSG9IdDBxVW89.m3u8
 One31,http://psilive1.sky-cdn.com:1935/one31/psi-one31.stream/chunklist_w1538819330_tkZG9vc3RyZWFtc3RhcnR0aW1lPTE2MzYzMzY2MjcmZG9vc3RyZWFtZW5kdGltZT0xNjM2MzQwMjI3JmRvb3N0cmVhbUN1c3RvbVBhcmFtZXRlcj1wc2lmaXhpdCZkb29zdHJlYW1oYXNoPXVmVlZicmhmZG8ydXh2dWVwVmlkeGJfV1lfM1Mxa3JRQ2NFMkxmdWFBMlk9.m3u8
 ASTV News 1 (1080p),http://news1.live14.com/stream/news1.m3u8

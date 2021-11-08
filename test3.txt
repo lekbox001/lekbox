@@ -513,12 +513,6 @@ $c_start港台$c_end
 豬哥亮歌廳秀,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv006
 民视 ,http://50.7.61.147:30080/Entry/ftv
 民视新闻,http://50.7.61.148:30080/Entry/ftvnews
-民视,http://43.128.9.168/jjtv.php?id=24
-民视第一台,http://43.128.9.168/jjtv.php?id=25
-民视台湾台,http://43.128.9.168/jjtv.php?id=26
-民视综艺,http://43.128.9.168/jjtv.php?id=27
-民视旅游,http://43.128.9.168/jjtv.php?id=28
-民视新闻,http://43.128.9.168/jjtv.php?id=32
 民視,rtmp://59.124.75.138/sat/tv051
 民視台灣台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv001
 民視,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv002
@@ -527,21 +521,16 @@ $c_start港台$c_end
 民視影劇,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv09
 民視新聞台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv13
 台视 HD,http://50.7.61.148:30080/Entry/ttv
-台视新闻,http://43.128.9.168/jjtv.php?id=34
 台視,rtmp://59.124.75.138/sat/tv071
 台視,http://50.7.61.148:30080/Entry/ttv
 台視新聞,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv051
 台視,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv066
 中视 HD,http://50.7.61.148:30080/Entry/ctv
-中视,http://43.128.9.168/jjtv.php?id=29
-中视新闻,http://43.128.9.168/jjtv.php?id=33
 中視,rtmp://59.124.75.138/sat/tv091
 中視,http://50.7.61.148:30080/Entry/ctv
 中視經典台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv080
 中視菁采台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv064
 华视CTS HD,http://50.7.61.147:30080/Entry/cts
-华视,http://43.128.9.168/jjtv.php?id=30
-华视新闻资讯,http://43.128.9.168/jjtv.php?id=41
 華視,rtmp://59.124.75.157/sat/tv111
 華視,http://50.7.61.147:30080/Entry/cts
 華視,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv041
@@ -556,14 +545,10 @@ $c_start港台$c_end
 三立台灣台,http://50.7.61.148:30080/Entry/settw-
 三立都會台,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8
 SET三立台湾,http://50.7.61.148:30080/Entry/settw-
-三立INEWS,http://43.128.9.168/jjtv.php?id=43
-三立LIVE,http://43.128.9.168/jjtv.php?id=44
 東森財經,rtmp://59.124.75.138/sat/tv571
 東森電影台,http://host496323.us.ooqr.com/pltv/gz.php?id=dsdy
 東森洋片,http://host496323.us.ooqr.com/pltv/gz.php?id=dsyp
 東森購物1,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv102
-東森新聞,http://43.128.9.168/jjtv.php?id=38
-東森財經,http://43.128.9.168/jjtv.php?id=39
 TVBS新聞台,rtmp://59.124.75.138/sat/tv551
 TVBS歡樂台,rtmp://59.124.75.138/sat/tv421
 TVBS歡樂台,rtmp://59.124.75.138:1935/sat/tv421
@@ -571,10 +556,7 @@ TVBS歡樂,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv068
 TVBS新聞,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv072
 TVBS直播,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv073
 TVBS新闻 HD,http://50.7.61.148:30080/Entry/tvbsnews
-TVBS新闻,http://43.128.9.168/jjtv.php?id=42
-TVBS新聞台,http://43.128.9.168/jjtv.php?id=42
 中天亞洲,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv109
-中天新闻,http://43.128.9.168/jjtv.php?id=36
 八大精彩,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv034
 八大綜合台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv039
 博斯網球,rtmp://59.124.75.138/sat/md011

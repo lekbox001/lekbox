@@ -510,35 +510,21 @@ JET綜合台,http://sytv.xtvants.fun/mytv.php?id=jet&token=free&user=free
 Medici-Arts,http://sytv.xtvants.fun/mytv.php?id=mdqys&token=free&user=free
 MTV綜合台,http://sytv.xtvants.fun/mytv.php?id=mtv&token=free&user=free
 $c_start港台$c_end
-豬哥亮歌廳秀,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv006
 民视 ,http://50.7.61.147:30080/Entry/ftv
 民视新闻,http://50.7.61.148:30080/Entry/ftvnews
 民視,rtmp://59.124.75.138/sat/tv051
-民視台灣台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv001
-民視,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv002
-民視第一台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv003
-民視旅遊,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv07
-民視影劇,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv09
-民視新聞台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv13
 台视 HD,http://50.7.61.148:30080/Entry/ttv
 台視,rtmp://59.124.75.138/sat/tv071
 台視,http://50.7.61.148:30080/Entry/ttv
-台視新聞,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv051
-台視,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv066
 中视 HD,http://50.7.61.148:30080/Entry/ctv
 中視,rtmp://59.124.75.138/sat/tv091
 中視,http://50.7.61.148:30080/Entry/ctv
-中視經典台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv080
-中視菁采台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv064
 华视CTS HD,http://50.7.61.147:30080/Entry/cts
 華視,rtmp://59.124.75.157/sat/tv111
 華視,http://50.7.61.147:30080/Entry/cts
-華視,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv041
-華視新聞資訊,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv052
 公視,https://flv3948069e.live.126.net/live/sytv_9dd30b5c8e846938c26dde70be773545.flv
 公視,http://sytv.xtvants.fun/mytv.php?id=gs&token=free&user=free
 公視,http://sytv.xtvants.fun/mytv.php?id=gs&token=qq3036107507&user=fmys
-公視戲劇台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv042
 三立台灣台,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&amp;rebase=on
 三立台灣台,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
 三立台灣台,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8
@@ -546,36 +532,16 @@ $c_start港台$c_end
 三立都會台,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8
 SET三立台湾,http://50.7.61.148:30080/Entry/settw-
 東森財經,rtmp://59.124.75.138/sat/tv571
-東森電影台,http://host496323.us.ooqr.com/pltv/gz.php?id=dsdy
-東森洋片,http://host496323.us.ooqr.com/pltv/gz.php?id=dsyp
-東森購物1,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv102
 TVBS新聞台,rtmp://59.124.75.138/sat/tv551
 TVBS歡樂台,rtmp://59.124.75.138/sat/tv421
 TVBS歡樂台,rtmp://59.124.75.138:1935/sat/tv421
-TVBS歡樂,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv068
-TVBS新聞,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv072
-TVBS直播,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv073
 TVBS新闻 HD,http://50.7.61.148:30080/Entry/tvbsnews
 中天亞洲,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv109
 八大精彩,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv034
 八大綜合台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv039
 博斯網球,rtmp://59.124.75.138/sat/md011
 博斯魅力,rtmp://59.124.75.138/sat/md021
-博斯魅力,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn04
-博斯高球1,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn05
-博斯高球2,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn06
-博斯運動一台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn07
 博斯運動二台,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
-博斯運動二台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn08
-博斯網球,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn09
-博斯無限,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn10
-博斯魅力,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn04
-博斯高球1,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn05
-博斯高球2,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn06
-博斯運動2,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn08
-博斯網球,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn09
-博斯無限,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn10
-博斯電玩,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn13
 博斯運動2,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
 博斯魅力,rtmp://59.124.75.138/sat/md021
 博斯運動2,rtmp://59.124.75.138/sat/md051

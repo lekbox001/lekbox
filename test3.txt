@@ -149,6 +149,14 @@ CETV-4,http://223.110.241.136:6610/gitv/live1/G_CETV-4/
 中国教育2,http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226537/1.m3u8
 中国教育4,http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226557/1.m3u8
 $c_startHK$c_end
+J2,https://p2.weizan.cn/1646497941/241849434346185861/live.m3u8
+TVB翡翠,https://p2.weizan.cn/1646497941/173900819035303680/live.m3u8
+TVB明珠,https://p2.weizan.cn/1646497941/583790710723181993/live.m3u8
+无线新闻,https://p2.weizan.cn/1646497941/113158785015619768/live.m3u8
+有线新闻,https://p2.weizan.cn/1646497941/614105386721937654/live.m3u8
+ViuTV,https://p2.weizan.cn/1646497941/584748994834606962/live.m3u8
+TVB翡翠,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv
+有线18台,https://p2.weizan.cn/1646497941/712785126593746681/live.m3u8
 港台電視31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8#http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_5400_av-p.m3u8#https://cdn.hkdtmb.com/hls/31/index.m3u8
 港台電視32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8#https://cdn.hkdtmb.com/hls/32/index.m3u8#http://rthklive2-lh.akamaihd.net:80/i/rthk32_1@168450/index_1080_av-p.m3u8
 港台電視33,http://185.207.176.189:8080/channels/tv-33/playlist.m3u8#https://cdn.hkdtmb.com/hls/33/index.m3u8
@@ -722,10 +730,7 @@ $c_start少儿$c_end
 亲子小游戏,http://118.26.120.23:55336/tslive/c56_lb_178_600_t10/c56_lb_178_600_t10.m3u8?key=0b292c335e5837e94ffc1113a2140b54
 亲子启蒙,http://118.26.120.23:55336/tslive/c57_lb_213_600_t10/c57_lb_213_600_t10.m3u8?key=0f2a06793124310bc21adebc9f02a9735
 $c_startSPORT$c_end
-ELTA體育1台/ELEVEN 2(备),rtmp://59.124.75.157/sat/md021
-ELTA體育2台/博斯網球(备),rtmp://59.124.75.157/sat/md011
 ELEVEN +(备),rtmp://59.124.75.157/sat/md041
-博斯魅力/博斯運動 II(备),rtmp://59.124.75.157/sat/md031
 博斯運動 II(备),rtmp://59.124.75.157/sat/md051
 CCTV-5体育(备),rtmp://59.124.75.157/sat/cn021
 CCTV-5+体育(备),rtmp://59.124.75.157/sat/cn051
@@ -742,6 +747,32 @@ CCTV5+HD,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
 超级体育,http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
 山东体育,http://livealone302.iqilu.com/iqilu/typd.m3u8
 ELEVEN SPORTS 2,http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
+ARENA,http://5.161.45.72:5080/WebRTCApp/streams/arena.m3u8
+ARENA2,http://5.161.45.72:5080/WebRTCApp/streams/arena2.m3u8
+PP体育,http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8
+新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
+魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
+劲爆体育,http://111.26.225.22/PLTV/2/224/3221225658/index.m3u8
+五星体育,http://111.26.225.19/PLTV/2/224/3221225857/index.m3u8
+极速汽车1,http://39.134.39.38/PLTV/88888888/224/3221226195/index.m3u8
+极速汽车2,http://39.134.39.39/PLTV/88888888/224/3221226195/index.m3u8
+快乐垂钓,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226190/1/index.m3u8?fmt=ts2hls
+体育赛事1,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226253/1/index.m3u8?fmt=ts2hls
+体育赛事2,http://39.134.66.110/PLTV/88888888/224/3221225706/index.m3u8
+体育赛事3,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226081/1/index.m3u8?fmt=ts2hls
+体育赛事4,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226196/1/index.m3u8?fmt=ts2hls
+芒果TV中国体育,http://117.148.179.160/PLTV/88888888/224/3221231276/index.m3u8
+max极速汽车1,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226234/1/index.m3u8?fmt=ts2hls
+max极速汽车2,http://117.136.154.86/PLTV/88888888/224/3221225847/index.m3u8
+max极速汽车3,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226249/1/index.m3u8?fmt=ts2hls
+max极速汽车4,http://117.136.154.98/PLTV/88888888/224/3221225614/index.m3u8
+CCTV5,http://39.134.39.39/PLTV/88888888/224/3221226146/index.m3u8
+CCTV风云足球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls
+IPTV5+,http://39.134.39.39/PLTV/88888888/224/3221226273/index.m3u8
+UFC,http://117.148.179.160/PLTV/88888888/224/3221232063/index.m3u8
+UFC 3,https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+HWF散打,http://pull-g.kktv8.com/livekktv/57588147.flv
+FOX,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 MG体育1,http://39.134.39.39/PLTV/88888888/224/3221226217/index.m3u8
 MG体育2,http://39.134.39.39/PLTV/88888888/224/3221226106/index.m3u8
 MG体育3,http://39.134.39.39/PLTV/88888888/224/3221226110/index.m3u8

@@ -1052,6 +1052,7 @@ H爱悬疑,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/2
 $c_start动作片$c_end
 007无暇赴死,https://v.v1kd.com/20211109/vjzrqDwg/1000kb/hls/index.m3u8
 007无暇赴死b,https://sod.bunediy.com/20211109/5umrcc25/index.m3u8
+一击,https://v12.tkzyapi.com/20211109/fG7HSKYV/1000kb/hls/index.m3u8
 猎毒之闪狙行动,https://v10.dious.cc/20211029/GsPilzob/index.m3u8
 英雄年代之九龙密钥,https://v10.dious.cc/20211031/iz5szSZg/index.m3u8
 蛇头,https://sod.bunediy.com/20211102/bcwlkfF7/index.m3u8
@@ -1110,6 +1111,7 @@ $c_start喜剧片$c_end
 二哥来了怎么办,https://sod.bunediy.com/20210816/hz46PPOU/index.m3u8
 遇见喵星人,https://sod.bunediy.com/20210815/wiPHzYAY/index.m3u8
 $c_start科幻片$c_end
+世界奇妙物语,https://v12.tkzyapi.com/20211107/Fab1OJ0A/index.m3u8
 毒液1,https://video.dious.cc/20200731/2y8PGhR2/2000kb/hls/index.m3u8
 毒液2,https://new.iskcd.com/20211106/n7OqmNgv/1400kb/hls/index.m3u8
 芬奇,https://new.iskcd.com/20211105/eKBYW2Rb/1400kb/hls/index.m3u8
@@ -1124,6 +1126,8 @@ $c_start科幻片$c_end
 太空群落,https://sod.bunediy.com/20210901/P8KxZKUo/index.m3u8
 丛林奇航,https://vod.bunediy.com/20210731/htf0kjSn/index.m3u8
 $c_start奇幻片$c_end
+雷震子,https://vod.bunediy.com/20210218/gFMlVC4Q/index.m3u8
+宋慈之绝命诗案,https://v10.dious.cc/20211109/zkvzrSvo/1000kb/hls/index.m3u8
 冥海禁地,https://v10.dious.cc/20211026/bKPHAss4/1000kb/hls/index.m3u8
 蛇之女2021,https://v7.dious.cc/20210617/BDjqdFSB/index.m3u8
 射雕英雄传之降龙十八掌,https://v3.dious.cc/20210612/0I4srYfJ/index.m3u8
@@ -1140,8 +1144,9 @@ $c_start奇幻片$c_end
 上升,https://sod.bunediy.com/20211012/CqQ2vaEy/index.m3u8
 出招吧看不剑,https://sod.bunediy.com/20210803/Quo5onWY/index.m3u8
 $c_start恐怖片$c_end
+招魂3,https://v7.dious.cc/20210605/8gcPE9zH/1000kb/hls/index.m3u8
+验收测试,https://new.iskcd.com/20211107/sHJaFH1u/1400kb/hls/index.m3u8
 无尽的月,https://v4.cdtlas.com/20211031/ybTu4nOn/1200kb/hls/index.m3u8
-验收测试,https://c1.monidai.com/20211107/O3Am1HNK/index.m3u8
 红衣小女孩,https://v2.dious.cc/20200911/0OsoqYPQ/1000kb/hls/index.m3u8
 红衣小女孩2,https://v4.dious.cc/20201219/EU9LIKFp/1000kb/hls/index.m3u8
 红衣小女孩外传,https://cdn.zoubuting.com/20210715/zpO3XB2L/1200kb/hls/index.m3u8
@@ -1173,6 +1178,7 @@ $c_start恐怖片$c_end
 诡屋惊魂,https://sod.bunediy.com/20210929/Vkle4iOY/index.m3u8
 糖果人,https://sod.bunediy.com/20210920/dWznzdly/index.m3u8
 $c_start灾难片$c_end
+切尔诺贝利,https://v7.dious.cc/20210721/oytPNVN4/1000kb/hls/index.m3u8
 峰爆,https://sod.bunediy.com/20211029/wTraOWOl/index.m3u8
 中国救援·绝境36天,https://sod.bunediy.com/20211016/F5qPyZVj/index.m3u8
 地陷,https://sod.bunediy.com/20210918/ww5muni5/index.m3u8

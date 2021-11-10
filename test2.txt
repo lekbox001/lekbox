@@ -902,6 +902,8 @@ H爱玩具,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/2
 H爱悬疑,http://117.148.179.41/PLTV/88888888/224/3221230098/index.m3u8
 H爱悬疑,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230098/index.m3u8
 动作片,#genre#
+007无暇赴死,https://v.v1kd.com/20211109/vjzrqDwg/1000kb/hls/index.m3u8
+007无暇赴死b,https://sod.bunediy.com/20211109/5umrcc25/index.m3u8
 猎毒之闪狙行动,https://v10.dious.cc/20211029/GsPilzob/index.m3u8
 英雄年代之九龙密钥,https://v10.dious.cc/20211031/iz5szSZg/index.m3u8
 蛇头,https://sod.bunediy.com/20211102/bcwlkfF7/index.m3u8

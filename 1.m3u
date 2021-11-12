@@ -3,8 +3,8 @@
 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 #EXTINF:-1 group-title="MY",TV2
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
-#EXTINF:-1 group-title="MY",AEC
-https://linears-playback.astro.com.my/vsg/21MDDXW6HgU1SUWdFv0EyS6NaOkwzSh4qBqiBe6tNQOqU=VSSH/dash-wv/jitp-linearwm/2400/80/video-cif-stream-1-147301034091982.m4f
+#EXTINF:-1 group-title="MY",8TV2
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
 #EXTINF:-1 group-title="MY",AEC2
 https://linears-playback.astro.com.my/vsg/21MDDXW6HgU1SUWdFv0EyS6NaOkwzSh4qBqiBe6tNQOqU=VSSH/dash-wv/jitp-linearwm/2400/161/video-cif-stream-5-147301034091982.m4f
 #EXTINF:-1 group-title="MY",DRAMASG

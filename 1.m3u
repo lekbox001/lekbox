@@ -22,35 +22,35 @@ https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 #EXTINF:-1 group-title="MY",Sukan RTM
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 #EXTINF:-1 group-title="MY",TV3
-http://5.161.45.72:5080/WebRTCApp/streams/tv33.m3u8
+http://178.128.107.149:5080/WebRTCApp/streams/tv33.m3u8
 #EXTINF:-1 group-title="MY",NTV7
-http://5.161.45.72:5080/WebRTCApp/streams/didiktv.m3u8
+http://178.128.107.149:5080/WebRTCApp/streams/didiktv.m3u8
 #EXTINF:-1 group-title="MY",8TV
-http://5.161.45.72:5080/WebRTCApp/streams/tv88.m3u8
+http://178.128.107.149:5080/WebRTCApp/streams/tv88.m3u8
 #EXTINF:-1 group-title="MY",TV9
-http://5.161.45.72:5080/WebRTCApp/streams/tv99.m3u8
+http://178.128.107.149:5080/WebRTCApp/streams/tv99.m3u8
 #EXTINF:-1 group-title="MY",AWANI
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:-1 group-title="MY",Alhijrah
-http://5.161.45.72:5080/WebRTCApp/streams/alhijrah.m3u8
+http://178.128.107.149:5080/WebRTCApp/streams/alhijrah.m3u8
 #EXTINF:-1 group-title="MY",ARENA
-http://5.161.45.72:5080/WebRTCApp/streams/arena.m3u8
+http://178.128.107.149:5080/WebRTCApp/streams/arena.m3u8
 #EXTINF:-1 group-title="MY",ARENA2
-http://5.161.45.72:5080/WebRTCApp/streams/arena2.m3u8
+http://178.128.107.149:5080/WebRTCApp/streams/arena2.m3u8
 #EXTINF:-1 group-title="MY",CITRA
-http://5.161.45.72:5080/WebRTCApp/streams/citra.m3u8
+http://178.128.107.149:5080/WebRTCApp/streams/citra.m3u8
 #EXTINF:-1 group-title="MY",Ceria
-http://5.161.45.72:5080/WebRTCApp/streams/ceria.m3u8
+http://178.128.107.149:5080/WebRTCApp/streams/ceria.m3u8
 #EXTINF:-1 group-title="MY",Warna
-http://5.161.45.72:5080/WebRTCApp/streams/warna.m3u8
+http://178.128.107.149:5080/WebRTCApp/streams/warna.m3u8
 #EXTINF:-1 group-title="MY",RIA
-http://5.161.45.72:5080/WebRTCApp/streams/riaa.m3u8
+http://178.128.107.149:5080/WebRTCApp/streams/riaa.m3u8
 #EXTINF:-1 group-title="MY",Prima
-http://5.161.45.72:5080/WebRTCApp/streams/prima.m3u8
+http://178.128.107.149:5080/WebRTCApp/streams/prima.m3u8
 #EXTINF:-1 group-title="MY",Oasis
-http://5.161.45.72:5080/WebRTCApp/streams/oasis.m3u8
+http://178.128.107.149:5080/WebRTCApp/streams/oasis.m3u8
 #EXTINF:-1 group-title="MY",Naura
-http://5.161.45.72:5080/WebRTCApp/streams/naura.m3u8
+http://178.128.107.149:5080/WebRTCApp/streams/naura.m3u8
 #EXTINF:-1 group-title="MY",IKIM
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 #EXTINF:-1 group-title="MY2",AOD351

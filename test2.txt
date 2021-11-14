@@ -812,8 +812,9 @@ H爱玩具,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/2
 H爱悬疑,http://117.148.179.41/PLTV/88888888/224/3221230098/index.m3u8
 H爱悬疑,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230098/index.m3u8
 动作片,#genre#
-红色通缉令,https://new.iskcd.com/20211113/OpdoPSYo/index.m3u8
-野王,https://mgtv-iqiy-yk-variety.jjyl12349.com/20210826/ALPZoi9h/1000kb/hls/index.m3u8
+红色通缉令,https://sod.bunediy.com/20211112/nuwcw4yr/index.m3u8
+特种空勤团,https://v7.dious.cc/20210314/sQ2dXMkI/1000kb/hls/index.m3u8
+野王,https://cdn.zoubuting.com/20210717/8QxYktWg/index.m3u8
 007无暇赴死,https://v.v1kd.com/20211109/vjzrqDwg/1000kb/hls/index.m3u8
 007无暇赴死b,https://sod.bunediy.com/20211109/5umrcc25/index.m3u8
 一击,https://v12.tkzyapi.com/20211109/fG7HSKYV/1000kb/hls/index.m3u8

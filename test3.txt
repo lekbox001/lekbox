@@ -963,6 +963,8 @@ H爱玩具,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/2
 H爱悬疑,http://117.148.179.41/PLTV/88888888/224/3221230098/index.m3u8
 H爱悬疑,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230098/index.m3u8
 $c_start动作片$c_end
+红色通缉令,https://new.iskcd.com/20211113/OpdoPSYo/index.m3u8
+野王,https://mgtv-iqiy-yk-variety.jjyl12349.com/20210826/ALPZoi9h/1000kb/hls/index.m3u8
 007无暇赴死,https://v.v1kd.com/20211109/vjzrqDwg/1000kb/hls/index.m3u8
 007无暇赴死b,https://sod.bunediy.com/20211109/5umrcc25/index.m3u8
 一击,https://v12.tkzyapi.com/20211109/fG7HSKYV/1000kb/hls/index.m3u8
@@ -990,6 +992,7 @@ $c_start动作片$c_end
 愤怒的黄牛,https://sod.bunediy.com/20210806/22qiSt9G/index.m3u8
 西游记之再世妖王,https://sod.bunediy.com/20210823/0f3bJZMm/index.m3u8
 $c_start剧情片$c_end
+冒名之肤,https://v12.tkzyapi.com/20211110/8NtSBLP5/1000kb/hls/index.m3u8
 血战微山岛,https://v10.dious.cc/20211102/ly1Q3ZJO/index.m3u8
 海盗王,https://v10.dious.cc/20211026/bKPHAss4/index.m3u8
 遗爱,https://sod.bunediy.com/20210920/k7386hJ1/index.m3u8
@@ -1058,6 +1061,7 @@ $c_start奇幻片$c_end
 上升,https://sod.bunediy.com/20211012/CqQ2vaEy/index.m3u8
 出招吧看不剑,https://sod.bunediy.com/20210803/Quo5onWY/index.m3u8
 $c_start恐怖片$c_end
+危险警告,https://v12.tkzyapi.com/20211112/iatZVY45/1000kb/hls/index.m3u8
 招魂3,https://v7.dious.cc/20210605/8gcPE9zH/1000kb/hls/index.m3u8
 验收测试,https://new.iskcd.com/20211107/sHJaFH1u/1400kb/hls/index.m3u8
 无尽的月,https://v4.cdtlas.com/20211031/ybTu4nOn/1200kb/hls/index.m3u8
@@ -1114,3 +1118,16 @@ PT-218的叛军,https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-4532
 幸存者1937,https://vod.bunediy.com/20210701/E775n0Ox/index.m3u8
 破晓之战,https://vod.bunediy.com/20210629/eLUmDW4t/index.m3u8
 地雷险区,https://vod.bunediy.com/20210606/4qbvKnid/index.m3u8
+$c_start记录无穷之路$c_end
+1,https://v4.cdtlas.com/20211019/4kKW9A2v/index.m3u8
+2,https://v4.cdtlas.com/20211019/LRj0O9Sx/index.m3u8
+3,https://v4.cdtlas.com/20211019/vA61fyno/index.m3u8
+4,https://v4.cdtlas.com/20211019/RJffObhX/index.m3u8
+5,https://v4.cdtlas.com/20211019/Ly7YMCuR/index.m3u8
+6,https://v4.cdtlas.com/20211019/sUlgnO72/index.m3u8
+7,https://v4.cdtlas.com/20211019/dVYyQ9nc/index.m3u8
+8,https://v4.cdtlas.com/20211019/Y6X74YAw/index.m3u8
+9,https://v4.cdtlas.com/20211019/UsOZlGMV/index.m3u8
+10,https://v4.cdtlas.com/20211024/sn31AEAL/index.m3u8
+11,https://v4.cdtlas.com/20211031/wUsifrJk/index.m3u8
+12,https://v4.cdtlas.com/20211107/euH2PtzE/index.m3u8

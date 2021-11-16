@@ -88,6 +88,9 @@ MBO,http://mbomovie.com/api.php/provide/vod/at/xml,解析
 追剧达人,https://vip123kan.vip/api.php/provide/vod/at/xml,解析
 地理KTV,http://api.diliktv.xyz/api.php/provide/vod/at/xml,解析
 UNSS,http://www.unss.net/api.php/provide/vod/at/xml,解析
+77,https://www.77diany.com/api.php/provide/vod/at/xml
+人人迷,https://kuu.renrenmi.cc/api.php/provide/vod/at/xml
+穿梭,http://ok.888hyk.com/api.php/provide/vod/at/xml
 结束
 解析：
 解析1,https://jx.7kjx.com/?url=

@@ -2163,6 +2163,662 @@ http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn19
 http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn20
 #EXTINF:-1 group-title="TW3",龍華經典
 http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn21
+#EXTINF:-1 group-title="IPTV",翡翠台
+http://iptv5.phoves.com.cn/api/wantv.php?id=1
+#EXTINF:-1 group-title="IPTV",翡翠台
+http://v3948069e.live.126.net/live/dc08f2e0003266001b83dfef903eef/TWggboxTV/index.flv
+#EXTINF:-1 group-title="IPTV",J2
+http://iptv5.phoves.com.cn/api/wantv.php?id=2
+#EXTINF:-1 group-title="IPTV",J2
+http://v3948069e.live.126.net/live/5dc08f2e0006a51101b83ee3493e8249/TWggboxTV/index.flv
+#EXTINF:-1 group-title="IPTV",無綫財經資訊台
+http://iptv5.phoves.com.cn/api/wantv.php?id=3
+#EXTINF:-1 group-title="IPTV",無綫財經資訊台
+http://v3948069e.live.126.net/live/60d5fb6a00091763c604b6568c882cb9/TWggboxTV/index.flv
+#EXTINF:-1 group-title="IPTV",明珠台
+http://iptv5.phoves.com.cn/api/wantv.php?id=4
+#EXTINF:-1 group-title="IPTV",明珠台
+http://v3948069e.live.126.net/live/604339d800036fb3068cc20c2898df9c/TWggboxTV/index.flv
+#EXTINF:-1 group-title="IPTV",無綫新聞台
+http://iptv5.phoves.com.cn/api/wantv.php?id=5
+#EXTINF:-1 group-title="IPTV",無綫新聞台
+http://v3948069e.live.126.net/live/tghjWXXWTTVBJHGFTEDSSZZAQWSDERFGF/ggbox/index.flv
+#EXTINF:-1 group-title="IPTV",Now新聞台
+http://iptv5.phoves.com.cn/api/wantv.php?id=6
+#EXTINF:-1 group-title="IPTV",Now新聞台
+http://v3948069e.live.126.net/live/tghjBVUTYUIGTGTFTFTFRFVTVF/ggbox/index.flv
+#EXTINF:-1 group-title="IPTV",Now直播台
+http://iptv5.phoves.com.cn/api/wantv.php?id=7
+#EXTINF:-1 group-title="IPTV",Now直播台
+http://v3948069e.live.126.net/live/tghjAZTGFYHGTIYGYTFGVBNMM/ggbox/index.flv
+#EXTINF:-1 group-title="IPTV",香港開電視
+http://iptv5.phoves.com.cn/api/wantv.php?id=8
+#EXTINF:-1 group-title="IPTV",香港開電視
+http://v3948069e.live.126.net/live/60d5fb8d0004a5a6c6053deb0456a7a7/TWggboxTV/index.flv
+#EXTINF:-1 group-title="IPTV",ViuTV
+http://iptv5.phoves.com.cn/api/wantv.php?id=9
+#EXTINF:-1 group-title="IPTV",ViuTV
+http://v3948069e.live.126.net/live/5d1a69d90003dbfb11be6dc698fb9973/TWggboxTV/index.flv
+#EXTINF:-1 group-title="IPTV",有線18台
+http://iptv5.phoves.com.cn/api/wantv.php?id=10
+#EXTINF:-1 group-title="IPTV",有線18台
+http://v3948069e.live.126.net/live/5b724e8d000889c91118581e3f87708b/TWggboxTV/index.flv
+#EXTINF:-1 group-title="IPTV",RTHK31
+http://iptv5.phoves.com.cn/api/wantv.php?id=11
+#EXTINF:-1 group-title="IPTV",RTHK31
+http://v3948069e.live.126.net/live/tghjYZNVVDDEWQODEWTDERTDEWQRFGYDRWTF/ggbox/index.flv
+#EXTINF:-1 group-title="IPTV",RTHK32
+http://iptv5.phoves.com.cn/api/wantv.php?id=12
+#EXTINF:-1 group-title="IPTV",RTHK32
+http://v3948069e.live.126.net/live/tghjMMDSWDFTFFGGFVFGCVVBBFDTEW/ggbox/index.flv
+#EXTINF:-1 group-title="IPTV",有線新聞台
+http://iptv5.phoves.com.cn/api/wantv.php?id=13
+#EXTINF:-1 group-title="IPTV",有線新聞台
+http://v3948069e.live.126.net/live/tghjJYZGYFFHUYFTVBBJNBGODSZWQQWERTGFDT/ggbox/index.flv
+#EXTINF:-1 group-title="IPTV",有線603台
+http://iptv5.phoves.com.cn/api/wantv.php?id=15
+#EXTINF:-1 group-title="IPTV",有線603台
+http://v3948069e.live.126.net/live/5f37f5130009afbd430e81ff7c677543/TWggboxTV/index.flv
+#EXTINF:-1 group-title="IPTV",天映頻道
+http://iptv5.phoves.com.cn/api/wantv.php?id=16
+#EXTINF:-1 group-title="IPTV",天映頻道
+http://v3948069e.live.126.net/live/tghjHFDREWSHGDFRTXCDZSQQDSYF/ggbox/index.flv
+#EXTINF:-1 group-title="IPTV",澳門蓮花
+http://iptv5.phoves.com.cn/api/wantv.php?id=17
+#EXTINF:-1 group-title="IPTV",澳門蓮花
+http://v3948069e.live.126.net/live/tghjZSWERDDEWWZCDDEPDEWYFESDA/ggbox/index.flv
+#EXTINF:-1 group-title="IPTV",TVB星河
+http://iptv5.phoves.com.cn/api/wantv.php?id=18
+#EXTINF:-1 group-title="IPTV",TVB星河
+http://v3948069e.live.126.net/live/5d3078870001abed3430396800e90045/TWggboxTV/index.flv
+#EXTINF:-1 group-title="IPTV",星空衛视
+http://iptv5.phoves.com.cn/api/wantv.php?id=19
+#EXTINF:-1 group-title="IPTV",星空衛视
+http://v3948069e.live.126.net/live/5d1a69d80007b1db11be6ad9e2339543/TWggboxTV/index.flv
+#EXTINF:-1 group-title="IPTV",民视
+http://iptv5.phoves.com.cn/api/wantv.php?id=20
+#EXTINF:-1 group-title="IPTV",民视
+http://v3948069e.live.126.net/live/601268de00029c0dca1041cec46b6455/TWggboxTV/index.flv
+#EXTINF:-1 group-title="IPTV",台视
+http://iptv5.phoves.com.cn/api/wantv.php?id=21
+#EXTINF:-1 group-title="IPTV",台视
+http://v3948069e.live.126.net/live/tghjZZTSHDSEWQSDXCSWZAREWTGTFERHJBGR/ggbox/index.flv
+#EXTINF:-1 group-title="IPTV",公视3台
+http://iptv5.phoves.com.cn/api/wantv.php?id=22
+#EXTINF:-1 group-title="IPTV",公视3台
+http://v3948069e.live.126.net/live/tghjZDSWEDRDGDEWQGIGFEDVXERDFJGFR/ggbox/index.flv
+#EXTINF:-1 group-title="IPTV",中视
+http://iptv5.phoves.com.cn/api/wantv.php?id=23
+#EXTINF:-1 group-title="IPTV",中视
+http://v3948069e.live.126.net/live/tghjTZZGFCFGHHBJDEWFGHBGYT/ggbox/index.flv
+#EXTINF:-1 group-title="IPTV",華视
+http://iptv5.phoves.com.cn/api/wantv.php?id=24
+#EXTINF:-1 group-title="IPTV",華视
+http://v3948069e.live.126.net/live/tghjCRTVHSDFCEDTGDBBNYFEDTGFDW/ggbox/index.flv
+#EXTINF:-1 group-title="IPTV",民視台灣台
+http://iptv5.phoves.com.cn/api/wantv.php?id=25
+#EXTINF:-1 group-title="IPTV",民視台灣台
+http://v3948069e.live.126.net/live/SWQTGFCDXDEWASWQFVC/ggbox/index.flv
+#EXTINF:-1 group-title="IPTV",民視第一台
+http://iptv5.phoves.com.cn/api/wantv.php?id=26
+#EXTINF:-1 group-title="IPTV",民視第一台
+http://v3948069e.live.126.net/live/5dc08f31000ac63001b84ba99f178884/TWggboxTV/index.flv
+#EXTINF:-1 group-title="IPTV",民視影劇台
+http://iptv5.phoves.com.cn/api/wantv.php?id=27
+#EXTINF:-1 group-title="IPTV",民視影劇台
+http://v3948069e.live.126.net/live/5dc08f31000c0e8e01b84bfda44773e0/TWggboxTV/index.flv
+#EXTINF:-1 group-title="IPTV",民视新聞台
+http://iptv5.phoves.com.cn/api/wantv.php?id=28
+#EXTINF:-1 group-title="IPTV",民视新聞台
+http://v3948069e.live.126.net/live/0d5fc59000ee329c6085d6afecf63f8/TWggboxTV/index.flv
+#EXTINF:-1 group-title="IPTV",中视新聞
+http://iptv5.phoves.com.cn/api/wantv.php?id=29
+#EXTINF:-1 group-title="IPTV",中视新聞
+http://v3948069e.live.126.net/live/tghjZTGDVGHUYFGVBBSXDDRSVMMKFDREWQTFGFSD/ggbox/index.flv
+#EXTINF:-1 group-title="IPTV",華視教育體育文化
+http://iptv5.phoves.com.cn/api/wantv.php?id=30
+#EXTINF:-1 group-title="IPTV",華視教育體育文化
+http://v3948069e.live.126.net/live/tghjCVUDRYHHJADGKLJYUS/ggbox/index.flv
+#EXTINF:-1 group-title="IPTV",台视新聞
+http://iptv5.phoves.com.cn/api/wantv.php?id=31
+#EXTINF:-1 group-title="IPTV",台视新聞
+http://v3948069e.live.126.net/live/5d1a6977000356b111bceed483381bdd/ggbox/index.flv
+#EXTINF:-1 group-title="IPTV",TVBS新聞台
+http://iptv5.phoves.com.cn/api/wantv.php?id=32
+#EXTINF:-1 group-title="IPTV",TVBS新聞台
+http://v3948069e.live.126.net/live/tghjCVUDRYHHJDRXZRTVBSASTWSDX/ggbox/index.flv
+#EXTINF:-1 group-title="IPTV",寰宇新聞台
+http://iptv5.phoves.com.cn/api/wantv.php?id=33
+#EXTINF:-1 group-title="IPTV",寰宇新聞台
+http://v3948069e.live.126.net/live/tghjZTRSERTREEWRRZAWEDSWQESWE/ggbox/index.flv
+#EXTINF:-1 group-title="IPTV",三立iNews
+http://iptv5.phoves.com.cn/api/wantv.php?id=34
+#EXTINF:-1 group-title="IPTV",三立iNews
+http://v3948069e.live.126.net/live/tghjASTGFCHHUBHBVGFGFFGVBADWGHJLBGBG/ggbox/index.flv
+#EXTINF:-1 group-title="IPTV",中天新聞
+http://iptv5.phoves.com.cn/api/wantv.php?id=35
+#EXTINF:-1 group-title="IPTV",中天新聞
+http://v3948069e.live.126.net/live/60d5fc09000b53ddc60724013b880045/TWggboxTV/index.flv
+#EXTINF:-1 group-title="IPTV",東森新聞
+http://iptv5.phoves.com.cn/api/wantv.php?id=36
+#EXTINF:-1 group-title="IPTV",東森新聞
+http://v3948069e.live.126.net/live/5dc08f31000b2bdc01b84bc33d70901a/TWggboxTV/index.flv
+#EXTINF:-1 group-title="IPTV",年代新聞
+http://iptv5.phoves.com.cn/api/wantv.php?id=37
+#EXTINF:-1 group-title="IPTV",年代新聞
+http://v3948069e.live.126.net/live/6dc85444fa886da9b3cd668175d608fd/TWggboxTV/index.flv
+#EXTINF:-1 group-title="IPTV",三立新聞
+http://iptv5.phoves.com.cn/api/wantv.php?id=38
+#EXTINF:-1 group-title="IPTV",三立新聞
+http://v3948069e.live.126.net/live/5f37f49900041ac2430ca40198bc8786/TWggboxTV/index.flv
+#EXTINF:-1 group-title="IPTV",東森財經新聞
+http://iptv5.phoves.com.cn/api/wantv.php?id=39
+#EXTINF:-1 group-title="IPTV",東森財經新聞
+http://v3948069e.live.126.net/live/5fddbcac000d4ed1095334d162a254b2/TWggboxTV/index.flv
+#EXTINF:-1 group-title="IPTV",非凡新聞
+http://iptv5.phoves.com.cn/api/wantv.php?id=40
+#EXTINF:-1 group-title="IPTV",非凡新聞
+http://v3948069e.live.126.net/live/tghjCVUXXSWDRDFVGTRFGHJDCXZY/ggbox/index.flv
+#EXTINF:-1 group-title="IPTV",壹新聞
+http://iptv5.phoves.com.cn/api/wantv.php?id=41
+#EXTINF:-1 group-title="IPTV",壹新聞
+http://v3948069e.live.126.net/live/tghjZSWERDSWWERZAEWRREWQGGDET/ggbox/index.flv
+#EXTINF:-1 group-title="IPTV",Ci罪案偵緝频道
+http://iptv5.phoves.com.cn/api/wantv.php?id=42
+#EXTINF:-1 group-title="IPTV",Ci罪案偵緝频道
+http://v3948069e.live.126.net/live/5d3306dc0009ed8b3e2c378d90685820/ggbox/index.flv
+#EXTINF:-1 group-title="IPTV",HBO家庭
+http://iptv5.phoves.com.cn/api/wantv.php?id=43
+#EXTINF:-1 group-title="IPTV",HBO家庭
+http://v3948069e.live.126.net/live/tghjCVUDRYHASRTYUIW/ggbox/index.flv
+#EXTINF:-1 group-title="IPTV",HBO強檔
+http://iptv5.phoves.com.cn/api/wantv.php?id=44
+#EXTINF:-1 group-title="IPTV",HBO強檔
+http://v3948069e.live.126.net/live/tghjCVUDRYHHJZZXVVBNR/ggbox/index.flv
+#EXTINF:-1 group-title="IPTV",HBO HD
+http://iptv5.phoves.com.cn/api/wantv.php?id=45
+#EXTINF:-1 group-title="IPTV",HBO HD
+http://v3948069e.live.126.net/live/tghjCVUDRYABWETUERTYT/ggbox/index.flv
+#EXTINF:-1 group-title="IPTV",AXN
+http://iptv5.phoves.com.cn/api/wantv.php?id=46
+#EXTINF:-1 group-title="IPTV",AXN
+http://v3948069e.live.126.net/live/tghjCVUDRYASERTYT/ggbox/index.flv
+#EXTINF:-1 group-title="IPTV",緯來電影
+http://iptv5.phoves.com.cn/api/wantv.php?id=47
+#EXTINF:-1 group-title="IPTV",緯來電影
+http://v3948069e.live.126.net/live/tghjTGTDYGTGDTHJBGDTZWSDEWQWEG/ggbox/index.flv
+#EXTINF:-1 group-title="IPTV",壹電影
+http://iptv5.phoves.com.cn/api/wantv.php?id=48
+#EXTINF:-1 group-title="IPTV",壹電影
+http://v3948069e.live.126.net/live/tghjATFGVFTDRGTGFCVTRQTFCJKLNBFTDGBFDT/ggbox/index.flv
+#EXTINF:-1 group-title="IPTV",東森羊片
+http://iptv5.phoves.com.cn/api/wantv.php?id=49
+#EXTINF:-1 group-title="IPTV",東森羊片
+http://v3948069e.live.126.net/live/tghjCaf0701714d8c9900b0ec2b56b3ef6f6c/TWggboxTV/index.flv
+#EXTINF:-1 group-title="IPTV",衛視電影台
+http://iptv5.phoves.com.cn/api/wantv.php?id=50
+#EXTINF:-1 group-title="IPTV",衛視電影台
+http://v3948069e.live.126.net/live/604338a40001163206880e5297cc95ab/TWggboxTV/index.flv
+#EXTINF:-1 group-title="IPTV",衛視電影台
+http://iptv5.phoves.com.cn/api/wantv.php?id=51
+#EXTINF:-1 group-title="IPTV",衛視電影台 
+http://v3948069e.live.126.net/live/60442428000dc9020040224339113352/TWggboxTV/index.flv
+#EXTINF:-1 group-title="IPTV",美亞電視台
+http://iptv5.phoves.com.cn/api/wantv.php?id=52
+#EXTINF:-1 group-title="IPTV",美亞電視台
+http://v3948069e.live.126.net/live/604339520007991f068ab7ad0427275f/TWggboxTV/index.flv
+#EXTINF:-1 group-title="IPTV",東森電影
+http://iptv5.phoves.com.cn/api/wantv.php?id=53
+#EXTINF:-1 group-title="IPTV",東森電影
+http://v3948069e.live.126.net/live/5dc08f31000cea6501b84c3662de0c85/TWggboxTV/index.flv
+#EXTINF:-1 group-title="IPTV",CINEMAX
+http://iptv5.phoves.com.cn/api/wantv.php?id=54
+#EXTINF:-1 group-title="IPTV",CINEMAX
+http://v3948069e.live.126.net/live/5d1a69d6000505cd11be625a06b24e50/TWggboxTV/index.flv
+#EXTINF:-1 group-title="IPTV",龍華洋片
+http://iptv5.phoves.com.cn/api/wantv.php?id=55
+#EXTINF:-1 group-title="IPTV",龍華洋片
+http://v3948069e.live.126.net/live/5d307925000619ae3432a3bb1d2dd533/TWggboxTV/index.flv
+#EXTINF:-1 group-title="IPTV",龍祥時代
+http://iptv5.phoves.com.cn/api/wantv.php?id=56
+#EXTINF:-1 group-title="IPTV",龍祥時代
+http://v3948069e.live.126.net/live/5d3077d50001b1d4342d821a12dc432d/TWggboxTV/index.flv
+#EXTINF:-1 group-title="IPTV",好萊塢電影
+http://iptv5.phoves.com.cn/api/wantv.php?id=57
+#EXTINF:-1 group-title="IPTV",好萊塢電影
+http://v3948069e.live.126.net/live/5d40057f0002f0b670eee27c7e0cae84/TWggboxTV/index.flv
+#EXTINF:-1 group-title="IPTV",緯來體育
+http://iptv5.phoves.com.cn/api/wantv.php?id=58
+#EXTINF:-1 group-title="IPTV",緯來體育
+http://v3948069e.live.126.net/live/tghZSJDGDGDEDXCXDRDFGVCSZVBTD/TWggboxTV/index.flv
+#EXTINF:-1 group-title="IPTV",ELTA體育1台
+http://iptv5.phoves.com.cn/api/wantv.php?id=59
+#EXTINF:-1 group-title="IPTV",ELTA體育1台
+http://v3948069e.live.126.net/live/tghDTFGGTHBGVGVTRSSQWSDWERWQ/ggbox/index.flv
+#EXTINF:-1 group-title="IPTV",ELTA體育2台
+http://iptv5.phoves.com.cn/api/wantv.php?id=60
+#EXTINF:-1 group-title="IPTV",ELTA體育2台
+http://v3948069e.live.126.net/live/5d1a696a00035ba411bcbc0de901e12a/TWggboxTV/index.flv
+#EXTINF:-1 group-title="IPTV",ELTA體育3台
+http://iptv5.phoves.com.cn/api/wantv.php?id=61
+#EXTINF:-1 group-title="IPTV",ELTA體育3台
+http://v3948069e.live.126.net/live/ZDDRESQTGHJVFDDERSQWR/TWggboxTV/index.flv
+#EXTINF:-1 group-title="IPTV",博斯高球 I
+http://iptv5.phoves.com.cn/api/wantv.php?id=62
+#EXTINF:-1 group-title="IPTV",博斯高球 I
+http://v3948069e.live.126.net/live/5dc08f2a000c358f01b830afaa89e001/TWggboxTV/index.flv
+#EXTINF:-1 group-title="IPTV",博斯高球 II
+http://iptv5.phoves.com.cn/api/wantv.php?id=63
+#EXTINF:-1 group-title="IPTV",博斯高球 II
+http://v3948069e.live.126.net/live/5d1a69ac000bbbd711bdc002921c2017/TWggboxTV/index.flv
+#EXTINF:-1 group-title="IPTV",ELEVEN+
+http://iptv5.phoves.com.cn/api/wantv.php?id=64
+#EXTINF:-1 group-title="IPTV",ELEVEN+
+http://v3948069e.live.126.net/live/5e021549000d8ec4e44477e9f2ec6aad/TWggboxTV/index.flv
+#EXTINF:-1 group-title="IPTV",博斯無限II
+http://iptv5.phoves.com.cn/api/wantv.php?id=65
+#EXTINF:-1 group-title="IPTV",博斯無限II
+http://v3948069e.live.126.net/live/60d5fc260009870ac60794d33c70c9d6/TWggboxTV/index.flv
+#EXTINF:-1 group-title="IPTV",博斯魅力
+http://iptv5.phoves.com.cn/api/wantv.php?id=66
+#EXTINF:-1 group-title="IPTV",博斯魅力
+http://v3948069e.live.126.net/live/60d5fbc90000d2d0c6062750d511fd0a/TWggboxTV/index.flv
+#EXTINF:-1 group-title="IPTV",NBA TV
+http://iptv5.phoves.com.cn/api/wantv.php?id=68
+#EXTINF:-1 group-title="IPTV",NBA TV
+http://v3948069e.live.126.net/live/240b4c5897883ac03dc918b0e4d37583/TWggboxTV/index.flv
+#EXTINF:-1 group-title="IPTV",民视綜藝台
+http://iptv5.phoves.com.cn/api/wantv.php?id=69
+#EXTINF:-1 group-title="IPTV",民视綜藝台
+http://v3948069e.live.126.net/live/tghjZSWEDFTRTYWQJJGVDREWQW/ggbox/index.flv
+#EXTINF:-1 group-title="IPTV",民视旅遊台
+http://iptv5.phoves.com.cn/api/wantv.php?id=70
+#EXTINF:-1 group-title="IPTV",民视旅遊台
+http://v3948069e.live.126.net/live/tghjKKSWQDZXSWERDFSSQAWEWESSWWED/ggbox/index.flv
+#EXTINF:-1 group-title="IPTV",衛視中文台
+http://iptv5.phoves.com.cn/api/wantv.php?id=71
+#EXTINF:-1 group-title="IPTV",衛視中文台
+http://v3948069e.live.126.net/live/tghj6048a78000060c3711e13007fb8dc89b/TWggboxTV/index.flv
+#EXTINF:-1 group-title="IPTV",TVBS
+http://iptv5.phoves.com.cn/api/wantv.php?id=72
+#EXTINF:-1 group-title="IPTV",TVBS
+http://v3948069e.live.126.net/live/6043467c000301e806be22909a147731/TWggboxTV/index.flv
+#EXTINF:-1 group-title="IPTV",中视經典
+http://iptv5.phoves.com.cn/api/wantv.php?id=74
+#EXTINF:-1 group-title="IPTV",中视經典
+http://v3948069e.live.126.net/live/tghjBBCXWSGFTAWQRDDEWATDSZCSWQER/ggbox/index.flv
+#EXTINF:-1 group-title="IPTV",ELTA综合
+http://iptv5.phoves.com.cn/api/wantv.php?id=75
+#EXTINF:-1 group-title="IPTV",ELTA综合
+http://v3948069e.live.126.net/live/tghjDAESWASDZXDEQVFDERDSQSAWQEDFDRTDSSW/ggbox/index.flv
+#EXTINF:-1 group-title="IPTV",中天亞洲台
+http://iptv5.phoves.com.cn/api/wantv.php?id=76
+#EXTINF:-1 group-title="IPTV",中天亞洲台
+http://v3948069e.live.126.net/live/tghjZTYTDRFGHVTFUJGTFCCDRYFHJBFDATFB/ggbox/index.flv
+#EXTINF:-1 group-title="IPTV",三立台湾台
+http://iptv5.phoves.com.cn/api/wantv.php?id=77
+#EXTINF:-1 group-title="IPTV",三立台湾台
+http://v3948069e.live.126.net/live/tghjTYGDTGBGFYZDESRHGFDTFGDDXC/ggbox/index.flv
+#EXTINF:-1 group-title="IPTV",三立都會台
+http://iptv5.phoves.com.cn/api/wantv.php?id=78
+#EXTINF:-1 group-title="IPTV",三立都會台
+http://v3948069e.live.126.net/live/5f37f33400062617430731ffad0889f5/TWggboxTV/index.flv
+#EXTINF:-1 group-title="IPTV",三立綜合台
+http://iptv5.phoves.com.cn/api/wantv.php?id=79
+#EXTINF:-1 group-title="IPTV",三立綜合台
+http://v3948069e.live.126.net/live/5f380ae10009d7fe4363aeb910bc02d4/TWggboxTV/index.flv
+#EXTINF:-1 group-title="IPTV",三立戲劇台
+http://iptv5.phoves.com.cn/api/wantv.php?id=80
+#EXTINF:-1 group-title="IPTV",三立戲劇台
+http://v3948069e.live.126.net/live/tghjJYZGYFFHUYFTVBBJNBGODSTSAAAOHGDREWQDSZW/ggbox/index.flv
+#EXTINF:-1 group-title="IPTV",東森綜合
+http://iptv5.phoves.com.cn/api/wantv.php?id=81
+#EXTINF:-1 group-title="IPTV",東森綜合
+http://v3948069e.live.126.net/live/af0701714d8c865798b0ec2b56b3ef6f6c/TWggboxTV/index.flv
+#EXTINF:-1 group-title="IPTV",緯來育樂
+http://iptv5.phoves.com.cn/api/wantv.php?id=82
+#EXTINF:-1 group-title="IPTV",緯來育樂
+http://v3948069e.live.126.net/live/6048a389000ca55311d1b4e03b6b32df/TWggboxTV/index.flv
+#EXTINF:-1 group-title="IPTV",緯來綜合
+http://iptv5.phoves.com.cn/api/wantv.php?id=83
+#EXTINF:-1 group-title="IPTV",緯來綜合
+http://v3948069e.live.126.net/live/tghjWASDTRFCDEQFFGHJRTDRRTEQ/ggbox/index.flv
+#EXTINF:-1 group-title="IPTV",BBC Lifestyle
+http://iptv5.phoves.com.cn/api/wantv.php?id=84
+#EXTINF:-1 group-title="IPTV",BBC Lifestyle
+http://v3948069e.live.126.net/live/5ff3ffba000ce5a460493803294f6849/TWggboxTV/index.flv
+#EXTINF:-1 group-title="IPTV",Food Network
+http://iptv5.phoves.com.cn/api/wantv.php?id=85
+#EXTINF:-1 group-title="IPTV",Food Network
+http://v3948069e.live.126.net/live/5ff5bd7f000863cc6716806274ef1036/TWggboxTV/index.flv
+#EXTINF:-1 group-title="IPTV",EYE TV旅遊
+http://iptv5.phoves.com.cn/api/wantv.php?id=86
+#EXTINF:-1 group-title="IPTV",EYE TV旅遊
+http://v3948069e.live.126.net/live/5c7249ba0008b3211d5786b3068b4615/TWggboxTV/index.flv
+#EXTINF:-1 group-title="IPTV",東森幼幼
+http://iptv5.phoves.com.cn/api/wantv.php?id=87
+#EXTINF:-1 group-title="IPTV",東森幼幼
+http://v3948069e.live.126.net/live/5d1a696e0008b29f11bccd0ba35fcc88/ggbox/index.flv
+#EXTINF:-1 group-title="IPTV",CN卡通频道
+http://iptv5.phoves.com.cn/api/wantv.php?id=88
+#EXTINF:-1 group-title="IPTV",CN卡通频道
+http://v3948069e.live.126.net/live/tghjBBCNAWQREWWAWAQQWD/ggbox/index.flv
+#EXTINF:-1 group-title="IPTV",迪士尼頻道
+http://iptv5.phoves.com.cn/api/wantv.php?id=89
+#EXTINF:-1 group-title="IPTV",迪士尼頻道
+http://v3948069e.live.126.net/live/tghjDSNKRDESWQTFDSEYHBGCBCSWDGHT/ggbox/index.flv
+#EXTINF:-1 group-title="IPTV",中天綜合
+http://iptv5.phoves.com.cn/api/wantv.php?id=90
+#EXTINF:-1 group-title="IPTV",中天綜合
+http://v3948069e.live.126.net/live/5d3078c90008aa7e34313d03af1fae73/TWggboxTV/index.flv
+#EXTINF:-1 group-title="IPTV",探索科学
+http://iptv5.phoves.com.cn/api/wantv.php?id=91
+#EXTINF:-1 group-title="IPTV",探索科学
+http://v3948069e.live.126.net/live/tghjSAWQGFDRTDEWSFGYTDRGGCDFggbox/index.flv
+#EXTINF:-1 group-title="IPTV",探索亞洲
+http://iptv5.phoves.com.cn/api/wantv.php?id=92
+#EXTINF:-1 group-title="IPTV",探索亞洲
+http://v3948069e.live.126.net/live/tghjBZSWQAERFDRTFGHJREWQFDEWRD/ggbox/index.flv
+#EXTINF:-1 group-title="IPTV",探索频道
+http://iptv5.phoves.com.cn/api/wantv.php?id=93
+#EXTINF:-1 group-title="IPTV",探索频道
+http://v3948069e.live.126.net/live/tghjCVUDRSQWERTRE/ggbox/index.flv
+#EXTINF:-1 group-title="IPTV",國家地理野生
+http://iptv5.phoves.com.cn/api/wantv.php?id=94
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",國家地理
+http://iptv5.phoves.com.cn/api/wantv.php?id=95
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",國家地理
+http://v3948069e.live.126.net/live/tghjDEWQDGHSRBOOPKDSAWT/ggbox/index.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",緯來戲劇
+http://iptv5.phoves.com.cn/api/wantv.php?id=96
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",緯來戲劇
+http://v3948069e.live.126.net/live/tghjCVUDRAAZXVGTGHDSRZXMMPLDERRBOX/ggbox/index.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",動物星球
+http://iptv5.phoves.com.cn/api/wantv.php?id=97
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",動物星球
+http://v3948069e.live.126.net/live/tghjCVUDRYAWEDSXXZAQWEDDSDZ/ggbox/index.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",龍華戲劇
+http://iptv5.phoves.com.cn/api/wantv.php?id=98
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",龍華戲劇
+http://v3948069e.live.126.net/live/tghjAWSDTFGFDEWQTGHGFTFYHGFTI/ggbox/index.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",TLC旅遊生活
+http://iptv5.phoves.com.cn/api/wantv.php?id=99
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",TLC旅遊生活
+http://v3948069e.live.126.net/live/5d1a6975000b89e211bce91ded33f2df/ggbox/index.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",東森戲劇
+http://iptv5.phoves.com.cn/api/wantv.php?id=100
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",東森戲劇
+http://v3948069e.live.126.net/live/5d30778000079602342c3794f42fde53/TWggboxTV/index.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",中天娛樂
+http://iptv5.phoves.com.cn/api/wantv.php?id=102
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",中天娛樂
+http://v3948069e.live.126.net/live/5d307912000d8af134325b6a14ba34f6/TWggboxTV/index.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",八大綜合台
+http://iptv5.phoves.com.cn/api/wantv.php?id=103
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",八大綜合台
+http://v3948069e.live.126.net/live/5d3078ff00082ee834320fd3f4a81475/TWggboxTV/index.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",八大第1台
+http://iptv5.phoves.com.cn/api/wantv.php?id=104
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",八大第1台
+http://v3948069e.live.126.net/live/d3078ff00082ee834320fd3f4a81475/TWggboxTV/index.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",EYE TV戲劇
+http://iptv5.phoves.com.cn/api/wantv.php?id=105
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",EYE TV戲劇
+http://v3948069e.live.126.net/live/5f2cb8a50005cce1172a735005454a58/TWggboxTV/index.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",八大娛樂台
+http://iptv5.phoves.com.cn/api/wantv.php?id=106
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",八大娛樂台
+http://v3948069e.live.126.net/live/5e565c070000cb6f2d78cad5c040fa7b/TWggboxTV/index.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",鳳凰中文台
+http://iptv2.phoves.com.cn/iptv/api/hodtv-eOqblbsutc.php?vid=xg&id=197
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",鳳凰中文台
+http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",鳳凰資訊台
+http://iptv2.phoves.com.cn/iptv/api/hodtv-eOqblbsutc.php?vid=xg&id=198
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",鳳凰資訊台
+http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",鳳凰香港台
+http://iptv2.phoves.com.cn/iptv/api/hodtv-eOqblbsutc.php?vid=xg&id=199
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",鳳凰香港台
+http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",翡翠台
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=1
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",翡翠台
+http://v3948069e.live.126.net/live/yO5jK1cY6cR5mM0kK8mK1cN0lV6uI0sG.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",香港開電視
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=56
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",香港開電視
+http://v3948069e.live.126.net/live/ehxdcued02570081/56.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",J2
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=2
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",J2
+http://v3948069e.live.126.net/live/rN9gY7bW5dJ2gO7zK0oV1tP8kU4cT8xH.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",TVB星河
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=3
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",TVB星河
+http://v3948069e.live.126.net/live/muukvgei99262641/3.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",無綫新聞台
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=4
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",無綫新聞台
+http://v3948069e.live.126.net/live/srwntrbz30571026/4.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",無綫財經資訊台
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=5
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",無綫財經資訊台
+http://v3948069e.live.126.net/live/wP6rC2xA7qP2kR5gF0iW3rX6nC3mJ4tF.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",ViuTV
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=6
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",ViuTV
+http://v3948069e.live.126.net/live/sB8lR2tA2jS8iR7jW2kD4fX5iW4jJ7dE.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",ViuTV6
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=7
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",ViuTV6
+http://v3948069e.live.126.net/live/wG5kZ2zP4kI3kD4yX4uN0yB4kQ0pG6oK.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",RTHK31
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=8
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",RTHK31
+http://v3948069e.live.126.net/live/yqqpusjk61144008/8.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",RTHK32
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=9
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",RTHK32
+http://v3948069e.live.126.net/live/pceodhgw65290464/9.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",有線新聞台
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=10
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",有線新聞台
+http://v3948069e.live.126.net/live/tghjJYZGYFFHUYFTVBBJNBGODSZWQQWERTGFDT/ggbox/index.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",C+
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=13
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",C+
+http://v3948069e.live.126.net/live/ropcaxhl14651386/13.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",民视
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=14
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",民视
+http://v3948069e.live.126.net/live/tzabowsy35659285/14.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",民視第一台
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=15
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",民視第一台
+http://v3948069e.live.126.net/live/pzzsljuf42797706/15.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",民視台灣台
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=16
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",民視台灣台
+http://v3948069e.live.126.net/live/gzpsimqh47028521/16.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",民视綜藝台
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=17
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",民视綜藝台
+http://v3948069e.live.126.net/live/ochbmsmz77748020/17.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",民视旅遊台
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=18
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",民视旅遊台
+http://v3948069e.live.126.net/live/stsqvnsp17066367/18.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",中视
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=19
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",中视
+http://v3948069e.live.126.net/live/yvfhcmpz39636666/19.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",民视新聞台
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=20
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",民视新聞台
+http://v3948069e.live.126.net/live/hcjbffco47929422/20.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",中视新聞
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=21
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",中视新聞
+http://v3948069e.live.126.net/live/skxpufqh70110012/21.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",台视新聞
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=22
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",台视新聞
+http://v3948069e.live.126.net/live/balzjape74842082/22.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",寰宇新聞台
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=23
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",寰宇新聞台
+http://v3948069e.live.126.net/live/ijhmepue39705790/23.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",中视新聞
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=24
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",中视新聞
+http://v3948069e.live.126.net/live/jjbemtzx83722902/24.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",東森新聞
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=25
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",東森新聞
+http://v3948069e.live.126.net/live/jioyjncf58916888/25.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",東森財經新聞
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=26
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",東森財經新聞
+http://v3948069e.live.126.net/live/gxxcbwur61788966/26.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",華视新聞資訊
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=27
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",華视新聞資訊
+http://v3948069e.live.126.net/live/amqneifj10784359/27.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",TVBS新聞台
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=28
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",TVBS新聞台
+http://v3948069e.live.126.net/live/aabfizaq69611988/28.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",三立iNews
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=29
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",三立iNews
+http://v3948069e.live.126.net/live/bpdbbfpm09416621/29.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",三立Live新聞
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=30
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",三立Live新聞
+http://v3948069e.live.126.net/live/vetsmzlk43853584/30.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",壹新聞
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=31
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",壹新聞
+http://v3948069e.live.126.net/live/wdnsfgzk87959143/31.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",BBC WORLD NEWS
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=32
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",BBC WORLD NEWS
+http://v3948069e.live.126.net/live/smswoyjm89140697/32.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",ABC7
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=33
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",ABC7
+http://v3948069e.live.126.net/live/bkvaujxx79965447/33.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",CNN
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=34
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",CNN
+http://v3948069e.live.126.net/live/prfctnpk25977169/34.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",NHK
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=35
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",NHK
+http://v3948069e.live.126.net/live/vsjzwtws96731369/35.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",CNA
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=36
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",CNA
+http://v3948069e.live.126.net/live/cziwzqaj12721656/36.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",JET综合
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=37
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",JET综合
+http://v3948069e.live.126.net/live/pqrthxsh09070591/37.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",天映頻道
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=38
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",天映頻道
+http://v3948069e.live.126.net/live/sdjkftsy85670459/38.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",天映经典
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=39
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",天映经典
+http://v3948069e.live.126.net/live/ynmkotyp36214971/39.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",CATCHPLAY電影台
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=40
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",CATCHPLAY電影台
+http://v3948069e.live.126.net/live/tgtejtep51228834/40.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",tvN MOVIES
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=41
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",tvN MOVIES
+http://v3948069e.live.126.net/live/buqpjbtx54886357/41.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",thrill
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=42
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",thrill
+http://v3948069e.live.126.net/live/dqfskexl73897852/42.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",Warner TV
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=43
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",Warner TV
+http://v3948069e.live.126.net/live/ahscarup92436811/43.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",ANIMAX
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=44
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",ANIMAX
+http://v3948069e.live.126.net/live/vkfbxzok55421342/44.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",ASSP
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=45
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",ASSP
+http://v3948069e.live.126.net/live/mcfewiaz66926419/45.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",ASSP2
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=46
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",ASSP2
+http://v3948069e.live.126.net/live/shyhokxa98054347/46.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",ASSP3
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=47
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",ASSP3
+http://v3948069e.live.126.net/live/vhwqxstn60030160/47.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",ASSP4
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=48
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",ASSP4
+http://v3948069e.live.126.net/live/ystdqjlz97859836/48.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",Sky Sports Football
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=49
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",Sky Sports Football
+http://v3948069e.live.126.net/live/qodxrhvy51346565/49.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",BT SPORT 2
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=50
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",BT SPORT 2
+http://v3948069e.live.126.net/live/bvphnkuk59671837/50.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",BT SPORT 3
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=51
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",BT SPORT 3
+http://v3948069e.live.126.net/live/pjcajtxu03062189/51.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",三立都會台
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=52
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",三立都會台
+http://v3948069e.live.126.net/live/mxdbtscb65607058/52.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",明珠台
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=53
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",三立台湾台
+http://v3948069e.live.126.net/live/abnlwywy08367132/53.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",明珠台
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=54
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",明珠台
+http://v3948069e.live.126.net/live/bK1mK3hM2qD5lL7vI3zX1lH4gA7kI9eR.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",TVB星河
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=55
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",TVB星河
+http://v3948069e.live.126.net/live/qvcakbfq71796232/55.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",香港開電視
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=56
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",香港開電視
+http://v3948069e.live.126.net/live/ehxdcued02570081/56.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",双星
+http://v3948069e.live.126.net/live/bdtflqim63829590/57.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",TLC
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=59
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",TLC
+http://v3948069e.live.126.net/live/khxwbgqb20764650/59.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",Now Sports Prime
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=60
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",Now Sports Prime
+http://v3948069e.live.126.net/live/nqurnrpl50063289/60.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",香港開電視
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=62
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",香港開電視
+http://v3948069e.live.126.net/live/ehxdcued02570081/56.flv
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",TLC
+http://iptv2.phoves.com.cn/iptv/api/mytv.php?id=65
+#EXTINF:-1 group-title="國家地理野生, http://v3948069e.live.126.net/live/tghjZMVVTDSQWESDFXZGHFTYIOOK/ggbox/index.flv",TLC
+http://v3948069e.live.126.net/live/khxwbgqb20764650/59.flv
 #EXTINF:-1 group-title="泰国",TV5 HD
 http://916309128f3e.sn.mynetname.net:1935/aslive/5hd/ompronlist.m3u8
 #EXTINF:-1 group-title="泰国",NBT HD

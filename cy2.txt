@@ -23,6 +23,7 @@ LEKBOX,http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml,解析
 KK,http://www.kkkanju.com/api.php/provide/vod/at/xml,解析
 淘片,https://taopianzy.com/home/cjapi/c4ca4238a0b923820dcc509a6f75849b/vod/xml,解析
 电影牛,https://www.dianyingn.com/api.php/provide/vod/at/xml/,解析
+电影牛2,https://www.dianyingn.cc/api.php/provide/vod/,解析
 BL,https://bljiex.com/api.php/provide/vod/at/xml,解析
 0号,http://api.000zy.com/provide/vod/at/xml/,解析
 360,http://xa88.vip:88/api.php/provide/vod/at/xml,解析

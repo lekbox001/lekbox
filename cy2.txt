@@ -86,6 +86,7 @@ MBO,http://mbomovie.com/api.php/provide/vod/at/xml,解析
 猫蓝光,https://mgtv.one/api.php/provide/vod/at/xml,解析
 三零,http://api.000zy.com/provide/vod/at/xml,解析
 追剧达人,https://vip123kan.vip/api.php/provide/vod/at/xml,解析
+地理KTV,http://api.diliktv.xyz/api.php/provide/vod/at/xml,解析
 结束
 解析：
 解析1,https://jx.7kjx.com/?url=

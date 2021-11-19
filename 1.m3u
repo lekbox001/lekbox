@@ -91,6 +91,66 @@ http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226417/1.m3u
 http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226537/1.m3u8
 #EXTINF:-1 group-title="空中课堂",中国教育4
 http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226557/1.m3u8
+#EXTINF:-1 group-title="HK",翡翠台
+https://cdn-cn.hkdtmb.com/hls/81b/index.m3u8
+#EXTINF:-1 group-title="HK",翡翠台
+https://cdn-cn.hkdtmb.com/hls/81/index.m3u8
+#EXTINF:-1 group-title="HK",J2
+https://cdn-cn.hkdtmb.com/hls/82/index.m3u8
+#EXTINF:-1 group-title="HK",J2
+https://cdn.hkdtmb.com/hls/82/index.m3u8
+#EXTINF:-1 group-title="HK",明珠台
+https://cdn-cn.hkdtmb.com/hls/84/index.m3u8
+#EXTINF:-1 group-title="HK",明珠台
+https://cdn.hkdtmb.com/hls/84/index.m3u8
+#EXTINF:-1 group-title="HK",明珠台Y
+https://cdn-cn.hkdtmb.com/hls/84b/index.m3u8
+#EXTINF:-1 group-title="HK",无线新闻
+https://cdn-cn.hkdtmb.com/hls/83/index.m3u8
+#EXTINF:-1 group-title="HK",无线新闻
+https://cdn.hkdtmb.com/hls/83/index.m3u8
+#EXTINF:-1 group-title="HK",无线财经
+https://cdn-cn.hkdtmb.com/hls/85/index.m3u8
+#EXTINF:-1 group-title="HK",ViuTV
+https://cdn-cn.hkdtmb.com/hls/99/index.m3u8
+#EXTINF:-1 group-title="HK",ViuTV6
+https://cdn-cn.hkdtmb.com/hls/96/index.m3u8
+#EXTINF:-1 group-title="HK",RHK31
+https://cdn-cn.hkdtmb.com/hls/31/index.m3u8
+#EXTINF:-1 group-title="HK",RHK32
+https://cdn-cn.hkdtmb.com/hls/32/index.m3u8
+#EXTINF:-1 group-title="HK",香港开电视
+https://cdn-cn.hkdtmb.com/hls/77/index.m3u8
+#EXTINF:-1 group-title="HK",中天新闻
+http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/312.m3u8
+#EXTINF:-1 group-title="HK",RHK31
+https://cdn.hkdtmb.com/hls/31/index.m3u8
+#EXTINF:-1 group-title="HK",RHK32
+https://cdn.hkdtmb.com/hls/32/index.m3u8
+#EXTINF:-1 group-title="HK",RHK33
+https://cdn.hkdtmb.com/hls/33/index.m3u8
+#EXTINF:-1 group-title="HK",翡翠台
+https://cdn.hkdtmb.com/hls/81/index.m3u8
+#EXTINF:-1 group-title="HK",翡翠台
+https://cdn.hkdtmb.com/hls/81b/index.m3u8
+#EXTINF:-1 group-title="HK",J2
+https://cdn.hkdtmb.com/hls/82/index.m3u8
+#EXTINF:-1 group-title="HK",明珠台
+https://cdn.hkdtmb.com/hls/84/index.m3u8
+#EXTINF:-1 group-title="HK",明珠台
+https://cdn.hkdtmb.com/hls/84b/index.m3u8
+#EXTINF:-1 group-title="HK",无线新闻
+https://cdn.hkdtmb.com/hls/83/index.m3u8
+#EXTINF:-1 group-title="HK",无线财经
+https://cdn.hkdtmb.com/hls/85/index.m3u8
+#EXTINF:-1 group-title="HK",ViuTV
+https://cdn.hkdtmb.com/hls/99/index.m3u8
+#EXTINF:-1 group-title="HK",ViuTV6
+https://cdn.hkdtmb.com/hls/96/index.m3u8
+#EXTINF:-1 group-title="HK",香港开电视
+https://cdn.hkdtmb.com/hls/77/index.m3u8
+#EXTINF:-1 group-title="HK",香港国际财经
+https://cdn.hkdtmb.com/hls/76/index.m3u8
 #EXTINF:-1 group-title="HK",ViuTV
 https://p2.weizan.cn/1646497941/584748994834606962/live.m3u8
 #EXTINF:-1 group-title="HK",港台電視31

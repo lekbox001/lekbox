@@ -1185,46 +1185,6 @@ http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/32212300
 http://117.148.179.41/PLTV/88888888/224/3221230098/index.m3u8
 #EXTINF:-1 group-title="高清",H爱悬疑
 http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230098/index.m3u8
-#EXTINF:-1 group-title="NEWS",TVBS新聞台
-rtmp://59.124.75.138/sat/tv551
-#EXTINF:-1 group-title="NEWS",東森财经新聞
-rtmp://59.124.75.138/sat/tv571
-#EXTINF:-1 group-title="NEWS",东森新闻
-http://50.7.61.147:30080/Entry/etnews
-#EXTINF:-1 group-title="NEWS",民视新闻
-http://50.7.61.148:30080/Entry/ftvnews
-#EXTINF:-1 group-title="NEWS",TVBS新闻
-http://50.7.61.148:30080/Entry/tvbsnews
-#EXTINF:-1 group-title="NEWS",壹新闻 HD
-http://50.7.61.147:30080/Entry/etv
-#EXTINF:-1 group-title="NEWS",寰宇新闻台
-http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
-#EXTINF:-1 group-title="NEWS",台视新闻
-http://seb.sason.top/sc/tsxw_fhd.m3u8
-#EXTINF:-1 group-title="NEWS",民视新闻 HD
-http://seb.sason.top/sc/msxw_fhd.m3u8
-#EXTINF:-1 group-title="NEWS",中天新闻 HD
-http://seb.sason.top/sc/ztxw_fhd.m3u8
-#EXTINF:-1 group-title="NEWS",东森新闻 HD
-http://seb.sason.top/sc/dsxw_fhd.m3u8
-#EXTINF:-1 group-title="NEWS",东森财经新闻 HD
-http://seb.sason.top/sc/dscjxw_fhd.m3u8
-#EXTINF:-1 group-title="NEWS",三立iNews
-http://seb.sason.top/sc/slinews_fhd.m3u8
-#EXTINF:-1 group-title="NEWS",东森新闻
-http://50.7.61.147:30080/Entry/etnews
-#EXTINF:-1 group-title="NEWS",中视新闻
-rtmp://45.92.126.226/channel/60c316c5961593122ebaf900
-#EXTINF:-1 group-title="NEWS",台视财经
-rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910c48
-#EXTINF:-1 group-title="NEWS",台视新闻
-rtmp://45.88.148.178/channel/61003bbcf0618408855f374c
-#EXTINF:-1 group-title="NEWS",CCTV4中文国际
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/672924435
-#EXTINF:-1 group-title="NEWS",CCTV13新闻
-http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221225560/index.m3u8
-#EXTINF:-1 group-title="NEWS",CCTV13新闻
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/672922360
 #EXTINF:-1 group-title="动作片",红色通缉令
 https://sod.bunediy.com/20211112/nuwcw4yr/index.m3u8
 #EXTINF:-1 group-title="动作片",特种空勤团

@@ -361,7 +361,7 @@ TV5monde,http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8
 三立台湾,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
 三立都会,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
 好消息,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
-TW3,#genre#
+TW2,#genre#
 美食星球,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d4a
 TVB星河(粤语),rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d7a
 靖天映画,rtmp://45.92.126.226/channel/60c34395961593122ebaf994

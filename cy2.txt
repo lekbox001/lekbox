@@ -34,7 +34,6 @@ M3U8,http://www.zycaiji.net:7788/api.php/provide/vod/at/xml//n,解析
 播放,https://www.bofangya.com/api.php/provide/vod/at/xml,解析
 小蜻蜓,http://3ketv.com/api.php/provide/vod/at/xml,解析
 天堂,http://vipmv.cc/api.php/provide/vod/at/xml,解析
-优酷,http://zy.itono.cn/inc/api.php,解析
 柚子,http://tv.aitesucai.xyz/api.php/provide/vod/at/xml,解析
 4k影院,http://www.dijiaxia.com/api.php/provide/vod/at/xml,解析
 虾米,https://zy.xmflv.vip/api.php/provide/vod/at/xml,解析
@@ -70,7 +69,6 @@ MBO,http://mbomovie.com/api.php/provide/vod/at/xml,解析
 优剧,https://zy.ujuba.com/api.php/provide/vod/at/xml,解析
 嗨哆咪,http://hdmys1.com/api.php/provide/vod/at/xml,解析
 竹嘎,,http://m.ycccyk.cn/api.php/provide/vod/at/xml,解析
-竹嘎资源,http://m.ycccyk.cn/api.php/provide/vod/at/xml,解析
 搬运工,https://cj.banyung.xyz:7788/tongyong/,解析
 56资源,http://svip.popo520.cn/api.php/provide/vod/at/xml,解析
 虾米,https://zy.xmflv.vip/api.php/provide/vod/at/xml,解析
@@ -91,6 +89,10 @@ UNSS,http://www.unss.net/api.php/provide/vod/at/xml,解析
 77,https://www.77diany.com/api.php/provide/vod/at/xml,解析
 人人迷,https://kuu.renrenmi.cc/api.php/provide/vod/at/xml,解析
 穿梭,http://ok.888hyk.com/api.php/provide/vod/at/xml,解析
+闪电,http://sdzyapi.com/api.php/provide/vod/at/xml,解析
+英皇,https://www.yhyczy.com/api.php/provide/vod/at/xml,解析
+速更,https://sugengzy.cn/api.php/provide/vod/at/xml,解析
+348电影,https://348z.com/api.php/provide/vod/at/xml,解析
 结束
 解析：
 解析1,https://jx.7kjx.com/?url=

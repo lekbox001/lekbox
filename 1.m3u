@@ -66,6 +66,437 @@ http://178.128.107.149:5080/WebRTCApp/streams/oasis.m3u8
 http://178.128.107.149:5080/WebRTCApp/streams/naura.m3u8
 #EXTINF:-1 group-title="MY1",IKIM
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
+#EXTM3U url-tvg="https://raw.githubusercontent.com/zhafri/EPG/main/guide_astro.xml" refresh="1440"
+#EXTINF:-1 group-title="Test",Al-Jazzera HD
+http://iptv.tvmalaysia.cc:80/321456/321456/6694
+#EXTINF:-1 group-title="Test",Al-Jazzera HD
+http://iptv.tvmalaysia.cc:80/624850/624850/6694
+#EXTINF:-1 group-title="Test",Animal Planet
+http://iptv.tvmalaysia.cc:80/624850/624850/7077
+#EXTINF:-1 group-title="Test",Animal Planet
+http://iptv.tvmalaysia.cc:80/321456/321456/7077
+#EXTINF:-1 group-title="Test",Animax
+http://iptv.tvmalaysia.cc:80/624850/624850/6696
+#EXTINF:-1 group-title="Test",Arena 2
+http://iptv.tvmalaysia.cc:80/624850/624850/9028
+#EXTINF:-1 group-title="Test",Arena 2
+http://iptv.tvmalaysia.cc:80/321456/321456/9028
+#EXTINF:-1 group-title="Test",Asian Food Network HD
+http://iptv.tvmalaysia.cc:80/624850/624850/6693
+#EXTINF:-1 group-title="Test",Asian Food Network HD
+http://iptv.tvmalaysia.cc:80/321456/321456/6693
+#EXTINF:-1 group-title="Test",ASSP 1
+http://iptv.tvmalaysia.cc:80/624850/624850/9024
+#EXTINF:-1 group-title="Test",ASSP 1
+http://iptv.tvmalaysia.cc:80/321456/321456/9024
+#EXTINF:-1 group-title="Test",ASSP 2
+http://iptv.tvmalaysia.cc:80/624850/624850/9025
+#EXTINF:-1 group-title="Test",ASSP 2
+http://iptv.tvmalaysia.cc:80/321456/321456/9025
+#EXTINF:-1 group-title="Test",ASSP 3 (LIVE EPL ONLY)
+http://iptv.tvmalaysia.cc:80/624850/624850/9020
+#EXTINF:-1 group-title="Test",ASSP 3 (LIVE EPL ONLY)
+http://iptv.tvmalaysia.cc:80/321456/321456/9020
+#EXTINF:-1 group-title="Test",ASSP 4
+http://iptv.tvmalaysia.cc:80/624850/624850/9026
+#EXTINF:-1 group-title="Test",ASSP 4
+http://iptv.tvmalaysia.cc:80/321456/321456/9026
+#EXTINF:-1 group-title="Test",ASTRO AOD 351 HD
+http://iptv.tvmalaysia.cc:80/624850/624850/6702
+#EXTINF:-1 group-title="Test",ASTRO AOD 351 HD
+http://iptv.tvmalaysia.cc:80/321456/321456/6702
+#EXTINF:-1 group-title="Test",ASTRO AOD 353 HD
+http://iptv.tvmalaysia.cc:80/321456/321456/6704
+#EXTINF:-1 group-title="Test",ASTRO AOD 355 HD
+http://iptv.tvmalaysia.cc:80/321456/321456/6706
+#EXTINF:-1 group-title="Test",ASTRO AOD 355 HD
+http://iptv.tvmalaysia.cc:80/624850/624850/6706
+#EXTINF:-1 group-title="Test",ASTRO Aura HD
+http://iptv.tvmalaysia.cc:80/321456/321456/6713
+#EXTINF:-1 group-title="Test",ASTRO Aura HD
+http://iptv.tvmalaysia.cc:80/624850/624850/6713
+#EXTINF:-1 group-title="Test",ASTRO Awani HD
+http://iptv.tvmalaysia.cc:80/624850/624850/6714
+#EXTINF:-1 group-title="Test",ASTRO Awani HD
+http://iptv.tvmalaysia.cc:80/321456/321456/6714
+#EXTINF:-1 group-title="Test",Astro Boo
+http://iptv.tvmalaysia.cc:80/321456/321456/8872
+#EXTINF:-1 group-title="Test",Astro Boo
+http://iptv.tvmalaysia.cc:80/624850/624850/8872
+#EXTINF:-1 group-title="Test",ASTRO Ceria HD
+http://iptv.tvmalaysia.cc:80/624850/624850/6715
+#EXTINF:-1 group-title="Test",ASTRO Ceria HD
+http://iptv.tvmalaysia.cc:80/321456/321456/6715
+#EXTINF:-1 group-title="Test",Astro Citra HD (subtitle)
+http://iptv.tvmalaysia.cc:80/624850/624850/7267
+#EXTINF:-1 group-title="Test",Astro Citra HD (subtitle)
+http://iptv.tvmalaysia.cc:80/321456/321456/7267
+#EXTINF:-1 group-title="Test",ASTRO Colors Tamil
+http://iptv.tvmalaysia.cc:80/321456/321456/6716
+#EXTINF:-1 group-title="Test",ASTRO Colors Tamil
+http://iptv.tvmalaysia.cc:80/624850/624850/6716
+#EXTINF:-1 group-title="Test",ASTRO Cricket
+http://iptv.tvmalaysia.cc:80/321456/321456/6717
+#EXTINF:-1 group-title="Test",ASTRO Cricket
+http://iptv.tvmalaysia.cc:80/624850/624850/6717
+#EXTINF:-1 group-title="Test",ASTRO Naura HD
+http://iptv.tvmalaysia.cc:80/624850/624850/6724
+#EXTINF:-1 group-title="Test",ASTRO Naura HD
+http://iptv.tvmalaysia.cc:80/321456/321456/6724
+#EXTINF:-1 group-title="Test",ASTRO Oasis HD
+http://iptv.tvmalaysia.cc:80/321456/321456/6725
+#EXTINF:-1 group-title="Test",ASTRO Oasis HD
+http://iptv.tvmalaysia.cc:80/624850/624850/6725
+#EXTINF:-1 group-title="Test",ASTRO Prima HD
+http://iptv.tvmalaysia.cc:80/321456/321456/6727
+#EXTINF:-1 group-title="Test",ASTRO Prima HD
+http://iptv.tvmalaysia.cc:80/624850/624850/6727
+#EXTINF:-1 group-title="Test",ASTRO Rania HD
+http://iptv.tvmalaysia.cc:80/321456/321456/6729
+#EXTINF:-1 group-title="Test",ASTRO Rania HD
+http://iptv.tvmalaysia.cc:80/624850/624850/6729
+#EXTINF:-1 group-title="Test",ASTRO Ria HD
+http://iptv.tvmalaysia.cc:80/321456/321456/6730
+#EXTINF:-1 group-title="Test",ASTRO Ria HD
+http://iptv.tvmalaysia.cc:80/624850/624850/6730
+#EXTINF:-1 group-title="Test",ASTRO Star Vijay HD
+http://iptv.tvmalaysia.cc:80/321456/321456/6732
+#EXTINF:-1 group-title="Test",ASTRO Star Vijay HD
+http://iptv.tvmalaysia.cc:80/624850/624850/6732
+#EXTINF:-1 group-title="Test",ASTRO Sun TV HD
+http://iptv.tvmalaysia.cc:80/624850/624850/6733
+#EXTINF:-1 group-title="Test",ASTRO Sun TV HD
+http://iptv.tvmalaysia.cc:80/321456/321456/6733
+#EXTINF:-1 group-title="Test",ASTRO SUPERSPORT 2 HD
+http://iptv.tvmalaysia.cc:80/624850/624850/6710
+#EXTINF:-1 group-title="Test",ASTRO SUPERSPORT 2 HD
+http://iptv.tvmalaysia.cc:80/321456/321456/6710
+#EXTINF:-1 group-title="Test",ASTRO SUPERSPORT 3 HD
+http://iptv.tvmalaysia.cc:80/321456/321456/6711
+#EXTINF:-1 group-title="Test",ASTRO SUPERSPORT 3 HD
+http://iptv.tvmalaysia.cc:80/624850/624850/6711
+#EXTINF:-1 group-title="Test",Astro Supersport 5
+http://iptv.tvmalaysia.cc:80/624850/624850/9029
+#EXTINF:-1 group-title="Test",Astro Supersport 5
+http://iptv.tvmalaysia.cc:80/321456/321456/9029
+#EXTINF:-1 group-title="Test",ASTRO SUPERSPORT HD
+http://iptv.tvmalaysia.cc:80/321456/321456/6708
+#EXTINF:-1 group-title="Test",ASTRO SUPERSPORT HD
+http://iptv.tvmalaysia.cc:80/624850/624850/6708
+#EXTINF:-1 group-title="Test",ASTRO Vaanavil HD
+http://iptv.tvmalaysia.cc:80/624850/624850/6738
+#EXTINF:-1 group-title="Test",ASTRO Vaanavil HD
+http://iptv.tvmalaysia.cc:80/321456/321456/6738
+#EXTINF:-1 group-title="Test",ASTRO Zee Tamil HD
+http://iptv.tvmalaysia.cc:80/321456/321456/6742
+#EXTINF:-1 group-title="Test",ASTRO Zee Tamil HD
+http://iptv.tvmalaysia.cc:80/624850/624850/6742
+#EXTINF:-1 group-title="Test",Awesome TV
+http://iptv.tvmalaysia.cc:80/624850/624850/9016
+#EXTINF:-1 group-title="Test",Awesome TV
+http://iptv.tvmalaysia.cc:80/321456/321456/9016
+#EXTINF:-1 group-title="Test",AXN
+http://iptv.tvmalaysia.cc:80/624850/624850/7223
+#EXTINF:-1 group-title="Test",AXN
+http://iptv.tvmalaysia.cc:80/321456/321456/7223
+#EXTINF:-1 group-title="Test",beIN MAX
+http://iptv.tvmalaysia.cc:80/321456/321456/6748
+#EXTINF:-1 group-title="Test",beIN MAX
+http://iptv.tvmalaysia.cc:80/624850/624850/6748
+#EXTINF:-1 group-title="Test",beIN MAX 2
+http://iptv.tvmalaysia.cc:80/624850/624850/7195
+#EXTINF:-1 group-title="Test",beIN MAX 2
+http://iptv.tvmalaysia.cc:80/321456/321456/7195
+#EXTINF:-1 group-title="Test",Bernama News
+http://iptv.tvmalaysia.cc:80/321456/321456/6750
+#EXTINF:-1 group-title="Test",Bloomberg TV
+http://iptv.tvmalaysia.cc:80/624850/624850/6751
+#EXTINF:-1 group-title="Test",Bloomberg TV
+http://iptv.tvmalaysia.cc:80/321456/321456/6751
+#EXTINF:-1 group-title="Test",Blue Ant Extreme
+http://iptv.tvmalaysia.cc:80/321456/321456/8861
+#EXTINF:-1 group-title="Test",Blue Ant Extreme
+http://iptv.tvmalaysia.cc:80/624850/624850/8861
+#EXTINF:-1 group-title="Test",BollyOne HD
+http://iptv.tvmalaysia.cc:80/321456/321456/6754
+#EXTINF:-1 group-title="Test",Boomerang
+http://iptv.tvmalaysia.cc:80/321456/321456/7199
+#EXTINF:-1 group-title="Test",Boomerang
+http://iptv.tvmalaysia.cc:80/624850/624850/7199
+#EXTINF:-1 group-title="Test",BT Sport 1
+http://iptv.tvmalaysia.cc:80/321456/321456/6610
+#EXTINF:-1 group-title="Test",BT Sport 2
+http://iptv.tvmalaysia.cc:80/321456/321456/6611
+#EXTINF:-1 group-title="Test",BT Sport 2
+http://iptv.tvmalaysia.cc:80/624850/624850/6611
+#EXTINF:-1 group-title="Test",BT Sport 3
+http://iptv.tvmalaysia.cc:80/321456/321456/6612
+#EXTINF:-1 group-title="Test",BT Sport 3
+http://iptv.tvmalaysia.cc:80/624850/624850/6612
+#EXTINF:-1 group-title="Test",Cartoon Network HD
+http://iptv.tvmalaysia.cc:80/321456/321456/6757
+#EXTINF:-1 group-title="Test",Celestial Classic Movies.
+http://iptv.tvmalaysia.cc:80/321456/321456/7222
+#EXTINF:-1 group-title="Test",Celestial Classic Movies.
+http://iptv.tvmalaysia.cc:80/624850/624850/7222
+#EXTINF:-1 group-title="Test",Celestial Movies
+http://iptv.tvmalaysia.cc:80/624850/624850/7235
+#EXTINF:-1 group-title="Test",Celestial Movies
+http://iptv.tvmalaysia.cc:80/321456/321456/7235
+#EXTINF:-1 group-title="Test",Chutti TV
+http://iptv.tvmalaysia.cc:80/624850/624850/6762
+#EXTINF:-1 group-title="Test",Chutti TV
+http://iptv.tvmalaysia.cc:80/321456/321456/6762
+#EXTINF:-1 group-title="Test",Cinema World
+http://iptv.tvmalaysia.cc:80/624850/624850/7219
+#EXTINF:-1 group-title="Test",Cinema World
+http://iptv.tvmalaysia.cc:80/321456/321456/7219
+#EXTINF:-1 group-title="Test",Colors HD
+http://iptv.tvmalaysia.cc:80/624850/624850/6769
+#EXTINF:-1 group-title="Test",Colors HD
+http://iptv.tvmalaysia.cc:80/321456/321456/6769
+#EXTINF:-1 group-title="Test",Crime & Investigation.
+http://iptv.tvmalaysia.cc:80/624850/624850/9009
+#EXTINF:-1 group-title="Test",Crime & Investigation.
+http://iptv.tvmalaysia.cc:80/321456/321456/9009
+#EXTINF:-1 group-title="Test",Didik TV (NTV 7)
+http://iptv.tvmalaysia.cc:80/321456/321456/8922
+#EXTINF:-1 group-title="Test",Didik TV (NTV 7)
+http://iptv.tvmalaysia.cc:80/624850/624850/8922
+#EXTINF:-1 group-title="Test",Discovery Channel HD
+http://iptv.tvmalaysia.cc:80/624850/624850/7078
+#EXTINF:-1 group-title="Test",Discovery Channel HD
+http://iptv.tvmalaysia.cc:80/321456/321456/7078
+#EXTINF:-1 group-title="Test",DMAX HD
+http://iptv.tvmalaysia.cc:80/624850/624850/6778
+#EXTINF:-1 group-title="Test",DSTV: SuperSport Grandstand
+http://iptv.tvmalaysia.cc:80/321456/321456/6572
+#EXTINF:-1 group-title="Test",DSTV: SuperSport Grandstand
+http://iptv.tvmalaysia.cc:80/624850/624850/6572
+#EXTINF:-1 group-title="Test",DSTV: SuperSport Premier League
+http://iptv.tvmalaysia.cc:80/321456/321456/6574
+#EXTINF:-1 group-title="Test",DSTV: SuperSport Premier League
+http://iptv.tvmalaysia.cc:80/624850/624850/6574
+#EXTINF:-1 group-title="Test",DSTV: SuperSport Variety 4
+http://iptv.tvmalaysia.cc:80/321456/321456/6580
+#EXTINF:-1 group-title="Test",EPL LIVE 2
+http://iptv.tvmalaysia.cc:80/624850/624850/9023
+#EXTINF:-1 group-title="Test",EPL LIVE 2
+http://iptv.tvmalaysia.cc:80/321456/321456/9023
+#EXTINF:-1 group-title="Test",FOX
+http://iptv.tvmalaysia.cc:80/624850/624850/7227
+#EXTINF:-1 group-title="Test",Fox Action Movies
+http://iptv.tvmalaysia.cc:80/321456/321456/8839
+#EXTINF:-1 group-title="Test",Fox Action Movies
+http://iptv.tvmalaysia.cc:80/624850/624850/8839
+#EXTINF:-1 group-title="Test",Fox Crime
+http://iptv.tvmalaysia.cc:80/321456/321456/7225
+#EXTINF:-1 group-title="Test",Fox Crime
+http://iptv.tvmalaysia.cc:80/624850/624850/7225
+#EXTINF:-1 group-title="Test",Fox Family Movie
+http://iptv.tvmalaysia.cc:80/321456/321456/9027
+#EXTINF:-1 group-title="Test",Fox Family Movie
+http://iptv.tvmalaysia.cc:80/624850/624850/9027
+#EXTINF:-1 group-title="Test",FOX Sports 3 HD
+http://iptv.tvmalaysia.cc:80/624850/624850/6792
+#EXTINF:-1 group-title="Test",FOX Sports 3 HD
+http://iptv.tvmalaysia.cc:80/321456/321456/6792
+#EXTINF:-1 group-title="Test",foxmoviebeta
+http://iptv.tvmalaysia.cc:80/624850/624850/9007
+#EXTINF:-1 group-title="Test",FS 1
+http://iptv.tvmalaysia.cc:80/624850/624850/9003
+#EXTINF:-1 group-title="Test",FS 1
+http://iptv.tvmalaysia.cc:80/321456/321456/9003
+#EXTINF:-1 group-title="Test",Galaxy Premium
+http://iptv.tvmalaysia.cc:80/321456/321456/8838
+#EXTINF:-1 group-title="Test",Galaxy Premium
+http://iptv.tvmalaysia.cc:80/624850/624850/8838
+#EXTINF:-1 group-title="Test",HBO Family FHD
+http://iptv.tvmalaysia.cc:80/321456/321456/7070
+#EXTINF:-1 group-title="Test",HBO Family FHD
+http://iptv.tvmalaysia.cc:80/624850/624850/7070
+#EXTINF:-1 group-title="Test",HBO FHD
+http://iptv.tvmalaysia.cc:80/321456/321456/7067
+#EXTINF:-1 group-title="Test",HBO FHD
+http://iptv.tvmalaysia.cc:80/624850/624850/7067
+#EXTINF:-1 group-title="Test",HBO HD
+http://iptv.tvmalaysia.cc:80/321456/321456/6797
+#EXTINF:-1 group-title="Test",HBO Hits FHD
+http://iptv.tvmalaysia.cc:80/321456/321456/7068
+#EXTINF:-1 group-title="Test",HBO Hits FHD
+http://iptv.tvmalaysia.cc:80/624850/624850/7068
+#EXTINF:-1 group-title="Test",HBO Signature FHD
+http://iptv.tvmalaysia.cc:80/624850/624850/7069
+#EXTINF:-1 group-title="Test",HBO Signature FHD
+http://iptv.tvmalaysia.cc:80/321456/321456/7069
+#EXTINF:-1 group-title="Test",HGTV
+http://iptv.tvmalaysia.cc:80/321456/321456/7076
+#EXTINF:-1 group-title="Test",HGTV
+http://iptv.tvmalaysia.cc:80/624850/624850/7076
+#EXTINF:-1 group-title="Test",History FHD
+http://iptv.tvmalaysia.cc:80/321456/321456/7079
+#EXTINF:-1 group-title="Test",History FHD
+http://iptv.tvmalaysia.cc:80/624850/624850/7079
+#EXTINF:-1 group-title="Test",Hits Movies
+http://iptv.tvmalaysia.cc:80/321456/321456/7066
+#EXTINF:-1 group-title="Test",Hits Movies
+http://iptv.tvmalaysia.cc:80/624850/624850/7066
+#EXTINF:-1 group-title="Test",Hot FM
+http://iptv.tvmalaysia.cc:80/321456/321456/7170
+#EXTINF:-1 group-title="Test",Hot FM
+http://iptv.tvmalaysia.cc:80/624850/624850/7170
+#EXTINF:-1 group-title="Test",Jaya Max
+http://iptv.tvmalaysia.cc:80/321456/321456/6802
+#EXTINF:-1 group-title="Test",Jaya Max
+http://iptv.tvmalaysia.cc:80/624850/624850/6802
+#EXTINF:-1 group-title="Test",KBS World HD
+http://iptv.tvmalaysia.cc:80/624850/624850/6803
+#EXTINF:-1 group-title="Test",KBS World HD
+http://iptv.tvmalaysia.cc:80/321456/321456/6803
+#EXTINF:-1 group-title="Test",KiX
+http://iptv.tvmalaysia.cc:80/321456/321456/7229
+#EXTINF:-1 group-title="Test",KiX
+http://iptv.tvmalaysia.cc:80/624850/624850/7229
+#EXTINF:-1 group-title="Test",LFC TV
+http://iptv.tvmalaysia.cc:80/321456/321456/7237
+#EXTINF:-1 group-title="Test",Makkal TV
+http://iptv.tvmalaysia.cc:80/321456/321456/6806
+#EXTINF:-1 group-title="Test",Makkal TV
+http://iptv.tvmalaysia.cc:80/624850/624850/6806
+#EXTINF:-1 group-title="Test",MNX
+http://iptv.tvmalaysia.cc:80/624850/624850/8998
+#EXTINF:-1 group-title="Test",MNX
+http://iptv.tvmalaysia.cc:80/321456/321456/8998
+#EXTINF:-1 group-title="Test",Movies Now
+http://iptv.tvmalaysia.cc:80/624850/624850/8999
+#EXTINF:-1 group-title="Test",MUTV
+http://iptv.tvmalaysia.cc:80/624850/624850/7236
+#EXTINF:-1 group-title="Test",MUTV
+http://iptv.tvmalaysia.cc:80/321456/321456/7236
+#EXTINF:-1 group-title="Test",Nat Geo People HD
+http://iptv.tvmalaysia.cc:80/624850/624850/7080
+#EXTINF:-1 group-title="Test",Nat Geo People HD
+http://iptv.tvmalaysia.cc:80/321456/321456/7080
+#EXTINF:-1 group-title="Test",Nat Geo Wild HD
+http://iptv.tvmalaysia.cc:80/624850/624850/7081
+#EXTINF:-1 group-title="Test",Nat Geo Wild HD
+http://iptv.tvmalaysia.cc:80/321456/321456/7081
+#EXTINF:-1 group-title="Test",National Geographic HD
+http://iptv.tvmalaysia.cc:80/624850/624850/7075
+#EXTINF:-1 group-title="Test",National Geographic HD
+http://iptv.tvmalaysia.cc:80/321456/321456/7075
+#EXTINF:-1 group-title="Test",Nick Jr
+http://iptv.tvmalaysia.cc:80/321456/321456/6813
+#EXTINF:-1 group-title="Test",Nick Jr
+http://iptv.tvmalaysia.cc:80/624850/624850/6813
+#EXTINF:-1 group-title="Test",Nickelodeon
+http://iptv.tvmalaysia.cc:80/321456/321456/7201
+#EXTINF:-1 group-title="Test",Nickelodeon
+http://iptv.tvmalaysia.cc:80/624850/624850/7201
+#EXTINF:-1 group-title="Test",One HD
+http://iptv.tvmalaysia.cc:80/321456/321456/6817
+#EXTINF:-1 group-title="Test",One HD
+http://iptv.tvmalaysia.cc:80/624850/624850/6817
+#EXTINF:-1 group-title="Test",Red By HBO HD
+http://iptv.tvmalaysia.cc:80/321456/321456/7071
+#EXTINF:-1 group-title="Test",Red By HBO HD
+http://iptv.tvmalaysia.cc:80/624850/624850/7071
+#EXTINF:-1 group-title="Test",Sinar FM
+http://iptv.tvmalaysia.cc:80/624850/624850/7172
+#EXTINF:-1 group-title="Test",Sinar FM
+http://iptv.tvmalaysia.cc:80/321456/321456/7172
+#EXTINF:-1 group-title="Test",Sony One
+http://iptv.tvmalaysia.cc:80/624850/624850/8863
+#EXTINF:-1 group-title="Test",Sony One
+http://iptv.tvmalaysia.cc:80/321456/321456/8863
+#EXTINF:-1 group-title="Test",Star Movies HD
+http://iptv.tvmalaysia.cc:80/624850/624850/8997
+#EXTINF:-1 group-title="Test",Star Movies HD
+http://iptv.tvmalaysia.cc:80/321456/321456/8997
+#EXTINF:-1 group-title="Test",STARZ KIDS&FAMILY
+http://iptv.tvmalaysia.cc:80/321456/321456/8991
+#EXTINF:-1 group-title="Test",STARZ KIDS&FAMILY
+http://iptv.tvmalaysia.cc:80/624850/624850/8991
+#EXTINF:-1 group-title="Test",Sun Music
+http://iptv.tvmalaysia.cc:80/624850/624850/6831
+#EXTINF:-1 group-title="Test",Sun Music
+http://iptv.tvmalaysia.cc:80/321456/321456/6831
+#EXTINF:-1 group-title="Test",THR GEGAR
+http://iptv.tvmalaysia.cc:80/321456/321456/7174
+#EXTINF:-1 group-title="Test",Thrill
+http://iptv.tvmalaysia.cc:80/624850/624850/7220
+#EXTINF:-1 group-title="Test",Thrill
+http://iptv.tvmalaysia.cc:80/321456/321456/7220
+#EXTINF:-1 group-title="Test",Tom & Jerry HD
+http://iptv.tvmalaysia.cc:80/624850/624850/8986
+#EXTINF:-1 group-title="Test",Tom & Jerry HD
+http://iptv.tvmalaysia.cc:80/321456/321456/8986
+#EXTINF:-1 group-title="Test",TSN 1
+http://iptv.tvmalaysia.cc:80/624850/624850/8923
+#EXTINF:-1 group-title="Test",TSN 1
+http://iptv.tvmalaysia.cc:80/321456/321456/8923
+#EXTINF:-1 group-title="Test",TSN 2
+http://iptv.tvmalaysia.cc:80/624850/624850/8924
+#EXTINF:-1 group-title="Test",TSN 2
+http://iptv.tvmalaysia.cc:80/321456/321456/8924
+#EXTINF:-1 group-title="Test",TSN 3
+http://iptv.tvmalaysia.cc:80/321456/321456/8925
+#EXTINF:-1 group-title="Test",TSN 3
+http://iptv.tvmalaysia.cc:80/624850/624850/8925
+#EXTINF:-1 group-title="Test",TV 1
+http://iptv.tvmalaysia.cc:80/321456/321456/7177
+#EXTINF:-1 group-title="Test",TV 2
+http://iptv.tvmalaysia.cc:80/321456/321456/7178
+#EXTINF:-1 group-title="Test",TV 2
+http://iptv.tvmalaysia.cc:80/624850/624850/7178
+#EXTINF:-1 group-title="Test",TV 3
+http://iptv.tvmalaysia.cc:80/321456/321456/7266
+#EXTINF:-1 group-title="Test",TV 3
+http://iptv.tvmalaysia.cc:80/624850/624850/7266
+#EXTINF:-1 group-title="Test",TV 3 HD
+http://iptv.tvmalaysia.cc:80/321456/321456/8750
+#EXTINF:-1 group-title="Test",TV 9
+http://iptv.tvmalaysia.cc:80/321456/321456/7185
+#EXTINF:-1 group-title="Test",TV 9
+http://iptv.tvmalaysia.cc:80/624850/624850/7185
+#EXTINF:-1 group-title="Test",TV-AlHijrah
+http://iptv.tvmalaysia.cc:80/624850/624850/6834
+#EXTINF:-1 group-title="Test",TVBS Asia HD
+http://iptv.tvmalaysia.cc:80/624850/624850/6843
+#EXTINF:-1 group-title="Test",TvN
+http://iptv.tvmalaysia.cc:80/624850/624850/8865
+#EXTINF:-1 group-title="Test",TvN
+http://iptv.tvmalaysia.cc:80/321456/321456/8865
+#EXTINF:-1 group-title="Test",tvN Movies
+http://iptv.tvmalaysia.cc:80/321456/321456/6845
+#EXTINF:-1 group-title="Test",tVN movies HD
+http://iptv.tvmalaysia.cc:80/624850/624850/7074
+#EXTINF:-1 group-title="Test",tVN movies HD
+http://iptv.tvmalaysia.cc:80/321456/321456/7074
+#EXTINF:-1 group-title="Test",UK: Sky Sports Cricket
+http://iptv.tvmalaysia.cc:80/321456/321456/6619
+#EXTINF:-1 group-title="Test",UK: Sky Sports F1
+http://iptv.tvmalaysia.cc:80/321456/321456/6617
+#EXTINF:-1 group-title="Test",UK: Sky Sports F1
+http://iptv.tvmalaysia.cc:80/624850/624850/6617
+#EXTINF:-1 group-title="Test",UK: Sky Sports Football
+http://iptv.tvmalaysia.cc:80/624850/624850/6620
+#EXTINF:-1 group-title="Test",UK: Sky Sports Football
+http://iptv.tvmalaysia.cc:80/321456/321456/6620
+#EXTINF:-1 group-title="Test",UK: Sky Sports Golf
+http://iptv.tvmalaysia.cc:80/321456/321456/6618
+#EXTINF:-1 group-title="Test",UK: Sky Sports Golf
+http://iptv.tvmalaysia.cc:80/624850/624850/6618
+#EXTINF:-1 group-title="Test",UK: Sky Sports News
+http://iptv.tvmalaysia.cc:80/624850/624850/6614
+#EXTINF:-1 group-title="Test",UK: Sky Sports News
+http://iptv.tvmalaysia.cc:80/321456/321456/6614
+#EXTINF:-1 group-title="Test",Universal Kids FHD
+http://iptv.tvmalaysia.cc:80/624850/624850/7205
+#EXTINF:-1 group-title="Test",Universal Kids FHD
+http://iptv.tvmalaysia.cc:80/321456/321456/7205
+#EXTINF:-1 group-title="Test",WWE Network
+http://iptv.tvmalaysia.cc:80/624850/624850/6849
 #EXTINF:-1 group-title="空中课堂",1年级
 http://liveplay-kk.rtxapp.com/live/program/live/kkyinj/1300000/mnf.m3u8
 #EXTINF:-1 group-title="空中课堂",2年级

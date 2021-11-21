@@ -66,7 +66,7 @@ http://178.128.107.149:5080/WebRTCApp/streams/oasis.m3u8
 http://178.128.107.149:5080/WebRTCApp/streams/naura.m3u8
 #EXTINF:-1 group-title="MY1",IKIM
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
-#EXTM3U url-tvg="https://raw.githubusercontent.com/zhafri/EPG/main/guide_astro.xml" refresh="1440"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml" refresh="1440"
 #EXTINF:-1 group-title="Test",Al-Jazzera HD
 http://iptv.tvmalaysia.cc:80/321456/321456/6694
 #EXTINF:-1 group-title="Test",Al-Jazzera HD

@@ -934,6 +934,7 @@ CCTV13新闻,http://112.74.200.9:88/tv000000/m3u8.php?/migu/672922360
 上升,https://sod.bunediy.com/20211012/CqQ2vaEy/index.m3u8
 出招吧看不剑,https://sod.bunediy.com/20210803/Quo5onWY/index.m3u8
 恐怖片,#genre#
+哭声,https://v2.dious.cc/20200901/fgjpQtzW/1000kb/hls/index.m3u8
 危险警告,https://v12.tkzyapi.com/20211112/iatZVY45/1000kb/hls/index.m3u8
 招魂3,https://v7.dious.cc/20210605/8gcPE9zH/1000kb/hls/index.m3u8
 验收测试,https://new.iskcd.com/20211107/sHJaFH1u/1400kb/hls/index.m3u8

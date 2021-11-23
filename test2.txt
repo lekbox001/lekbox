@@ -1011,3 +1011,9 @@ PT-218的叛军,https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-4532
 4,https://v.kdcdn.net/20211008/c9N31qQx/1000kb/hls/index.m3u8
 5,https://v.kdcdn.net/20211007/Sl9e7vfH/1000kb/hls/index.m3u8
 6,https://v.v1kd.com/20211014/Oz5hkjSK/1000kb/hls/index.m3u8
+记录一级响应,#genre#
+https://vod.bunediy.com/20210412/SULujZF6/index.m3u8
+https://vod.bunediy.com/20210412/pVVuI3iT/index.m3u8
+https://vod.bunediy.com/20210417/aK0d2xST/index.m3u8
+https://vod.bunediy.com/20210417/exzEvygf/index.m3u8
+https://vod.bunediy.com/20210417/kHZSjbAv/index.m3u8

@@ -34,66 +34,6 @@ https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 #EXTINF:-1 tvg-id="111" group-title="MY" tvg-logo="https://mediahomes.github.io/logos/sukan.png",Sukan RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
-#EXTINF:-1 group-title="MY1",TV3
-https://tvmalaysiaonline.xyz/hls/channel1.m3u8
-#EXTINF:-1 group-title="MY1",8TV
-https://tvmalaysiaonline.xyz/hls/channel3.m3u8
-#EXTINF:-1 group-title="MY1",TV9
-https://tvmalaysiaonline.xyz/hls/channel4.m3u8
-#EXTINF:-1 group-title="MY1",Drama Sangat
-https://tvmalaysiaonline.xyz/hls/channel5.m3u8
-#EXTINF:-1 group-title="MY1",Awani
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
-#EXTINF:-1 group-title="MY1",Warna
-https://tvmalaysiaonline.xyz/hls/channel6.m3u8
-#EXTINF:-1 group-title="MY1",Citra
-https://tvmalaysiaonline.xyz/hls/channel7.m3u8
-#EXTINF:-1 group-title="MY1",Prima
-https://tvmalaysiaonline.xyz/hls/channel8.m3u8
-#EXTINF:-1 group-title="MY1",Ria
-https://tvmalaysiaonline.xyz/hls/channel9.m3u8
-#EXTINF:-1 group-title="MY1",Oasis
-https://tvmalaysiaonline.xyz/hls/channel110.m3u8
-#EXTINF:-1 group-title="MY1",Ceria
-https://tvmalaysiaonline.xyz/hls/channel11.m3u8
-#EXTINF:-1 group-title="MY1",BOO
-https://tvmalaysiaonline.xyz/hls/channel12.m3u8
-#EXTINF:-1 group-title="MY1",Aura
-https://tvmalaysiaonline.xyz/hls/channel13.m3u8
-#EXTINF:-1 group-title="MY1",Rania
-https://tvmalaysiaonline.xyz/hls/channel14.m3u8
-#EXTINF:-1 group-title="MY1",Naura
-https://tvmalaysiaonline.xyz/hls/channel15.m3u8
-#EXTINF:-1 group-title="MY1",HBO
-https://tvmalaysiaonline.xyz/hls/channel16.m3u8
-#EXTINF:-1 group-title="MY1",Cinemax
-https://tvmalaysiaonline.xyz/hls/channel17.m3u8
-#EXTINF:-1 group-title="MY1",Arena
-https://tvmalaysiaonline.xyz/hls/channel18.m3u8
-#EXTINF:-1 group-title="MY1",Arena 2
-https://tvmalaysiaonline.xyz/hls/channel19.m3u8
-#EXTINF:-1 group-title="MY1",Supersport 1
-https://tvmalaysiaonline.xyz/hls/channel20.m3u8
-#EXTINF:-1 group-title="MY1",Supersport 2
-https://tvmalaysiaonline.xyz/hls/channel21.m3u8
-#EXTINF:-1 group-title="MY1",Supersport 3
-https://tvmalaysiaonline.xyz/hls/channel22.m3u8
-#EXTINF:-1 group-title="MY1",Supersport 4
-https://tvmalaysiaonline.xyz/hls/channel23.m3u8
-#EXTINF:-1 group-title="MY1",Supersport 5
-https://tvmalaysiaonline.xyz/hls/channel24.m3u8
-#EXTINF:-1 group-title="MY1",SPOTV
-https://tvmalaysiaonline.xyz/hls/channel25.m3u8
-#EXTINF:-1 group-title="MY1",beIN Sports
-https://tvmalaysiaonline.xyz/hls/channel26.m3u8
-#EXTINF:-1 group-title="MY1",beIN MAX
-https://tvmalaysiaonline.xyz/hls/channel27.m3u8
-#EXTINF:-1 group-title="MY1",tvN
-https://tvmalaysiaonline.xyz/hls/channel29.m3u8
-#EXTINF:-1 group-title="MY1",tvN Movies
-https://tvmalaysiaonline.xyz/hls/channel30.m3u8
-#EXTINF:-1 group-title="MY1",Alhijrah
-https://tvmalaysiaonline.xyz/hls/channel31.m3u8
 #EXTINF:-1 group-title="空中课堂",1年级
 http://liveplay-kk.rtxapp.com/live/program/live/kkyinj/1300000/mnf.m3u8
 #EXTINF:-1 group-title="空中课堂",2年级

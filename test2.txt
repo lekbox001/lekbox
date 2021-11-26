@@ -1,35 +1,4 @@
-MY1,#genre#
-TV3,https://tvmalaysiaonline.xyz/hls/channel1.m3u8
-8TV,https://tvmalaysiaonline.xyz/hls/channel3.m3u8
-TV9,https://tvmalaysiaonline.xyz/hls/channel4.m3u8
-Drama Sangat,https://tvmalaysiaonline.xyz/hls/channel5.m3u8
-Awani,https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
-Warna,https://tvmalaysiaonline.xyz/hls/channel6.m3u8
-Citra,https://tvmalaysiaonline.xyz/hls/channel7.m3u8
-Prima,https://tvmalaysiaonline.xyz/hls/channel8.m3u8
-Ria,https://tvmalaysiaonline.xyz/hls/channel9.m3u8
-Oasis,https://tvmalaysiaonline.xyz/hls/channel110.m3u8
-Ceria,https://tvmalaysiaonline.xyz/hls/channel11.m3u8
-BOO,https://tvmalaysiaonline.xyz/hls/channel12.m3u8
-Aura,https://tvmalaysiaonline.xyz/hls/channel13.m3u8
-Rania,https://tvmalaysiaonline.xyz/hls/channel14.m3u8
-Naura,https://tvmalaysiaonline.xyz/hls/channel15.m3u8
-HBO,https://tvmalaysiaonline.xyz/hls/channel16.m3u8
-Cinemax,https://tvmalaysiaonline.xyz/hls/channel17.m3u8
-Arena,https://tvmalaysiaonline.xyz/hls/channel18.m3u8
-Arena 2,https://tvmalaysiaonline.xyz/hls/channel19.m3u8
-Supersport 1,https://tvmalaysiaonline.xyz/hls/channel20.m3u8
-Supersport 2,https://tvmalaysiaonline.xyz/hls/channel21.m3u8
-Supersport 3,https://tvmalaysiaonline.xyz/hls/channel22.m3u8
-Supersport 4,https://tvmalaysiaonline.xyz/hls/channel23.m3u8
-Supersport 5,https://tvmalaysiaonline.xyz/hls/channel24.m3u8
-SPOTV,https://tvmalaysiaonline.xyz/hls/channel25.m3u8
-beIN Sports,https://tvmalaysiaonline.xyz/hls/channel26.m3u8
-beIN MAX,https://tvmalaysiaonline.xyz/hls/channel27.m3u8
-tvN,https://tvmalaysiaonline.xyz/hls/channel29.m3u8
-tvN Movies,https://tvmalaysiaonline.xyz/hls/channel30.m3u8
-Alhijrah,https://tvmalaysiaonline.xyz/hls/channel31.m3u8
-MY2,#genre#
+MY,#genre#
 ASSP,mitv://51.81.90.178:9906/e12cfed6c3d94f27bd4f480d42b0c7b5
 ASSP2,mitv://51.81.90.178:9906/5aa28b0759774904a25d7fc12ea233a9
 ASSP3,mitv://51.81.90.178:9906/68067267b2734dd39032d08bf83db8f0

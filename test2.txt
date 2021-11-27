@@ -1,4 +1,6 @@
 MY,#genre#
+!!,https://github.com/lekbox001/lekbox/raw/main/stop0.ts
+!!!,https://github.com/lekbox001/lekbox/raw/main/stop1.ts
 ASSP,mitv://51.81.90.178:9906/e12cfed6c3d94f27bd4f480d42b0c7b5
 ASSP2,mitv://51.81.90.178:9906/5aa28b0759774904a25d7fc12ea233a9
 ASSP3,mitv://51.81.90.178:9906/68067267b2734dd39032d08bf83db8f0
@@ -252,6 +254,8 @@ momo親子台,mitv://51.81.90.178:9906/d3ae733f3d61464e8f240d812c0b1516
 CN卡通频道,mitv://51.81.90.178:9906/51e593fae95f48968c181b6a47179526
 ANIMAX,mitv://51.81.90.178:9906/10d8ae908a354513b09e38e7116b7b33
 空中课堂,#genre#
+!!,https://github.com/lekbox001/lekbox/raw/main/stop0.ts
+!!!,https://github.com/lekbox001/lekbox/raw/main/stop1.ts
 1年级,http://liveplay-kk.rtxapp.com/live/program/live/kkyinj/1300000/mnf.m3u8
 2年级,http://liveplay-kk.rtxapp.com/live/program/live/kkernj/1300000/mnf.m3u8
 3年级,http://liveplay-kk.rtxapp.com/live/program/live/kksannj/1300000/mnf.m3u8
@@ -272,6 +276,8 @@ CETV-4,http://223.110.241.136:6610/gitv/live1/G_CETV-4/
 中国教育2,http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226537/1.m3u8
 中国教育4,http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226557/1.m3u8
 HK,#genre#
+!!,https://github.com/lekbox001/lekbox/raw/main/stop0.ts
+!!!,https://github.com/lekbox001/lekbox/raw/main/stop1.ts
 ViuTV,https://p2.weizan.cn/1646497941/584748994834606962/live.m3u8
 港台電視31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8#http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_5400_av-p.m3u8#https://cdn.hkdtmb.com/hls/31/index.m3u8
 港台電視32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8#https://cdn.hkdtmb.com/hls/32/index.m3u8#http://rthklive2-lh.akamaihd.net:80/i/rthk32_1@168450/index_1080_av-p.m3u8
@@ -299,6 +305,8 @@ Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
 天映经典HD,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 天映电影HD,http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
 TW,#genre#
+!!,https://github.com/lekbox001/lekbox/raw/main/stop0.ts
+!!!,https://github.com/lekbox001/lekbox/raw/main/stop1.ts
 民视,http://50.7.61.147:30080/Entry/ftv
 台视,http://50.7.61.148:30080/Entry/ttv
 台視,rtmp://59.124.75.138/sat/tv071
@@ -345,6 +353,8 @@ TV5monde,http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8
 三立都会,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
 好消息,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 TW2,#genre#
+!!,https://github.com/lekbox001/lekbox/raw/main/stop0.ts
+!!!,https://github.com/lekbox001/lekbox/raw/main/stop1.ts
 美食星球,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d4a
 TVB星河(粤语),rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d7a
 靖天映画,rtmp://45.92.126.226/channel/60c34395961593122ebaf994
@@ -365,6 +375,8 @@ TVBS精采台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cd8
 华视教育体育文化,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c4e
 凤凰资讯,rtmp://45.88.148.178/channel/60c2f46e961593122ebaf8cb
 泰国,#genre#
+!!,https://github.com/lekbox001/lekbox/raw/main/stop0.ts
+!!!,https://github.com/lekbox001/lekbox/raw/main/stop1.ts
 TV5 HD,http://916309128f3e.sn.mynetname.net:1935/aslive/5hd/ompronlist.m3u8
 NBT HD,http://916309128f3e.sn.mynetname.net:1935/aslive/nbthd/ompronlist.m3u8
 Thai PBS HD,https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
@@ -444,6 +456,8 @@ Thairath TV HD,http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 ThaiPBS,https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 NBT,http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8
 少儿,#genre#
+!!,https://github.com/lekbox001/lekbox/raw/main/stop0.ts
+!!!,https://github.com/lekbox001/lekbox/raw/main/stop1.ts
 靖洋卡通台,rtmp://45.88.148.178/channel/60c344bf961593122ebaf9a0
 CCTV14少儿,http://112.74.200.9:88/tv000000/m3u8.php?/migu/624878440
 英文儿歌,http://118.26.120.23:55336/tslive/c55_lb_128_600_t10/c55_lb_128_600_t10.m3u8?key=0b292c335e5837e94dd521635e537be73
@@ -467,6 +481,8 @@ CCTV14少儿,http://112.74.200.9:88/tv000000/m3u8.php?/migu/624878440
 亲子小游戏,http://118.26.120.23:55336/tslive/c56_lb_178_600_t10/c56_lb_178_600_t10.m3u8?key=0b292c335e5837e94ffc1113a2140b54
 亲子启蒙,http://118.26.120.23:55336/tslive/c57_lb_213_600_t10/c57_lb_213_600_t10.m3u8?key=0f2a06793124310bc21adebc9f02a9735
 SPORT,#genre#
+!!,https://github.com/lekbox001/lekbox/raw/main/stop0.ts
+!!!,https://github.com/lekbox001/lekbox/raw/main/stop1.ts
 ELTA體育2,rtmp://59.124.75.138/sat/md011
 博斯魅力/博斯運動 II,rtmp://59.124.75.138/sat/md031
 CCTV5体育,http://112.74.200.9:88/tv000000/m3u8.php?/migu/641886683
@@ -550,6 +566,8 @@ BS体育7,http://39.134.39.39/PLTV/88888888/224/3221226149/index.m3u8
 BS体育8,http://39.134.39.39/PLTV/88888888/224/3221226138/index.m3u8
 BS体育9,http://39.134.39.39/PLTV/88888888/224/3221226153/index.m3u8
 电影系列,#genre#
+!!,https://github.com/lekbox001/lekbox/raw/main/stop0.ts
+!!!,https://github.com/lekbox001/lekbox/raw/main/stop1.ts
 粤语1,http://cloudplay.tk/api/douyu.php?id=6566671
 粤语2,http://cloudplay.tk/api/douyu.php?id=2466104 
 粤语3,http://cloudplay.tk/api/douyu.php?id=1226741
@@ -646,6 +664,8 @@ DC-漫威电影,http://111.6.232.36/txpcdn.liveplay.egame.qq.com/3954_616645877.
 医院故事,http://118.26.120.37:55336/tslive/c51_lb_122_600_t10/c51_lb_122_600_t10.m3u8?key=0f2a06793124310bc42165f6f50f54ebb
 动作电影,http://118.26.120.23:55336/tslive/c52_lb_61_720P_t10/c52_lb_61_720P_t10.m3u8?key=0f2a06793124310bc542dae4db6856743
 高清,#genre#
+!!,https://github.com/lekbox001/lekbox/raw/main/stop0.ts
+!!!,https://github.com/lekbox001/lekbox/raw/main/stop1.ts
 HBOMalaysia,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 HBO台湾,http://50.7.61.148:30080/Entry/hbo
@@ -818,6 +838,8 @@ CCTV4中文国际,http://112.74.200.9:88/tv000000/m3u8.php?/migu/672924435
 CCTV13新闻,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221225560/index.m3u8
 CCTV13新闻,http://112.74.200.9:88/tv000000/m3u8.php?/migu/672922360
 动作片,#genre#
+!!,https://github.com/lekbox001/lekbox/raw/main/stop0.ts
+!!!,https://github.com/lekbox001/lekbox/raw/main/stop1.ts
 防线—爆弹危机,https://sod.bunediy.com/20211124/D36jnQOM/index.m3u8
 外八门之局中局,https://c1.monidai.com/20211121/yM4w3zo4/index.m3u8
 红色通缉令,https://sod.bunediy.com/20211112/nuwcw4yr/index.m3u8
@@ -844,6 +866,8 @@ CCTV13新闻,http://112.74.200.9:88/tv000000/m3u8.php?/migu/672922360
 一级指控,https://sod.bunediy.com/20211008/p81PbYrM/index.m3u8
 怒火·重案,https://sod.bunediy.com/20210930/sHvNIpeN/index.m3u8
 剧情片,#genre#
+!!,https://github.com/lekbox001/lekbox/raw/main/stop0.ts
+!!!,https://github.com/lekbox001/lekbox/raw/main/stop1.ts
 冒名之肤,https://v12.tkzyapi.com/20211110/8NtSBLP5/1000kb/hls/index.m3u8
 血战微山岛,https://v10.dious.cc/20211102/ly1Q3ZJO/index.m3u8
 海盗王,https://v10.dious.cc/20211026/bKPHAss4/index.m3u8
@@ -864,6 +888,8 @@ CCTV13新闻,http://112.74.200.9:88/tv000000/m3u8.php?/migu/672922360
 人质,https://sod.bunediy.com/20210930/oGlpeeDF/index.m3u8
 老大不小之都会好的,https://sod.bunediy.com/20210930/F1jNApGn/index.m3u8
 喜剧片,#genre#
+!!,https://github.com/lekbox001/lekbox/raw/main/stop0.ts
+!!!,https://github.com/lekbox001/lekbox/raw/main/stop1.ts
 东北恋哥,https://sod.bunediy.com/20211029/YBMsefTr/index.m3u8
 荤俗笑料大放送,https://sod.bunediy.com/20211028/0vieQ6hH/index.m3u8
 大叔与少年,https://sod.bunediy.com/20211023/Cgq5ysU9/index.m3u8
@@ -872,6 +898,8 @@ CCTV13新闻,http://112.74.200.9:88/tv000000/m3u8.php?/migu/672922360
 王牌剑客,https://sod.bunediy.com/20211016/POnik9Jd/index.m3u8
 新逃学威龙,https://sod.bunediy.com/20211015/XyRQYb0m/index.m3u8
 科幻片,#genre#
+!!,https://github.com/lekbox001/lekbox/raw/main/stop0.ts
+!!!,https://github.com/lekbox001/lekbox/raw/main/stop1.ts
 戴立克革命,https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/a0ba49ba-87b8-41b4-8ad3-50b8fc26ffd8/23941/46b6841c-b0da-4c50-8263-aa2dc2ad5e59/SD/playlist.m3u8
 偷渡者,https://v7.dious.cc/20210502/vGhB29SH/1000kb/hls/index.m3u8?skipl=1
 尚气与十环传奇,https://sod.bunediy.com/20211110/MpyfWo6r/index.m3u8
@@ -889,6 +917,8 @@ CCTV13新闻,http://112.74.200.9:88/tv000000/m3u8.php?/migu/672922360
 追忆迷局,https://sod.bunediy.com/20210822/ibusOcUH/index.m3u8
 丛林奇航,https://vod.bunediy.com/20210731/htf0kjSn/index.m3u8
 奇幻片,#genre#
+!!,https://github.com/lekbox001/lekbox/raw/main/stop0.ts
+!!!,https://github.com/lekbox001/lekbox/raw/main/stop1.ts
 圣诞男孩,https://sod.bunediy.com/20211124/OIwYoLRG/index.m3u8
 白蛇：情劫,https://vod.bunediy.com/20210313/ffyBXEqk/index.m3u8
 皮皮鲁与鲁西西之罐头小人,https://sod.bunediy.com/20211118/0Ll8VsMO/index.m3u8
@@ -898,6 +928,8 @@ CCTV13新闻,http://112.74.200.9:88/tv000000/m3u8.php?/migu/672922360
 宋慈之绝命诗案,https://v10.dious.cc/20211109/zkvzrSvo/1000kb/hls/index.m3u8
 武林怪兽,https://iqiyi-qq-comic.jjyl12349.com/20210716/in6QPa5Z/index.m3u8
 恐怖片,#genre#
+!!,https://github.com/lekbox001/lekbox/raw/main/stop0.ts
+!!!,https://github.com/lekbox001/lekbox/raw/main/stop1.ts
 恶烂狂人,https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/09e075a8-2f53-49d9-bb94-aae2cd0e1c73/13719/97ecd284-1a6b-47b1-a15d-187a4eff121c/SD/playlist.m3u8
 毛骨悚然撞鬼经,https://sod.bunediy.com/20211102/p2aXYe9P/index.m3u8
 地表惊旅,https://vod.bunediy.com/20210513/cMnkBcat/index.m3u8
@@ -923,11 +955,15 @@ CCTV13新闻,http://112.74.200.9:88/tv000000/m3u8.php?/migu/672922360
 深宅,https://sod.bunediy.com/20211027/jrR7RUiE/index.m3u8
 月光光心慌慌,https://v4.cdtlas.com/20211017/p16I1EaG/1200kb/hls/index.m3u8
 灾难片,#genre#
+!!,https://github.com/lekbox001/lekbox/raw/main/stop0.ts
+!!!,https://github.com/lekbox001/lekbox/raw/main/stop1.ts
 切尔诺贝利,https://v7.dious.cc/20210721/oytPNVN4/1000kb/hls/index.m3u8
 峰爆,https://sod.bunediy.com/20211029/wTraOWOl/index.m3u8
 中国救援·绝境36天,https://sod.bunediy.com/20211016/F5qPyZVj/index.m3u8
 地陷,https://sod.bunediy.com/20210918/ww5muni5/index.m3u8
 战争片,#genre#
+!!,https://github.com/lekbox001/lekbox/raw/main/stop0.ts
+!!!,https://github.com/lekbox001/lekbox/raw/main/stop1.ts
 宛城之战,https://cdn.zoubuting.com/20210704/wyprG5LF/index.m3u8
 冲出战俘营,https://sod.bunediy.com/20211112/PsLZ7KP3/index.m3u8
 零和一,https://sod.bunediy.com/20211120/wEb7kvP0/index.m3u8

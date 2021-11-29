@@ -377,6 +377,26 @@ TVBS精采台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cd8
 泰国,#genre#
 !!,https://github.com/lekbox001/lekbox/raw/main/stop0.ts
 !!!,https://github.com/lekbox001/lekbox/raw/main/stop1.ts
+Topnews HD,https://live.topnews.co.th/hls/topnews.m3u8
+CH 5,https://tc-live1.sanook.com/live/22302_ch5.m3u8
+Thai PBS,https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+WORKPOINT​,http://916309128f3e.sn.mynetname.net:1935/aslive/workpoint/chunklist_w1265339050.m3u8
+GMM25,http://916309128f3e.sn.mynetname.net:1935/aslive/gmm25/chunklist_w2135572054.m3u8
+MONO 29,https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w997174519.m3u8
+MONO​ 29,https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8
+MCOT ช่อง9,http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist_w534518664_b3000000.m3u8
+Thairath,https://live.thairath.co.th/trtv2/playlist.m3u8
+AMARIN​,http://916309128f3e.sn.mynetname.net:1935/aslive/amarintv/chunklist_w339683889.m3u8
+CH​ 7,http://916309128f3e.sn.mynetname.net:1935/aslive/7hd/chunklist_w736802247.m3u8
+PPTV,http://916309128f3e.sn.mynetname.net:1935/aslive/pptvhd/chunklist_w1517173526.m3u8
+Cable Movie 1,http://916309128f3e.sn.mynetname.net:1935/aslive/asichannel/chunklist_w1127755900.m3u8
+Cable Movie 2,http://916309128f3e.sn.mynetname.net:1935/aslive/asichannel2/chunklist_w303936619.m3u8
+Movie 8,http://51.77.118.216:4780/nginxlive/dexena2020/index.m3u8
+Movie 9,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+Cinema,http://46.34.209.242:80/btv/SWM/CINEMA/CINEMA_576p_2000kbps.m3u8
+Cable Series 1,http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries1/chunklist_w1936282519.m3u8
+Cable Series 2,http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries2/chunklist_w1310036100.m3u8
+FOX ACTION,http://916309128f3e.sn.mynetname.net:1935/aslive/ci/chunklist_w83033785.m3u8
 TV5 HD,http://916309128f3e.sn.mynetname.net:1935/aslive/5hd/ompronlist.m3u8
 NBT HD,http://916309128f3e.sn.mynetname.net:1935/aslive/nbthd/ompronlist.m3u8
 Thai PBS HD,https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8

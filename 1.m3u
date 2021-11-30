@@ -1532,3 +1532,13 @@ https://vod.bunediy.com/20210417/aK0d2xST/index.m3u8
 https://vod.bunediy.com/20210417/exzEvygf/index.m3u8
 #EXTINF:-1 group-title="一级响应",5
 https://vod.bunediy.com/20210417/kHZSjbAv/index.m3u8
+#EXTINF:-1 group-title="红色通缉",1
+https://raw.githubusercontent.com/lekbox001/lekbox/main/hstj/1.m3u8
+#EXTINF:-1 group-title="红色通缉",2
+https://raw.githubusercontent.com/lekbox001/lekbox/main/hstj/2.m3u8
+#EXTINF:-1 group-title="红色通缉",3
+https://raw.githubusercontent.com/lekbox001/lekbox/main/hstj/3.m3u8
+#EXTINF:-1 group-title="红色通缉",4
+https://raw.githubusercontent.com/lekbox001/lekbox/main/hstj/4.m3u8
+#EXTINF:-1 group-title="红色通缉",5
+https://raw.githubusercontent.com/lekbox001/lekbox/main/hstj/5.m3u8

@@ -111,6 +111,7 @@ YT影视,http://ytys.cc/api.php/provide/vod/at/xml,解析
 网民电影,https://www.prinevillesda.org/api.php/provide/vod/at/xml,解析
 欧乐,https://www.olevod.tv/api.php/provide/vod/at/xml,解析
 晓峰,http://api.xxcr.tk/api.php/provide/vod/at/xml,解析
+W7tv,http://w7tv.com/api.php/provide/vod/at/xml,解析
 结束
 解析：
 解析1,https://jx.7kjx.com/?url=

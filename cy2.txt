@@ -95,6 +95,9 @@ UNSS,http://www.unss.net/api.php/provide/vod/at/xml,解析
 348电影,https://348z.com/api.php/provide/vod/at/xml,解析
 无尽zy,https://wujinzy.com/api.php/provide/vod/at/xml,解析
 瓜皮TV,http://www.dijiaxia.com/api.php/provide/vod/at/xml,解析
+爱搜影视,https://www.yunbangcheng.com/api.php/provide/vod/at/xml,解析
+星空,https://xkys.tv/api.php/provide/vod/at/xml,解析
+共青春,http://gqcyy.com/api.php/provide/vod/at/xml,解析
 结束
 解析：
 解析1,https://jx.7kjx.com/?url=

@@ -94,6 +94,7 @@ UNSS,http://www.unss.net/api.php/provide/vod/at/xml,解析
 速更,https://sugengzy.cn/api.php/provide/vod/at/xml,解析
 348电影,https://348z.com/api.php/provide/vod/at/xml,解析
 无尽zy,https://wujinzy.com/api.php/provide/vod/at/xml,解析
+瓜皮TV,http://www.dijiaxia.com/api.php/provide/vod/at/xml,解析
 结束
 解析：
 解析1,https://jx.7kjx.com/?url=

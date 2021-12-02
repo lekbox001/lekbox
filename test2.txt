@@ -1021,3 +1021,10 @@ PT-218的叛军,https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-4532
 3,https://vod.bunediy.com/20210417/aK0d2xST/index.m3u8
 4,https://vod.bunediy.com/20210417/exzEvygf/index.m3u8
 5,https://vod.bunediy.com/20210417/kHZSjbAv/index.m3u8
+小小少年,#genre#
+1,https://vod6.wenshibaowenbei.com/20210317/2aAj6c68/index.m3u8
+2,https://vod6.wenshibaowenbei.com/20210318/sdGVEYfW/index.m3u8
+3,https://vod6.wenshibaowenbei.com/20210325/EXO08oWK/index.m3u8
+4,https://vod6.wenshibaowenbei.com/20210401/bPUL8cBL/index.m3u8
+5,https://vod6.wenshibaowenbei.com/20210408/gy4NtPfB/index.m3u8
+6,https://vod6.wenshibaowenbei.com/20210415/c5uyJzLk/index.m3u8

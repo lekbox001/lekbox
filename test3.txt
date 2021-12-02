@@ -217,7 +217,7 @@ CINEMAX,mitv://51.81.90.178:9906/3d4d75d8f386474d8dbb84c7a3704a7f
 CinemaWorld,mitv://51.81.90.178:9906/e37bdcc69e4f403f9fc52c6817c367f6
 CATCHPLAY電影台,mitv://51.81.90.178:9906/c4eeae79ede24dd3baf9226ec992dbe4
 AXN,mitv://51.81.90.178:9906/5c910d743fe847e8b406bf7d180130a0
-AMC最愛電影,mitv://51.81.90.178:9906/eb5393add687434ca3f3da38ce5ec3bf$c_startSPORT$c_end
+AMC最愛電影,mitv://51.81.90.178:9906/eb5393add687434ca3f3da38ce5ec3bf
 $c_startSPORT$c_end
 !!,https://github.com/lekbox001/lekbox/raw/main/stop0.ts
 !!!,https://github.com/lekbox001/lekbox/raw/main/stop1.ts

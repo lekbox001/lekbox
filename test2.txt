@@ -1028,3 +1028,9 @@ PT-218的叛军,https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-4532
 4,https://vod6.wenshibaowenbei.com/20210401/bPUL8cBL/index.m3u8
 5,https://vod6.wenshibaowenbei.com/20210408/gy4NtPfB/index.m3u8
 6,https://vod6.wenshibaowenbei.com/20210415/c5uyJzLk/index.m3u8
+亚洲罪案侦察档案,#genre#
+1,https://m1905-com.jjyl12349.com/20210531/ByWPrv5T/index.m3u8
+2,https://m1905-com.jjyl12349.com/20210531/UcDTQu2s/index.m3u8
+3,https://m1905-com.jjyl12349.com/20210531/AN4TPQtp/index.m3u8
+4,https://m1905-com.jjyl12349.com/20210531/XqgkUjyb/index.m3u8
+5,https://m1905-com.jjyl12349.com/20210531/btD4zb84/index.m3u8

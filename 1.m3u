@@ -274,44 +274,6 @@ https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&
 https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="TW",好消息
 http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
-#EXTINF:-1 group-title="TW3",美食星球
-rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d4a
-#EXTINF:-1 group-title="TW3",TVB星河(粤语)
-rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d7a
-#EXTINF:-1 group-title="TW3",靖天映画
-rtmp://45.92.126.226/channel/60c34395961593122ebaf994
-#EXTINF:-1 group-title="TW3",thrill
-rtmp://45.92.126.226/channel/60c30d59961593122ebaf8e6
-#EXTINF:-1 group-title="TW3",纬来育乐
-rtmp://45.92.126.226/channel/60c31357961593122ebaf8f8
-#EXTINF:-1 group-title="TW3",靖天综合台
-rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d50
-#EXTINF:-1 group-title="TW3",民视
-rtmp://45.92.126.226/channel/60c317bd961593122ebaf90a
-#EXTINF:-1 group-title="TW3",公视台语台
-rtmp://45.92.126.226/channel/60c31796961593122ebaf908
-#EXTINF:-1 group-title="TW3",冠军电视台
-rtmp://45.92.126.226/channel/611a83133e4da143c015987c
-#EXTINF:-1 group-title="TW3",东森戏剧
-rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d88
-#EXTINF:-1 group-title="TW3",JET综合
-rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c74
-#EXTINF:-1 group-title="TW3",星卫娱乐台
-rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d3c
-#EXTINF:-1 group-title="TW3",DW
-rtmp://45.88.148.178/channel/60c2f625961593122ebaf8d6
-#EXTINF:-1 group-title="TW3",公视3
-rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c3e
-#EXTINF:-1 group-title="TW3",中视经典
-rtmp://45.88.148.178/channel/60c31708961593122ebaf902
-#EXTINF:-1 group-title="TW3",TVBS精采台
-rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cd8
-#EXTINF:-1 group-title="TW3",靖天欢乐台
-rtmp://45.88.148.178/channel/60c343c5961593122ebaf996
-#EXTINF:-1 group-title="TW3",华视教育体育文化
-rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c4e
-#EXTINF:-1 group-title="TW3",凤凰资讯
-rtmp://45.88.148.178/channel/60c2f46e961593122ebaf8cb
 #EXTINF:-1 group-title="泰国",Topnews HD
 https://live.topnews.co.th/hls/topnews.m3u8
 #EXTINF:-1 group-title="泰国",CH 5

@@ -33,14 +33,14 @@
     {
       "key": "电影牛",
       "name": "电影牛",
-      "type": 1,
-      "api": "https://www.dianyingn.cc/api.php/provide/vod/"
+      "type": 0,
+      "api": "https://www.dianyingn.cc/api.php/provide/vod/at/xml"
     },
     {
       "key": "嗨哆咪",
       "name": "嗨哆咪",
-      "type": 1,
-      "api": "http://hdmys1.com/api.php/provide/vod/"
+      "type": 0,
+      "api": "http://hdmys1.com/api.php/provide/vod/at/xml"
     },
     {
       "key": "唐人街",

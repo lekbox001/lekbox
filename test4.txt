@@ -1,73 +1,91 @@
 MY,#genre#
-TV1,mitv://ns2.hellotvvod.com:9906/ed9fbe35e4c14541bd911379fa366c5e
-TV2,mitv://ns2.hellotvvod.com:9906/930503b892614a558992dee7246ec31f
-TV3,mitv://ns2.hellotvvod.com:9906/bd86602e27b74854961c393b636e570f
-Ria HD,mitv://ns2.hellotvvod.com:9906/c138fff294f2452eb90920d65182fdce
-Prima HD,mitv://ns2.hellotvvod.com:9906/5712b148ea8d4b2da1e83c691cf7490b
-Oasis HD,mitv://ns2.hellotvvod.com:9906/e599d6240fbe444d8a39f34225e40887
-Warna HD,mitv://ns2.hellotvvod.com:9906/1a865f8d00fd497896b0fc1646aa801f
-Citra HD,mitv://ns2.hellotvvod.com:9906/564ec53813704a74b8c4ab042a18463f
-Naura HD,mitv://ns2.hellotvvod.com:9906/e5021a2cb2894b68b5422c254b8b7617
-Rania HD,mitv://ns2.hellotvvod.com:9906/1aae1307c2d04bd2b7ca5aed1469cd02
-Aura HD,mitv://ns2.hellotvvod.com:9906/5e7a3708a99c482390ab8cf0f90a045e
-Al-Hijrah,mitv://ns2.hellotvvod.com:9906/5eb2258beb2044b19d919128b2a65c40
-Colors Hindi,mitv://ns2.hellotvvod.com:9906/dd98f44a969642fd9887c0f14c027977
-TVS,mitv://ns2.hellotvvod.com:9906/831f0c768aa44f38954b00d61d88ecdf
-Awesome TV,mitv://ns2.hellotvvod.com:9906/90eeca11aacd4523a9e896611279e5f5
-TV Okey,mitv://ns2.hellotvvod.com:9906/c81855382ae74d8faa5e8b4b306ab480
-NTV7,mitv://ns2.hellotvvod.com:9906/744ca9a033104420895e9738abdccc0b
-8TV,mitv://ns2.hellotvvod.com:9906/6ca879209e6f487a841f07713bba541a
-TV9,mitv://ns2.hellotvvod.com:9906/54a9ff9815d44b1ca3c479d5c32609bb
-Drama Sangat,mitv://ns2.hellotvvod.com:9906/d873d56d1e5d4b4aa02597ce3ff57a7e
-Vaanavil,mitv://ns2.hellotvvod.com:9906/2aad65d4beaa499cb89ab1e0360d12df
-SUN TV,mitv://ns2.hellotvvod.com:9906/7d10e9aadd1146a3b51757f45e032b5b
-Colors Tamil,mitv://ns2.hellotvvod.com:9906/fb8c72aeee884c1789e905a8da09e2fd
-ABO Movies Thangathirai HD,mitv://ns2.hellotvvod.com:9906/bb6421aa1f9c412ea91e34ab14e52717
-AEC,mitv://ns2.hellotvvod.com:9906/672202f697ea4e77943f6898754f0c1e
-KBS World,mitv://ns2.hellotvvod.com:9906/463939cb6a4e429db306ea47d610bbe4
-ONE,mitv://ns2.hellotvvod.com:9906/f0c748f67cd84d9bba8c52bd70270496
-Oh!K,mitv://ns2.hellotvvod.com:9906/dd451cfea1714921ab274fb40279bf2d
-BOO,mitv://ns2.hellotvvod.com:9906/fd66b38ae9014f8183ac6b160b94548b
-tvN Movies HD,mitv://ns2.hellotvvod.com:9906/93226f918c0a4231bdff4910da8fa8e1
-Berita RTM,mitv://ns2.hellotvvod.com:9906/dd239fe4e13a451c84575310a5dff7a1
-Awani,mitv://ns2.hellotvvod.com:9906/980117810fba40b7b2abbcf116553c43
-BERNAMA,mitv://ns2.hellotvvod.com:9906/522a09ea59664e8ba787c9b28bfef518
-CGTN,mitv://ns2.hellotvvod.com:9906/a837b60759a749d3a04991d3fbfadde3
-CNN,mitv://ns2.hellotvvod.com:9906/608965b9eef84266946ad5598a892db9
-BBC World News,mitv://ns2.hellotvvod.com:9906/a1e038f1cfd74f758f916dc7e17572b5
-Al Jazeera English,mitv://ns2.hellotvvod.com:9906/f24308be3336455bb0f20ddcd641d725
-Sky News,mitv://ns2.hellotvvod.com:9906/9abf41880e9b4ac9a94ea8124203799a
-CNBC,mitv://ns2.hellotvvod.com:9906/52303054ad214adda0129d322912164d
-Bloomberg TV,mitv://ns2.hellotvvod.com:9906/3e4c9ed6b58342fbaa531f02aa120a58
-ABC Australia,mitv://ns2.hellotvvod.com:9906/f7003b714f114b3f8a91d6babf1f9ae2
-France24,mitv://ns2.hellotvvod.com:9906/4742de38085f41d5ae90b7e8f236c153
-DW,mitv://ns2.hellotvvod.com:9906/b957ef1774204c088bb084c051005717
-Nat Geo Wild,mitv://ns2.hellotvvod.com:9906/3a0602f78e5e4c368fbf0d056436ee5d
-Ceria,mitv://ns2.hellotvvod.com:9906/aac054f65a244206b6f782eb3956e130
-Disney Junior,mitv://ns2.hellotvvod.com:9906/e6075b2e8d544804921f5055e4871326
-Cartoon Network,mitv://ns2.hellotvvod.com:9906/44285c9480dc4d0eaa2e09f741531878
-Nickelodeon,mitv://ns2.hellotvvod.com:9906/88de2585472246749d43969d1c03257d
-Nick Jr.,mitv://ns2.hellotvvod.com:9906/0355fc81f0cf4527840ff76e185df41e
-Baby TV,mitv://ns2.hellotvvod.com:9906/86a3e0ba0bed4d6297376b8f57c5752a
-Boomerang,mitv://ns2.hellotvvod.com:9906/e80e0ea046cc4206a9935c6997310ca5
-AXN,mitv://ns2.hellotvvod.com:9906/91a1fa5c29a849cf897f93f58fd08285
-KIX,mitv://ns2.hellotvvod.com:9906/a462f6ed65944413acdfc059add3686e
-HITS,mitv://ns2.hellotvvod.com:9906/8bc2e742cb57462c924904032624a6fd
-Arena,mitv://ns2.hellotvvod.com:9906/5854587c3f164d0bb0a66626f9ee09d0
-Arena 2,mitv://ns2.hellotvvod.com:9906/ca874a7d7e614ebd832e6e1e9478525b
-SuperSport,mitv://ns2.hellotvvod.com:9906/e12cfed6c3d94f27bd4f480d42b0c7b5
-SuperSport 2,mitv://ns2.hellotvvod.com:9906/5aa28b0759774904a25d7fc12ea233a9
-SuperSport 3,mitv://ns2.hellotvvod.com:9906/68067267b2734dd39032d08bf83db8f0
-SuperSport 4,mitv://ns2.hellotvvod.com:9906/6ba21b7211494ed4ac1456d6ba8cbaa0
-SuperSport 5,mitv://ns2.hellotvvod.com:9906/cc02a88163414af7b4d7479a833f1407
-SPOTV,mitv://ns2.hellotvvod.com:9906/5dedc66ef44242819ee8bf88796a9101
-beIN Sports,mitv://ns2.hellotvvod.com:9906/2f0a1100d8724e7c8fe7f33fef6722cc
-beIN Sports MAX,mitv://ns2.hellotvvod.com:9906/1d28c61387af4ccd847b72b1601415d7
-Eurosport HD,mitv://ns2.hellotvvod.com:9906/047ba1fc376a4ef88c305a659fbb236f
-WWE,mitv://ns2.hellotvvod.com:9906/591deaacdbc247c8be9fb4fc937d6a14
-Cricket,mitv://ns2.hellotvvod.com:9906/d37f8e619e014decb7465d538dc17548
-RTM Sport,mitv://ns2.hellotvvod.com:9906/3b086dcc1106400b8f78e8547d2e3df8
-tvN,mitv://ns2.hellotvvod.com:9906/0a4d0d0c6e164cd093061bc31cf30ae8
+ASSP,mitv://51.81.90.178:9906/e12cfed6c3d94f27bd4f480d42b0c7b5
+ASSP2,mitv://51.81.90.178:9906/5aa28b0759774904a25d7fc12ea233a9
+ASSP3,mitv://51.81.90.178:9906/68067267b2734dd39032d08bf83db8f0
+ASSP4,mitv://51.81.90.178:9906/6ba21b7211494ed4ac1456d6ba8cbaa0
+ASSP5,mitv://51.81.90.178:9906/cc02a88163414af7b4d7479a833f1407
+AEC(備),mitv://51.81.90.178:9906/ba54a1fee32c4b159e953cc9f2632857
+AEC,mitv://51.81.90.178:9906/672202f697ea4e77943f6898754f0c1e
+AOD,mitv://51.81.90.178:9906/55fa6310d30d45029c38c2848ffbcb85
+AOD 352,mitv://51.81.90.178:9906/e037a8a95ed046fda90e511dc7fdd071
+AOD 353,mitv://51.81.90.178:9906/696cf1339742486c9953c875e603b309
+AOD 354,mitv://51.81.90.178:9906/5e80bdb10ec54effb4adf472107615e1
+AOD 355,mitv://51.81.90.178:9906/9ff11126e8b147008308df7cf8c8c23d
+翡翠台,mitv://51.81.90.178:9906/b1b2d6da00de42efa4fe6051d35650d9
+双星,mitv://51.81.90.178:9906/7872926c51f9451fb86342414e0d32f5
+全佳,mitv://51.81.90.178:9906/bda13a24baf24436ae722275cbb85345
+爱奇艺,mitv://51.81.90.178:9906/68ef448264ff4275b99f322996e3469a
+欢喜台,mitv://51.81.90.178:9906/d3f47d1dbb174a9abea701a048928bfb
+小太阳,mitv://51.81.90.178:9906/0d5ecafe8f494863ac5bad999b6a1f0f
+中天亞洲台,mitv://51.81.90.178:9906/1c191cbfb24547d7be6f91d352266efa
+TVBS亞洲台,mitv://51.81.90.178:9906/f221f0d041494497bc59abec2ef7b5ba
+天映頻道,mitv://51.81.90.178:9906/ec8466ba789143998fb9ed858b7c174e
+天映经典,mitv://51.81.90.178:9906/4699a8c6571243a4b5387f6b3c639851
+8TV,mitv://51.81.90.178:9906/6ca879209e6f487a841f07713bba541a
+beIN SPORTS MAX,mitv://51.81.90.178:9906/1d28c61387af4ccd847b72b1601415d7
+beIN SPORTS,mitv://51.81.90.178:9906/2f0a1100d8724e7c8fe7f33fef6722cc
+BOO,mitv://51.81.90.178:9906/fd66b38ae9014f8183ac6b160b94548b
+Boomerang,mitv://51.81.90.178:9906/17f2cdadff7545cb93ee94bdc5fd0d6d
+CGTN,mitv://51.81.90.178:9906/a837b60759a749d3a04991d3fbfadde3
+CRICKET,mitv://51.81.90.178:9906/d37f8e619e014decb7465d538dc17548
+eGG Network,mitv://51.81.90.178:9906/7685816d070d4630b52710c168d7a54d
+EUROSPORT,mitv://51.81.90.178:9906/047ba1fc376a4ef88c305a659fbb236f
+HITS MOVIES,mitv://51.81.90.178:9906/0e94bfe77a81432fb5502bf3f0e2582f
+Nickelodeon,mitv://51.81.90.178:9906/88de2585472246749d43969d1c03257d
+Oh!K,mitv://51.81.90.178:9906/dd451cfea1714921ab274fb40279bf2d
+ROCK ENTERTAINMENT,mitv://51.81.90.178:9906/07b7c518e9684cbbadd54443ede3ffc6
+ROCK EXTREME,mitv://51.81.90.178:9906/760a7b9f2e104b9abeba8ac4717a1fc2
+SHOWCASE MOVIES,mitv://51.81.90.178:9906/6a6d5816cc8e4695b1ed2213d53ab30e
+Travel Channel,mitv://51.81.90.178:9906/57042b9feae8475b9998b47d716fdcdf
+tvN MOVIES,mitv://51.81.90.178:9906/93226f918c0a4231bdff4910da8fa8e1
+WakuWaku Japan,mitv://51.81.90.178:9906/28b06935de514518a679a05b66b3f8c2
+WWE,mitv://51.81.90.178:9906/591deaacdbc247c8be9fb4fc937d6a14
+Ch 5,mitv://51.81.90.178:9906/6ef7d5d3391c4388a9e6ed5c2fd64a78
+Ch 8,mitv://51.81.90.178:9906/58097be7ccf245e4967f20ca5b6ce953
+CNA,mitv://51.81.90.178:9906/a4e154daf0ed4848bdf59bca959dfecd
+Ch U,mitv://51.81.90.178:9906/391ec17d9d6b4a388058068361342e7f
+Horse Racing 89,mitv://51.81.90.178:9906/c34e7bacdb5a4b879599a1b04ca55406
+BBC WORLD NEWS,mitv://51.81.90.178:9906/a1e038f1cfd74f758f916dc7e17572b5
+Bloomberg,mitv://51.81.90.178:9906/3e4c9ed6b58342fbaa531f02aa120a58
+CNBC,mitv://51.81.90.178:9906/52303054ad214adda0129d322912164d
+EURONEWS,mitv://51.81.90.178:9906/9377cf53a2044566b6a808fa268e02fe
+France24,mitv://51.81.90.178:9906/4742de38085f41d5ae90b7e8f236c153
+Fox News,mitv://51.81.90.178:9906/710fa57697834a6aba081190b8aba7d3
+Sky News,mitv://51.81.90.178:9906/9abf41880e9b4ac9a94ea8124203799a
+AXN1,mitv://51.81.90.178:9906/91a1fa5c29a849cf897f93f58fd08285
+BBC earth,mitv://51.81.90.178:9906/555289b9056947f18bb9658c62299697
+BBC Lifestyle,mitv://51.81.90.178:9906/2dcc681591d640ceb91c09b5eb7cbb83
+FOX,mitv://51.81.90.178:9906/f769b6fdc80742349bd8214c8839d9d3
+GEM,mitv://51.81.90.178:9906/f1a28d8d77b24b0a953cd75850ef6bb3
+HGTV,mitv://51.81.90.178:9906/3ae6806990ac44dbbd5a83eea77fef7e
+Lifetime,mitv://51.81.90.178:9906/698e4db64e93463a814fc462cb15b1f4
+Love Nature,mitv://51.81.90.178:9906/5b4aa7c53c974767aad85f24fc19d550
+LUXE TV,mitv://51.81.90.178:9906/a6a73818f9aa4fd992d966aac4b49c20
+MTV Live,mitv://51.81.90.178:9906/5b5d21a03d37495aac99f37ee515efab
+Outdoor,mitv://51.81.90.178:9906/ed9355bc07124e1e8a1c5dae6d87c300
+TLC,mitv://51.81.90.178:9906/785e9237d2864f23b3fbf5e72b645812
+tvN,mitv://51.81.90.178:9906/0a4d0d0c6e164cd093061bc31cf30ae8
+ELEVEN 1,mitv://51.81.90.178:9906/0c9c4a9fc07c41bb8537828dd9162e81
+ELEVEN 2,mitv://51.81.90.178:9906/a610acb66f3749bb953d78899b7205d2
+ELEVEN+,mitv://51.81.90.178:9906/ddcff661af5e44d995fd9ec13924927f
+beIN SPORTS MAX,mitv://51.81.90.178:9906/1d28c61387af4ccd847b72b1601415d7
+beIN SPORTS,mitv://51.81.90.178:9906/2f0a1100d8724e7c8fe7f33fef6722cc
+Fight Sports,mitv://51.81.90.178:9906/c1bf3e92df5041a59fc1cfdd13277f39
+SPOTV,mitv://51.81.90.178:9906/5dedc66ef44242819ee8bf88796a9101
+TRACE SPORT STARS,mitv://51.81.90.178:9906/57536d1b23f34f28bb4d8c065d2e67e5
+WWE,mitv://51.81.90.178:9906/591deaacdbc247c8be9fb4fc937d6a14
+HITS,mitv://51.81.90.178:9906/8bc2e742cb57462c924904032624a6fd
+HBO1,mitv://51.81.90.178:9906/670c07900c5c4e49b6df5306bc18bff0
+HBO2,mitv://51.81.90.178:9906/9b18147e7f454392b7eb1d204235b314
+HBO3,mitv://51.81.90.178:9906/8e83048c82a8449a93265fa063baa48d
+HBO Family,mitv://51.81.90.178:9906/2230c4128071467e8e995408f20c1c3c
+CINEMAX,mitv://51.81.90.178:9906/3d4d75d8f386474d8dbb84c7a3704a7f
+CinemaWorld,mitv://51.81.90.178:9906/e37bdcc69e4f403f9fc52c6817c367f6
+CATCHPLAY,mitv://51.81.90.178:9906/c4eeae79ede24dd3baf9226ec992dbe4
+AXN,mitv://51.81.90.178:9906/5c910d743fe847e8b406bf7d180130a0
+Nick Jr,mitv://51.81.90.178:9906/0355fc81f0cf4527840ff76e185df41e
+CN,mitv://51.81.90.178:9906/51e593fae95f48968c181b6a47179526
+ANIMAX,mitv://51.81.90.178:9906/10d8ae908a354513b09e38e7116b7b33
 Ch 5,mitv://51.81.90.178:9906/6ef7d5d3391c4388a9e6ed5c2fd64a78
 Ch 8,mitv://51.81.90.178:9906/58097be7ccf245e4967f20ca5b6ce953
 CNA,mitv://51.81.90.178:9906/a4e154daf0ed4848bdf59bca959dfecd
